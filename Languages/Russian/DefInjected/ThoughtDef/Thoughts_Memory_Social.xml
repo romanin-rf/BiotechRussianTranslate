@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 	<!--EN: fed on -->
-<FedOn_Social.stages.fed_on.label>подается на</FedOn_Social.stages.fed_on.label>
+	<!-- Петя съел Апельсин. Петя съел Малина -->
+<FedOn_Social.stages.fed_on.label>съел</FedOn_Social.stages.fed_on.label>
 	</LanguageData>

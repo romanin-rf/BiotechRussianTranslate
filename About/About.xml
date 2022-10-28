@@ -1,7 +1,7 @@
 ﻿<ModMetaData>
   <name>Biotech Russian Translate</name>
-  <author>Romanin and folyngys</author>
-  <packageId>russian.biotech.rf</packageId>
+  <author>Romanin, star and folungys</author>
+  <packageId>russian.biotech.rsf</packageId>
   <supportedVersions>
 	<li>1.4</li>
   </supportedVersions>

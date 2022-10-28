@@ -3,115 +3,120 @@
 	<!--EN: blood torch -->
 <BloodTorch.stages.blood_torch.label>Кровавый факел</BloodTorch.stages.blood_torch.label>
 	<!--EN: No flame burns as softly as a blood torch. -->
-<BloodTorch.stages.blood_torch.description>Никакой пламя горит так же мягко, как кровавая факел.</BloodTorch.stages.blood_torch.description>
+<BloodTorch.stages.blood_torch.description>Никакое пламя горит так мягко, как это.</BloodTorch.stages.blood_torch.description>
 	<!--EN: childlike joy -->
-<ChildlikePositivity.stages.childlike_joy.label>детская радость</ChildlikePositivity.stages.childlike_joy.label>
+<ChildlikePositivity.stages.childlike_joy.label>Детская радость</ChildlikePositivity.stages.childlike_joy.label>
 	<!--EN: New! Fun! Pretty! Oooh! -->
-<ChildlikePositivity.stages.childlike_joy.description>Новый!Весело!Симпатичная!Ооо!</ChildlikePositivity.stages.childlike_joy.description>
+<ChildlikePositivity.stages.childlike_joy.description>Подарки! Веселье! Милота! О-о-о!</ChildlikePositivity.stages.childlike_joy.description>
 	<!--EN: childlike wonder -->
-<ChildlikePositivity.stages.childlike_wonder.label>детское чудо</ChildlikePositivity.stages.childlike_wonder.label>
+<ChildlikePositivity.stages.childlike_wonder.label>Детское чудо</ChildlikePositivity.stages.childlike_wonder.label>
 	<!--EN: The world is a magical place and I can't wait to grow up! -->
-<ChildlikePositivity.stages.childlike_wonder.description>Мир - волшебное место, и я не могу дождаться, чтобы вырасти!</ChildlikePositivity.stages.childlike_wonder.description>
+<ChildlikePositivity.stages.childlike_wonder.description>Мир - волшебное место, и я не могу дождаться, пока вырасту!</ChildlikePositivity.stages.childlike_wonder.description>
 	<!--EN: childlike enthusiasm -->
 <ChildlikePositivity.stages.childlike_enthusiasm.label>Детский энтузиазм</ChildlikePositivity.stages.childlike_enthusiasm.label>
 	<!--EN: The world is full of wonders. -->
 <ChildlikePositivity.stages.childlike_enthusiasm.description>Мир полон чудес.</ChildlikePositivity.stages.childlike_enthusiasm.description>
 	<!--EN: childlike confidence -->
-<ChildlikePositivity.stages.childlike_confidence.label>детская уверенность</ChildlikePositivity.stages.childlike_confidence.label>
+<ChildlikePositivity.stages.childlike_confidence.label>Детская уверенность</ChildlikePositivity.stages.childlike_confidence.label>
 	<!--EN: There are so many interesting things to learn. -->
-<ChildlikePositivity.stages.childlike_confidence.description>Есть так много интересных вещей, которые нужно учиться.</ChildlikePositivity.stages.childlike_confidence.description>
+<ChildlikePositivity.stages.childlike_confidence.description>Есть так много интересных вещей, которым нужно учиться.</ChildlikePositivity.stages.childlike_confidence.description>
+
 	<!--EN: deathrested outside -->
-<DeathrestChamber.stages.deathrested_outside.label>Смерть снаружи</DeathrestChamber.stages.deathrested_outside.label>
+<DeathrestChamber.stages.deathrested_outside.label>Спячка снаружи</DeathrestChamber.stages.deathrested_outside.label>
 	<!--EN: I had to deathrest outdoors. It was awful. -->
-<DeathrestChamber.stages.deathrested_outside.description>Я должен был смерть на улице.Это было ужасно.</DeathrestChamber.stages.deathrested_outside.description>
+<DeathrestChamber.stages.deathrested_outside.description>Пришлось впасть в спячку на улице. Это было ужасно.</DeathrestChamber.stages.deathrested_outside.description>
 	<!--EN: awful deathrest chamber -->
-<DeathrestChamber.stages.awful_deathrest_chamber.label>Ужасная камера смерти</DeathrestChamber.stages.awful_deathrest_chamber.label>
+<DeathrestChamber.stages.awful_deathrest_chamber.label>Ужасная спячка</DeathrestChamber.stages.awful_deathrest_chamber.label>
 	<!--EN: I had to deathrest in an awful chamber. -->
-<DeathrestChamber.stages.awful_deathrest_chamber.description>Я должен был смерть в ужасной комнате.</DeathrestChamber.stages.awful_deathrest_chamber.description>
+<DeathrestChamber.stages.awful_deathrest_chamber.description>Пришлось впасть в спячку в ужасной комнате.</DeathrestChamber.stages.awful_deathrest_chamber.description>
 	<!--EN: decent deathrest chamber -->
-<DeathrestChamber.stages.decent_deathrest_chamber.label>Приличная камера смерти</DeathrestChamber.stages.decent_deathrest_chamber.label>
+<DeathrestChamber.stages.decent_deathrest_chamber.label>Унылая спячка</DeathrestChamber.stages.decent_deathrest_chamber.label>
 	<!--EN: I deathrested in a decent chamber. -->
-<DeathrestChamber.stages.decent_deathrest_chamber.description>Я погиб в приличной камере.</DeathrestChamber.stages.decent_deathrest_chamber.description>
+<DeathrestChamber.stages.decent_deathrest_chamber.description>Пришлось впасть в спячку в унылой комнате.</DeathrestChamber.stages.decent_deathrest_chamber.description>
 	<!--EN: good deathrest chamber -->
-<DeathrestChamber.stages.good_deathrest_chamber.label>Хорошая камера смерти</DeathrestChamber.stages.good_deathrest_chamber.label>
+<DeathrestChamber.stages.good_deathrest_chamber.label>Хорошая спячка</DeathrestChamber.stages.good_deathrest_chamber.label>
 	<!--EN: I deathrested in a slightly impressive chamber. It was nice. -->
-<DeathrestChamber.stages.good_deathrest_chamber.description>Я погиб в слегка впечатляющей комнате.Это было классно.</DeathrestChamber.stages.good_deathrest_chamber.description>
+<DeathrestChamber.stages.good_deathrest_chamber.description>Я впал в спячку в хорошей комнате. Это было классно.</DeathrestChamber.stages.good_deathrest_chamber.description>
 	<!--EN: great deathrest chamber -->
-<DeathrestChamber.stages.great_deathrest_chamber.label>Великая камера смерти</DeathrestChamber.stages.great_deathrest_chamber.label>
+<DeathrestChamber.stages.great_deathrest_chamber.label>Впечатляющая спячка</DeathrestChamber.stages.great_deathrest_chamber.label>
 	<!--EN: I deathrested in an impressive chamber. I feel rejuvenated. -->
-<DeathrestChamber.stages.great_deathrest_chamber.description>Я смерть в впечатляющей комнате.Я чувствую себя омоложенным.</DeathrestChamber.stages.great_deathrest_chamber.description>
+<DeathrestChamber.stages.great_deathrest_chamber.description>Я впал в спячку во впечатляющей комнате. Я чувствую себя помолодевшим.</DeathrestChamber.stages.great_deathrest_chamber.description>
 	<!--EN: excellent deathrest chamber -->
-<DeathrestChamber.stages.excellent_deathrest_chamber.label>Отличная камера смерти</DeathrestChamber.stages.excellent_deathrest_chamber.label>
+<DeathrestChamber.stages.excellent_deathrest_chamber.label>Прекрасная спячка</DeathrestChamber.stages.excellent_deathrest_chamber.label>
 	<!--EN: I deathrested in a very impressive chamber. I feel amazing. -->
-<DeathrestChamber.stages.excellent_deathrest_chamber.description>Я погиб в очень впечатляющей комнате.Я чувствую себя потрясающе.</DeathrestChamber.stages.excellent_deathrest_chamber.description>
+<DeathrestChamber.stages.excellent_deathrest_chamber.description>Я впал в спячку в прекрасной комнате. Я чувствую себя потрясающе.</DeathrestChamber.stages.excellent_deathrest_chamber.description>
 	<!--EN: exceptional deathrest chamber -->
-<DeathrestChamber.stages.exceptional_deathrest_chamber.label>Исключительная камера смерти</DeathrestChamber.stages.exceptional_deathrest_chamber.label>
+<DeathrestChamber.stages.exceptional_deathrest_chamber.label>Восхитительная спячка</DeathrestChamber.stages.exceptional_deathrest_chamber.label>
 	<!--EN: I deathrested in an extremely impressive chamber. It was glorious. -->
-<DeathrestChamber.stages.exceptional_deathrest_chamber.description>Я погиб в чрезвычайно впечатляющей комнате.Это было великолепно.</DeathrestChamber.stages.exceptional_deathrest_chamber.description>
+<DeathrestChamber.stages.exceptional_deathrest_chamber.description>Я впал в спячку в восхитительной комнате. Это было великолепно.</DeathrestChamber.stages.exceptional_deathrest_chamber.description>
 	<!--EN: unbelievable deathrest chamber -->
-<DeathrestChamber.stages.unbelievable_deathrest_chamber.label>Невероятная камера смерти</DeathrestChamber.stages.unbelievable_deathrest_chamber.label>
+<DeathrestChamber.stages.unbelievable_deathrest_chamber.label>Великолепная спячка</DeathrestChamber.stages.unbelievable_deathrest_chamber.label>
 	<!--EN: I deathrested in an unbelievably impressive chamber. It was spectacular. -->
-<DeathrestChamber.stages.unbelievable_deathrest_chamber.description>Я погиб в невероятно впечатляющей комнате.Это было впечатляюще.</DeathrestChamber.stages.unbelievable_deathrest_chamber.description>
+<DeathrestChamber.stages.unbelievable_deathrest_chamber.description>Я впал в спячку в невероятно впечатляющей комнате. Это было впечатляюще.</DeathrestChamber.stages.unbelievable_deathrest_chamber.description>
 	<!--EN: wondrous deathrest chamber -->
-<DeathrestChamber.stages.wondrous_deathrest_chamber.label>Чудесная камера смерти</DeathrestChamber.stages.wondrous_deathrest_chamber.label>
+<DeathrestChamber.stages.wondrous_deathrest_chamber.label>Чудесная спячка</DeathrestChamber.stages.wondrous_deathrest_chamber.label>
 	<!--EN: I deathrested in such a luxurious chamber! It was wondrous. -->
-<DeathrestChamber.stages.wondrous_deathrest_chamber.description>Я смерть в такой роскошной камере!Это было чудесно.</DeathrestChamber.stages.wondrous_deathrest_chamber.description>
+<DeathrestChamber.stages.wondrous_deathrest_chamber.description>Я впал в спячку в роскошной комнате! Это было чудесно.</DeathrestChamber.stages.wondrous_deathrest_chamber.description>
 	<!--EN: deathrest exhaustion -->
-<DeathrestExhaustion.stages.deathrest_exhaustion.label>Смерть истощение</DeathrestExhaustion.stages.deathrest_exhaustion.label>
+<DeathrestExhaustion.stages.deathrest_exhaustion.label>Спячка от истощения</DeathrestExhaustion.stages.deathrest_exhaustion.label>
 	<!--EN: The casket calls and I fall weary. The world's pall makes all so dreary. I need to deathrest. -->
-<DeathrestExhaustion.stages.deathrest_exhaustion.description>Шкатулка звонит, и я уставлю.Всемирный палл делает все таким тоскливым.Мне нужно смерть.</DeathrestExhaustion.stages.deathrest_exhaustion.description>
+<DeathrestExhaustion.stages.deathrest_exhaustion.description>Гроб зовёт, и я еле стою на ногах, и вот уже падаю без сил. Мне срочно нужно впасть в спячку.</DeathrestExhaustion.stages.deathrest_exhaustion.description>
+
 	<!--EN: genetic chemical dependency -->
-<GeneticChemicalDependency.stages.genetic_chemical_dependency.label>Генетическая химическая зависимость</GeneticChemicalDependency.stages.genetic_chemical_dependency.label>
+<GeneticChemicalDependency.stages.genetic_chemical_dependency.label>Генетическая хим. зависимость</GeneticChemicalDependency.stages.genetic_chemical_dependency.label>
 	<!--EN: I need {CHEMICAL_label} because of my genetic deficiency. But it's been so long since I've had any. -->
-<GeneticChemicalDependency.stages.genetic_chemical_dependency.description>я нуждаюсь {CHEMICAL_label} Из -за моего генетического дефицита.Но прошло так много времени с тех пор, как у меня было.</GeneticChemicalDependency.stages.genetic_chemical_dependency.description>
+<GeneticChemicalDependency.stages.genetic_chemical_dependency.description>Из-за моего генетического дефицита мне нужен {CHEMICAL_label}. Прошло много времени с тех пор, как у меня это было.</GeneticChemicalDependency.stages.genetic_chemical_dependency.description>
 	<!--EN: apocriton hatred (intense) -->
-<HateAura.stages.apocriton_hatred_intense.label>Апокритон ненависть (интенсивная)</HateAura.stages.apocriton_hatred_intense.label>
+<HateAura.stages.apocriton_hatred_intense.label>Апокритон-ненависть (яростная)</HateAura.stages.apocriton_hatred_intense.label>
 	<!--EN: I feel its hatred inside me, the way I feel my own emotions. It's so close and so cold. They all deserve death. -->
-<HateAura.stages.apocriton_hatred_intense.description>Я чувствую его ненависть внутри меня, как я чувствую свои собственные эмоции.Это так близко и так холодно.Все они заслуживают смерти.</HateAura.stages.apocriton_hatred_intense.description>
+<HateAura.stages.apocriton_hatred_intense.description>Я чувствую его ненависть внутри меня также, как и остальные эмоции. Все они заслуживают смерти, без сомнений.</HateAura.stages.apocriton_hatred_intense.description>
 	<!--EN: apocriton hatred (strong) -->
-<HateAura.stages.apocriton_hatred_strong.label>Апокритон ненависть (сильная)</HateAura.stages.apocriton_hatred_strong.label>
+<HateAura.stages.apocriton_hatred_strong.label>Апокритон-ненависть (сильная)</HateAura.stages.apocriton_hatred_strong.label>
 	<!--EN: I hear its hatred echoing between my thoughts. Reasons, always reasons why my friends ought to die. -->
-<HateAura.stages.apocriton_hatred_strong.description>Я слышу, как его ненависть повторяется между моими мыслями.Причины, всегда причины, почему мои друзья должны умереть.</HateAura.stages.apocriton_hatred_strong.description>
+<HateAura.stages.apocriton_hatred_strong.description>Я слышу, как его ненависть повторяется между моими мыслями. Причины, всегда причины, почему мои друзья должны умереть.</HateAura.stages.apocriton_hatred_strong.description>
 	<!--EN: apocriton hatred (distant) -->
-<HateAura.stages.apocriton_hatred_distant.label>Апокритон ненависть (далекая)</HateAura.stages.apocriton_hatred_distant.label>
+<HateAura.stages.apocriton_hatred_distant.label>Апокритон-ненависть (слабая)</HateAura.stages.apocriton_hatred_distant.label>
 	<!--EN: I feel it out there somewhere. It's always thinking about why these people deserve death. Always following the logic of murder. Hard to ignore. -->
-<HateAura.stages.apocriton_hatred_distant.description>Я чувствую это где -то там.Это всегда думает о том, почему эти люди заслуживают смерти.Всегда следуя логике убийства.Трудно игнорировать.</HateAura.stages.apocriton_hatred_distant.description>
+<HateAura.stages.apocriton_hatred_distant.description>Я чувствую, что он где-то там. Он всегда думает о том, почему эти люди заслуживают смерти, всегда следуя логике убийства. Трудно игнорировать.</HateAura.stages.apocriton_hatred_distant.description>
 	<!--EN: hemogen craving -->
-<HemogenCraving.stages.hemogen_craving-0.label>Хемоген жажда</HemogenCraving.stages.hemogen_craving-0.label>
+<HemogenCraving.stages.hemogen_craving-0.label>Гемоген жажда</HemogenCraving.stages.hemogen_craving-0.label>
 	<!--EN: My bones ache. I really need hemogen. -->
-<HemogenCraving.stages.hemogen_craving-0.description>Мои кости болят.Мне действительно нужен гемоген.</HemogenCraving.stages.hemogen_craving-0.description>
+<HemogenCraving.stages.hemogen_craving-0.description>Мои кости болят. Мне действительно нужен гемоген.</HemogenCraving.stages.hemogen_craving-0.description>
 	<!--EN: hemogen craving -->
-<HemogenCraving.stages.hemogen_craving-1.label>Хемоген жажда</HemogenCraving.stages.hemogen_craving-1.label>
+<HemogenCraving.stages.hemogen_craving-1.label>Гемоген жажда</HemogenCraving.stages.hemogen_craving-1.label>
 	<!--EN: This hurts bad and my head is fuzzy. I would kill for some blood. Maybe I should. -->
-<HemogenCraving.stages.hemogen_craving-1.description>Это больно, и моя голова нечеткая.Я бы убил за кровь.Возможно я должен.</HemogenCraving.stages.hemogen_craving-1.description>
+<HemogenCraving.stages.hemogen_craving-1.description>Это больно, и моя меня мутит. Я бы убил за кровь. Возможно, я и должен.</HemogenCraving.stages.hemogen_craving-1.description>
 	<!--EN: hemogen craving -->
-<HemogenCraving.stages.hemogen_craving-2.label>Хемоген жажда</HemogenCraving.stages.hemogen_craving-2.label>
+<HemogenCraving.stages.hemogen_craving-2.label>Гемоген жажда</HemogenCraving.stages.hemogen_craving-2.label>
 	<!--EN: Can't think. Thirst. Thirst. Must. Have. Blood. -->
-<HemogenCraving.stages.hemogen_craving-2.description>Не могу думать.Жажда.Жажда.Должен.Иметь.Кровь.</HemogenCraving.stages.hemogen_craving-2.description>
+<HemogenCraving.stages.hemogen_craving-2.description>Не могу думать... Жажда... Крайне важно достать кровь!..</HemogenCraving.stages.hemogen_craving-2.description>
 	<!--EN: kill thirst -->
-<KillThirst.stages.kill_thirst.label>Убить жажду</KillThirst.stages.kill_thirst.label>
+<KillThirst.stages.kill_thirst.label>Жажда убийства</KillThirst.stages.kill_thirst.label>
 	<!--EN: Must kill... it has been too long since I have killed somebody up close and personal. -->
-<KillThirst.stages.kill_thirst.description>Должен убить ... Прошло слишком много времени с тех пор, как я убил кого -то близко и лично.</KillThirst.stages.kill_thirst.description>
+<KillThirst.stages.kill_thirst.description>Должен убить... Прошло слишком много времени с тех пор, как я убил кого-то близкого.</KillThirst.stages.kill_thirst.description>
 	<!--EN: acidic smog -->
 <NoxiousHaze.stages.acidic_smog.label>Кислотный смог</NoxiousHaze.stages.acidic_smog.label>
 	<!--EN: The smog makes my eyes water and it smells awful. I wish I could just have a few fresh breaths. -->
-<NoxiousHaze.stages.acidic_smog.description>Смог заставляет мои глаза водоснабляться, и он пахнет ужасно.Хотел бы я просто сделать несколько свежих вдохов.</NoxiousHaze.stages.acidic_smog.description>
+<NoxiousHaze.stages.acidic_smog.description>Смог заставляет мои глаза слезиться, и он пахнет ужасно. Хотел бы я просто сделать несколько свежих вдохов.</NoxiousHaze.stages.acidic_smog.description>
 	<!--EN: new pregnancy -->
 <PregnancyAttitude.stages.new_pregnancy-0.label>Новая беременность</PregnancyAttitude.stages.new_pregnancy-0.label>
 	<!--EN: I'm pregnant! It makes me happy. -->
-<PregnancyAttitude.stages.new_pregnancy-0.description>Я беременна! Это делает меня счастливым.</PregnancyAttitude.stages.new_pregnancy-0.description>
+<PregnancyAttitude.stages.new_pregnancy-0.description>Я беременна! Это делает меня счастливой.</PregnancyAttitude.stages.new_pregnancy-0.description>
 	<!--EN: new pregnancy -->
 <PregnancyAttitude.stages.new_pregnancy-1.label>Новая беременность</PregnancyAttitude.stages.new_pregnancy-1.label>
 	<!--EN: I'm pregnant and not very happy about it. -->
 <PregnancyAttitude.stages.new_pregnancy-1.description>Я беременна и не очень рада этому.</PregnancyAttitude.stages.new_pregnancy-1.description>
+
+<!-- ***** ЗДЕСЬ Я ПЕРВАЛСЯ НА СЕГОДНЯ ***** -->
+
 	<!--EN: collapse -->
-<PregnancyMood_Collapse.labelInBracketsExtraForHediff>крах</PregnancyMood_Collapse.labelInBracketsExtraForHediff>
+<PregnancyMood_Collapse.labelInBracketsExtraForHediff>срыв</PregnancyMood_Collapse.labelInBracketsExtraForHediff>
 	<!--EN: pregnancy mood collapse -->
-<PregnancyMood_Collapse.stages.pregnancy_mood_collapse.label>Беременность обрушивается на настроение</PregnancyMood_Collapse.stages.pregnancy_mood_collapse.label>
+<PregnancyMood_Collapse.stages.pregnancy_mood_collapse.label>Беременность (нервный срыв)</PregnancyMood_Collapse.stages.pregnancy_mood_collapse.label>
 	<!--EN: This pregnancy is so hard. My body always feels awful. So exhausting! -->
-<PregnancyMood_Collapse.stages.pregnancy_mood_collapse.description>Эта беременность такая тяжелая.Мое тело всегда чувствует себя ужасно.Так утомительно!</PregnancyMood_Collapse.stages.pregnancy_mood_collapse.description>
+<PregnancyMood_Collapse.stages.pregnancy_mood_collapse.description>Эта беременность такая тяжелая. Мое тело всегда чувствует себя ужасно. Так утомительно!</PregnancyMood_Collapse.stages.pregnancy_mood_collapse.description>
 	<!--EN: down -->
-<PregnancyMood_Down.labelInBracketsExtraForHediff>вниз</PregnancyMood_Down.labelInBracketsExtraForHediff>
+<PregnancyMood_Down.labelInBracketsExtraForHediff>плохо</PregnancyMood_Down.labelInBracketsExtraForHediff>
 	<!--EN: pregnancy mood down -->
 <PregnancyMood_Down.stages.pregnancy_mood_down.label>Беременность настроение вниз</PregnancyMood_Down.stages.pregnancy_mood_down.label>
 	<!--EN: It feels like everything is going wrong for me today. Pregnancy is tough. -->
@@ -128,6 +133,8 @@
 <PregnancyMood_Up.stages.pregnancy_mood_up.label>Беременность настроение вверх</PregnancyMood_Up.stages.pregnancy_mood_up.label>
 	<!--EN: Everything feels a little bit more pleasant today. Pregnancy is nice. -->
 <PregnancyMood_Up.stages.pregnancy_mood_up.description>Сегодня все кажется немного приятным.Беременность хороша.</PregnancyMood_Up.stages.pregnancy_mood_up.description>
+
+
 	<!--EN: psychic bond -->
 <PsychicBondProximity.stages.psychic_bond.label>психическая связь</PsychicBondProximity.stages.psychic_bond.label>
 	<!--EN: The bond brings us together, sharing feelings and thoughts. It's like a friend who is always with me. -->

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+	<!--EN: Care for a baby or child of the colony. -->
+<Childcare.description>Уход за младенцем или ребенком колонии.</Childcare.description>
+	<!--EN: caring -->
+<Childcare.gerundLabel>забота</Childcare.gerundLabel>
+	<!--EN: childcare -->
+<Childcare.labelShort>уход за детьми</Childcare.labelShort>
+	<!--EN: Childcarer -->
+<Childcare.pawnLabel>Воспитатель ребенка</Childcare.pawnLabel>
+	<!--EN: Care -->
+<Childcare.verb>Уход</Childcare.verb>
+	</LanguageData>

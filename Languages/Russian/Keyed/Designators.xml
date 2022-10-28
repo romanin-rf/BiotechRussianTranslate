@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+	<!--EN: Assign to group -->
+<DesignatorMechControlGroup>Назначить группе</DesignatorMechControlGroup>
+	<!--EN: Assign the selected mech(s) to another control group under their current mechanitor overseer. -->
+<DesignatorMechControlGroupDesc>Назначьте выбранный меха (ы) другой контрольной группе под их нынешним надзирателем.</DesignatorMechControlGroupDesc>
+	<!--EN: However, a {0} can build this. -->
+<MechCanBuildThis>Однако {0} может построить это.</MechCanBuildThis>
+	<!--EN: Adopt -->
+<DesignatorAdopt>Усыновить</DesignatorAdopt>
+	<!--EN: Adopt this baby as a colonist. The baby will instantly become one of yours. -->
+<DesignatorAdoptDesc>Принять этого ребенка как колониста.Ребенок сразу же станет одним из ваших.</DesignatorAdoptDesc>
+	<!--EN: Choose mech color... -->
+<ChooseMechColor>Выберите мех цвет ...</ChooseMechColor>
+	<!--EN: Pollution removal area -->
+<DesignatorAreaPollutionClearExpand>Зона удаления загрязнения</DesignatorAreaPollutionClearExpand>
+	<!--EN: Designate an area where colonists will manually clean polluted terrain. Cleaning the terrain removes pollution from the ground and packages it into toxic wastepacks which can be carried away. -->
+<DesignatorAreaPollutionClearExpandDesc>Определите область, где колонисты будут вручную чистить загрязненную местность.Очистка местности удаляет загрязнение из земли и упаковывает его в токсичные пакеты отходов, которые можно унести.</DesignatorAreaPollutionClearExpandDesc>
+	<!--EN: Clear pollution removal area -->
+<DesignatorAreaPollutionClearClear>Четкая зона удаления загрязнения</DesignatorAreaPollutionClearClear>
+	<!--EN: Removes the pollution removal area. Colonists will no longer manually extract pollution from the terrain in this area. -->
+<DesignatorAreaPollutionClearClearDesc>Удаляет зону удаления загрязнения.Колонисты больше не будут вручную извлекать загрязнение с местности в этой области.</DesignatorAreaPollutionClearClearDesc>
+	</LanguageData>

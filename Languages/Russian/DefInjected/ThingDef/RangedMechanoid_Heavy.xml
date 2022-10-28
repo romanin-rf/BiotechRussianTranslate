@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+	<!--EN: hellsphere cannon shot -->
+<Bullet_HellsphereCannonGun.label>Hellsphere Cannon выстрелил</Bullet_HellsphereCannonGun.label>
+	<!--EN: hellsphere cannon -->
+<Gun_HellsphereCannon.label>Hellsphere Cannon</Gun_HellsphereCannon.label>
+	<!--EN: A ultra-high-power energy pulse projector designed for siegebreaking. The hellsphere cannon must hold a bead on its target for several seconds while charging, before it releases a devastating tsunami of power. The explosion is capable of melting concrete in its blast radius. The heat of the explosion will ignite anything nearby. It cannot fire at close-up targets. -->
+<Gun_HellsphereCannon.description>Ультра-высокий энергетический проектор энергетического импульса, предназначенный для осадки.Cannon Hellsphere должна держать бусин на своей цели в течение нескольких секунд во время зарядки, прежде чем выпустить разрушительное цунами власти.Взрыв способен плавить бетон в радиусе взрыва.Тепло взрыва зажигает все поблизости.Он не может стрелять в крупных целях.</Gun_HellsphereCannon.description>
+	<!--EN: barrel -->
+<Gun_HellsphereCannon.tools.barrel.label>ствол</Gun_HellsphereCannon.tools.barrel.label>
+	<!--EN: hellsphere cannon -->
+<Gun_HellsphereCannon.verbs.Verb_Shoot.label>Hellsphere Cannon</Gun_HellsphereCannon.verbs.Verb_Shoot.label>
+	</LanguageData>

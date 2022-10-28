@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+	<!--EN: extracting TargetB from TargetA. -->
+<EmptyWasteContainer.reportString>извлечение TargetB из TargetA.</EmptyWasteContainer.reportString>
+	<!--EN: hauling TargetA. -->
+<HaulToAtomizer.reportString>перетаскивание TargetA.</HaulToAtomizer.reportString>
+	<!--EN: Studying TargetA. -->
+<StudyItem.reportString>Изучение TargetA.</StudyItem.reportString>
+	</LanguageData>

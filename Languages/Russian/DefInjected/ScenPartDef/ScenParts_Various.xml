@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+	<!--EN: starting people -->
+<ConfigurePawnsKindDefs.label>начинающие люди</ConfigurePawnsKindDefs.label>
+	<!--EN: starting people -->
+<ConfigurePawnsXenotypes.label>стартовые люди</ConfigurePawnsXenotypes.label>
+	<!--EN: disable exostrider remains -->
+<DisableExostriderRemains.label>отключить остатки экзостридера</DisableExostriderRemains.label>
+	<!--EN: start with mechanoid -->
+<StartingMech.label>начните с механоидов</StartingMech.label>
+	</LanguageData>

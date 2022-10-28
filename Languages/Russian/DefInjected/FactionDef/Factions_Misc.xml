@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+	<!--EN: rough pig union -->
+	<OutlanderRoughPig.label>Союз Грубых Свиней</OutlanderRoughPig.label>
+	<!--EN: A loose union of hardy pigskin townships. They're willing to make friends, even with thinsnouts, but they're also ready to toss a bomb and gnaw human gristle when it suits them. Treat them with respect and they'll offer a trotter to an ally in need. Turn against them and the last thing you hear might be a triumphant battle squeal. -->
+	<OutlanderRoughPig.description>Свободный союз поселений крепких свиней. Они готовы дружить даже с худышками, но также готовы бросить бомбу и грызть человеческий хрящ, когда это им выгодно. Относитесь к ним с уважением, и они предложат рысака нуждающемуся союзнику. Обратитесь против них, и последним, что вы услышите, будет победный боевой визг.</OutlanderRoughPig.description>
+	<!--EN: prime councilor -->
+	<OutlanderRoughPig.leaderTitle>Главный советник</OutlanderRoughPig.leaderTitle>
+	<OutlanderRoughPig.leaderTitleFemale>Главный советник</OutlanderRoughPig.leaderTitleFemale>
+	<!--EN: pig -->
+	<OutlanderRoughPig.pawnSingular>свинья</OutlanderRoughPig.pawnSingular>
+	<!--EN: pigs -->
+	<OutlanderRoughPig.pawnsPlural>свиньи</OutlanderRoughPig.pawnsPlural>
+	<!--EN: waster pirates -->
+	<PirateWaster.label>Пираты Расточители</PirateWaster.label>
+	<!--EN: A loose collection of violent pirate bands made up primarily of wasters - xenohumans engineered to thrive around toxins and pollution. They have little interest in building, or farming, preferring to take their sustenance from others using violence.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range. -->
+	<PirateWaster.description>Свободная группа агрессивных пиратов, состоящая в основном из расточителей - ксенолюдей, созданных для процветания в условиях токсинов и загрязнения. Они мало интересуются строительством или земледелием, предпочитая отбирать пропитание у других с помощью насилия.\n\nУровень их технологий зависит в основном от того, у кого им удалось украсть в последнее время. В основном они носят пороховое оружие, хотя некоторые предпочитают наносить удары ножом с близкого расстояния.</PirateWaster.description>
+	<!--EN: waster -->
+	<PirateWaster.pawnSingular>Расточитель</PirateWaster.pawnSingular>
+	<!--EN: wasters -->
+	<PirateWaster.pawnsPlural>Расточители</PirateWaster.pawnsPlural>
+	<!--EN: yttakin pirates -->
+	<PirateYttakin.label>Иттакинские Пираты</PirateYttakin.label>
+	<!--EN: A close-knit band of hulking, fur-bodied pirates of the yttakin xenotype. They refuse to deal with outsiders and are quick to call their animal warriors against those who disrespect them - or whose wealth they intend to take.\n\nOriginally engineered to populate the icy planet Yttak, yttakin now pursue their traditional lifestyle on many worlds. -->
+	<PirateYttakin.description>Сплоченная группа громоздких, покрытых мехом пиратов ксенотипа иттакинов. Они отказываются иметь дело с чужаками и быстро призывают своих животных воинов против тех, кто не уважает их - или тех, чьи богатства они собираются захватить.\n\nОригинально созданные для заселения ледяной планеты Иттак, иттакины теперь ведут свой традиционный образ жизни на многих мирах.</PirateYttakin.description>
+	<!--EN: yttakin -->
+	<PirateYttakin.pawnSingular>иттакин</PirateYttakin.pawnSingular>
+	<!--EN: yttakin -->
+	<PirateYttakin.pawnsPlural>иттакин</PirateYttakin.pawnsPlural>
+	<!--EN: sanguophages -->
+	<Sanguophages.label>Сангвофаги</Sanguophages.label>
+	<!--EN: A group of ancient sanguophages. -->
+	<Sanguophages.description>Группа древних сангвофагов.</Sanguophages.description>
+	<!--EN: sanguophage -->
+	<Sanguophages.pawnSingular>сангвофаг</Sanguophages.pawnSingular>
+	<!--EN: sanguophages -->
+	<Sanguophages.pawnsPlural>сангвофаги</Sanguophages.pawnsPlural>
+	<!--EN: fierce neanderthal tribe -->
+	<TribeRoughNeanderthal.label>Яростное Племя Неандертальцев</TribeRoughNeanderthal.label>
+	<!--EN: An unfriendly, territorial tribe of neanderthals. They are open to peaceful trade, but are otherwise unfriendly and territorial. Warriors from their tribe won't hesitate to bash in the skulls of anyone they deem dangerous. Their numbers, and the extreme amounts of damage they absorb before falling make them serious foes despite their lack of technology and analytical ability.\n\nHaving been on this planet for countless generations, they have no memory of how they got here. They might be the descendants of a neanderthal service caste from a dead civilization, or even the leftovers from some ancient science experiment. -->
+	<TribeRoughNeanderthal.description>Недружелюбное, территориальное племя неандертальцев. Они открыты для мирной торговли, но в остальном недружелюбны и территориальны. Воины из их племени без колебаний проламывают черепа всем, кого считают опасными. Их численность и огромное количество повреждений, которые они поглощают, прежде чем упасть, делают их серьезными противниками, несмотря на отсутствие технологий и аналитических способностей.\n\n\nПрожив на этой планете бесчисленное количество поколений, они не помнят, как попали сюда. Они могут быть потомками неандертальцев, обслуживающей касты мертвой цивилизации, или даже остатками древнего научного эксперимента.</TribeRoughNeanderthal.description>
+	<!--EN: neanderthal -->
+	<TribeRoughNeanderthal.pawnSingular>неандерталец</TribeRoughNeanderthal.pawnSingular>
+	<!--EN: neanderthals -->
+	<TribeRoughNeanderthal.pawnsPlural>неандертальцы</TribeRoughNeanderthal.pawnsPlural>
+	<!--EN: savage impid tribe -->
+	<TribeSavageImpid.label>Дикое Племя Импидов</TribeSavageImpid.label>
+	<!--EN: A vicious tribe of yellow-skinned, fire-spewing impids. This particular tribe has no intention of coexisting peacefully with anyone else. Their warriors are experts at using their natural speed and flame attacks to burn the towns and children of other peoples.\n\nHaving been here for thousands of years, the origins of this tribe are lost in myth. They might descend from a group of settlers who lost their technology, or an impid community in some long-ruined civilization. -->
+	<TribeSavageImpid.description>Злобное племя желтокожих, изрыгающих огонь импидов. Это племя не намерено мирно сосуществовать с кем-либо еще. Их воины - эксперты в использовании своей природной скорости и огненных атак, чтобы сжигать города и детей других народов.\n\n\nПроисхождение этого племени было здесь в течение тысяч лет, но его происхождение теряется в мифах. Возможно, они произошли от группы поселенцев, которые потеряли свои технологии, или от общины импидов в давно разрушенной цивилизации.</TribeSavageImpid.description>
+	<!--EN: imp -->
+	<TribeSavageImpid.pawnSingular>импида</TribeSavageImpid.pawnSingular>
+	<!--EN: imps -->
+	<TribeSavageImpid.pawnsPlural>импиды</TribeSavageImpid.pawnsPlural>
+</LanguageData>

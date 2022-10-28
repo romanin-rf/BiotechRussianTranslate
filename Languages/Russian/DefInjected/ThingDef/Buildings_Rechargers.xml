@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+	<!--EN: mech recharger -->
+<BasicRecharger.label>Mech Recharger</BasicRecharger.label>
+	<!--EN: Lightweight mechanoids can recharge here. During recharge, this recharger produces toxic wastepacks and stores them internally. Haulers must remove the wastepacks from time to time. -->
+<BasicRecharger.description>Легкие механоиды могут перезарядиться здесь.Во время перезарядки это перезарядка производит токсичные ошеломления и хранит их внутри.Перевозчики должны время от времени удалять пустоты.</BasicRecharger.description>
+	<!--EN: large mech recharger -->
+<StandardRecharger.label>Большой мех -зарядчик</StandardRecharger.label>
+	<!--EN: Medium, heavy, and ultraheavy mechanoids can recharge here. During recharge, this recharger produces toxic wastepacks and stores them internally. Haulers must remove the wastepacks from time to time. -->
+<StandardRecharger.description>Средние, тяжелые и ультрагистральные механоиды могут перезарядиться здесь.Во время перезарядки это перезарядка производит токсичные ошеломления и хранит их внутри.Перевозчики должны время от времени удалять пустоты.</StandardRecharger.description>
+	</LanguageData>

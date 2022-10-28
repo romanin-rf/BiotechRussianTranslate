@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+	<!--EN: absorbing xenogerm from TargetA. -->
+<AbsorbXenogerm.reportString>поглощающих ксеногерм из TargetA.</AbsorbXenogerm.reportString>
+	<!--EN: hauling TargetA to TargetB. -->
+<CarryGenepackToContainer.reportString>перетаскивание TargetA к TargetB.</CarryGenepackToContainer.reportString>
+	<!--EN: carrying TargetB to TargetA. -->
+<CarryToBuilding.reportString>перенос TargetB к TargetA.</CarryToBuilding.reportString>
+	<!--EN: Doing something. -->
+<CastAbilityGoToThing.reportString>Делать что-то.</CastAbilityGoToThing.reportString>
+	<!--EN: Doing something. -->
+<CastAbilityOnThingWithoutWeapon.reportString>Делать что-то.</CastAbilityOnThingWithoutWeapon.reportString>
+	<!--EN: Doing something. -->
+<CastAbilityOnThingWithoutWeaponInterruptible.reportString>Делать что-то.</CastAbilityOnThingWithoutWeaponInterruptible.reportString>
+	<!--EN: cleaning pollution. -->
+<ClearPollution.reportString>очистка загрязнений.</ClearPollution.reportString>
+	<!--EN: taking control of TargetA. -->
+<ControlMech.reportString>взяв под контроль TargetA.</ControlMech.reportString>
+	<!--EN: creating xenogerm. -->
+<CreateXenogerm.reportString>создание ксеногерм.</CreateXenogerm.reportString>
+	<!--EN: deathresting. -->
+<Deathrest.reportString>смертный покой.</Deathrest.reportString>
+	<!--EN: disassembling TargetA. -->
+<DisassembleMech.reportString>разборка TargetA.</DisassembleMech.reportString>
+	<!--EN: entering TargetA. -->
+<EnterBuilding.reportString>вхождение в TargetA.</EnterBuilding.reportString>
+	<!--EN: absorbing xenogerm from TargetA. -->
+<GetReimplanted.reportString>поглощающих ксеногерм из TargetA.</GetReimplanted.reportString>
+	<!--EN: hauling TargetA to charger. -->
+<HaulMechToCharger.reportString>перетаскивание TargetA к зарядному устройству.</HaulMechToCharger.reportString>
+	<!--EN: installing TargetA. -->
+<InstallMechlink.reportString>установка TargetA.</InstallMechlink.reportString>
+	<!--EN: charging. -->
+<MechCharge.reportString>зарядка.</MechCharge.reportString>
+	<!--EN: feeding on TargetA. -->
+<PrisonerBloodfeed.reportString>питаясь от TargetA.</PrisonerBloodfeed.reportString>
+	<!--EN: decrypting TargetA. -->
+<ReadDatacore.reportString>расшифровка TargetA.</ReadDatacore.reportString>
+	<!--EN: releasing mechanoids. -->
+<ReleaseMechs.reportString>высвобождающие механоиды.</ReleaseMechs.reportString>
+	<!--EN: Doing something. -->
+<RemoveMechlink.reportString>Делать что-то.</RemoveMechlink.reportString>
+	<!--EN: repairing TargetA. -->
+<RepairMech.reportString>ремонт TargetA.</RepairMech.reportString>
+	<!--EN: repairing TargetA. -->
+<RepairMechRemote.reportString>ремонт TargetA.</RepairMechRemote.reportString>
+	<!--EN: dormant self-charging. -->
+<SelfShutdown.reportString>самозарядка в спящем режиме.</SelfShutdown.reportString>
+	<!--EN: shielding TargetA. -->
+<ShieldMech.reportString>экранирование TargetA.</ShieldMech.reportString>
+	<!--EN: romancing TargetA. -->
+<TryRomance.reportString>романизировать TargetA.</TryRomance.reportString>
+	<!--EN: waiting. -->
+<Wait_WithSleeping.reportString>ждать.</Wait_WithSleeping.reportString>
+	</LanguageData>

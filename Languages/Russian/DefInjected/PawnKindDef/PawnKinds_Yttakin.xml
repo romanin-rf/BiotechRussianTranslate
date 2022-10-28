@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+	<!--EN: pirate gunner -->
+<Pirate_Yttakin.label>пират-стрелок</Pirate_Yttakin.label>
+	<Pirate_Yttakin.labelFemale>пират-стрелок</Pirate_Yttakin.labelFemale>
+	<Pirate_Yttakin.labelPlural>пираты стрелки</Pirate_Yttakin.labelPlural>
+	<!--EN: scavenger gunner -->
+<Scavenger_Yttakin.label>стрелок-падальщик</Scavenger_Yttakin.label>
+	<Scavenger_Yttakin.labelFemale>стрелок-падальщик</Scavenger_Yttakin.labelFemale>
+	<Scavenger_Yttakin.labelPlural>стрелки падальщики</Scavenger_Yttakin.labelPlural>
+	</LanguageData>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+	<!--EN: work speed factor -->
+	<AssemblySpeedFactor.label>коэффициент скорости работы</AssemblySpeedFactor.label>
+	<!--EN: The speed at which people assemble genes here is multiplied by this value. -->
+	<AssemblySpeedFactor.description>Скорость, с которой люди собирают здесь гены, умножается на эту величину.</AssemblySpeedFactor.description>
+	<!--EN: Room cleanliness -->
+	<AssemblySpeedFactor.parts.Room_cleanliness.customLabel>Чистота в комнате</AssemblySpeedFactor.parts.Room_cleanliness.customLabel>
+	<!--EN: baby play power -->
+	<BabyPlayGainFactor.label>интересность детской игры</BabyPlayGainFactor.label>
+	<!--EN: How effectively this object can be used to fulfill a baby's need for play. -->
+	<BabyPlayGainFactor.description>Насколько эффективно этот предмет может быть использован для удовлетворения потребности ребенка в игре.</BabyPlayGainFactor.description>
+	<!--EN: birth quality offset -->
+	<BirthRitualQualityOffset.label>смещение качества рождаемости</BirthRitualQualityOffset.label>
+	<!--EN: This alters the quality of a birth when this is used as a birth place. Birth quality affects the chance of the baby being born healthy. -->
+	<BirthRitualQualityOffset.description>Это влияет на качество родов, когда место родов используется в качестве места рождения. Качество родов влияет на вероятность того, что ребенок родится здоровым.</BirthRitualQualityOffset.description>
+	<!--EN: genetic complexity increase -->
+	<GeneticComplexityIncrease.label>увеличение генетической сложности</GeneticComplexityIncrease.label>
+	<!--EN: When placed near a gene assembler, this building increases the maximum genetic complexity that can be assembled at once. -->
+	<GeneticComplexityIncrease.description>При размещении рядом с генным ассемблером это здание увеличивает максимальную генетическую сложность, которую можно собрать за один раз.</GeneticComplexityIncrease.description>
+</LanguageData>

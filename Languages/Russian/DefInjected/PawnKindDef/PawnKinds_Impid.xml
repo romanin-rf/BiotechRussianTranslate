@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+	<!--EN: archer -->
+<Tribal_Archer_Fire.label>лучник</Tribal_Archer_Fire.label>
+	<Tribal_Archer_Fire.labelFemale>лучник</Tribal_Archer_Fire.labelFemale>
+	<Tribal_Archer_Fire.labelPlural>лучники</Tribal_Archer_Fire.labelPlural>
+	<!--EN: villager -->
+<Tribal_Child_Fire.label>деревенский житель</Tribal_Child_Fire.label>
+	<Tribal_Child_Fire.labelFemale>деревенский жительница</Tribal_Child_Fire.labelFemale>
+	<Tribal_Child_Fire.labelPlural>деревенский жители</Tribal_Child_Fire.labelPlural>
+	<!--EN: hunter -->
+<Tribal_Hunter_Fire.label>Охотник</Tribal_Hunter_Fire.label>
+	<Tribal_Hunter_Fire.labelFemale>Охотница</Tribal_Hunter_Fire.labelFemale>
+	<Tribal_Hunter_Fire.labelPlural>Охотники</Tribal_Hunter_Fire.labelPlural>
+	<!--EN: penitent -->
+<Tribal_Penitent_Fire.label>покаянный</Tribal_Penitent_Fire.label>
+	<Tribal_Penitent_Fire.labelFemale>покаянная</Tribal_Penitent_Fire.labelFemale>
+	<Tribal_Penitent_Fire.labelPlural>покаянные</Tribal_Penitent_Fire.labelPlural>
+	<!--EN: warrior -->
+<Tribal_Warrior_Fire.label>воин</Tribal_Warrior_Fire.label>
+	<Tribal_Warrior_Fire.labelFemale>воин</Tribal_Warrior_Fire.labelFemale>
+	<Tribal_Warrior_Fire.labelPlural>воины</Tribal_Warrior_Fire.labelPlural>
+</LanguageData>

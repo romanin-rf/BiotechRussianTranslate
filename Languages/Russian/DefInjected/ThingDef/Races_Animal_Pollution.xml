@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+	<!--EN: toxalope -->
+<Toxalope.label>токсалоп</Toxalope.label>
+	<!--EN: A pollution-adapted cousin of the boomalope, the toxalope grows toxic pouches on its back. When it dies, the toxic material explodes and produces a deadly toxic cloud. Unlike the boomalope, the toxalope cannot be milked. -->
+<Toxalope.description>Адаптированный к загрязнению двоюродный брат бумалопа, токсалоп выращивает токсичные мешочки на спине.Когда он умирает, токсичный материал взрывается и производит смертоносное токсичное облако.В отличие от бумалопа, токсалоп нельзя доить.</Toxalope.description>
+	<Toxalope.race.meatLabel>Адаптированный к загрязнению двоюродный брат бумалопа, токсалоп выращивает токсичные мешочки на спине.Когда он умирает, токсичный материал взрывается и производит смертоносное токсичное облако.В отличие от бумалопа, токсалоп нельзя доить.</Toxalope.race.meatLabel>
+	<!--EN: head -->
+<Toxalope.tools.head.label>глава</Toxalope.tools.head.label>
+	<!--EN: left hoof -->
+<Toxalope.tools.left_hoof.label>левый копыт</Toxalope.tools.left_hoof.label>
+	<!--EN: right hoof -->
+<Toxalope.tools.right_hoof.label>Правый копыт</Toxalope.tools.right_hoof.label>
+	<!--EN: waste rat -->
+<WasteRat.label>отходы крысы</WasteRat.label>
+	<!--EN: A toxin-adapted variant of the common rat. Waste rats have evolved to be pollution-resistant, as well as larger, tougher, and more aggressive than standard rats. Their bite infects their attacker with toxic buildup. -->
+<WasteRat.description>Адаптированный вариант токсина общей крысы.Отходы крысы развивались, чтобы быть устойчивыми к загрязнению, а также более крупные, более жесткие и более агрессивные, чем стандартные крысы.Их укус заражает их злоумышленника токсичным накоплением.</WasteRat.description>
+	<WasteRat.race.meatLabel>Адаптированный вариант токсина общей крысы.Отходы крысы развивались, чтобы быть устойчивыми к загрязнению, а также более крупные, более жесткие и более агрессивные, чем стандартные крысы.Их укус заражает их злоумышленника токсичным накоплением.</WasteRat.race.meatLabel>
+	<!--EN: left claw -->
+<WasteRat.tools.left_claw.label>левый когтя</WasteRat.tools.left_claw.label>
+	<!--EN: right claw -->
+<WasteRat.tools.right_claw.label>Правый когтя</WasteRat.tools.right_claw.label>
+	<!--EN: head -->
+<WasteRat.tools.head.label>глава</WasteRat.tools.head.label>
+	</LanguageData>

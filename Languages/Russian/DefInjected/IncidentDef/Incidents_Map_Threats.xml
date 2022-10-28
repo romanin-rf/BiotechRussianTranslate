@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+	<!--EN: wastepack infestation -->
+<WastepackInfestation.label>заражение мусорных контейнеров</WastepackInfestation.label>
+	<!--EN: Wastepack infestation -->
+<WastepackInfestation.letterLabel>Заражение отходами</WastepackInfestation.letterLabel>
+	<!--EN: A group of burrowed insect stasis cocoons have picked up the scent of a recently-dissolved toxic wastepack. They're tunneling upwards to get closer to the chemicals!\n\nThe cocoons will emerge in a dormant state. They will remain dormant indefinitely. If someone approaches or disturbs them, they will open and release enraged insects. -->
+<WastepackInfestation.letterText>Группа зарытых в землю стазисных коконов насекомых уловила запах недавно растворившегося токсичного отхода. Они прокладывают туннель вверх, чтобы подобраться ближе к химикатам.\n\nКоконы появятся в спящем состоянии. Они будут оставаться в спящем состоянии неопределенное время. Если кто-то приблизится к ним или потревожит их, они откроются и выпустят разъяренных насекомых.</WastepackInfestation.letterText>
+	</LanguageData>

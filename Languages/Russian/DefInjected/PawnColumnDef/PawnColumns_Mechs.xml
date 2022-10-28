@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+	<!--EN: allowed area -->
+<AllowedAreaMech.label>допустимая площадь</AllowedAreaMech.label>
+	<!--EN: Allowed areas only apply for mechs in work and recharge modes. -->
+<AllowedAreaMech.headerTip>Разрешенные зоны действуют только для мехов в режимах работы и перезарядки.</AllowedAreaMech.headerTip>
+	<!--EN: auto repair -->
+<AutoRepair.label>авторемонт</AutoRepair.label>
+	<!--EN: control group -->
+<ControlGroup.label>контрольная группа</ControlGroup.label>
+	<!--EN: draft -->
+<DraftMech.label>проект</DraftMech.label>
+	<!--EN: energy -->
+<Energy.label>энергия</Energy.label>
+	<!--EN: overseer -->
+<Overseer.label>смотритель</Overseer.label>
+	<!--EN: work mode -->
+<WorkMode.label>рабочий режим</WorkMode.label>
+	</LanguageData>

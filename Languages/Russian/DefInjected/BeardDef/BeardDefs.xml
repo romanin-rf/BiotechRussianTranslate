@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+	<!--EN: knots -->
+<BeardFurskinKnots.label>Узлы</BeardFurskinKnots.label>
+	<!--EN: megabraid -->
+<BeardFurskinMegabraid.label>Мегабайд</BeardFurskinMegabraid.label>
+	<!--EN: monkey -->
+<BeardFurskinMonkey.label>Обезьяна</BeardFurskinMonkey.label>
+	<!--EN: long stache -->
+<BeardFurskinMoustache.label>Длинные усы</BeardFurskinMoustache.label>
+	<!--EN: scruffy -->
+<BeardFurskinScruffy.label>Непристойный</BeardFurskinScruffy.label>
+	<!--EN: senile -->
+<BeardFurskinSenile.label>Старший</BeardFurskinSenile.label>
+	<!--EN: thick chops -->
+<BeardFurskinSideChops.label>Толстые отбивные</BeardFurskinSideChops.label>
+	<!--EN: tufts -->
+<BeardFurskinSideTufts.label>Тафты</BeardFurskinSideTufts.label>
+	<!--EN: strong chops -->
+<BeardFurskinStrongChops.label>Мощные отбивные</BeardFurskinStrongChops.label>
+	<!--EN: curly moustache -->
+<FurskinCurlyMoustache.label>Кудрявые усы</FurskinCurlyMoustache.label>
+	</LanguageData>

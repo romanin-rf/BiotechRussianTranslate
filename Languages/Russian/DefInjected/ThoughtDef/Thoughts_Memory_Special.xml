@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+	<!--EN: {0} was born healthy -->
+<BabyBorn.stages.was_born_healthy.label> {0} родился здоровым</BabyBorn.stages.was_born_healthy.label>
+	<!--EN: My baby brings me so much joy. I would move earth and sky for my little one. -->
+<BabyBorn.stages.was_born_healthy.description>Мой ребенок приносит мне столько радости.Я бы переместил землю и небо для моего малыша.</BabyBorn.stages.was_born_healthy.description>
+	<!--EN: fed on by {0} -->
+<FedOn.stages.fed_on_by.label>питается {0}  </FedOn.stages.fed_on_by.label>
+	<!--EN: I was violated by a bloodfeeder like some kind of livestock. -->
+<FedOn.stages.fed_on_by.description>Я был нарушен кровеном, как какой -то скот.</FedOn.stages.fed_on_by.description>
+	<!--EN: ingested hemogen pack -->
+<IngestedHemogenPack.stages.ingested_hemogen_pack.label>Пакет Hemogen Pack</IngestedHemogenPack.stages.ingested_hemogen_pack.label>
+	<!--EN: I ingested a hemogen pack. It might keep me alive, but it was absolutely disgusting. -->
+<IngestedHemogenPack.stages.ingested_hemogen_pack.description>Я прогласил пакет гемогена.Это может поддержать меня, но это было абсолютно отвратительно.</IngestedHemogenPack.stages.ingested_hemogen_pack.description>
+	<!--EN: miscarried -->
+<Miscarried.stages.miscarried.label>выкидывается</Miscarried.stages.miscarried.label>
+	<!--EN: I lost my child. -->
+<Miscarried.stages.miscarried.description>Я потерял своего ребенка.</Miscarried.stages.miscarried.description>
+	<!--EN: pregnancy ended -->
+<PregnancyEnded.stages.pregnancy_ended.label>Беременность закончилась</PregnancyEnded.stages.pregnancy_ended.label>
+	<!--EN: I'm relieved I'm not pregnant any more. -->
+<PregnancyEnded.stages.pregnancy_ended.description>Я рад, что я больше не беременна.</PregnancyEnded.stages.pregnancy_ended.description>
+	<!--EN: pregnancy terminated -->
+<PregnancyTerminated.stages.pregnancy_terminated-0.label>Беременность прекратилась</PregnancyTerminated.stages.pregnancy_terminated-0.label>
+	<!--EN: My pregnancy was terminated. -->
+<PregnancyTerminated.stages.pregnancy_terminated-0.description>Моя беременность была прекращена.</PregnancyTerminated.stages.pregnancy_terminated-0.description>
+	<!--EN: pregnancy terminated -->
+<PregnancyTerminated.stages.pregnancy_terminated-1.label>Беременность прекратилась</PregnancyTerminated.stages.pregnancy_terminated-1.label>
+	<!--EN: My pregnancy was terminated. -->
+<PregnancyTerminated.stages.pregnancy_terminated-1.description>Моя беременность была прекращена.</PregnancyTerminated.stages.pregnancy_terminated-1.description>
+	<!--EN: pregnancy terminated -->
+<PregnancyTerminated.stages.pregnancy_terminated-2.label>Беременность прекратилась</PregnancyTerminated.stages.pregnancy_terminated-2.label>
+	<!--EN: My pregnancy was terminated. -->
+<PregnancyTerminated.stages.pregnancy_terminated-2.description>Моя беременность была прекращена.</PregnancyTerminated.stages.pregnancy_terminated-2.description>
+	<!--EN: psychic bond torn ({0}) -->
+<PsychicBondTorn.stages.psychic_bond_torn.label>разорванная психическая связь ( {0} )</PsychicBondTorn.stages.psychic_bond_torn.label>
+	<!--EN: My psychic bond with {OTHERPAWN} was torn apart. I feel like part of my mind and emotions are missing. -->
+<PsychicBondTorn.stages.psychic_bond_torn.description>Моя психическая связь с {OTHERPAWN} был разорван на части.Я чувствую, что часть моего ума и эмоции отсутствуют.</PsychicBondTorn.stages.psychic_bond_torn.description>
+	<!--EN: stillbirth -->
+<Stillbirth.stages.stillbirth.label>мертворождение</Stillbirth.stages.stillbirth.label>
+	<!--EN: My child died during labor. -->
+<Stillbirth.stages.stillbirth.description>Мой ребенок умер во время труда.</Stillbirth.stages.stillbirth.description>
+	<!--EN: genes harvested -->
+<XenogermHarvested_Prisoner.stages.genes_harvested.label>гены собраны</XenogermHarvested_Prisoner.stages.genes_harvested.label>
+	<!--EN: They extracted my genes like I'm some sort of lab creature. -->
+<XenogermHarvested_Prisoner.stages.genes_harvested.description>Они извлекали мои гены, как будто я своего рода лабораторное существо.</XenogermHarvested_Prisoner.stages.genes_harvested.description>
+	</LanguageData>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+	<!--EN: acid spray -->
+<AcidSpray.label>Кислотный аэрозоль</AcidSpray.label>
+	<!--EN: Spray a sticky acid substance from glands in the neck up through the mouth and all over the target area. The acid will stick to targets and burn them over time. -->
+<AcidSpray.description>Распылите липкое кислотное вещество из желез на шее вверх через рот и по всей площади цели. Кислота прилипает к мишеням и со временем сжигает их.</AcidSpray.description>
+	<!--EN: animal warcall -->
+<AnimalWarcall.label>Звериный вой</AnimalWarcall.label>
+	<!--EN: With a powerful bellow and psychic connection, call an animal to fight your enemies for a few hours. -->
+<AnimalWarcall.description>С помощью мощного мычания и экстрасенсорной связи вызовите животное, чтобы оно сражалось с вашими врагами в течение нескольких часов.</AnimalWarcall.description>
+	<!--EN: warcall -->
+<AnimalWarcall.verbProperties.label>призыв к войне</AnimalWarcall.verbProperties.label>
+	<!--EN: bloodfeed -->
+<Bloodfeed.label>кормление кровью</Bloodfeed.label>
+	<!--EN: Bite the target and extract hemogen directly from their blood. The target will lose blood and will be horrified by the interaction, but will be otherwise unharmed. A fast-acting coagulant will seal the wound to prevent bleeding.\n\nCan only target non-hemogenic humans. Hemogen gain is affected by the target’s body size. -->
+<Bloodfeed.description>Укусите цель и извлеките гемоген прямо из ее крови. Цель потеряет кровь и будет в ужасе от происходящего, но в остальном останется невредимой. Быстродействующий коагулянт запечатает рану, чтобы предотвратить кровотечение.\n\nМожно использовать только для негемогенных людей. На получение гемогена влияет размер тела цели.</Bloodfeed.description>
+	<!--EN: coagulate -->
+<Coagulate.label>коагуляция</Coagulate.label>
+	<!--EN: Use special glands in the wrists to quickly tend someone's wounds. -->
+<Coagulate.description>Используйте специальные желёзы в запястьях, чтобы быстро обработать раны.</Coagulate.description>
+	<!--EN: fire burst -->
+<FireBurst.label>Огненная вспышка</FireBurst.label>
+	<!--EN: Emit a burst of burning fuel in all directions to form puddles of ignited liquid on the ground. -->
+<FireBurst.description>Выброс струи горящего топлива во всех направлениях с образованием луж воспламенившейся жидкости на земле.</FireBurst.description>
+	<!--EN: firefoam pop -->
+<FirefoampopMech.label>Пенопластовый Поп</FirefoampopMech.label>
+	<!--EN: Release a fire-retardant foam in a circular area. -->
+<FirefoampopMech.description>Выпустите огнестойкую пену на круглую площадь.</FirefoampopMech.description>
+	<!--EN: fire spew -->
+<FireSpew.label>Извержение огня</FireSpew.label>
+	<!--EN: Spit a stream of sticky, flammable bile from the mouth. The bile can ignite anything or anyone it hits, and also form flaming pools on the ground.\n\nThe bile is generated and stored by an organ in the neck, along with a separate pouch of hypergolic reactant for ignition. -->
+<FireSpew.description>Выплевывает изо рта струю липкой, горючей желчи. Желчь может воспламенить все, на что или на кого попадет, а также образовать огненные лужи на земле.\n\nЖелчь вырабатывается и хранится в органе на шее, вместе с отдельным мешочком гиперголического реактива для воспламенения.</FireSpew.description>
+	<!--EN: foam spray -->
+<FoamSpray.label>Пенный аэрозоль</FoamSpray.label>
+	<!--EN: Spray thick fire-retardant foam from glands in the neck up through the mouth. The foam will cover a small area and extinguish any fire it touches. -->
+<FoamSpray.description>Распылите густую огнезащитную пену из желез на шее вверх через рот. Пена покроет небольшую площадь и потушит любой огонь, которого она коснется.</FoamSpray.description>
+	<!--EN: longjump -->
+<Longjump.label>Дальний прыжок</Longjump.label>
+	<!--EN: Jump to a distant location using super-strong hemogen-powered legs. -->
+<Longjump.description>Прыгайте на дальние расстояния, используя суперсильные ноги, работающие на гемогене.</Longjump.description>
+	<!--EN: jump -->
+<Longjump.verbProperties.label>Прыжок</Longjump.verbProperties.label>
+	<!--EN: mech longjump -->
+<LongjumpMech.label>Мех Дальнего Прыжка</LongjumpMech.label>
+	<!--EN: Jump to a distant location using special ultrafast mechanoid muscles. -->
+<LongjumpMech.description>Прыгайте в отдаленное место с помощью специальных сверхбыстрых механоидных мышц.</LongjumpMech.description>
+	<!--EN: jump -->
+<LongjumpMech.verbProperties.label>Прыжок</LongjumpMech.verbProperties.label>
+	<!--EN: jump launcher -->
+<LongjumpMechLauncher.label>Прыжковая пусковая установка</LongjumpMechLauncher.label>
+	<!--EN: Jump to a distant location using a built-in jump launcher. -->
+<LongjumpMechLauncher.description>Прыгайте в отдаленное место, используя встроенную прыжковую пусковую установку.</LongjumpMechLauncher.description>
+	<!--EN: jump -->
+<LongjumpMechLauncher.verbProperties.label>Прыжок</LongjumpMechLauncher.verbProperties.label>
+	<!--EN: piercing spine -->
+<PiercingSpine.label>Пронзающий позвоночник</PiercingSpine.label>
+	<!--EN: Use a hemogenic chemical reaction to launch a bony spine at the target. The spine exits through the skin from an opening between the collarbones. Given the method of launch, it is surprisingly easy to aim. -->
+<PiercingSpine.description>Используйте гемогенную химическую реакцию, чтобы запустить костный позвоночник в мишени.Позвоночник выходит через кожу от отверстия между воротниками.Учитывая метод запуска, на удивление легко прицелиться.</PiercingSpine.description>
+	<!--EN: implant genes -->
+<ReimplantXenogerm.label>Имплантационные гены</ReimplantXenogerm.label>
+	<!--EN: Implant this person's xenogenes into a willing subject using a special injector organ. If this person's genes are currently regrowing, they will implant their xenogerm and die in the process. -->
+<ReimplantXenogerm.description>Имплантировать ксеногены этого человека в желающего субъекта с помощью специального органа-инжектора. Если гены этого человека в настоящее время перерождаются, он имплантирует свой ксеногерм и умрет в процессе.</ReimplantXenogerm.description>
+	<!--EN: resurrect -->
+<Resurrect.label>Воскресить</Resurrect.label>
+	<!--EN: Use archites in the bloodstream to infuse a corpse's body with new life, repairing degenerated cell structures and kickstarting vital functions. The older and worse-preserved the corpse is, the more likely it is that they will come back with memory loss or health conditions. This ability seems to exhaust the archites somehow, so it can only be used very rarely. -->
+<Resurrect.description>Используйте архиты в кровотоке, чтобы наполнить тело трупа новой жизнью, восстанавливая деградировавшие клеточные структуры и запуская жизненно важные функции. Чем старше и хуже сохранился труп, тем больше вероятность, что он вернется с потерей памяти или нарушениями здоровья. Эта способность, похоже, как-то истощает архитекторов, поэтому ее можно использовать очень редко.</Resurrect.description>
+	<!--EN: resurrect mech -->
+<ResurrectionMech.label>Воскресить Меха</ResurrectionMech.label>
+	<!--EN: Resurrect a recently-killed mechanoid by externally supercharging its self-repair processes. The mechanoid will come back with some but not all of its wounds healed. -->
+<ResurrectionMech.description>Воскресите недавно убитого механоида путем внешнего усиления его процессов самовосстановления. Механоид вернется к жизни с некоторыми, но не всеми исцеленными ранами.</ResurrectionMech.description>
+	<!--EN: mech smokepop -->
+<SmokepopMech.label>Мех Дымоход</SmokepopMech.label>
+	<!--EN: Release compressed smoke from concealed vents. Smoke reduces the accuracy of any shot fired through it, and prevents turrets from locking on entirely. -->
+<SmokepopMech.description>Выпускайте сжатый дым из скрытых вентиляционных отверстий. Дым снижает точность любого выстрела через него и препятствует полной фиксации турелей.</SmokepopMech.description>
+	</LanguageData>

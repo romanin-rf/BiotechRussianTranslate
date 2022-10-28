@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+	<!--EN: absorbed xenogerm -->
+<AbsorbedXenogerm.label>поглощенный ксенозародыш</AbsorbedXenogerm.label>
+	<!--EN: extracted hemogen from member -->
+<ExtractedHemogenPack.label>извлеченный гемоген из существа</ExtractedHemogenPack.label>
+	<!--EN: polluted base -->
+<PollutedBase.label>загрязнённая база</PollutedBase.label>
+	<!--EN: polluted nearby site -->
+<PollutedNearbySite.label>загрязненна близлежащая территория</PollutedNearbySite.label>
+	</LanguageData>

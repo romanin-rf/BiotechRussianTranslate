@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+	<!--EN: megascarab cocoon -->
+<CocoonMegascarab.label>Мегаскараб Кокон</CocoonMegascarab.label>
+	<!--EN: A stasis cocoon containing a megascarab.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process. -->
+<CocoonMegascarab.description>Стазис, содержащий мегаскараба.Эти коконы обеспечивают безопасность насекомых от пожара, экстремальных температур и других угроз в течение многих лет.нарушенный.Если кокон нарушается или уничтожен, насекомое внутри пробуждается и атакует, вызывая другие близлежащие коконы в процессе.</CocoonMegascarab.description>
+	<!--EN: megaspider cocoon -->
+<CocoonMegaspider.label>Мегаспидер Кокон</CocoonMegaspider.label>
+	<!--EN: A stasis cocoon containing a megaspider.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process. -->
+<CocoonMegaspider.description>Стазис кокон, содержащий мегаспайдер.Эти коконы обеспечивают безопасность насекомых от пожара, экстремальных температур и других угроз в течение многих лет.нарушенный.Если кокон нарушается или уничтожен, насекомое внутри пробуждается и атакует, вызывая другие близлежащие коконы в процессе.</CocoonMegaspider.description>
+	<!--EN: spelopede cocoon -->
+<CocoonSpelopede.label>Спелопеде кокон</CocoonSpelopede.label>
+	<!--EN: A stasis cocoon containing a spelopede.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process. -->
+<CocoonSpelopede.description>Стазис, содержащий спелопед.Эти коконы обеспечивают безопасность насекомых от пожара, экстремальных температур и других угроз в течение многих лет.нарушенный.Если кокон нарушается или уничтожен, насекомое внутри пробуждается и атакует, вызывая другие близлежащие коконы в процессе.</CocoonSpelopede.description>
+	</LanguageData>

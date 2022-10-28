@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+	<!--EN: bulb turret -->
+<BulbTurret.label>Турель с лампой</BulbTurret.label>
+	<!--EN: left power claw -->
+<LeftPowerClaw.label>Левый сильный коготь</LeftPowerClaw.label>
+	<!--EN: power claw -->
+<LeftPowerClaw.labelShort>Сильный коготь</LeftPowerClaw.labelShort>
+	<!--EN: right power claw -->
+<RightPowerClaw.label>Правый сильный коготь</RightPowerClaw.label>
+	<!--EN: power claw -->
+<RightPowerClaw.labelShort>Сильный коготь</RightPowerClaw.labelShort>
+	</LanguageData>

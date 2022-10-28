@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+	<!--EN: warcall berserk -->
+<BerserkWarcall.label>Боевой клич берсерка</BerserkWarcall.label>
+	<!--EN: Mental state: Warcall berserk -->
+<BerserkWarcall.baseInspectLine>Психическое состояние: Боевой клич берсерка</BerserkWarcall.baseInspectLine>
+	<!--EN: {0} has been roused by a warcall.\n\n[PAWN_pronoun] will attack any enemy of the colony. -->
+<BerserkWarcall.beginLetter> {0} был разбужен военным призывом.\n\n[PAWN_pronoun] атакует любого врага колонии.</BerserkWarcall.beginLetter>
+	<!--EN: {0}'s rage has come to an end. -->
+<BerserkWarcall.recoveryMessage>Ярость {0} подошла к концу.</BerserkWarcall.recoveryMessage>
+	<!--EN: cocoon disturbed -->
+<CocoonDisturbed.label>Нарушенный кокон</CocoonDisturbed.label>
+	<!--EN: Enraged: Cocoon disturbed -->
+<CocoonDisturbed.baseInspectLine>Разъяренный: Кокон нарушен</CocoonDisturbed.baseInspectLine>
+	<!--EN: panic-fleeing fire -->
+<PanicFleeFire.label>Паническое бегство от огня</PanicFleeFire.label>
+	<!--EN: Mental state: Fleeing fire -->
+<PanicFleeFire.baseInspectLine>Психическое состояние: Бегство от огня</PanicFleeFire.baseInspectLine>
+	<!--EN: {0} is fleeing fire. -->
+<PanicFleeFire.beginLetter>{0} спасается от огня.</PanicFleeFire.beginLetter>
+	<!--EN: fleeing fire -->
+<PanicFleeFire.beginLetterLabel>бегство от огня</PanicFleeFire.beginLetterLabel>
+	<!--EN: {0} is no longer fleeing fire. -->
+<PanicFleeFire.recoveryMessage>{0} больше не спасается от огня.</PanicFleeFire.recoveryMessage>
+	</LanguageData>

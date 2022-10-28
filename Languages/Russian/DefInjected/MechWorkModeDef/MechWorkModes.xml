@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+	<!--EN: escort -->
+<Escort.label>сопровождение</Escort.label>
+	<!--EN: Stay near the mechanitor and fight nearby enemies. Follow the mechanitor, even off the map. -->
+<Escort.description>Оставайтесь рядом с механизатором и сражайтесь с ближайшими врагами. Следуйте за механизатором, даже за пределами карты.</Escort.description>
+	<!--EN: recharge -->
+<Recharge.label>пополнение</Recharge.label>
+	<!--EN: Go to rechargers and recharge, even if already well-charged. -->
+<Recharge.description>Посещайте зарядные устройства и подзаряжайтесь, даже если уже хорошо заряжены.</Recharge.description>
+	<!--EN: dormant self-charge -->
+<SelfShutdown.label>самозарядка в состоянии покоя</SelfShutdown.label>
+	<!--EN: Go into a dormant self-charging state that very slowly regains energy without a recharger. -->
+<SelfShutdown.description>Переходят в спящее состояние самозарядки, которое очень медленно восстанавливает энергию без подзарядки.</SelfShutdown.description>
+	<!--EN: work -->
+<Work.label>работа</Work.label>
+	<!--EN: Work autonomously according to mechanoid type. Automatically go to rechargers and recharge when needed. -->
+<Work.description>Переходят в спящее состояние самозарядки, которое очень медленно восстанавливает энергию без подзарядки.</Work.description>
+	</LanguageData>

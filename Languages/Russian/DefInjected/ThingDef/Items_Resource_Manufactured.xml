@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+	<!--EN: tox shell -->
+<Bullet_Shell_Tox.label>токсичная оболочка</Bullet_Shell_Tox.label>
+	<!--EN: deathrest capacity serum -->
+<DeathrestCapacitySerum.label>сыворотка Смертного покоя</DeathrestCapacitySerum.label>
+	<!--EN: A serum that permanently increases the number of deathrest buildings a person can connect to during deathrest.\n\nThe serum can only be ingested by individuals with the deathrest gene. -->
+<DeathrestCapacitySerum.description>Сыворотка, которая навсегда увеличивает количество зданий Смертного покоя, к которым человек может подключиться во время Смертного покоя.\n\nСыворотка может быть принята только людьми с геном Смертного покоя.</DeathrestCapacitySerum.description>
+	<!--EN: Ingest {0_label} -->
+<DeathrestCapacitySerum.comps.CompUsable.useLabel>Проглатил {0_label}</DeathrestCapacitySerum.comps.CompUsable.useLabel>
+	<!--EN: nano structuring chip -->
+<NanostructuringChip.label>наноструктурирующий чип</NanostructuringChip.label>
+	<!--EN: A molecular-restructing mechanoid micro-organ. It is necessary to produce certain advanced mechanoids and equipment.\n\nA mechanitor can study this chip to help unlock higher tiers of mechtech research. -->
+<NanostructuringChip.description>Молекулярно-реструктурирующий механоидный микроорганизм. Необходим для производства некоторых продвинутых механоидов и оборудования.\n\n Механизатор может изучить этот чип, чтобы помочь разблокировать более высокие уровни исследований в области мехтехнологий.</NanostructuringChip.description>
+	<!--EN: By studying the {PARENT_label}, {STUDIER_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
+<NanostructuringChip.comps.CompStudiable.completedLetterText>Изучив {PARENT_label}, {STUDIER_labelShort} приобрел понимание, необходимое для исследовательского проекта {RESEARCH}.\n\nВаши исследователи теперь могут использовать исследовательские стенды, чтобы начать изучать, как на самом деле использовать технологию.</NanostructuringChip.comps.CompStudiable.completedLetterText>
+	<!--EN: {PARENT_label} studied: {RESEARCH} unlocked -->
+<NanostructuringChip.comps.CompStudiable.completedLetterTitle>{PARENT_label} изучено: {RESEARCH} разблокировано</NanostructuringChip.comps.CompStudiable.completedLetterTitle>
+	<!--EN: powerfocus chip -->
+<PowerfocusChip.label>чип фокусировки мощности</PowerfocusChip.label>
+	<!--EN: An energy-focusing mechanoid micro-organ. It is necessary to produce certain advanced types of mechanoids and equipment.\n\nA mechanitor can study this chip to help unlock higher tiers of mechtech research. -->
+<PowerfocusChip.description>Механоидный микроорганизм, фокусирующий энергию. Необходим для производства некоторых продвинутых типов механоидов и оборудования.\n\n Механизатор может изучить этот чип, чтобы разблокировать более высокие уровни исследований в области мехтехнологий.</PowerfocusChip.description>
+	<!--EN: By studying the {PARENT_label}, {STUDIER_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
+<PowerfocusChip.comps.CompStudiable.completedLetterText>Изучив {PARENT_label}, {STUDIER_labelShort} приобрел понимание, необходимое для исследовательского проекта {RESEARCH}.\n\nВаши исследователи теперь могут использовать исследовательские стенды, чтобы начать изучать, как на самом деле использовать технологию.</PowerfocusChip.comps.CompStudiable.completedLetterText>
+	<!--EN: {PARENT_label} studied: {RESEARCH} unlocked -->
+<PowerfocusChip.comps.CompStudiable.completedLetterTitle>{PARENT_label} изучено: {RESEARCH} разблокировано</PowerfocusChip.comps.CompStudiable.completedLetterTitle>
+	<!--EN: tox shell -->
+<Shell_Toxic.label>токсичная оболочка</Shell_Toxic.label>
+	<!--EN: An artillery shell containing reagents that, when combined, generate deadly tox gas. When fired, it will stick into the ground and release tox gas for some time before expiring.\n\nTox gas burns the lungs and eyes, causing a temporary shortness of breath and reduction in sight. Continued exposure to tox gas results in toxic buildup that can be lethal. -->
+<Shell_Toxic.description>Артиллерийский снаряд, содержащий реагенты, которые при соединении образуют смертельный токсичный газ. При выстреле снаряд втыкается в землю и в течение некоторого времени выделяет токсичный газ.\n\n\nТоксичный газ обжигает легкие и глаза, вызывая временную одышку и снижение зрения. Продолжительное воздействие токсичного газа приводит к накоплению токсинов, что может привести к летальному исходу.</Shell_Toxic.description>
+	<!--EN: tox shell -->
+<Shell_Toxic_Releasing.label>токсичная оболочка</Shell_Toxic_Releasing.label>
+	<!--EN: tox shell -->
+<Shell_Toxic_Releasing_Water.label>токсичная оболочка</Shell_Toxic_Releasing_Water.label>
+	<!--EN: signal chip -->
+<SignalChip.label>сигнальный чип</SignalChip.label>
+	<!--EN: A mechanoid-band synchronization micro-organ. It is necessary to produce certain advanced types of mechanoids and equipment.\n\nA mechanitor can study this chip to help unlock higher tiers of mechtech research. -->
+<SignalChip.description>Микроорганизм синхронизации механоидов. Необходим для производства некоторых продвинутых типов механоидов и оборудования.\n\n Механизатор может изучить этот чип, чтобы помочь разблокировать более высокие уровни исследований в области мехтехнологий.</SignalChip.description>
+	<!--EN: By studying the {PARENT_label}, {STUDIER_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
+<SignalChip.comps.CompStudiable.completedLetterText>Изучив {PARENT_label}, {STUDIER_labelShort} приобрел понимание, необходимое для исследовательского проекта {RESEARCH}.\n\nВаши исследователи теперь могут использовать исследовательские стенды, чтобы начать изучать, как на самом деле использовать технологию.</SignalChip.comps.CompStudiable.completedLetterText>
+	<!--EN: {PARENT_label} studied: {RESEARCH} unlocked -->
+<SignalChip.comps.CompStudiable.completedLetterTitle>{PARENT_label} изучено: {RESEARCH} разблокировано</SignalChip.comps.CompStudiable.completedLetterTitle>
+	<!--EN: basic subcore -->
+<SubcoreBasic.label>базовый подпроцессор</SubcoreBasic.label>
+	<!--EN: The simplest possible mechanoid brain, this is a tiny psychodynamic substrate unit housing a dull subpersona. Since this is only a basic-tier subcore, it can only drive the simplest of mechanoids.\n\nLike all mechanoid subcores, it contains a subpersona with a psychic presence, albeit a very faint one. -->
+<SubcoreBasic.description>Простейший возможный мозг механоида, это крошечная психодинамическая субстратная единица, содержащая тупую субличность. Поскольку это субъядро базового уровня, оно может управлять только самыми простыми механоидами.\n\nКак и все механоидные субъядра, оно содержит субличность с психическим присутствием, хотя и очень слабым.</SubcoreBasic.description>
+	<!--EN: high subcore -->
+<SubcoreHigh.label>высокоуровневый подпроцессор</SubcoreHigh.label>
+	<!--EN: A high-tier mechanoid brain, this is a psychodynamic substrate unit which supports a sophisticated subpersona. This particular subcore is of the strongest tier, and can power complex ultra-heavy mechanoids.\n\nThe subpersona inside this core approaches a live human in its complexity, though it is of a very different nature. Like any such mind, it has a noticeable psychic presence.\n\nThis subcore could only have been produced by rich pattern transfer from another sophisticated mind. The only way to do this without huge facilities is to ripscan a living person's brain, killing them in the process. -->
+<SubcoreHigh.description>Мозг механоида высокого уровня, это психодинамическая субстратная единица, которая поддерживает сложную субличность. Эта конкретная субличность имеет самый сильный уровень, и может питать сложные сверхтяжелые механоиды.\n\nСубличность внутри этого ядра по своей сложности приближается к живому человеку, хотя и имеет совершенно другую природу. Как и любой подобный разум, она обладает заметным психическим присутствием.\n\n\nЭто ядро могло быть создано только путем переноса богатого шаблона из другого сложного разума. Единственный способ сделать это без огромных мощностей - просканировать мозг живого человека, убив его в процессе.</SubcoreHigh.description>
+	<!--EN: standard subcore -->
+<SubcoreRegular.label>стандартный подпроцессор</SubcoreRegular.label>
+	<!--EN: A standard-tier mechanoid brain, this is a psychodynamic substrate unit supporting a thinking subpersona. This particular subcore is strong enough to drive standard-tier mechanoids.\n\nMechanoids are more than robots, and this is more than a silicon computer. Its thinking, psychically-present subpersona makes it more adaptable than silicon systems. However, this also means it can only be produced by analog pattern transfer from another thinking mind. -->
+<SubcoreRegular.description>Мозг механоида стандартного уровня, это психодинамическая субстратная единица, поддерживающая мыслящую субличность. Эта конкретная субличность достаточно сильна, чтобы управлять механоидами стандартного уровня.\n\nМеханоиды - это больше, чем роботы, а это - больше, чем кремниевый компьютер. Его мыслящая, психически присутствующая субличность делает его более адаптируемым, чем кремниевые системы. Однако это также означает, что он может быть создан только путем аналоговой передачи шаблона от другого мыслящего разума.</SubcoreRegular.description>
+	<!--EN: toxic wastepack -->
+<Wastepack.label>пакет токсичных отходов</Wastepack.label>
+	<!--EN: A compacted package of toxic waste that will slowly dissolve if not frozen. The surface is heat-sealed for safe transport. Wastepacks will pollute the surrounding terrain if they dissolve, deteriorate, or are otherwise destroyed.\n\nToxic wastepacks are flammable. If burned or damaged, they will release tox gas. -->
+<Wastepack.description>Спрессованный пакет с токсичными отходами, которые медленно растворяются, если их не заморозить. Для безопасной транспортировки поверхность запаивается. Пакеты с отходами загрязняют окружающую местность, если они растворяются, разрушаются или уничтожаются иным способом.\n\n\nТоксичные пакеты с отходами легко воспламеняются. При сжигании или повреждении они выделяют токсичный газ.</Wastepack.description>
+	</LanguageData>

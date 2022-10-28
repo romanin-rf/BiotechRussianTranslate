@@ -1,0 +1,21 @@
+﻿<ModMetaData>
+  <name>Biotech Russian Translate</name>
+  <author>Romanin and folyngys</author>
+  <packageId>russian.biotech.rf</packageId>
+  <supportedVersions>
+	<li>1.4</li>
+  </supportedVersions>
+	<incompatibleWith>
+	</incompatibleWith>
+  <description>
+    Русификатор сделан любителем, так что не бейте... сильно... ;3
+
+    Перевод продолжается!!! Если будут неточности, то это я на незавершенную часть сделал перевод из Google Translate.
+  </description>
+  <loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Ideology</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>Ludeon.RimWorld.Biotech</li>
+	</loadAfter>
+</ModMetaData>

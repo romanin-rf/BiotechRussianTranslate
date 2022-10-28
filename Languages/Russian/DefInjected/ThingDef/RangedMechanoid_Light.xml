@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+	<!--EN: shotgun blast -->
+<Bullet_MiniShotgun.label>взрыв ружья</Bullet_MiniShotgun.label>
+	<!--EN: slug -->
+<Bullet_Slugthrower.label>пульт</Bullet_Slugthrower.label>
+	<!--EN: spine -->
+<Bullet_Spiner.label>позвоночник</Bullet_Spiner.label>
+	<!--EN: mini-flameblaster -->
+<Gun_MiniFlameblaster.label>Мини-фламбластер</Gun_MiniFlameblaster.label>
+	<!--EN: A small burst-oriented flamethrower used by mechanoids. -->
+<Gun_MiniFlameblaster.description>Небольшой взрыв, ориентированный на взрыв, используется механоидами.</Gun_MiniFlameblaster.description>
+	<!--EN: barrel -->
+<Gun_MiniFlameblaster.tools.barrel.label>ствол</Gun_MiniFlameblaster.tools.barrel.label>
+	<!--EN: mini-flameblaster -->
+<Gun_MiniFlameblaster.verbs.Verb_SpewFire.label>Мини-фламбластер</Gun_MiniFlameblaster.verbs.Verb_SpewFire.label>
+	<!--EN: mini-shotgun -->
+<Gun_MiniShotgun.label>Мини-шотгун</Gun_MiniShotgun.label>
+	<!--EN: A compact, short-range shotgun designed to be mounted on a light combat mechanoid. -->
+<Gun_MiniShotgun.description>Компактный дробовик с коротким диапазоном, предназначенный для установки на легком боевом механиоде.</Gun_MiniShotgun.description>
+	<!--EN: barrel -->
+<Gun_MiniShotgun.tools.barrel.label>ствол</Gun_MiniShotgun.tools.barrel.label>
+	<!--EN: mini-shotgun -->
+<Gun_MiniShotgun.verbs.Verb_Shoot.label>Мини-шотгун</Gun_MiniShotgun.verbs.Verb_Shoot.label>
+	<!--EN: slugthrower -->
+<Gun_Slugthrower.label>слизняк</Gun_Slugthrower.label>
+	<!--EN: A compact single-shot slug thrower designed to be mounted on a light combat mechanoid. -->
+<Gun_Slugthrower.description>Компактный одноразовый житель, предназначенный для установки на легком боевом механиоде.</Gun_Slugthrower.description>
+	<!--EN: barrel -->
+<Gun_Slugthrower.tools.barrel-0.label>ствол</Gun_Slugthrower.tools.barrel-0.label>
+	<!--EN: barrel -->
+<Gun_Slugthrower.tools.barrel-1.label>ствол</Gun_Slugthrower.tools.barrel-1.label>
+	<!--EN: slugthrower -->
+<Gun_Slugthrower.verbs.Verb_Shoot.label>слизняк</Gun_Slugthrower.verbs.Verb_Shoot.label>
+	<!--EN: spiner -->
+<Gun_Spiner.label>охлаждающий</Gun_Spiner.label>
+	<!--EN: A very small gun used by war urchins which quickly fires spine-like projectiles. It is short-ranged but deadly. -->
+<Gun_Spiner.description>Очень маленький пистолет, используемый военным ежами, который быстро стреляет в спиневые снаряды.Это короткое, но смертельно.</Gun_Spiner.description>
+	<!--EN: barrel -->
+<Gun_Spiner.tools.barrel.label>ствол</Gun_Spiner.tools.barrel.label>
+	<!--EN: spiner -->
+<Gun_Spiner.verbs.Verb_Shoot.label>охлаждающий</Gun_Spiner.verbs.Verb_Shoot.label>
+	</LanguageData>

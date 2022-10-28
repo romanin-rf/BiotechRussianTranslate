@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+	<!--EN: apocriton -->
+<Mech_Apocriton.label>апокритон</Mech_Apocriton.label>
+	<Mech_Apocriton.labelPlural>апокритоны</Mech_Apocriton.labelPlural>
+	<!--EN: legionary -->
+<Mech_Legionary.label>легионер</Mech_Legionary.label>
+	<Mech_Legionary.labelPlural>легионеры</Mech_Legionary.labelPlural>
+	<!--EN: scorcher -->
+<Mech_Scorcher.label>сжигатель</Mech_Scorcher.label>
+	<!--EN: scorchers -->
+<Mech_Scorcher.labelPlural>сжигатели</Mech_Scorcher.labelPlural>
+	<!--EN: tesseron -->
+<Mech_Tesseron.label>тэссерон</Mech_Tesseron.label>
+	<Mech_Tesseron.labelPlural>тэссероны</Mech_Tesseron.labelPlural>
+	</LanguageData>

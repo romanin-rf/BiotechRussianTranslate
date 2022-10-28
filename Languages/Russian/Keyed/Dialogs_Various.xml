@@ -2,319 +2,319 @@
 <LanguageData>
 	<!---->
 	<!--EN: Any mechanitor -->
-<AnyMechanitor>Любой механитор</AnyMechanitor>
+	<AnyMechanitor>Любой механизатор</AnyMechanitor>
 	<!--EN: Summoning the {LEADERKIND_label} threat will summon the following hostile mechanoids:\n\n{PAWNS}\n\nThe mechanoids will arrive in the next few hours or days. Are you ready to fight? -->
-<BossgroupWarningDialog>Призыв {LEADERKIND_label} Угроза вызовет следующие враждебные механоиды: \ n \ n {PAWNS} \ n \ n Механоиды появятся в ближайшие несколько часов или дней.Вы готовы сражаться?</BossgroupWarningDialog>
+	<BossgroupWarningDialog>Вызов угрозы {LEADERKIND_label} вызовет следующих враждебных механоидов:\n\n{PAWNS}\n\nМеханоиды прибудут в ближайшие несколько часов или дней. Готовы ли вы сражаться?</BossgroupWarningDialog>
 	<!--EN: {PAWN_labelShort} is downed. -->
-<MechControllerDowned> {PAWN_labelShort} сбит.</MechControllerDowned>
+	<MechControllerDowned>{PAWN_labelShort} сбит.</MechControllerDowned>
 	<!--EN: {PAWN_labelShort} is a prisoner. -->
-<MechControllerImprisoned> {PAWN_labelShort} это заключенный.</MechControllerImprisoned>
+	<MechControllerImprisoned>{PAWN_labelShort} это заключенный.</MechControllerImprisoned>
 	<!--EN: {PAWN_labelShort} is inside {CONTAINER} -->
-<MechControllerInsideContainer> {PAWN_labelShort} находится внутри {CONTAINER}  </MechControllerInsideContainer>
+	<MechControllerInsideContainer>{PAWN_labelShort} находится внутри {CONTAINER}</MechControllerInsideContainer>
 	<!--EN: {PAWN_labelShort} has insufficient bandwidth -->
-<MechControllerInsufficientBandwidth> {PAWN_labelShort} имеет недостаточную полосу пропускания</MechControllerInsufficientBandwidth>
+	<MechControllerInsufficientBandwidth>{PAWN_labelShort} имеет недостаточную полосу пропускания</MechControllerInsufficientBandwidth>
 	<!--EN: {PAWN_labelShort} is in a '{MENTALSTATE_label}' mental state. -->
-<MechControllerMentalState> {PAWN_labelShort} в {MENTALSTATE_label} ' психическое состояние.</MechControllerMentalState>
+	<MechControllerMentalState>(Перевод в работе)</MechControllerMentalState>
 	<!--EN: Do you really want to permanently disassemble {0}?\n\nPermanently disassembling {0} will recover -->
-<ConfirmDisassemblingMech>Вы действительно хотите навсегда разобрать {0} ? \ n \ npermanly разборка {0} восстановится</ConfirmDisassemblingMech>
+	<ConfirmDisassemblingMech>(Перевод в работе)</ConfirmDisassemblingMech>
 	<!--EN: A mechanitor must be capable of smithing to create mechanoids\n\nAre you sure you want to continue? -->
-<ConfirmInstallMechlink>Механитор должен быть способен нанести удар по созданию механоидов \ n \ nare, которые вы уверены, что хотите продолжить?</ConfirmInstallMechlink>
+	<ConfirmInstallMechlink>(Перевод в работе)</ConfirmInstallMechlink>
 	<!--EN: insufficient bandwidth -->
-<InsufficientBandwidth>Недостаточная полоса пропускания</InsufficientBandwidth>
+	<InsufficientBandwidth>Недостаточная полоса пропускания</InsufficientBandwidth>
 	<!--Недостаточная полоса пропускания-->
 	<!--EN: Gestation cycles completed -->
-<GestationCyclesCompleted>Циклы беременности завершены</GestationCyclesCompleted>
+	<GestationCyclesCompleted>Циклы беременности завершены</GestationCyclesCompleted>
 	<!--EN: Gathered ingredients -->
-<FormerIngredients>Собраны ингредиенты</FormerIngredients>
+	<FormerIngredients>Собраны ингредиенты</FormerIngredients>
 	<!--Собраны ингредиенты-->
 	<!--EN: Ripscanning {PAWN_nameDef} will kill {PAWN_objective}. Are you sure you want to continue? -->
-<ConfirmRipscanPawn>Ripscanning {PAWN_nameDef} убьет {PAWN_objective} АнкетВы уверены что хотите продолжить?</ConfirmRipscanPawn>
+	<ConfirmRipscanPawn>Ripscanning {PAWN_nameDef} убьет {PAWN_objective} АнкетВы уверены что хотите продолжить?</ConfirmRipscanPawn>
 	<!--Ripscanning {PAWN_nameDef} убьет {PAWN_objective} АнкетВы уверены что хотите продолжить?-->
 	<!--EN: Assemble genes -->
-<AssembleGenes>Соберите гены</AssembleGenes>
+	<AssembleGenes>Соберите гены</AssembleGenes>
 	<!--EN: Create xenotype -->
-<CreateXenotype>Создать ксенотип</CreateXenotype>
+	<CreateXenotype>Создать ксенотип</CreateXenotype>
 	<!--EN: Select icon -->
-<SelectIcon>Выберите значок</SelectIcon>
+	<SelectIcon>Выберите значок</SelectIcon>
 	<!--EN: The icon of this xenotype. -->
-<SelectIconDesc>Иконка этого ксенотипа.</SelectIconDesc>
+	<SelectIconDesc>Иконка этого ксенотипа.</SelectIconDesc>
 	<!--EN: Inspect the genes inside the {0_labelShort}. -->
-<InspectGenesDesc>Осмотрите гены внутри {0_labelShort} Анкет</InspectGenesDesc>
+	<InspectGenesDesc>Осмотрите гены внутри {0_labelShort} Анкет</InspectGenesDesc>
 	<!--EN: Inspect the unborn baby's genes. -->
-<InspectGenesHediffDesc>Осмотрите гены нерожденного ребенка.</InspectGenesHediffDesc>
+	<InspectGenesHediffDesc>Осмотрите гены нерожденного ребенка.</InspectGenesHediffDesc>
 	<!--EN: Inspect the embryo's genes. -->
-<InspectGenesEmbryoDesc>Осмотрите гены эмбриона.</InspectGenesEmbryoDesc>
+	<InspectGenesEmbryoDesc>Осмотрите гены эмбриона.</InspectGenesEmbryoDesc>
 	<!--EN: No genepacks -->
-<NoGenePacks>Нет генов</NoGenePacks>
+	<NoGenePacks>Нет генов</NoGenePacks>
 	<!--EN: Start combining -->
-<StartCombining>Начните объединять</StartCombining>
+	<StartCombining>Начните объединять</StartCombining>
 	<!--EN: Selected genepacks -->
-<SelectedGenepacks>Выбранные гены</SelectedGenepacks>
+	<SelectedGenepacks>Выбранные гены</SelectedGenepacks>
 	<!--EN: Genepack library -->
-<GenepackLibrary>Библиотека Genepack</GenepackLibrary>
+	<GenepackLibrary>Библиотека Genepack</GenepackLibrary>
 	<!--EN: Click to add or remove -->
-<ClickToAddOrRemove>Нажмите, чтобы добавить или удалить</ClickToAddOrRemove>
+	<ClickToAddOrRemove>Нажмите, чтобы добавить или удалить</ClickToAddOrRemove>
 	<!--EN: Click to add -->
-<ClickToAdd>Нажмите, чтобы добавить</ClickToAdd>
+	<ClickToAdd>Нажмите, чтобы добавить</ClickToAdd>
 	<!--EN: Click to remove -->
-<ClickToRemove>Нажмите, чтобы удалить</ClickToRemove>
+	<ClickToRemove>Нажмите, чтобы удалить</ClickToRemove>
 	<!--EN: Select xenogerm -->
-<SelectXenogerm>Выберите Xenogerm</SelectXenogerm>
+	<SelectXenogerm>Выберите Xenogerm</SelectXenogerm>
 	<!--EN: Warning: {PAWN_nameDef}'s genes are currently regrowing. If {PAWN_pronoun} implants {PAWN_possessive} xenogerm before {PAWN_possessive} genes are fully regrown, it will kill {PAWN_objective}.\n\nAre you sure you wish to continue? -->
-<WarningPawnWillDieFromReimplanting>Предупреждение: {PAWN_nameDef} Гены в настоящее время отражаются.Если {PAWN_pronoun} имплантаты {PAWN_possessive} Ксеногмер раньше {PAWN_possessive} Гены полностью восстановлены, это убьет {PAWN_objective} . \ n \ nar вы уверены, что хотите продолжить?</WarningPawnWillDieFromReimplanting>
+	<WarningPawnWillDieFromReimplanting>Предупреждение: {PAWN_nameDef} Гены в настоящее время отражаются.Если {PAWN_pronoun} имплантаты {PAWN_possessive} Ксеногмер раньше {PAWN_possessive} Гены полностью восстановлены, это убьет {PAWN_objective} . \ n \ nar вы уверены, что хотите продолжить?</WarningPawnWillDieFromReimplanting>
 	<!--EN: Not enough archite capsules. -->
-<NotEnoughArchites>Недостаточно архитовых капсул.</NotEnoughArchites>
+	<NotEnoughArchites>Недостаточно архитовых капсул.</NotEnoughArchites>
 	<!--EN: Xenogenes are genes derived from an implanted xenogerm. If the xenogerm is removed or replaced, the xenogenes go with it. Since xenogenes are not part of the organism's own germline DNA, they are not passed to children. -->
-<XenogenesDesc>Ксеногены представляют собой гены, полученные из имплантированной ксеногмы.Если ксеногмер удаляется или заменяется, ксеногены идут с ним.Поскольку Xenogenes не является частью собственной ДНК зародышевой линии организма, они не передаются детям.</XenogenesDesc>
+	<XenogenesDesc>Ксеногены представляют собой гены, полученные из имплантированной ксеногмы.Если ксеногмер удаляется или заменяется, ксеногены идут с ним.Поскольку Xenogenes не является частью собственной ДНК зародышевой линии организма, они не передаются детям.</XenogenesDesc>
 	<!--EN: Germline genes are naturally-inherited genes which are in every cell in an organism's body and don't require any external support. They are passed from parent to child. -->
-<EndogenesDesc>Гены зародышевой линии являются естественными занашибленными генами, которые находятся в каждой клетке в организме тела и не требуют никакой внешней поддержки.Они передаются от родителя к ребенку.</EndogenesDesc>
+	<EndogenesDesc>Гены зародышевой линии являются естественными занашибленными генами, которые находятся в каждой клетке в организме тела и не требуют никакой внешней поддержки.Они передаются от родителя к ребенку.</EndogenesDesc>
 	<!--EN: Member xenotypes -->
-<MemberXenotypeChances>Член ксенотипов</MemberXenotypeChances>
+	<MemberXenotypeChances>Член ксенотипов</MemberXenotypeChances>
 	<!--EN: xenotype name -->
-<XenotypeName>Имя ксенотипа</XenotypeName>
+	<XenotypeName>Имя ксенотипа</XenotypeName>
 	<!--EN: Lock or unlock the xenotype's name. When locked, the xenotype name will not auto-regenerate when genepacks are added or removed. -->
-<LockNameButtonDesc>Заблокируйте или разблокируйте имя ксенотипа.При заблокировании имя ксенотипа не будет автоматическим, когда генепаки добавляются или удаляются.</LockNameButtonDesc>
+	<LockNameButtonDesc>Заблокируйте или разблокируйте имя ксенотипа.При заблокировании имя ксенотипа не будет автоматическим, когда генепаки добавляются или удаляются.</LockNameButtonDesc>
 	<!--EN: Xenotype name lock is on. Xenotype name will not regenerate when adding or removing genepacks. -->
-<LockNameOn>Ксенотип имени блокировка включена.Имя ксенотипа не будет регенерировать при добавлении или удалении генов.</LockNameOn>
+	<LockNameOn>Ксенотип имени блокировка включена.Имя ксенотипа не будет регенерировать при добавлении или удалении генов.</LockNameOn>
 	<!--EN: Xenotype name lock is off. Xenotype name will regenerate when adding or removing genepacks. -->
-<LockNameOff>Имя ксенотипа заблокирован.Название ксенотипа будет регенерировать при добавлении или удалении генов.</LockNameOff>
+	<LockNameOff>Имя ксенотипа заблокирован.Название ксенотипа будет регенерировать при добавлении или удалении генов.</LockNameOff>
 	<!--EN: Creating xenogerm -->
-<CreatingXenogerm>Создание ксеногерма</CreatingXenogerm>
+	<CreatingXenogerm>Создание ксеногерма</CreatingXenogerm>
 	<!--EN: This genepack is contained in an unpowered genebank. If added, production on the xenogerm will be suspended until power is restored. -->
-<GenepackUnusableGenebankUnpowered>Этот генепак содержится в неопровержимом Genebank.Если добавлено, производство на ксеногмерне будет приостановлено до восстановления питания.</GenepackUnusableGenebankUnpowered>
+	<GenepackUnusableGenebankUnpowered>Этот генепак содержится в неопровержимом Genebank.Если добавлено, производство на ксеногмерне будет приостановлено до восстановления питания.</GenepackUnusableGenebankUnpowered>
 	<!--EN: This xenogerm requires more genetic complexity than the gene assembler and nearby powered gene processors can support. -->
-<GeneProcessorUnpowered>Этот ксеногмер требует большей генетической сложности, чем могут поддержать ген -ассемблер и близлежащие процессоры генов.</GeneProcessorUnpowered>
+	<GeneProcessorUnpowered>Этот ксеногмер требует большей генетической сложности, чем могут поддержать ген -ассемблер и близлежащие процессоры генов.</GeneProcessorUnpowered>
 	<!--EN: Estimated recombination time -->
-<RecombineDuration>Расчетное время рекомбинации</RecombineDuration>
+	<RecombineDuration>Расчетное время рекомбинации</RecombineDuration>
 	<!--EN: How long it would take for an average worker to combine the selected genes into a xenogerm. Recombination time increases with the total complexity of the genes in the xenogerm. -->
-<RecombineDurationDesc>Сколько времени потребуется среднему работнику, чтобы объединить выбранные гены в ксеногмер.Время рекомбинации увеличивается с общей сложностью генов в ксеногере.</RecombineDurationDesc>
+	<RecombineDurationDesc>Сколько времени потребуется среднему работнику, чтобы объединить выбранные гены в ксеногмер.Время рекомбинации увеличивается с общей сложностью генов в ксеногере.</RecombineDurationDesc>
 	<!--EN: You must research {0_label} before you can assemble a xenogerm that requires archite capsules. -->
-<MustResearchProject>Вы должны исследовать {0_label} Прежде чем вы сможете собрать ксеногмер, которая требует архитовых капсул.</MustResearchProject>
+	<MustResearchProject>Вы должны исследовать {0_label} Прежде чем вы сможете собрать ксеногмер, которая требует архитовых капсул.</MustResearchProject>
 	<!--EN: Assembling xenogerms with archite genes requires {0_label} research. -->
-<AssemblingRequiresResearch>Сборка ксеногрм с архивыми генами требует {0_label} исследовательская работа.</AssemblingRequiresResearch>
+	<AssemblingRequiresResearch>Сборка ксеногрм с архивыми генами требует {0_label} исследовательская работа.</AssemblingRequiresResearch>
 	<!--EN: You are currently combining a {XENOGERMNAME} xenogerm. If you start combining a new xenogerm, it will cancel your current xenogerm.\n\nAre you sure you want to continue? -->
-<ConfirmStartNewXenogerm>В настоящее время вы объединяете {XENOGERMNAME} ксеногмер.Если вы начнете объединять новый ксеногмер, это отменит ваш текущий ксеногмер. \ N \ nare вы уверены, что хотите продолжить?</ConfirmStartNewXenogerm>
+	<ConfirmStartNewXenogerm>В настоящее время вы объединяете {XENOGERMNAME} ксеногмер.Если вы начнете объединять новый ксеногмер, это отменит ваш текущий ксеногмер. \ N \ nare вы уверены, что хотите продолжить?</ConfirmStartNewXenogerm>
 	<!--EN: Select at least one gene to randomize a name for this xenotype. -->
-<SelectAGeneToRandomizeName>Выберите хотя бы один ген, чтобы рандомизировать имя для этого ксенотипа.</SelectAGeneToRandomizeName>
+	<SelectAGeneToRandomizeName>Выберите хотя бы один ген, чтобы рандомизировать имя для этого ксенотипа.</SelectAGeneToRandomizeName>
 	<!--EN: Select at least one gene to choose a name for this xenotype. -->
-<SelectAGeneToChooseAName>Выберите хотя бы один ген, чтобы выбрать имя для этого ксенотипа.</SelectAGeneToChooseAName>
+	<SelectAGeneToChooseAName>Выберите хотя бы один ген, чтобы выбрать имя для этого ксенотипа.</SelectAGeneToChooseAName>
 	<!--Выберите хотя бы один ген, чтобы выбрать имя для этого ксенотипа.-->
 	<!--EN: Inspect genes -->
-<InspectGenes>Осмотрите гены</InspectGenes>
+	<InspectGenes>Осмотрите гены</InspectGenes>
 	<!--EN: Inspect baby genes -->
-<InspectBabyGenes>Осмотрите детские гены</InspectBabyGenes>
+	<InspectBabyGenes>Осмотрите детские гены</InspectBabyGenes>
 	<!--EN: no xenogerm implanted -->
-<NoXenogermImplanted>Ксеногмер имплантирована</NoXenogermImplanted>
+	<NoXenogermImplanted>Ксеногмер имплантирована</NoXenogermImplanted>
 	<!--EN: germline genes -->
-<Endogenes>гены зародышевой линии</Endogenes>
+	<Endogenes>гены зародышевой линии</Endogenes>
 	<!--EN: xenogenes -->
-<Xenogenes>Xenogenes</Xenogenes>
+	<Xenogenes>Xenogenes</Xenogenes>
 	<!--EN: overridden -->
-<Overridden>переопределенный</Overridden>
+	<Overridden>переопределенный</Overridden>
 	<!--EN: Overridden by xenogene -->
-<OverriddenByGene>Переопределяется ксеногеном</OverriddenByGene>
+	<OverriddenByGene>Переопределяется ксеногеном</OverriddenByGene>
 	<!--EN: Overridden by identical gene -->
-<OverriddenByIdenticalGene>Переопределенный идентичным геном</OverriddenByIdenticalGene>
+	<OverriddenByIdenticalGene>Переопределенный идентичным геном</OverriddenByIdenticalGene>
 	<!--EN: More information is available on this xenotype's information screen. -->
-<MoreInfoInInfoScreen>Более подробная информация доступна на этом экране информации о ксенотипе.</MoreInfoInInfoScreen>
+	<MoreInfoInInfoScreen>Более подробная информация доступна на этом экране информации о ксенотипе.</MoreInfoInInfoScreen>
 	<!--EN: Takes effect after age -->
-<TakesEffectAfterAge>Вступает в силу после возраста</TakesEffectAfterAge>
+	<TakesEffectAfterAge>Вступает в силу после возраста</TakesEffectAfterAge>
 	<!--Вступает в силу после возраста-->
 	<!--EN: Xenotype editor -->
-<XenotypeEditor>Ксенотип редактор</XenotypeEditor>
+	<XenotypeEditor>Ксенотип редактор</XenotypeEditor>
 	<!--EN: Any (non-archite) -->
-<AnyNonArchite>Любой (не архит)</AnyNonArchite>
+	<AnyNonArchite>Любой (не архит)</AnyNonArchite>
 	<!--EN: Selected genes -->
-<SelectedGenes>Выбранные гены</SelectedGenes>
+	<SelectedGenes>Выбранные гены</SelectedGenes>
 	<!--EN: custom -->
-<Custom>обычай</Custom>
+	<Custom>обычай</Custom>
 	<!--EN: hybrid -->
-<Hybrid>гибридный</Hybrid>
+	<Hybrid>гибридный</Hybrid>
 	<!--EN: Genes are heritable -->
-<GenesAreInheritable>Гены наследственные</GenesAreInheritable>
+	<GenesAreInheritable>Гены наследственные</GenesAreInheritable>
 	<!--EN: Whether or not this xenotype can be passed on to children. -->
-<GenesAreInheritableXenotypeDef>Может ли этот ксенотип передать детям.</GenesAreInheritableXenotypeDef>
+	<GenesAreInheritableXenotypeDef>Может ли этот ксенотип передать детям.</GenesAreInheritableXenotypeDef>
 	<!--EN: All genes in this xenotype can be passed on to children. -->
-<GenesAreInheritableDesc>Все гены в этом ксенотипе могут быть переданы детям.</GenesAreInheritableDesc>
+	<GenesAreInheritableDesc>Все гены в этом ксенотипе могут быть переданы детям.</GenesAreInheritableDesc>
 	<!--EN: For each individual, one of the following genes will be randomly selected to be active -->
-<GeneWillBeRandomChosen>Для каждого человека один из следующих генов будет выбран случайным образом, чтобы быть активным</GeneWillBeRandomChosen>
+	<GeneWillBeRandomChosen>Для каждого человека один из следующих генов будет выбран случайным образом, чтобы быть активным</GeneWillBeRandomChosen>
 	<!--EN: This gene is incompatible with other genes in this xenotype. Only one of these genes will be active -->
-<GeneIncompatibleDesc>Этот ген несовместим с другими генами в этом ксенотипе.Только один из этих генов будет активен</GeneIncompatibleDesc>
+	<GeneIncompatibleDesc>Этот ген несовместим с другими генами в этом ксенотипе.Только один из этих генов будет активен</GeneIncompatibleDesc>
 	<!--EN: Of the following genes, the left-most one will always apply and the others are suppressed -->
-<GeneLeftmostActive>Из следующих генов всегда будет применяться, а другие подавлены</GeneLeftmostActive>
+	<GeneLeftmostActive>Из следующих генов всегда будет применяться, а другие подавлены</GeneLeftmostActive>
 	<!--EN: Of the following genes, only one will apply and the others will be suppressed -->
-<GeneOneActive>Из следующих генов будет применяться только один, а другие будут подавлены</GeneOneActive>
+	<GeneOneActive>Из следующих генов будет применяться только один, а другие будут подавлены</GeneOneActive>
 	<!--EN: Changing xenotype will randomize this colonist.\n\nContinue anyway? -->
-<WarnChangingXenotypeWillRandomizePawn>Изменение ксенотипа будет рандомизировать этот колонист. \ N \ ncontinue в любом случае?</WarnChangingXenotypeWillRandomizePawn>
+	<WarnChangingXenotypeWillRandomizePawn>Изменение ксенотипа будет рандомизировать этот колонист. \ N \ ncontinue в любом случае?</WarnChangingXenotypeWillRandomizePawn>
 	<!--EN: Delete this xenotype. -->
-<DeleteThisXenotype>Удалить этот ксенотип.</DeleteThisXenotype>
+	<DeleteThisXenotype>Удалить этот ксенотип.</DeleteThisXenotype>
 	<!--EN: Ignore restrictions -->
-<IgnoreRestrictions>Игнорировать ограничения</IgnoreRestrictions>
+	<IgnoreRestrictions>Игнорировать ограничения</IgnoreRestrictions>
 	<!--EN: Created xenotypes have no biostat limits. Genes requiring archite capsules can be added. -->
-<IgnoreRestrictionsDesc>Созданные ксенотипы не имеют ограничений биостата.Гены, требующие архитовых капсул, могут быть добавлены.</IgnoreRestrictionsDesc>
+	<IgnoreRestrictionsDesc>Созданные ксенотипы не имеют ограничений биостата.Гены, требующие архитовых капсул, могут быть добавлены.</IgnoreRestrictionsDesc>
 	<!--EN: This xenotype breaks normal gameplay limits -->
-<XenotypeBreaksLimits>Этот ксенотип нарушает нормальные ограничения игрового процесса</XenotypeBreaksLimits>
+	<XenotypeBreaksLimits>Этот ксенотип нарушает нормальные ограничения игрового процесса</XenotypeBreaksLimits>
 	<!--EN: It contains archite genes and is inheritable, but archite genes are usually never inheritable. -->
-<XenotypeBreaksLimits_Archites>Он содержит архиты генов и является наследственным, но архиты, как правило, никогда не наследуют.</XenotypeBreaksLimits_Archites>
+	<XenotypeBreaksLimits_Archites>Он содержит архиты генов и является наследственным, но архиты, как правило, никогда не наследуют.</XenotypeBreaksLimits_Archites>
 	<!--EN: {STAT} is {VALUE}, which exceeds the normal limit of {MAX}. -->
-<XenotypeBreaksLimits_Exceeds> {STAT} является {VALUE} , что превышает нормальный предел {MAX} Анкет</XenotypeBreaksLimits_Exceeds>
+	<XenotypeBreaksLimits_Exceeds> {STAT} является {VALUE} , что превышает нормальный предел {MAX} Анкет</XenotypeBreaksLimits_Exceeds>
 	<!--EN: {STAT} is {VALUE}, which is below the normal limit of {MIN}. -->
-<XenotypeBreaksLimits_Below> {STAT} является {VALUE} , что ниже нормального предела {MIN} Анкет</XenotypeBreaksLimits_Below>
+	<XenotypeBreaksLimits_Below> {STAT} является {VALUE} , что ниже нормального предела {MIN} Анкет</XenotypeBreaksLimits_Below>
 	<!--EN: Save anyway? -->
-<SaveAnyway>Сохрани?</SaveAnyway>
+	<SaveAnyway>Сохранить?</SaveAnyway>
 	<!--EN: Ignoring restrictions allows you to create impossible gene combinations by exceeding biostat limits. It also gives you access to powerful archite genes, which can make the game very easy.\n\nAre you sure you want to ignore restrictions? -->
-<IgnoreRestrictionsConfirmation>Игнорирование ограничений позволяет создавать невозможные комбинации генов, превышая ограничения биостата.Это также дает вам доступ к мощным архитовым генам, которые могут сделать игру очень легкой. \ N \ nar Вы уверены, что хотите игнорировать ограничения?</IgnoreRestrictionsConfirmation>
+	<IgnoreRestrictionsConfirmation>Игнорирование ограничений позволяет создавать невозможные комбинации генов, превышая ограничения биостата.Это также дает вам доступ к мощным архитовым генам, которые могут сделать игру очень легкой. \ N \ nar Вы уверены, что хотите игнорировать ограничения?</IgnoreRestrictionsConfirmation>
 	<!--EN: Colonists will always be within this developmental stage's age range when generated. -->
-<DevelopmentalAgeSelectionDesc>Колонисты всегда будут находиться в возрастном диапазоне этой стадии развития при получении.</DevelopmentalAgeSelectionDesc>
+	<DevelopmentalAgeSelectionDesc>Колонисты всегда будут находиться в возрастном диапазоне этой стадии развития при получении.</DevelopmentalAgeSelectionDesc>
 	<!--EN: Colonists will always carry the genes defined by this xenotype. -->
-<XenotypeSelectionDesc>Колонисты всегда будут нести гены, определенные этим ксенотипом.</XenotypeSelectionDesc>
+	<XenotypeSelectionDesc>Колонисты всегда будут нести гены, определенные этим ксенотипом.</XenotypeSelectionDesc>
 	<!--EN: Save and apply -->
-<SaveAndApply>Сохраните и примените</SaveAndApply>
+	<SaveAndApply>Сохранить и применить</SaveAndApply>
 	<!--EN: Load custom -->
-<LoadCustom>Загрузите обычай</LoadCustom>
+	<LoadCustom>Загрузить пользовательский шаблон</LoadCustom>
 	<!--EN: Load premade -->
-<LoadPremade>Нагрузка готова</LoadPremade>
+	<LoadPremade>Загрузить готовый шаблон</LoadPremade>
 	<!--EN: Genes conflict -->
-<GenesConflict>Гены конфликт</GenesConflict>
+	<GenesConflict>Конфликт генов</GenesConflict>
 	<!--EN: {FIRST_label}, {SECOND_label} -->
-<GenesConflictDesc> {FIRST_label} В {SECOND_label}  </GenesConflictDesc>
+	<GenesConflictDesc>{FIRST_label} В {SECOND_label}</GenesConflictDesc>
 	<!-- {FIRST_label} В {SECOND_label}  -->
 	<!--EN: Load template -->
-<LoadXenogermTemplate>Нагрузочный шаблон</LoadXenogermTemplate>
+	<LoadXenogermTemplate>Загрузить шаблон</LoadXenogermTemplate>
 	<!--EN: Save template -->
-<SaveXenogermTemplate>Сохранить шаблон</SaveXenogermTemplate>
+	<SaveXenogermTemplate>Сохранить шаблон</SaveXenogermTemplate>
 	<!--EN: Cannot save a template with no {0}. -->
-<CannotSaveXenogermTemplate>Не может сохранить шаблон без {0} Анкет</CannotSaveXenogermTemplate>
+	<CannotSaveXenogermTemplate>Невозможно сохранить шаблон без {0}.</CannotSaveXenogermTemplate>
 	<!--EN: {NAME} template saved -->
-<XenogermTemplateSaved> {NAME} Шаблон сохранил</XenogermTemplateSaved>
+	<XenogermTemplateSaved>Шаблон {NAME} сохранён</XenogermTemplateSaved>
 	<!--EN: Missing {COUNT} genepacks for {NAME} template. -->
-<MissingGenepacksForXenogerm>Отсутствующий {COUNT} гены для {NAME} шаблон.</MissingGenepacksForXenogerm>
+	<MissingGenepacksForXenogerm>Отсутствуют пакеты генов {COUNT} для шаблона {NAME}.</MissingGenepacksForXenogerm>
 	<!--EN: Missing genepack for {NAME} template -->
-<MissingGenepackForXenogerm>Отсутствует Genepack для {NAME} шаблон</MissingGenepackForXenogerm>
+	<MissingGenepackForXenogerm>Отсутствует пакет генов для шаблона {NAME}</MissingGenepackForXenogerm>
 	<!--EN: Delete this xenogerm. -->
-<DeleteThisXenogerm>Удалить этот ксеногмер.</DeleteThisXenogerm>
+	<DeleteThisXenogerm>Удалите этот ксеногерм.</DeleteThisXenogerm>
 	<!--Удалить этот ксеногмер.-->
 	<!--EN: Select at least one child or adult. -->
-<ChooseChildOrAdult>Выберите хотя бы одного ребенка или взрослого.</ChooseChildOrAdult>
+	<ChooseChildOrAdult>Выберите хотя бы одного ребенка или взрослого.</ChooseChildOrAdult>
 	<!--Выберите хотя бы одного ребенка или взрослого.-->
 	<!--EN: Waking {PAWN_nameDef} before {MINDURATION} has passed will interrupt {PAWN_possessive} deathrest, leaving {PAWN_objective} sick for days while {PAWN_pronoun} recovers. Waking early means {PAWN_nameDef} will not benefit from any deathrest buildings. {PAWN_pronoun} has been deathresting for {CURDURATION}.\n\nAre you sure you wish to wake {PAWN_nameDef}? -->
-<WarningWakingInterruptsDeathrest>Пробуждение {PAWN_nameDef} до {MINDURATION} Прошел, прерывает {PAWN_possessive} Смерть, уходя {PAWN_objective} больной в течение нескольких дней {PAWN_pronoun} восстанавливается.Пробуждение ранним средствами {PAWN_nameDef} не выиграет от каких -либо зданий Deathrest. {PAWN_pronoun} был смертью для {CURDURATION} . \ n \ nar, вы уверены, что хотите проснуться {PAWN_nameDef} ?</WarningWakingInterruptsDeathrest>
+	<WarningWakingInterruptsDeathrest>Пробуждение {PAWN_nameDef} до истечения {MINDURATION} прервет {PAWN_possessive} смертного покоя, оставив {PAWN_objective} больным на несколько дней, пока {PAWN_pronoun} восстанавливается. Раннее пробуждение означает, что {PAWN_nameDef} не получит преимущества от любых зданий смертного покоя. {PAWN_pronoun} был в состоянии смертного покоя в течение {CURDURATION}.\n\nВы уверены, что хотите разбудить {PAWN_nameDef}?</WarningWakingInterruptsDeathrest>
 	<!--Пробуждение {PAWN_nameDef} до {MINDURATION} Прошел, прерывает {PAWN_possessive} Смерть, уходя {PAWN_objective} больной в течение нескольких дней {PAWN_pronoun} восстанавливается.Пробуждение ранним средствами {PAWN_nameDef} не выиграет от каких -либо зданий Deathrest. {PAWN_pronoun} был смертью для {CURDURATION} . \ n \ nar, вы уверены, что хотите проснуться {PAWN_nameDef} ?-->
 	<!--EN: {0} wounds tended -->
-<NumWoundsTended> {0} раны ухаживали</NumWoundsTended>
+	<NumWoundsTended>{0} раны обработаны</NumWoundsTended>
 	<!-- {0} раны ухаживали-->
 	<!--EN: Weight class -->
-<MechWeightClass>Весовая категория</MechWeightClass>
+	<MechWeightClass>Весовая категория</MechWeightClass>
 	<!--EN: The weight class of this mech. -->
-<MechWeightClassExplanation>Весовая категория этого меха.</MechWeightClassExplanation>
+	<MechWeightClassExplanation>Весовая категория этого меха.</MechWeightClassExplanation>
 	<!--EN: This mech's overseer is {0}. -->
-<MechOverseer>Надзиратель этого меха {0} Анкет</MechOverseer>
+	<MechOverseer>Смотритель этого меха - {0}.</MechOverseer>
 	<!--EN: Work activities -->
-<MechWorkActivities>Рабочая деятельность</MechWorkActivities>
+	<MechWorkActivities>Рабочая деятельность</MechWorkActivities>
 	<!--EN: The work activities that can be performed by this mechanoid.\n\nThe following list details which work activities can be done within each work type -->
-<MechWorkActivitiesExplanation>Рабочие действия, которые могут быть выполнены этим механоидом.</MechWorkActivitiesExplanation>
+	<MechWorkActivitiesExplanation>Рабочие действия, которые могут быть выполнены данным механоидом.\n\nСледующий список подробно описывает, какие рабочие действия могут быть выполнены в рамках каждого типа работ</MechWorkActivitiesExplanation>
 	<!--EN: Recharge settings -->
-<MechRechargeSettingsTitle>Настройки перезарядки</MechRechargeSettingsTitle>
+	<MechRechargeSettingsTitle>Настройки перезарядки</MechRechargeSettingsTitle>
 	<!--EN: Change when mechanoids will start and stop charging.\n\nMechanoids with energy below this range will automatically seek out a recharger. They will stop charging once they reach the top of this range. These settings only apply in work mode. -->
-<MechRechargeSettingsExplanation>Изменения, когда механоиды запускают и прекратят зарядку. \ N \ nmechanoids с энергией ниже этого диапазона автоматически искать перезарядка.Они перестанут заряжаться, как только достигнут вершины этого диапазона.Эти настройки применяются только в рабочем режиме.</MechRechargeSettingsExplanation>
+	<MechRechargeSettingsExplanation>Изменить время начала и окончания зарядки механоидов.\n\nМеханоиды с энергией ниже этого диапазона будут автоматически искать зарядное устройство. Они перестанут заряжаться, как только достигнут верхней границы этого диапазона. Эти настройки применяются только в рабочем режиме.</MechRechargeSettingsExplanation>
 	<!--EN: Work skill -->
-<MechWorkSkill>Рабочий навык</MechWorkSkill>
+	<MechWorkSkill>Рабочий навык</MechWorkSkill>
 	<!--EN: The skill level that this mechanoid acts with. -->
-<MechWorkSkillDesc>Уровень мастерства, с которым действует этот механоид.</MechWorkSkillDesc>
+	<MechWorkSkillDesc>Уровень мастерства, с которым действует этот механоид.</MechWorkSkillDesc>
 	<!--EN: Any mech -->
-<AnyMech>Любой мех</AnyMech>
+	<AnyMech>Любой мех</AnyMech>
 	<!--EN: Your caravan contains a mechanoid but not their overseer. You will have limited control over the mechanoid when you reach your destination. -->
-<CaravanLacksMechMechanitorWarning>Ваш караван содержит механоид, но не их надзиратель.У вас будет ограниченный контроль над механизмом, когда вы достигнете пункта назначения.</CaravanLacksMechMechanitorWarning>
+	<CaravanLacksMechMechanitorWarning>Ваш караван содержит механоид, но не их надзиратель.У вас будет ограниченный контроль над механизмом, когда вы достигнете пункта назначения.</CaravanLacksMechMechanitorWarning>
 	<!--EN: Mechanoids -->
-<MechsSection>Механоиды</MechsSection>
+	<MechsSection>Механоиды</MechsSection>
 	<!--Механоиды-->
 	<!--EN: Rename mech -->
-<RenameMech>Переименовать Мех</RenameMech>
+	<RenameMech>Переименовать Мех</RenameMech>
 	<!--EN: The mech's name is now {0}. -->
-<MechGainsName>Имя меха сейчас {0} Анкет</MechGainsName>
+	<MechGainsName>Имя меха сейчас {0} Анкет</MechGainsName>
 	<!--EN: {FATHER_nameDef} is {MOTHER_nameDef}'s {RELATION}. There's a {CHANCE} chance that the resulting baby will have genetic abnormalities due to inbreeding.\n\nAre you sure you want to continue? -->
-<FertilizeOvumInbredChance> {FATHER_nameDef} является {MOTHER_nameDef} S. {RELATION} АнкетЕсть {CHANCE} Вероятность того, что получающуюся ребенок будет иметь генетические аномалии из -за инбридинга. \ n \ nar Вы уверены, что хотите продолжить?</FertilizeOvumInbredChance>
+	<FertilizeOvumInbredChance> {FATHER_nameDef} является {MOTHER_nameDef} S. {RELATION} АнкетЕсть {CHANCE} Вероятность того, что получающуюся ребенок будет иметь генетические аномалии из -за инбридинга. \ n \ nar Вы уверены, что хотите продолжить?</FertilizeOvumInbredChance>
 	<!--EN: {PAWN_nameDef} is pregnant. Implanting an IUD while {PAWN_pronoun} is in {PAWN_possessive} first trimester of pregnancy will terminate the pregnancy.\n\nAre you sure you want to continue? -->
-<ConfirmationPawnPregnancyTerminated> {PAWN_nameDef} беременна.Имплантирование ВМС, пока {PAWN_pronoun} в {PAWN_possessive} Первый триместр беременности прекратит беременность. \ N \ nar, вы уверены, что хотите продолжить?</ConfirmationPawnPregnancyTerminated>
+	<ConfirmationPawnPregnancyTerminated> {PAWN_nameDef} беременна.Имплантирование ВМС, пока {PAWN_pronoun} в {PAWN_possessive} Первый триместр беременности прекратит беременность. \ N \ nar, вы уверены, что хотите продолжить?</ConfirmationPawnPregnancyTerminated>
 	<!-- {PAWN_nameDef} беременна.Имплантирование ВМС, пока {PAWN_pronoun} в {PAWN_possessive} Первый триместр беременности прекратит беременность. \ N \ nar, вы уверены, что хотите продолжить?-->
 	<!--EN: This tile is near polluted tiles, so there will be an acidic smog here roughly every {0} days. Acidic smog slows plant growth, deteriorates exposed items, and makes people unhappy. -->
-<ConfirmSettleNearPollution>Эта плитка находится рядом с загрязненной плитой, поэтому здесь будет кислотный смог примерно каждый {0} дниКислотный смог замедляет рост растений, ухудшает открытые предметы и делает людей несчастными.</ConfirmSettleNearPollution>
+	<ConfirmSettleNearPollution>Эта плитка находится рядом с загрязненной плитой, поэтому здесь будет кислотный смог примерно каждый {0} дниКислотный смог замедляет рост растений, ухудшает открытые предметы и делает людей несчастными.</ConfirmSettleNearPollution>
 	<!--Эта плитка находится рядом с загрязненной плитой, поэтому здесь будет кислотный смог примерно каждый {0} дниКислотный смог замедляет рост растений, ухудшает открытые предметы и делает людей несчастными.-->
 	<!--EN: {PAWN_nameDef} is away. -->
-<PawnIsAway> {PAWN_nameDef} вдали.</PawnIsAway>
+	<PawnIsAway> {PAWN_nameDef} вдали.</PawnIsAway>
 	<!--EN: {PAWN1_nameDef} and {PAWN2_nameDef} are the same gender. -->
-<PawnsHaveSameGender> {PAWN1_nameDef} а также {PAWN2_nameDef} один и тот же пол.</PawnsHaveSameGender>
+	<PawnsHaveSameGender> {PAWN1_nameDef} а также {PAWN2_nameDef} один и тот же пол.</PawnsHaveSameGender>
 	<!--EN: {PAWN1_nameDef} and {PAWN2_nameDef} are sterile. -->
-<PawnsAreSterile> {PAWN1_nameDef} а также {PAWN2_nameDef} стерильны.</PawnsAreSterile>
+	<PawnsAreSterile> {PAWN1_nameDef} а также {PAWN2_nameDef} стерильны.</PawnsAreSterile>
 	<!--EN: {PAWN_nameDef} is sterile. -->
-<PawnIsSterile> {PAWN_nameDef} это стерильно.</PawnIsSterile>
+	<PawnIsSterile> {PAWN_nameDef} это стерильно.</PawnIsSterile>
 	<!--EN: {PAWN1_nameDef} and {PAWN2_nameDef} are infertile. -->
-<PawnsAreInfertile> {PAWN1_nameDef} а также {PAWN2_nameDef} являются бесплодными.</PawnsAreInfertile>
+	<PawnsAreInfertile> {PAWN1_nameDef} а также {PAWN2_nameDef} являются бесплодными.</PawnsAreInfertile>
 	<!--EN: {PAWN_nameDef} is infertile. -->
-<PawnIsInfertile> {PAWN_nameDef} бесплодный.</PawnIsInfertile>
+	<PawnIsInfertile> {PAWN_nameDef} бесплодный.</PawnIsInfertile>
 	<!--EN: {PAWN1_nameDef} and {PAWN2_nameDef} are too young to have children. -->
-<PawnsAreTooYoung> {PAWN1_nameDef} а также {PAWN2_nameDef} слишком молоды, чтобы иметь детей.</PawnsAreTooYoung>
+	<PawnsAreTooYoung> {PAWN1_nameDef} а также {PAWN2_nameDef} слишком молоды, чтобы иметь детей.</PawnsAreTooYoung>
 	<!--EN: {PAWN_nameDef} is too young to have children. -->
-<PawnIsTooYoung> {PAWN_nameDef} слишком молод, чтобы иметь детей.</PawnIsTooYoung>
+	<PawnIsTooYoung> {PAWN_nameDef} слишком молод, чтобы иметь детей.</PawnIsTooYoung>
 	<!--EN: {PAWN_nameDef} is dead. -->
-<PawnIsDead> {PAWN_nameDef} мертв.</PawnIsDead>
+	<PawnIsDead> {PAWN_nameDef} мертв.</PawnIsDead>
 	<!--EN: Placing {PAWN_nameDef} into cryptosleep will strain {PAWN_possessive} psychic bond with {BOND_nameDef}, causing stress to both partners.\n\nAre you sure you want to continue? -->
-<PsychicBondDistanceWillBeActive_Cryptosleep>Размещение {PAWN_nameDef} в Cryptosleep будет напрягаться {PAWN_possessive} психическая связь с {BOND_nameDef} , вызывая стресс обоим партнерам. \ n \ nar вы уверены, что хотите продолжить?</PsychicBondDistanceWillBeActive_Cryptosleep>
+	<PsychicBondDistanceWillBeActive_Cryptosleep>Размещение {PAWN_nameDef} в Cryptosleep будет напрягаться {PAWN_possessive} психическая связь с {BOND_nameDef} , вызывая стресс обоим партнерам. \ n \ nar вы уверены, что хотите продолжить?</PsychicBondDistanceWillBeActive_Cryptosleep>
 	<!--EN: Someone in this caravan is psychically bonded by their partner is not coming with them. These people will be stressed if separated from their bond-partners -->
-<PsychicBondDistanceWillBeActive_Caravan>Кто -то в этом караване психически связан их партнером, не идет с ними.Эти люди будут подчеркнуты, если они будут отделены от своих партнеров по связям</PsychicBondDistanceWillBeActive_Caravan>
+	<PsychicBondDistanceWillBeActive_Caravan>Кто -то в этом караване психически связан их партнером, не идет с ними.Эти люди будут подчеркнуты, если они будут отделены от своих партнеров по связям</PsychicBondDistanceWillBeActive_Caravan>
 	<!--EN: partner {0_nameFull} -->
-<Partner>партнер {0_nameFull}  </Partner>
+	<Partner>партнер {0_nameFull}  </Partner>
 	<!--EN: Choose mech accent color -->
-<ChooseMechAccentColor>Выберите Mech Accent Color</ChooseMechAccentColor>
+	<ChooseMechAccentColor>Выберите Mech Accent Color</ChooseMechAccentColor>
 	<!--Выберите Mech Accent Color-->
 	<!--EN: {0} squeals a string of curses into the microphone and disconnects. -->
-<PigFactionGreetingHostile> {0} визжает ряд проклятий в микрофон и отключается.</PigFactionGreetingHostile>
+	<PigFactionGreetingHostile> {0} визжает ряд проклятий в микрофон и отключается.</PigFactionGreetingHostile>
 	<!--EN: Oinking angrily, {0} demands that you make a gesture of unity, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nSnorting an insult, {0_pronoun} disconnects. -->
-<PigFactionGreetingHostileAppreciative>Серьезное, {0} требует, чтобы вы сделали жест единства, например, принести подарки в один из {0_possessive} поселения или выпуск {0_possessive} Факционные заключенные невредимы.До тех пор, {0_pronoun} не желает говорить. {0_pronoun} отключается.</PigFactionGreetingHostileAppreciative>
+	<PigFactionGreetingHostileAppreciative>Серьезное, {0} требует, чтобы вы сделали жест единства, например, принести подарки в один из {0_possessive} поселения или выпуск {0_possessive} Факционные заключенные невредимы.До тех пор, {0_pronoun} не желает говорить. {0_pronoun} отключается.</PigFactionGreetingHostileAppreciative>
 	<!--EN: {0} oinks a greeting and asks what business you need done. -->
-<PigFactionGreetingWary> {0} Поздравил и спрашивает, какой бизнес вам нужен.</PigFactionGreetingWary>
+	<PigFactionGreetingWary> {0} Поздравил и спрашивает, какой бизнес вам нужен.</PigFactionGreetingWary>
 	<!--EN: Oinking enthusiastically, {0} greets {NEGOTIATOR_labelShort} and asks what {LEADER_pronoun} can do to help you. -->
-<PigFactionGreetingWarm>С энтузиазмом, {0} Приветствует {NEGOTIATOR_labelShort} и спрашивает что {LEADER_pronoun} может помочь вам.</PigFactionGreetingWarm>
+	<PigFactionGreetingWarm>С энтузиазмом, {0} Приветствует {NEGOTIATOR_labelShort} и спрашивает что {LEADER_pronoun} может помочь вам.</PigFactionGreetingWarm>
 	<!--EN: {0} agrees to send pigskin fighters to help you. -->
-<PigMilitaryAidSent> {0} соглашается отправить бойцов свиньи, чтобы помочь вам.</PigMilitaryAidSent>
+	<PigMilitaryAidSent> {0} соглашается отправить бойцов свиньи, чтобы помочь вам.</PigMilitaryAidSent>
 	<!--EN: {0} roars into the microphone and disconnects. -->
-<YttakinFactionGreetingHostile> {0} Ревет в микрофон и отключается.</YttakinFactionGreetingHostile>
+	<YttakinFactionGreetingHostile> {0} Ревет в микрофон и отключается.</YttakinFactionGreetingHostile>
 	<!--EN: Growling under {0_possessive} breath, {0} demands that you make a gesture of friendship, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nSnarling an insult, {0_pronoun} disconnects. -->
-<YttakinFactionGreetingHostileAppreciative>Рычание под {0_possessive} дыхание, {0} требует, чтобы вы сделали жест дружбы, например, принести подарки в один из {0_possessive} поселения или выпуск {0_possessive} Факционные заключенные невредимы.До тех пор, {0_pronoun} не желает говорить. \ n \ nsnarling оскорбление, {0_pronoun} отключается.</YttakinFactionGreetingHostileAppreciative>
+	<YttakinFactionGreetingHostileAppreciative>Рычание под {0_possessive} дыхание, {0} требует, чтобы вы сделали жест дружбы, например, принести подарки в один из {0_possessive} поселения или выпуск {0_possessive} Факционные заключенные невредимы.До тех пор, {0_pronoun} не желает говорить. \ n \ nsnarling оскорбление, {0_pronoun} отключается.</YttakinFactionGreetingHostileAppreciative>
 	<!--EN: {0} grumbles a greeting to {NEGOTIATOR_labelShort} and asks why you are calling. -->
-<YttakinFactionGreetingWary> {0} ворчать {NEGOTIATOR_labelShort} и спрашивает, почему вы звоните.</YttakinFactionGreetingWary>
+	<YttakinFactionGreetingWary> {0} ворчать {NEGOTIATOR_labelShort} и спрашивает, почему вы звоните.</YttakinFactionGreetingWary>
 	<!--EN: {0} bellows a friendly greeting and asks what {LEADER_pronoun} can do to help you. -->
-<YttakinFactionGreetingWarm> {0} Бесполезное приветствие и спрашивает, что спрашивает {LEADER_pronoun} может помочь вам.</YttakinFactionGreetingWarm>
+	<YttakinFactionGreetingWarm> {0} Бесполезное приветствие и спрашивает, что спрашивает {LEADER_pronoun} может помочь вам.</YttakinFactionGreetingWarm>
 	<!--EN: {0} grunts angrily and disconnects. -->
-<NeanderthalFactionGreetingHostile> {0} Грэнд сердито и отключается.</NeanderthalFactionGreetingHostile>
+	<NeanderthalFactionGreetingHostile> {0} Грэнд сердито и отключается.</NeanderthalFactionGreetingHostile>
 	<!--EN: {0} grunts aggressively. Until you make a gesture of goodwill, {0_pronoun} will not do business with you. You can improve relations through a number of activities, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed.\n\n{0_pronoun} disconnects abruptly. -->
-<NeanderthalFactionGreetingHostileAppreciative> {0} ворчает агрессивно.Пока вы не сделаете жест доброй воли, {0_pronoun} не будет вести с вами дело.Вы можете улучшить отношения с помощью ряда мероприятий, таких как подарки в один из {0_possessive} поселения или выпуск {0_possessive} Факционные заключенные невредимыми. \ n \ n {0_pronoun} отключается внезапно.</NeanderthalFactionGreetingHostileAppreciative>
+	<NeanderthalFactionGreetingHostileAppreciative> {0} ворчает агрессивно.Пока вы не сделаете жест доброй воли, {0_pronoun} не будет вести с вами дело.Вы можете улучшить отношения с помощью ряда мероприятий, таких как подарки в один из {0_possessive} поселения или выпуск {0_possessive} Факционные заключенные невредимыми. \ n \ n {0_pronoun} отключается внезапно.</NeanderthalFactionGreetingHostileAppreciative>
 	<!--EN: {0} grunts a greeting. -->
-<NeanderthalFactionGreetingWary> {0} Приветствует приветствие.</NeanderthalFactionGreetingWary>
+	<NeanderthalFactionGreetingWary> {0} Приветствует приветствие.</NeanderthalFactionGreetingWary>
 	<!--EN: {0} grunts a warm greeting to {NEGOTIATOR_labelShort}. -->
-<NeanderthalFactionGreetingWarm> {0} ворчать теплым приветствием {NEGOTIATOR_labelShort} Анкет</NeanderthalFactionGreetingWarm>
+	<NeanderthalFactionGreetingWarm> {0} ворчать теплым приветствием {NEGOTIATOR_labelShort} Анкет</NeanderthalFactionGreetingWarm>
 	<!--EN: Max tier -->
-<MaxTier>Максимальный уровень</MaxTier>
+	<MaxTier>Максимальный уровень</MaxTier>
 	<!--EN: {PAWN_nameDef} has accumulated the maximum number of growth points. -->
-<MaxTierDesc> {PAWN_nameDef} накопил максимальное количество точек роста.</MaxTierDesc>
+	<MaxTierDesc> {PAWN_nameDef} накопил максимальное количество точек роста.</MaxTierDesc>
 	<!--EN: Progress to next growth tier -->
-<ProgressToNextGrowthTier>Переход к следующему уровню роста</ProgressToNextGrowthTier>
+	<ProgressToNextGrowthTier>Переход к следующему уровню роста</ProgressToNextGrowthTier>
 	<!--EN: This growth tier -->
-<ThisGrowthTier>Этот уровень роста</ThisGrowthTier>
+	<ThisGrowthTier>Этот уровень роста</ThisGrowthTier>
 	<!--EN: Next growth tier -->
-<NextGrowthTier>Следующий уровень роста</NextGrowthTier>
+	<NextGrowthTier>Следующий уровень роста</NextGrowthTier>
 	<!--EN: Choose {0} passions from {1} options. -->
-<NumPassionsFromOptions>Выбирать {0} Страсти от {1} опции.</NumPassionsFromOptions>
+	<NumPassionsFromOptions>Выбирать {0} Страсти от {1} опции.</NumPassionsFromOptions>
 	<!--EN: Choose {0} trait from {1} options. -->
-<NumTraitsFromOptions>Выбирать {0} черта от {1} опции.</NumTraitsFromOptions>
+	<NumTraitsFromOptions>Выбирать {0} черта от {1} опции.</NumTraitsFromOptions>
 	<!--EN: Next growth moment at age -->
-<NextGrowthMomentAt>Следующий момент роста в возрасте</NextGrowthMomentAt>
+	<NextGrowthMomentAt>Следующий момент роста в возрасте</NextGrowthMomentAt>
 	<!--EN: no biotech buildings allowed -->
-<RoomRequirementNoBiotechBuildings>биотехнологические здания не допускаются</RoomRequirementNoBiotechBuildings>
+	<RoomRequirementNoBiotechBuildings>биотехнологические здания не допускаются</RoomRequirementNoBiotechBuildings>
 	<!--EN: Bloodfeeding on {PAWN_nameDef} will result in serious blood loss, leaving {PAWN_objective} unconscious.\n\nAre you sure? -->
-<WarningPawnWillHaveSeriousBloodlossFromBloodfeeding>Кровавый кормление {PAWN_nameDef} приведет к серьезной кровопотере, оставив {PAWN_objective} бессознательный.</WarningPawnWillHaveSeriousBloodlossFromBloodfeeding>
+	<WarningPawnWillHaveSeriousBloodlossFromBloodfeeding>Кровавый кормление {PAWN_nameDef} приведет к серьезной кровопотере, оставив {PAWN_objective} бессознательный.</WarningPawnWillHaveSeriousBloodlossFromBloodfeeding>
 	<!--EN: Bloodfeeding on {PAWN_nameDef} will kill {PAWN_objective}.\n\nAre you sure? -->
-<WarningPawnWillDieFromBloodfeeding>Кровавый кормление {PAWN_nameDef} убьет {PAWN_objective} . \ n \ nar Вы уверены?</WarningPawnWillDieFromBloodfeeding>
+	<WarningPawnWillDieFromBloodfeeding>Кровавый кормление {PAWN_nameDef} убьет {PAWN_objective} . \ n \ nar Вы уверены?</WarningPawnWillDieFromBloodfeeding>
 	<!--EN: {0_labelShort} must have a tendable wound. -->
-<AbilityMustHaveTendableWound> {0_labelShort} Должен иметь склонную рану.</AbilityMustHaveTendableWound>
-	</LanguageData>
+	<AbilityMustHaveTendableWound> {0_labelShort} Должен иметь склонную рану.</AbilityMustHaveTendableWound>
+</LanguageData>

@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 	<!--EN: killed a child -->
-<KilledChild.stages.killed_a_child.label>убил ребенка</KilledChild.stages.killed_a_child.label>
+<KilledChild.stages.killed_a_child.label>Убил ребёнка</KilledChild.stages.killed_a_child.label>
 	<!--EN: Killing one so young feels wrong, no matter the situation. -->
-<KilledChild.stages.killed_a_child.description>Убийство одного молодого чувствует себя неправильно, независимо от ситуации.</KilledChild.stages.killed_a_child.description>
+<KilledChild.stages.killed_a_child.description>Убийство такого маленького ребёнка кажется неправильным, независимо от ситуации.</KilledChild.stages.killed_a_child.description>
 	<!--EN: killed my birth mother -->
-<KilledMyBirthMother.stages.killed_my_birth_mother.label>убил мою родную мать</KilledMyBirthMother.stages.killed_my_birth_mother.label>
+<KilledMyBirthMother.stages.killed_my_birth_mother.label>Убил родную мать</KilledMyBirthMother.stages.killed_my_birth_mother.label>
 	<!--EN: my birth mother {0} died -->
-<MyBirthMotherDied.stages.my_birth_mother_died.label>моя родная мать {0} умер</MyBirthMotherDied.stages.my_birth_mother_died.label>
+<MyBirthMotherDied.stages.my_birth_mother_died.label>Родная мать {0} умерла</MyBirthMotherDied.stages.my_birth_mother_died.label>
 	<!--EN: My birth mother died. She's gone forever. It's like a hole in my life. -->
-<MyBirthMotherDied.stages.my_birth_mother_died.description>Моя родная мать умерла.Она ушла навсегда.Это как дыра в моей жизни.</MyBirthMotherDied.stages.my_birth_mother_died.description>
+<MyBirthMotherDied.stages.my_birth_mother_died.description>Моя родная мать умерла. Она ушла навсегда. Это как пустота, которую нельзя ничем заполнить до конца жизни.</MyBirthMotherDied.stages.my_birth_mother_died.description>
 	<!--EN: my birth mother {0} lost -->
-<MyBirthMotherLost.stages.my_birth_mother_lost.label>моя родная мать {0} потерял</MyBirthMotherLost.stages.my_birth_mother_lost.label>
+<MyBirthMotherLost.stages.my_birth_mother_lost.label>Родная мать {0} пропала</MyBirthMotherLost.stages.my_birth_mother_lost.label>
 	<!--EN: My birth mother has been lost. I hope she will get back to us someday. -->
-<MyBirthMotherLost.stages.my_birth_mother_lost.description>Моя родная мать была потеряна.Я надеюсь, что она когда -нибудь вернется к нам.</MyBirthMotherLost.stages.my_birth_mother_lost.description>
+<MyBirthMotherLost.stages.my_birth_mother_lost.description>Моя родная мать исчезла. Я надеюсь, что она когда-нибудь вернётся к нам.</MyBirthMotherLost.stages.my_birth_mother_lost.description>
 	</LanguageData>

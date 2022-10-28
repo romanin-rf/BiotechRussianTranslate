@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
+
+<!-- ? Сомнительно -->
+
 <LanguageData>
 	<!--EN: Mote -->
-<Mote_Toy.label>Мот</Mote_Toy.label>
-	</LanguageData>
+	<Mote_Toy.label>Мот</Mote_Toy.label>
+</LanguageData>

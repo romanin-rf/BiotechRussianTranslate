@@ -1,10 +1,14 @@
 # Biotech Russian Translate
 ## Описание
 Русский перевод для DLC RimWorld Biotech.
+## Выпуск версий
+- v0.8.5 (1-2 ноября)
+   - Надо закончить с [Languages/Russian/DefInjected/ThingDef](https://github.com/romanin-rf/BiotechRussianTranslate/tree/main/Languages/Russian/DefInjected/ThingDef)
+
 ## Что не сделано
-- [Languages/Russian/DefInjected/ThingDef](https://github.com/romanin-rf/BiotechRussianTranslate/tree/main/Languages/Russian/DefInjected/ThingDef) (там нужно смотреть какие конкретно файлы - не переведены)
-- [Languages/Russian/DefInjected/ThoughtDef](https://github.com/romanin-rf/BiotechRussianTranslate/tree/main/Languages/Russian/DefInjected/ThoughtDef)
-- [Languages/Russian/Keyed](https://github.com/romanin-rf/BiotechRussianTranslate/tree/main/Languages/Russian/Keyed)
+1. [Languages/Russian/DefInjected/ThingDef](https://github.com/romanin-rf/BiotechRussianTranslate/tree/main/Languages/Russian/DefInjected/ThingDef) (там нужно смотреть какие конкретно файлы - не переведены)
+2. [Languages/Russian/DefInjected/ThoughtDef](https://github.com/romanin-rf/BiotechRussianTranslate/tree/main/Languages/Russian/DefInjected/ThoughtDef)
+3. [Languages/Russian/Keyed](https://github.com/romanin-rf/BiotechRussianTranslate/tree/main/Languages/Russian/Keyed)
 
 ## Объяснение комментариев
 |  Комментарий  |  Приорeтет  |            Описание          |

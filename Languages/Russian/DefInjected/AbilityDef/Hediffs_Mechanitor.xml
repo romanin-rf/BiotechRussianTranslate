@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 	<!--EN: remote repair -->
-<RemoteRepair.label>Дистанционный ремонт</RemoteRepair.label>
+	<RemoteRepair.label>Дистанционный ремонт</RemoteRepair.label>
 	<!--EN: Remotely repair a mech. The mechanitor links with the mech and uses their brain to provide detailed guidance for its self-repair mechanites beyond its own psychic capacity. This allows the mech to make progress in rapidly healing damage. -->
-<RemoteRepair.description>Дистанционный ремонт мехов. Механизатор связывается с мехом и использует его мозг для детального руководства самовосстанавливающимися механитами, превышающего его собственные психические возможности. Это позволяет меху добиться прогресса в быстром заживлении повреждений.</RemoteRepair.description>
+	<RemoteRepair.description>Дистанционный ремонт мехов. Механизатор связывается с мехом и использует его мозг для детального руководства самовосстанавливающимися механитами, превышающего его собственные психические возможности. Это позволяет меху добиться прогресса в быстром заживлении повреждений.</RemoteRepair.description>
 	<!--EN: remote shield -->
-<RemoteShield.label>Дистанционный щит</RemoteShield.label>
+	<RemoteShield.label>Дистанционный щит</RemoteShield.label>
 	<!--EN: Remotely project a personal defense shield onto a mech. The shield stops incoming damage, but also prevents shooting out, so this can be useful even when cast on enemies. The mechanitor must continuously focus on the mech in order to maintain the shield. -->
-<RemoteShield.description>Дистанционно проецирует щит индивидуальной защиты на мех. Щит останавливает входящий урон, но также предотвращает отстрел, поэтому он может быть полезен даже при наведении на врагов. Механизатор должен постоянно концентрироваться на мехе, чтобы поддерживать щит.</RemoteShield.description>
-	</LanguageData>
+	<RemoteShield.description>Дистанционно проецирует щит индивидуальной защиты на мех. Щит останавливает входящий урон, но также предотвращает отстрел, поэтому он может быть полезен даже при наведении на врагов. Механизатор должен постоянно концентрироваться на мехе, чтобы поддерживать щит.</RemoteShield.description>
+</LanguageData>

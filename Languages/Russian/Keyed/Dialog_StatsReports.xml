@@ -1,109 +1,110 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 	<!--EN: Relevant genes -->
-<StatsReport_Genes>Соответствующие гены</StatsReport_Genes>
+	<StatsReport_Genes>Соответствующие гены</StatsReport_Genes>
 	<!--EN: in sunlight -->
-<StatsReport_InSunlight>в солнечном свете</StatsReport_InSunlight>
+	<StatsReport_InSunlight>при солнечном свете</StatsReport_InSunlight>
 	<!--EN: clothed -->
-<StatsReport_Clothed>одетый</StatsReport_Clothed>
+	<StatsReport_Clothed>одетый</StatsReport_Clothed>
 	<!--EN: unclothed -->
-<StatsReport_Unclothed>разделит</StatsReport_Unclothed>
+	<StatsReport_Unclothed>без одежды</StatsReport_Unclothed>
 	<!--EN: Required weight class -->
-<StatsReport_RechargerWeightClass>Требуется весовая категория</StatsReport_RechargerWeightClass>
+	<StatsReport_RechargerWeightClass>Требуемая весовая категория</StatsReport_RechargerWeightClass>
 	<!--EN: The weight class of mechanoid which can use this recharger. The following mechanoids are compatible -->
-<StatsReport_RechargerWeightClass_Desc>Весовая категория механоида, которая может использовать этот перезарядчик.Следующие механоиды совместимы</StatsReport_RechargerWeightClass_Desc>
+	<StatsReport_RechargerWeightClass_Desc>Весовой класс механоида, который может использовать это зарядное устройство. Следующие механоиды совместимы</StatsReport_RechargerWeightClass_Desc>
 	<!--EN: Recharger needed -->
-<StatsReport_RechargerNeeded>Зарядка необходимо</StatsReport_RechargerNeeded>
+	<StatsReport_RechargerNeeded>Требуется подзарядное устройство</StatsReport_RechargerNeeded>
 	<!--EN: The type of recharger that this mechanoid can use to recover energy. This is based on the mechanoid's weight class. -->
-<StatsReport_RechargerNeeded_Desc>Тип перезарядка, который этот механоид может использовать для восстановления энергии.Это основано на весовой категории механоида.</StatsReport_RechargerNeeded_Desc>
+	<StatsReport_RechargerNeeded_Desc>Тип перезарядного устройства, которое этот механоид может использовать для восстановления энергии. Это зависит от весовой категории механоида.</StatsReport_RechargerNeeded_Desc>
 	<!--EN: Deathrest effectiveness -->
-<StatsReport_DeathrestEffectiveness>Эффективность смерти</StatsReport_DeathrestEffectiveness>
+	<StatsReport_DeathrestEffectiveness>Эффективность смертного покоя</StatsReport_DeathrestEffectiveness>
 	<!--EN: A multiplier on how effective this is when used for deathrest. The higher this is, the less time a user needs to deathrest here. -->
-<StatsReport_DeathrestEffectiveness_Desc>Множитель о том, насколько это эффективно, когда используется для Deathrest.Чем выше это, тем меньше времени пользователю нужно Deathrest здесь.</StatsReport_DeathrestEffectiveness_Desc>
+	<StatsReport_DeathrestEffectiveness_Desc>Множитель, показывающий, насколько эффективно это место при использовании для смертного покоя. Чем он выше, тем меньше времени требуется пользователю для смертного покоя.</StatsReport_DeathrestEffectiveness_Desc>
 	<!--EN: Deathrest connection limit -->
-<StatsReport_DeathrestConnectionLimit>Ограничение соединения Deathrest</StatsReport_DeathrestConnectionLimit>
+	<StatsReport_DeathrestConnectionLimit>Ограничение на соединение смертного покоя</StatsReport_DeathrestConnectionLimit>
 	<!--EN: How many of these buildings can connect to a deathrester while deathresting. This number is also limited by the person's deathrest capacity. -->
-<StatsReport_DeathrestConnectionLimit_Desc>Сколько из этих зданий может соединиться с смертельным выходом во время смерти.Это число также ограничено способностью смерти человека.</StatsReport_DeathrestConnectionLimit_Desc>
+	<StatsReport_DeathrestConnectionLimit_Desc>Сколько таких зданий может подключиться к "смертнику" во время смертного покоя. Это количество также ограничено способностью смертного покоя человека.</StatsReport_DeathrestConnectionLimit_Desc>
 	<!--EN: Growth tier -->
-<StatsReport_GrowthTier>Уровень роста</StatsReport_GrowthTier>
+	<StatsReport_GrowthTier>Уровень роста</StatsReport_GrowthTier>
 	<!--EN: Children progress through growth tiers over time. The higher the learning need, the faster the progress. When a growth moment comes (at age 7, 10, and 13), the child's growth tier determines how many trait and passion options you can choose from. Growth tier resets after each growth moment. -->
-<StatsReport_GrowthTierDesc>Дети прогрессируют через уровни роста со временем.Чем выше потребность в обучении, тем быстрее прогресс.Когда наступает момент роста (в возрасте 7, 10 и 13 лет), уровень роста ребенка определяет, сколько черт и вариантов страсти вы можете выбрать.Уровень роста сбрасывается после каждого момента роста.</StatsReport_GrowthTierDesc>
+	<StatsReport_GrowthTierDesc>С течением времени дети продвигаются по ступеням роста. Чем выше потребность в обучении, тем быстрее прогресс. Когда наступает момент роста (в возрасте 7, 10 и 13 лет), уровень роста ребенка определяет, сколько вариантов черт характера и увлечений вы можете выбрать. Ярус роста сбрасывается после каждого момента роста.</StatsReport_GrowthTierDesc>
 	<!--EN: Life stage -->
-<StatsReport_DevelopmentStage>Этап жизни</StatsReport_DevelopmentStage>
+	<StatsReport_DevelopmentStage>Этап жизни</StatsReport_DevelopmentStage>
 	<!--EN: A baby. Babies cannot move on their own. Their life revolves around the simple needs of food, sleep, and play. When they giggle, nearby adults' moods are lifted, and when they cry, nearby adults are annoyed.\n\nAt age 3, human babies become children. -->
-<StatsReport_DevelopmentStageDesc_Baby>Ребенок.Младенцы не могут двигаться самостоятельно.Их жизнь вращается вокруг простых потребностей еды, сна и игры.Когда они хихикают, настроение близлежащих взрослых поднимается, и когда они плачут, близлежащие взрослые раздражаются. \ N \ nat в возрасте 3 лет, люди становятся детьми.</StatsReport_DevelopmentStageDesc_Baby>
+	<StatsReport_DevelopmentStageDesc_Baby>Ребенок. Младенцы не могут передвигаться самостоятельно. Их жизнь вращается вокруг простых потребностей в еде, сне и игре. Когда они хихикают, настроение у окружающих взрослых поднимается, а когда они плачут, окружающие взрослые раздражаются.\n\nВ возрасте трех лет человеческие младенцы становятся детьми.</StatsReport_DevelopmentStageDesc_Baby>
 	<!--EN: A child. In general, children are slower and less skilled than adults. However, children have a natural optimism. When their mood is high, this optimism can raise the mood of adult colonists.\n\nChildren can do various types of work, depending on their age -->
-<StatsReport_DevelopmentStageDesc_ChildPart1>Ребенок.В целом, дети медленнее и менее квалифицированы, чем взрослые.Тем не менее, дети имеют естественный оптимизм.Когда их настроение высокое, этот оптимизм может повысить настроение взрослых колонистов.</StatsReport_DevelopmentStageDesc_ChildPart1>
+	<StatsReport_DevelopmentStageDesc_ChildPart1>Ребенок. В целом, дети более медлительны и менее опытны, чем взрослые. Однако дети обладают природным оптимизмом. Когда их настроение высоко, этот оптимизм может поднять настроение взрослых колонистов.\n\nДети могут выполнять различные виды работ, в зависимости от их возраста</StatsReport_DevelopmentStageDesc_ChildPart1>
 	<!--EN: As a child ages, they will gain additional passions and traits.\n\nChildren have various child-specific learning needs and require special child-sized apparel.\n\nAt age 13, human children become adults. -->
-<StatsReport_DevelopmentStageDesc_ChildPart2>В возрасте возраста, они получат дополнительные увлечения и признаки.</StatsReport_DevelopmentStageDesc_ChildPart2>
+	<StatsReport_DevelopmentStageDesc_ChildPart2>По мере взросления у ребенка появляются дополнительные увлечения и черты характера.\n\nДети имеют различные специфические потребности в обучении и нуждаются в специальной детской одежде.\n\nВ 13 лет человеческие дети становятся взрослыми.</StatsReport_DevelopmentStageDesc_ChildPart2>
 	<!--EN: An adult. Human adults fully mature at the age of 18. -->
-<StatsReport_DevelopmentStageDesc_Adult>Взрослый.Взрослые люди полностью созревают в возрасте 18 лет.</StatsReport_DevelopmentStageDesc_Adult>
+	<StatsReport_DevelopmentStageDesc_Adult>Взрослый. Взрослые люди полностью созревают в возрасте 18 лет.</StatsReport_DevelopmentStageDesc_Adult>
 	<!--EN: Multiplier for pollution -->
-<StatsReport_Pollution>Множитель для загрязнения</StatsReport_Pollution>
+	<StatsReport_Pollution>Множитель для загрязнения</StatsReport_Pollution>
 	<!--EN: Age factor -->
-<StatsReport_FertilityAgeFactor>Возраст</StatsReport_FertilityAgeFactor>
+	<StatsReport_FertilityAgeFactor>Возрастной фактор</StatsReport_FertilityAgeFactor>
 	<!--EN: Has {0_label} gene -->
-<StatsReport_HasGene>Имеет {0_label} ген</StatsReport_HasGene>
+	<StatsReport_HasGene>Имеет ген {0_label}</StatsReport_HasGene>
 	<!--EN: A person of the {0} xenotype.\n\nAbout {0}s: -->
-<StatsReport_NonBaselinerDescription>Человек {0} Xenotype. \ n \ nabout {0} S:</StatsReport_NonBaselinerDescription>
+	<StatsReport_NonBaselinerDescription>Человек ксенотипа {0}.\n\nОколо {0}с:</StatsReport_NonBaselinerDescription>
 	<!--EN: Lifestage -->
-<Stat_Thing_Apparel_ValidLifestage>Этап жизни</Stat_Thing_Apparel_ValidLifestage>
+	<Stat_Thing_Apparel_ValidLifestage>Продолжительность жизни</Stat_Thing_Apparel_ValidLifestage>
 	<!--EN: Certain apparel requires that the wearer be within a specific age range. -->
-<Stat_Thing_Apparel_ValidLifestage_Desc>Определенная одежда требует, чтобы владелец находился в пределах определенного возрастного диапазона.</Stat_Thing_Apparel_ValidLifestage_Desc>
+	<Stat_Thing_Apparel_ValidLifestage_Desc>Некоторые виды одежды требуют, чтобы их носитель находился в определенном возрастном диапазоне.</Stat_Thing_Apparel_ValidLifestage_Desc>
 	<!--EN: Connected {0} -->
-<StatsReport_Connected>Связано {0}  </StatsReport_Connected>
+	<StatsReport_Connected>Подключено {0}</StatsReport_Connected>
 	<!--EN: Effects -->
-<Effects>Последствия</Effects>
+	<Effects>Эффекты</Effects>
 	<!--EN: A multiplier on chance of having a romantic relationship with someone who does not have this gene. -->
-<StatsReport_MissingGeneRomanceChance>Мультипликатор на шанс иметь романтические отношения с кем -то, у кого нет этого гена.</StatsReport_MissingGeneRomanceChance>
+	<StatsReport_MissingGeneRomanceChance>Множитель шансов на романтические отношения с человеком, у которого нет этого гена.</StatsReport_MissingGeneRomanceChance>
 	<!--EN: Immune to -->
-<ImmuneTo>Невосприимчивый к</ImmuneTo>
+	<ImmuneTo>Иммунитет к</ImmuneTo>
 	<!--EN: Social fight chance factor -->
-<SocialFightChanceFactor>Фактор шанса социальной борьбы</SocialFightChanceFactor>
+	<SocialFightChanceFactor>Фактор шанса социальной борьбы</SocialFightChanceFactor>
 	<!--EN: Chance mental break is violent -->
-<AggroMentalBreakSelectionChanceFactor>Случайный умственный перерыв насильен</AggroMentalBreakSelectionChanceFactor>
+	<AggroMentalBreakSelectionChanceFactor>Шанс ментального срыва - насильственный</AggroMentalBreakSelectionChanceFactor>
 	<!--EN: Prison break interval factor -->
-<PrisonBreakIntervalFactor>Коэффициент интервального перерыва в тюрьме</PrisonBreakIntervalFactor>
+	<PrisonBreakIntervalFactor>Коэффициент интервала между заключениями</PrisonBreakIntervalFactor>
 	<!--EN: Will never prison break. -->
-<WillNeverPrisonBreak>Никогда не будет тюремным перерывом.</WillNeverPrisonBreak>
+	<WillNeverPrisonBreak>Никогда не сбежит из тюрьмы.</WillNeverPrisonBreak>
 	<!--EN: Mental breaks are always violent. -->
-<AlwaysAggroMentalBreak>Ментальные перерывы всегда жестоки.</AlwaysAggroMentalBreak>
+	<AlwaysAggroMentalBreak>Ментальные срывы всегда жестоки.</AlwaysAggroMentalBreak>
 	<!--EN: Mental breaks are never violent. -->
-<NeverAggroMentalBreak>Ментальные перерывы никогда не бывают жестокими.</NeverAggroMentalBreak>
+	<NeverAggroMentalBreak>Ментальные срывы никогда не бывают жестокими.</NeverAggroMentalBreak>
 	<!--EN: {0_label} addiction chance factor -->
-<AddictionChanceFactor> {0_label} Фактор шанса зависимости</AddictionChanceFactor>
+	<AddictionChanceFactor>{0_label} коэффициент шанса зависимости</AddictionChanceFactor>
 	<!--EN: Immune to {0_label} addiction. -->
-<AddictionImmune>Невосприимчивый к {0_label} зависимость.</AddictionImmune>
+	<!-- ? Проверить как будет смотерться в игре -->
+	<AddictionImmune>Невосприимчив к {0_label} зависимости.</AddictionImmune>
 	<!--EN: Immune to food poisoning. -->
-<FoodPoisoningImmune>Невосприимчиво к пищевому отравлению.</FoodPoisoningImmune>
+	<FoodPoisoningImmune>Иммунитет к пищевым отравлениям.</FoodPoisoningImmune>
 	<!--EN: Will never do social fights. -->
-<WillNeverSocialFight>Никогда не будет вести социальные борьбы.</WillNeverSocialFight>
+	<WillNeverSocialFight>Никогда не будет участвовать в социальных боях.</WillNeverSocialFight>
 	<!--EN: Aging factors -->
-<AgeFactors>Факторы старения</AgeFactors>
+	<AgeFactors>Факторы старения</AgeFactors>
 	<!--EN: Work speed is unaffected by darkness. -->
-<UnaffectedByDarkness>Скорость работы не зависит от тьмы.</UnaffectedByDarkness>
+	<UnaffectedByDarkness>Темнота не влияет на скорость работы.</UnaffectedByDarkness>
 	<!--EN: Adds one level of passion in {0_label}. -->
-<PassionModAdd>Добавляет один уровень страсти в {0_label} Анкет</PassionModAdd>
+	<PassionModAdd>Добавляет один уровень страсти в {0_label}.</PassionModAdd>
 	<!--EN: Removes all passion in {0_label}. -->
-<PassionModDrop>Удаляет всю страсть в {0_label} Анкет</PassionModDrop>
+	<PassionModDrop>Удаляет всю страсть в {0_label}.</PassionModDrop>
 	<!--EN: Causes need -->
-<CausesNeed>Вызывает потребность</CausesNeed>
+	<CausesNeed>Вызывает потребность</CausesNeed>
 	<!--EN: Gives ability -->
-<GivesAbility>Дает способность</GivesAbility>
+	<GivesAbility>Дает способность</GivesAbility>
 	<!--EN: Gives abilities -->
-<GivesAbilities>Дает способности</GivesAbilities>
+	<GivesAbilities>Дает способности</GivesAbilities>
 	<!--EN: {RESOURCE}: {OFFSET} per day. -->
-<ResourceLossPerDay> {RESOURCE} : {OFFSET} в день.</ResourceLossPerDay>
+	<ResourceLossPerDay>{РЕСУРС}: {OFFSET} в день.</ResourceLossPerDay>
 	<!--EN: Removes -->
-<Removes>Удаляет</Removes>
+	<Removes>Удаляет</Removes>
 	<!--EN: Disables need -->
-<DisablesNeed>Отключает потребности</DisablesNeed>
+	<DisablesNeed>Отключает потребность</DisablesNeed>
 	<!--EN: Disables needs -->
-<DisablesNeeds>Потребности инвалидов</DisablesNeeds>
+	<DisablesNeeds>Отключает потребности</DisablesNeeds>
 	<!--EN: Baby -->
-<DevelopmentStage_Baby>Малыш</DevelopmentStage_Baby>
+	<DevelopmentStage_Baby>Малыш</DevelopmentStage_Baby>
 	<!--EN: Child -->
-<DevelopmentStage_Child>Ребенок</DevelopmentStage_Child>
+	<DevelopmentStage_Child>Ребенок</DevelopmentStage_Child>
 	<!--EN: Adult -->
-<DevelopmentStage_Adult>Взрослый</DevelopmentStage_Adult>
-	</LanguageData>
+	<DevelopmentStage_Adult>Взрослый</DevelopmentStage_Adult>
+</LanguageData>

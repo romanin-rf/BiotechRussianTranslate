@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<!-- ! В РАБОТЕ -->
+<!-- * Готов -->
 
 <LanguageData>
 	<!--EN: mechanitor ship (crashing) -->
-<ShuttleCrashing_Mechanitor.label>механитор корабль (сбой)</ShuttleCrashing_Mechanitor.label>
+	<ShuttleCrashing_Mechanitor.label>корабль механизаторов (разбивается)</ShuttleCrashing_Mechanitor.label>
 	<!--EN: A short-range ship used by a mechanitor to transport mechs for low-orbit or planetary travel. -->
-<ShuttleCrashing_Mechanitor.description>Корабль с краткосрочной перспективой, используемый механитором для транспортировки механизма для малой орбиты или планетарной поездки.</ShuttleCrashing_Mechanitor.description>
-	</LanguageData>
+	<ShuttleCrashing_Mechanitor.description>Корабль малой дальности, используемый механизаторами для перевозки мехов на низкую орбиту или для планетарных путешествий.</ShuttleCrashing_Mechanitor.description>
+</LanguageData>

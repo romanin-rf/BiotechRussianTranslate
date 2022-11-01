@@ -1,38 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-<!-- ! В Работе -->
+<!-- * Готово -->
 
 <LanguageData>
 	<!--EN: chopped stump -->
-	<ChoppedStump_Polluted.label>Нарезанный пень</ChoppedStump_Polluted.label>
+	<ChoppedStump_Polluted.label>обрубленный пень</ChoppedStump_Polluted.label>
 	<!--EN: A stump left behind after a polluted tree has been felled. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
 	<ChoppedStump_Polluted.description>Пень, оставшийся после того, как загрязненное дерево было срублено.Пни может быть извлечен, но дает очень мало полезного дерева.На открытом воздухе пень со временем ухудшится.</ChoppedStump_Polluted.description>
 	<!--EN: gray grass -->
 	<Plant_GrayGrass.label>серая трава</Plant_GrayGrass.label>
 	<!--EN: Gray grass refers to a variety of species of wild toxin-adapted grass. It grows anywhere there is minimally-fertile polluted ground and the climate isn't overwhelming hostile. -->
-	<Plant_GrayGrass.description>Серая трава относится к разнообразным видам травы, адаптированной дикой токсины.Он растет везде, где есть загрязняет минимально-трюк, а климат не является ошеломляющим враждебным.</Plant_GrayGrass.description>
+	<Plant_GrayGrass.description>Серая трава относится к различным видам дикой травы, адаптированной к токсинам. Она растет везде, где есть минимально плодородная загрязненная земля и климат не слишком враждебен.</Plant_GrayGrass.description>
 	<!--EN: pebble cactus -->
-	<Plant_PebbleCactus.label>Галька кактус</Plant_PebbleCactus.label>
+	<Plant_PebbleCactus.label>галечный кактус</Plant_PebbleCactus.label>
 	<!--EN: A small cactus that resembles a cluster of pebbles. It can only grow on polluted terrain. It yields a meager amount of woody fiber when harvested. -->
-	<Plant_PebbleCactus.description>Небольшой кактус, который напоминает скопление гальки.Он может расти только на загрязненной местности.Это дает скудное количество древесного волокна при собирании.</Plant_PebbleCactus.description>
+	<Plant_PebbleCactus.description>Небольшой кактус, напоминающий скопление камешков. Он может расти только на загрязненной местности. При сборе дает незначительное количество древесного волокна.</Plant_PebbleCactus.description>
 	<!--EN: rat palm tree -->
-	<Plant_RatPalm.label>Крысиная пальма</Plant_RatPalm.label>
+	<Plant_RatPalm.label>крысиная пальма</Plant_RatPalm.label>
 	<!--EN: A tree similar to a palm tree with dense surface roots. It can only grow on polluted terrain. When harvested, it yields a meager amount of wood. -->
-	<Plant_RatPalm.description>Дерево, похожее на пальму с плотными поверхностными корнями.Он может расти только на загрязненной местности.При сборе, он дает скудное количество дерева.</Plant_RatPalm.description>
+	<Plant_RatPalm.description>Дерево, похожее на пальму, с плотными поверхностными корнями. Оно может расти только на загрязненной местности. При сборе урожая дает скудное количество древесины.</Plant_RatPalm.description>
 	<!--EN: ripthorn -->
-	<Plant_Ripthorn.label>Ripthorn</Plant_Ripthorn.label>
+	<Plant_Ripthorn.label>терновник</Plant_Ripthorn.label>
 	<!--EN: A short toxin-adapted shrub that looks like a dense, tough tangle of thorny branches. Difficult to move through, it slows down anyone moving over it. It can only grow in polluted areas. -->
-	<Plant_Ripthorn.description>Короткий кустарник, адаптированный на токсин, который выглядит как плотный, жесткий клубок колючих ветвей.Трудно пройти, он замедляет кого -то, кто перемещается по нему.Он может расти только в загрязненных районах.</Plant_Ripthorn.description>
+	<Plant_Ripthorn.description>Короткий кустарник, адаптированный к токсинам, который выглядит как плотный, жесткий клубок колючих ветвей. Через него трудно пройти, он замедляет движение любого человека. Он может расти только в загрязненных районах.</Plant_Ripthorn.description>
 	<!--EN: gray pine tree -->
 	<Plant_TreeGrayPine.label>серая сосна</Plant_TreeGrayPine.label>
 	<!--EN: A small toxin-adapted tree with twisted branches. It can only grow on polluted terrain, and yields a meager amount of wood when harvested. -->
-	<Plant_TreeGrayPine.description>Небольшое дерево, адаптированное из токсина с скрученными ветвями.Он может расти только на загрязненной местности и дает скудное количество древесины при сборе.</Plant_TreeGrayPine.description>
+	<Plant_TreeGrayPine.description>Небольшое адаптированное к токсинам дерево с искривленными ветвями. Оно может расти только на загрязненной местности и дает скудное количество древесины при сборе.</Plant_TreeGrayPine.description>
 	<!--EN: witchwood tree -->
-	<Plant_Witchwood.label>Ведьм -дерево</Plant_Witchwood.label>
+	<Plant_Witchwood.label>ведьмино дерево</Plant_Witchwood.label>
 	<!--EN: A small toxin-adapted tree with a twisted trunk. It can only grow on polluted terrain. When harvested, it yields a meager amount of wood. -->
-	<Plant_Witchwood.description>Небольшое дерево, адаптированное с токсином с скрученным стволом.Он может расти только на загрязненной местности.При сборе, он дает скудное количество дерева.</Plant_Witchwood.description>
+	<Plant_Witchwood.description>Небольшое, адаптированное к токсинам дерево с искривленным стволом. Оно может расти только на загрязненной местности. При сборе урожая дает скудное количество древесины.</Plant_Witchwood.description>
 	<!--EN: smashed stump -->
-	<SmashedStump_Polluted.label>разбитый пень</SmashedStump_Polluted.label>
+	<SmashedStump_Polluted.label>раздробленный пень</SmashedStump_Polluted.label>
 	<!--EN: The remnants of a polluted tree destroyed by damage. It's ugly. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
-	<SmashedStump_Polluted.description>Остатки загрязненного дерева, уничтоженного повреждением.Это ужасно.Пни может быть извлечен, но дает очень мало полезного дерева.На открытом воздухе пень со временем ухудшится.</SmashedStump_Polluted.description>
+	<SmashedStump_Polluted.description>Остатки загрязненного дерева, уничтоженного в результате повреждения. Оно уродливо. Пень можно извлечь, но он дает очень мало полезной древесины. Оставленный на открытом воздухе, пень со временем разрушается.</SmashedStump_Polluted.description>
 </LanguageData>

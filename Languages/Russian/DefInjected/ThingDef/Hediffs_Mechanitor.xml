@@ -4,23 +4,23 @@
 
 <LanguageData>
 	<!--EN: control sublink (standard) -->
-<ControlSublink.label>контроль Sublink (стандарт)</ControlSublink.label>
+<ControlSublink.label>управляющая Подсистема (стандарт)</ControlSublink.label>
 	<!--EN: A neural implant which gives a mechanitor an additional control group. Additionally, the sublink slightly increases the work speed of any mechanoids controlled by the mechanitor.\n\nThis standard-tier sublink can only increase the control group count up to 3. To go higher, a higher-tier sublink implant must be used.\n\nIt can be self-installed without surgery.\n\nThis implant can be installed up to 3 times to increase its effect. -->
 <ControlSublink.description>Нейронный имплантат, который дает механирию дополнительную контрольную группу.Кроме того, Sublink слегка увеличивает рабочую скорость любых механоидов, управляемых механизмом. \ N \ nThis Sublink может только увеличить счетчик контрольной группы до 3. Чтобы подняться выше, необходимо использовать имплантат Sublink более высокого уровня.\ n \ nit может быть самостоятельно установлен без операции. \ n \ nthis имплантат может быть установлен до 3 раза для увеличения его эффекта.</ControlSublink.description>
 	<!--EN: Implant sublink -->
-<ControlSublink.comps.CompUsableImplant.useLabel>Имплантат Сублинк</ControlSublink.comps.CompUsableImplant.useLabel>
+<ControlSublink.comps.CompUsableImplant.useLabel>Имплант Подсистемы</ControlSublink.comps.CompUsableImplant.useLabel>
 	<!--EN: control sublink (high) -->
-<ControlSublinkHigh.label>контроль сублинк (высокий)</ControlSublinkHigh.label>
+<ControlSublinkHigh.label>управляющая Подсистема (высокая)</ControlSublinkHigh.label>
 	<!--EN: A neural implant which gives a mechanitor an additional control group. Additionally, the sublink slightly increases the work speed of any mechanoids controlled by the mechanitor.\n\nThis high-tier implant can increase the control group count up to 6.\n\nIt can be self-installed without surgery.\n\nThis implant can be installed up to 3 times to increase its effect. -->
 <ControlSublinkHigh.description>Нейронный имплантат, который дает механирию дополнительную контрольную группу.Кроме того, Sublink слегка увеличивает рабочую скорость любых механоидов, контролируемых механизмом. \ N \ nThis высокоурочного имплантата может увеличить счет контрольной группы до 6. \ n \ nit может быть самостоятельно без операции. \ N \NTHIS имплантат может быть установлен до 3 раза, чтобы увеличить его эффект.</ControlSublinkHigh.description>
 	<!--EN: Implant high sublink -->
 <ControlSublinkHigh.comps.CompUsableImplant.useLabel>Имплантат высокий сублинк</ControlSublinkHigh.comps.CompUsableImplant.useLabel>
 	<!--EN: mech gestation processor -->
-<MechFormfeeder.label>Мех -беременный процессор</MechFormfeeder.label>
+<MechFormfeeder.label>мехпроцессор беременности</MechFormfeeder.label>
 	<!--EN: An implant which increases the speed at which a mechanitor can produce mechs in a mech gestator. The processor optimizes the behavior of the mechanites in the mech forming tank.\n\nThis implant can be self-installed in the same way as the mechlink.\n\nThis implant can be installed up to 6 times to increase its effect. -->
-<MechFormfeeder.description>Имплантат, который увеличивает скорость, с которой механитор может производить механизм в мех -гестаторе.Процессор оптимизирует поведение механитов в механическом резервуаре. Имплантат \ n \ nthis может быть установлен так же, как и имплантат Mechlink.</MechFormfeeder.description>
+<MechFormfeeder.description>Имплантат, который увеличивает скорость, с которой механизатор может производить мехов в мех-гестаторе. Процессор оптимизирует поведение механоидов в резервуаре для формирования мехов.\n\nЭтот имплантат может быть установлен самостоятельно так же, как и мехлинк.\n\nЭтот имплантат может быть установлен до 6 раз для увеличения его эффекта.</MechFormfeeder.description>
 	<!--EN: Implant {0_label} -->
-<MechFormfeeder.comps.CompUsableImplant.useLabel>Имплантат {0_label}  </MechFormfeeder.comps.CompUsableImplant.useLabel>
+<MechFormfeeder.comps.CompUsableImplant.useLabel>Имплантат {0_label}</MechFormfeeder.comps.CompUsableImplant.useLabel>
 	<!--EN: mechlink -->
 <Mechlink.label>мехлинк</Mechlink.label>
 	<!--EN: A bionic implant that allows direct control of mechanoids. Mechlinks are used by soldiers to control war mechs, and by workers to control labor mechs. A person with a mechlink is known as a mechanitor.\n\nMechlinks are self-installable. Pressed into the back of the throat, the unit injects itself through the flesh to clamp inside the base of the skull where it meets the spinal cord. There, it threads a web of ultrafine wires throughout nearby neuronal tissue to make the direct mental link between the user and the mechanoid control band.\n\nMechlinks are not simply devices for sending radio signals to mechanoids, because mechanoids are not merely robots. In addition to traditional computers, mechanoids have a dim psychic presence, so fluently controlling them requires a psychic connection. By linking mechanitor and mechanoid both psychically and electromagnetically, the mechlink permits deeper control than screen-and-button interfaces.\n\nSince the mechlink interlaces deep within the brain tissue, it can only be removed after death.\n\nNote: A mechanitor must be capable of smithing work to gestate mechanoids. -->

@@ -134,71 +134,71 @@
 	<AutoWake>Автоматическое пробуждение</AutoWake>
 	<!--EN: When on, {PAWN_nameDef} will automatically wake once {PAWN_possessive} deathrest is complete.\n\nWhile off, {PAWN_pronoun} will continue deathresting until you wake {PAWN_objective} manually. -->
 	<AutoWakeDesc>Если функция включена, {PAWN_nameDef} автоматически проснется, когда {PAWN_possessive} смертный покой будет завершен.\n\nВ выключенном состоянии {PAWN_pronoun} будет продолжать смертный покой, пока вы не разбудите {PAWN_objective} вручную.</AutoWakeDesc>
-	
-	<!-- ! В работе -->
-	
 	<!--EN: {PAWN_nameDef} is deathresting. -->
-	<IsDeathresting>{PAWN_nameDef} Смерть.</IsDeathresting>
+	<IsDeathresting>{PAWN_nameDef} - в состоянии Смерный Покой.</IsDeathresting>
 	<!--EN: Cannot deathrest -->
-	<CannotDeathrest>Не может смерть</CannotDeathrest>
+	<CannotDeathrest>Не может упасть в состояние - Смерный Покой</CannotDeathrest>
 	<!--EN: Start deathrest -->
-	<StartDeathrest>Начать смерть</StartDeathrest>
+	<StartDeathrest>Начать смертный покой</StartDeathrest>
 	<!--EN: Safely completing deathrest takes {MINDURATION}, but {PAWN_nameDef} has only been deathresting for {CURDURATION}.\n\nWaking {PAWN_nameDef} now would interrupt {PAWN_possessive} deathrest, throwing {PAWN_possessive} metabolism out of balance and making {PAWN_objective} sick for days to come.\n\nAre you sure you wish to wake {PAWN_objective}? -->
-	<ConfirmExitDeathrestUnderMinDays>Безопасно завершить Deathrest берет {MINDURATION} , но {PAWN_nameDef} был только смертью для {CURDURATION} . \ n \ nwaking {PAWN_nameDef} Теперь прервал бы {PAWN_possessive} Смерть, бросая {PAWN_possessive} метаболизм вне равновесия и изготовления {PAWN_objective} Болен в ближайшие несколько дней. \ на \ ты уверен, что хочешь разбудить {PAWN_objective} ?</ConfirmExitDeathrestUnderMinDays>
+	<ConfirmExitDeathrestUnderMinDays>Безопасное завершение смертельного отдыха занимает {MINDURATION}, но {PAWN_nameDef} находится в смертельном отдыхе только {CURDURATION}. \Разбудив {PAWN_nameDef} сейчас, вы прервете {PAWN_possessive} deathrest, нарушите баланс метаболизма {PAWN_possessive} и сделаете {PAWN_objective} больным на несколько дней вперед.\n\nВы уверены, что хотите разбудить {PAWN_objective}?</ConfirmExitDeathrestUnderMinDays>
 	<!--EN: deathresting -->
-	<Deathresting>Смерть</Deathresting>
+	<Deathresting>Смерный Покой</Deathresting>
 	<!--EN: complete -->
-	<Complete>полный</Complete>
+	<Complete>завершено</Complete>
 	<!--EN: can wake safely now. -->
-	<CanWakeSafely>Можно сейчас благополучно.</CanWakeSafely>
+	<CanWakeSafely>теперь можно спокойно просыпаться.</CanWakeSafely>
 	<!--EN: Disabled by gene -->
-	<DisabledByGene>Отключено Джином</DisabledByGene>
+	<DisabledByGene>Отключен геном</DisabledByGene>
 	<!--EN: {PAWN_nameDef} is in critical condition. -->
-	<WakeDisabledCriticalCondition> {PAWN_nameDef} находится в критическом состоянии.</WakeDisabledCriticalCondition>
+	<WakeDisabledCriticalCondition>{PAWN_nameDef} находится в критическом состоянии.</WakeDisabledCriticalCondition>
 	<!--EN: Drain rate -->
-	<DrainRate>Столь стока</DrainRate>
+	<DrainRate>Скорость слива</DrainRate>
 	<!--EN: Regeneration rate -->
-	<RegenerationRate>Уровень регенерации</RegenerationRate>
+	<RegenerationRate>Скорость регенерации</RegenerationRate>
 	<!--EN: {PAWN_nameDef} should deathrest in {DURATION} to avoid exhaustion. -->
-	<NextDeathrestNeed> {PAWN_nameDef} должен смерть в {DURATION} Чтобы избежать истощения.</NextDeathrestNeed>
+	<NextDeathrestNeed>{PAWN_nameDef} должен отдыхать в течение {DURATION}, чтобы избежать истощения.</NextDeathrestNeed>
 	<!--EN: {PAWN_nameDef} should deathrest soon to avoid exhaustion. -->
-	<PawnShouldDeathrestNow> {PAWN_nameDef} Если Смерть Скоро скоро, чтобы избежать истощения.</PawnShouldDeathrestNow>
+	<PawnShouldDeathrestNow>{PAWN_nameDef} должен вскоре отдохнуть от Смерного Покоя, чтобы избежать истощения.</PawnShouldDeathrestNow>
 	<!--EN: Consume hemogen below -->
-	<ConsumeHemogenBelow>Потребляйте гемоген ниже</ConsumeHemogenBelow>
+	<ConsumeHemogenBelow>Употребляйте гемоген ниже нормы</ConsumeHemogenBelow>
 	<!--EN: Never consume hemogen. -->
-	<NeverConsumeHemogen>Никогда не потребляйте гемоген.</NeverConsumeHemogen>
+	<NeverConsumeHemogen>Ни в коем случае не употребляйте гемоген.</NeverConsumeHemogen>
 	<!--EN: Will kill -->
 	<WillKill>Убьет</WillKill>
 	<!--EN: Will cause major blood loss -->
-	<WillCauseSeriousBloodloss>Вызовет серьезную кровопочу</WillCauseSeriousBloodloss>
+	<WillCauseSeriousBloodloss>Вызывает большую потерю крови</WillCauseSeriousBloodloss>
 	<!--EN: too small -->
 	<TooSmall>слишком маленький</TooSmall>
 	<!--слишком маленький-->
 	<!--EN: Bound to -->
-	<BoundTo>Связан</BoundTo>
+	<BoundTo>Связанный с</BoundTo>
 	<!--EN: Will bind permanently on first use. -->
-	<WillBindOnFirstUse>Будет навсегда связываться при первом использовании.</WillBindOnFirstUse>
+	<WillBindOnFirstUse>Закрепляется навсегда при первом использовании.</WillBindOnFirstUse>
 	<!--EN: Time active this deathrest -->
-	<TimeActiveThisDeathrest>Время активного этого Deathrest</TimeActiveThisDeathrest>
+	<TimeActiveThisDeathrest>Время активного Смертного Покоя</TimeActiveThisDeathrest>
 	<!--EN: Minimum is {0} to apply -->
-	<MinimumNeededToApply>Минимум есть {0} применять</MinimumNeededToApply>
+	<MinimumNeededToApply>Минимум {0} для применения</MinimumNeededToApply>
 	<!--EN: Cannot deathrest -->
-	<CannotAssignBedCannotDeathrest>Не может смерть</CannotAssignBedCannotDeathrest>
+	<CannotAssignBedCannotDeathrest>Не может впадать в состояние Смерного Покоя</CannotAssignBedCannotDeathrest>
 	<!--EN: Already bound to {0_nameDef} -->
-	<CannotAssignAlreadyBound>Уже связан {0_nameDef}  </CannotAssignAlreadyBound>
+	<CannotAssignAlreadyBound>Уже привязан к {0_nameDef}</CannotAssignAlreadyBound>
 	<!--EN: Cannot bind to more {BUILDING_labelPlural} -->
-	<CannotAssignBedCannotBindToMoreBuildings>Не может быть связан с большим {BUILDING_labelPlural}  </CannotAssignBedCannotBindToMoreBuildings>
+	<CannotAssignBedCannotBindToMoreBuildings>Невозможно связать с более {BUILDING_labelPlural}</CannotAssignBedCannotBindToMoreBuildings>
 	<!--Не может быть связан с большим {BUILDING_labelPlural}  -->
 	<!--EN: aptitude -->
 	<Aptitude>способность</Aptitude>
 	<!--EN: aptitudes -->
-	<Aptitudes>подъемы</Aptitudes>
+	<Aptitudes>способности</Aptitudes>
 	<!--EN: aptitudes -->
-	<AptitudePlural>подъемы</AptitudePlural>
+	<AptitudePlural>способностей</AptitudePlural>
+
+	<!-- ! В работе -->
+	
 	<!--EN: Aptitude makes an individual perform at a higher or lower level than their learned skill.\n\nFor example, an aptitude of +1 for a skill means that a person with level 5 in that skill will perform as though they were at level 6.\n\nThe total value cannot exceed level 20 or fall below level 1. -->
-	<AptitudesDesc>Способность заставляет человека работать на более высоком или более низком уровне, чем их ученые навыки. \ N \ n для примера, способность +1 для навыка означает, что человек с уровнем 5 в этом навыке будет работать так, как если бы они были на уровне 6.\ n \ n Общее значение не может превышать уровень 20 или падать ниже уровня 1.</AptitudesDesc>
+	<AptitudesDesc>Например, способность +1 для навыка означает, что человек с уровнем 5 в этом навыке будет действовать так, как будто у него уровень 6.\n\n\n Общее значение не может превышать уровень 20 или опускаться ниже уровня 1.</AptitudesDesc>
 	<!--EN: total -->
-	<Total>общий</Total>
+	<Total>всего</Total>
 	<!--общий-->
 	<!--EN: Father -->
 	<FatherTip>Отец</FatherTip>
@@ -209,73 +209,73 @@
 	<!--EN: No appropriate bed for giving birth. -->
 	<NoAppropriateBedChildBirth>Нет подходящей кровати для родов.</NoAppropriateBedChildBirth>
 	<!--EN: No doctor around. -->
-	<NoDoctorChildBirth>Нет врача вокруг.</NoDoctorChildBirth>
+	<NoDoctorChildBirth>Врача поблизости нет.</NoDoctorChildBirth>
 	<!--EN: Can't use this bed. -->
 	<CantUseThisBed>Не могу использовать эту кровать.</CantUseThisBed>
 	<!--EN: Not in labor. -->
-	<NotInLabor>Не в родах.</NotInLabor>
+	<NotInLabor>Не на родах.</NotInLabor>
 	<!--EN: labor -->
-	<Labor>труд, работа</Labor>
+	<Labor>труд</Labor>
 	<!--EN: dilation -->
-	<LaborDilation>дилатация</LaborDilation>
+	<LaborDilation>расширение</LaborDilation>
 	<!--EN: normal -->
-	<PregnancyApproach_Normal>обычный</PregnancyApproach_Normal>
+	<PregnancyApproach_Normal>нормальный</PregnancyApproach_Normal>
 	<!--EN: avoid pregnancy -->
 	<PregnancyApproach_AvoidPregnancy>избежать беременности</PregnancyApproach_AvoidPregnancy>
 	<!--EN: try for baby -->
-	<PregnancyApproach_TryForBaby>Попробуйте ребенка</PregnancyApproach_TryForBaby>
+	<PregnancyApproach_TryForBaby>стараться для ребёнка</PregnancyApproach_TryForBaby>
 	<!--EN: pregnancy chance -->
-	<PregnancyChance>шанс беременности</PregnancyChance>
+	<PregnancyChance>вероятность беременности</PregnancyChance>
 	<!--EN: Pregnancy approach -->
-	<PregnancyApproach>Подход беременности</PregnancyApproach>
+	<PregnancyApproach>Подход к беременности</PregnancyApproach>
 	<!--EN: Click to change pregnancy approach. -->
-	<ClickToChangePregnancyApproach>Нажмите, чтобы изменить подход беременности.</ClickToChangePregnancyApproach>
+	<ClickToChangePregnancyApproach>Нажмите, чтобы изменить способ беременности.</ClickToChangePregnancyApproach>
 	<!--EN: Pregnancy is not possible -->
 	<PregnancyNotPossible>Беременность невозможна</PregnancyNotPossible>
 	<!--EN: The chance of a healthy birth at this quality level was {0_percentage}. -->
-	<BirthRitualHealthyBabyChance>Вероятность здорового родов на этом уровне качества была {0_percentage} Анкет</BirthRitualHealthyBabyChance>
+	<BirthRitualHealthyBabyChance>Шанс рождения здорового ребенка при таком уровне качества составлял {0_процентов}.</BirthRitualHealthyBabyChance>
 	<!--EN: Giving birth. -->
-	<GivingBirth>Рождение.</GivingBirth>
+	<GivingBirth>Роды.</GivingBirth>
 	<!--Рождение.-->
 	<!--EN: Shield energy -->
-	<ShieldEnergy>Щит энергии</ShieldEnergy>
+	<ShieldEnergy>Щитовая энергия</ShieldEnergy>
 	<!--EN: Time to recovery -->
-	<ShieldTimeToRecovery>Время для восстановления</ShieldTimeToRecovery>
+	<ShieldTimeToRecovery>Время на восстановление</ShieldTimeToRecovery>
 	<!--Время для восстановления-->
 	<!--EN: genes -->
 	<Genes>гены</Genes>
 	<!--EN: The genes associated with this xenotype. -->
 	<GenesDesc>Гены, связанные с этим ксенотипом.</GenesDesc>
 	<!--EN: suppressed -->
-	<Suppressed>подавлено</Suppressed>
+	<Suppressed>подавленный</Suppressed>
 	<!--EN: active -->
 	<Active>активный</Active>
 	<!--EN: This trait has been suppressed by a conflicting forced genetic trait or gene. It will not be active until all conflicts are removed -->
-	<SuppressedDesc>Эта черта была подавлена противоречивой принудительной генетической чертой или геном.Это не будет активным, пока все конфликты не будут удалены</SuppressedDesc>
+	<SuppressedDesc>Этот признак был подавлен конфликтующим принудительным генетическим признаком или геном. Он не будет активен, пока все конфликты не будут устранены</SuppressedDesc>
 	<!--EN: trait -->
 	<Trait>черта</Trait>
 	<!--EN: gene -->
 	<Gene>ген</Gene>
 	<!--EN: Added by gene -->
-	<AddedByGene>Добавлен Джином</AddedByGene>
+	<AddedByGene>Добавлено геном</AddedByGene>
 	<!--EN: Eject all -->
 	<EjectAll>Выбросить все</EjectAll>
 	<!--EN: Drop all contained genepacks onto the ground. -->
-	<EjectAllDesc>Отбросьте все содержащие гены на землю.</EjectAllDesc>
+	<EjectAllDesc>Сбросьте все содержимое ген-пакета на землю.</EjectAllDesc>
 	<!--EN: Genepacks stored -->
-	<GenepacksStored>Генопаки хранятся</GenepacksStored>
+	<GenepacksStored>Хранение ген-пакетов</GenepacksStored>
 	<!--EN: Forced traits -->
 	<ForcedTraits>Принудительные черты</ForcedTraits>
 	<!--EN: Suppressed traits -->
 	<SuppressedTraits>Подавленные черты</SuppressedTraits>
 	<!--EN: These traits will be added. All conflicting traits will become suppressed. -->
-	<ForcedTraitsDesc>Эти черты будут добавлены.Все противоречивые черты будут подавлены.</ForcedTraitsDesc>
+	<ForcedTraitsDesc>Эти черты будут добавлены. Все конфликтующие черты будут подавлены.</ForcedTraitsDesc>
 	<!--EN: Complexity -->
 	<Complexity>Сложность</Complexity>
 	<!--EN: How much complexity this adds to the process of gene assembly. -->
 	<ComplexityDesc>Сколько сложности это добавляет к процессу сборки генов.</ComplexityDesc>
 	<!--EN: Maximum complexity can be increased by building gene processors near the gene assembler. -->
-	<MaxComplexityDesc>Максимальная сложность может быть увеличена путем построения процессоров генов вблизи генного ассемблера.</MaxComplexityDesc>
+	<MaxComplexityDesc>Максимальная сложность может быть увеличена путем создания генных процессоров рядом с генным ассемблером.</MaxComplexityDesc>
 	<!--EN: Total complexity -->
 	<ComplexityTotal>Общая сложность</ComplexityTotal>
 	<!--EN: The total complexity of all the genes in use. -->
@@ -299,11 +299,11 @@
 	<!--EN: Archite capsules -->
 	<ArchitesRequired>Архиты капсулы</ArchitesRequired>
 	<!--EN: Archites are archotech mechanites - microscopic devices which can operate directly on cells and molecules, created by superintelligent archotechs. They are capable of unexplainable feats, and some genes only function when supported by the otherworldly machinery of the archotechs. Humans cannot create archites - only find them when an archotech happens to produce some for its own unknowable reason. -->
-	<ArchitesRequiredDesc>Архиты являются механитами Archotech - микроскопическими устройствами, которые могут работать непосредственно на клетках и молекулах, создаваемых суперинтеллигентными архотехами.Они способны к необъяснимым подвигам, а некоторые гены функционируют только при поддержке потустороннего механизма архотех.Люди не могут создавать архиты - найдите их только тогда, когда архотеха производит некоторые по своей непостижимой причине.</ArchitesRequiredDesc>
+	<ArchitesRequiredDesc>Архитехи - это архотех-механиты, микроскопические устройства, которые могут действовать непосредственно на клетки и молекулы, созданные сверхразумными архотехами. Они способны на необъяснимые подвиги, а некоторые гены функционируют только при поддержке потусторонних механизмов архотехов. Люди не могут создавать архитехов - они обнаруживают их только тогда, когда архотех случайно производит их по своей собственной непостижимой причине.</ArchitesRequiredDesc>
 	<!--EN: Cancel xenogerm -->
-	<CancelXenogerm>Отменить ксеногмер</CancelXenogerm>
+	<CancelXenogerm>Отменить ксеногерм</CancelXenogerm>
 	<!--EN: Stop all work on the current xenogerm. -->
-	<CancelXenogermDesc>Остановите всю работу над текущей ксеногмерной.</CancelXenogermDesc>
+	<CancelXenogermDesc>Остановите все работы над текущим ксеногермом.</CancelXenogermDesc>
 	<!--EN: Allow all genepacks -->
 	<AllowAllGenepacks>Разрешить все гены</AllowAllGenepacks>
 	<!--EN: Whether or not colonists are allowed to automatically store any genepack into this container. Turn this off if you want to specify which specific genepacks should be stored here. -->

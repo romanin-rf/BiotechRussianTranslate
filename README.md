@@ -4,7 +4,9 @@
 ## Выпуск версий
 - ~~v0.8.5 (1-2 ноября)~~
    - ~~Надо, **но не обезательно**, закончить с [Languages/Russian/DefInjected/ThingDef](https://github.com/romanin-rf/BiotechRussianTranslate/tree/main/Languages/Russian/DefInjected/ThingDef)~~
-- v0.9.10 (в ноябре)
+- v1.0.0 (скоро)
+   - Исправить все ошибки!
+   - И закончить уже с этим
 
 ## Что не сделано
 1. [Languages/Russian/DefInjected/ThingDef](https://github.com/romanin-rf/BiotechRussianTranslate/tree/main/Languages/Russian/DefInjected/ThingDef) (там нужно смотреть какие конкретно файлы - не переведены)

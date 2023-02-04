@@ -101,10 +101,10 @@
   -->
   <LessonAnimals.logRulesInitiator.rulesStrings>
     <li>r_logentry(p=4)->[INITIATOR_nameDef] [teach_verb] как [animal_verb] [article_animal] на [RECIPIENT_nameDef].</li>
-    <li>article_animal->мега-слон</li>
-    <li>article_animal->мега-паук</li>
+    <li>article_animal->мегаслон</li>
+    <li>article_animal->мегапаук</li>
     <li>article_animal->трутень</li>
-    <li>article_animal->бум-крыса</li>
+    <li>article_animal->бумкрыса</li>
     <li>article_animal->шиншилла</li>
     <li>article_animal->морская свинка</li>
     <li>article_animal->кобра</li>

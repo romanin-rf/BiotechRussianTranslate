@@ -115,7 +115,7 @@
 	<!--EN: sighter -->
 <Nearsighted.symbolPack.suffixSymbols.0.symbol>стержень</Nearsighted.symbolPack.suffixSymbols.0.symbol>
 	<!--EN: peeker -->
-<Nearsighted.symbolPack.suffixSymbols.1.symbol>Пикер</Nearsighted.symbolPack.suffixSymbols.1.symbol>
+<Nearsighted.symbolPack.suffixSymbols.1.symbol>подглядывающий</Nearsighted.symbolPack.suffixSymbols.1.symbol>
 	<!--EN: pollution stimulus -->
 <PollutionRush.label>Стимул загрязнения</PollutionRush.label>
 	<!--EN: Carriers of this gene get a chemical rush from being exposed to pollution. This makes them move faster and helps them think clearer. A similar gene is found in combat-engineered mega-insects. -->
@@ -141,7 +141,7 @@
 	<!--EN: quad -->
 <RobustDigestion.symbolPack.prefixSymbols.2.symbol>квадратный</RobustDigestion.symbolPack.prefixSymbols.2.symbol>
 	<!--EN: moo -->
-<RobustDigestion.symbolPack.prefixSymbols.3.symbol>мульт</RobustDigestion.symbolPack.prefixSymbols.3.symbol>
+<RobustDigestion.symbolPack.prefixSymbols.3.symbol>мычание</RobustDigestion.symbolPack.prefixSymbols.3.symbol>
 	<!--EN: raw -->
 <RobustDigestion.symbolPack.prefixSymbols.4.symbol>сырой</RobustDigestion.symbolPack.prefixSymbols.4.symbol>
 	<!--EN: munch -->
@@ -153,21 +153,21 @@
 	<!--EN: mouth -->
 <RobustDigestion.symbolPack.suffixSymbols.1.symbol>рот</RobustDigestion.symbolPack.suffixSymbols.1.symbol>
 	<!--EN: vore -->
-<RobustDigestion.symbolPack.suffixSymbols.2.symbol>вор</RobustDigestion.symbolPack.suffixSymbols.2.symbol>
+<RobustDigestion.symbolPack.suffixSymbols.2.symbol>поедать</RobustDigestion.symbolPack.suffixSymbols.2.symbol>
 	<!--EN: munch -->
 <RobustDigestion.symbolPack.suffixSymbols.3.symbol>жевать</RobustDigestion.symbolPack.suffixSymbols.3.symbol>
 	<!--EN: hardeater -->
 <RobustDigestion.symbolPack.wholeNameSymbols.0.symbol>твердый</RobustDigestion.symbolPack.wholeNameSymbols.0.symbol>
 	<!--EN: muncher -->
-<RobustDigestion.symbolPack.wholeNameSymbols.1.symbol>мункер</RobustDigestion.symbolPack.wholeNameSymbols.1.symbol>
+<RobustDigestion.symbolPack.wholeNameSymbols.1.symbol>пожиратель</RobustDigestion.symbolPack.wholeNameSymbols.1.symbol>
 	<!--EN: grubber -->
-<RobustDigestion.symbolPack.wholeNameSymbols.2.symbol>Груббер</RobustDigestion.symbolPack.wholeNameSymbols.2.symbol>
+<RobustDigestion.symbolPack.wholeNameSymbols.2.symbol>корчеватель</RobustDigestion.symbolPack.wholeNameSymbols.2.symbol>
 	<!--EN: strong stomach -->
 <StrongStomach.label>Сильный желудок</StrongStomach.label>
 	<!--EN: Carriers of this gene have an extra toxin-filtering organ in their stomach and will never suffer from food poisoning even after eating rotten food. -->
 <StrongStomach.description>Носители этого гена имеют в желудке дополнительный орган, фильтрующий токсины, и никогда не страдают от пищевого отравления даже после употребления гнилой пищи.</StrongStomach.description>
 	<!--EN: dura -->
-<StrongStomach.symbolPack.prefixSymbols.0.symbol>дура</StrongStomach.symbolPack.prefixSymbols.0.symbol>
+<StrongStomach.symbolPack.prefixSymbols.0.symbol> твердая мозговая оболочка</StrongStomach.symbolPack.prefixSymbols.0.symbol>
 	<!--EN: eat -->
 <StrongStomach.symbolPack.prefixSymbols.1.symbol>есть</StrongStomach.symbolPack.prefixSymbols.1.symbol>
 	<!--EN: feed -->
@@ -175,7 +175,7 @@
 	<!--EN: cram -->
 <StrongStomach.symbolPack.prefixSymbols.3.symbol>вмешательство</StrongStomach.symbolPack.prefixSymbols.3.symbol>
 	<!--EN: vore -->
-<StrongStomach.symbolPack.suffixSymbols.0.symbol>вор</StrongStomach.symbolPack.suffixSymbols.0.symbol>
+<StrongStomach.symbolPack.suffixSymbols.0.symbol>поедать</StrongStomach.symbolPack.suffixSymbols.0.symbol>
 	<!--EN: unstoppable -->
 <Unstoppable.label>Неудержимый</Unstoppable.label>
 	<!--EN: Carriers of this gene are not slowed down when taking damage. -->
@@ -187,7 +187,7 @@
 	<!--EN: nonviolent -->
 <ViolenceDisabled.labelShortAdj>ненасильственное</ViolenceDisabled.labelShortAdj>
 	<!--EN: paci -->
-<ViolenceDisabled.symbolPack.prefixSymbols.0.symbol>Паки</ViolenceDisabled.symbolPack.prefixSymbols.0.symbol>
+<ViolenceDisabled.symbolPack.prefixSymbols.0.symbol>пацифичный</ViolenceDisabled.symbolPack.prefixSymbols.0.symbol>
 	<!--EN: calm -->
 <ViolenceDisabled.symbolPack.prefixSymbols.1.symbol>спокойствие</ViolenceDisabled.symbolPack.prefixSymbols.1.symbol>
 	<!--EN: peace -->

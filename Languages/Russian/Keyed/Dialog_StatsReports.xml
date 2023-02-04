@@ -27,7 +27,7 @@
 	<!--EN: Growth tier -->
 	<StatsReport_GrowthTier>Уровень роста</StatsReport_GrowthTier>
 	<!--EN: Children progress through growth tiers over time. The higher the learning need, the faster the progress. When a growth moment comes (at age 7, 10, and 13), the child's growth tier determines how many trait and passion options you can choose from. Growth tier resets after each growth moment. -->
-	<StatsReport_GrowthTierDesc>С течением времени дети продвигаются по ступеням роста. Чем выше потребность в обучении, тем быстрее прогресс. Когда наступает момент роста (в возрасте 7, 10 и 13 лет), уровень роста ребенка определяет, сколько вариантов черт характера и увлечений вы можете выбрать. Ярус роста сбрасывается после каждого момента роста.</StatsReport_GrowthTierDesc>
+	<StatsReport_GrowthTierDesc>С течением времени дети продвигаются по ступеням роста. Чем выше потребность в обучении, тем быстрее прогресс. Когда наступает момент роста (в возрасте 7, 10 и 13 лет), уровень роста ребёнка определяет, сколько вариантов черт характера и увлечений вы можете выбрать. Ярус роста сбрасывается после каждого момента роста.</StatsReport_GrowthTierDesc>
 	<!--EN: Life stage -->
 	<StatsReport_DevelopmentStage>Этап жизни</StatsReport_DevelopmentStage>
 	<!--EN: A baby. Babies cannot move on their own. Their life revolves around the simple needs of food, sleep, and play. When they giggle, nearby adults' moods are lifted, and when they cry, nearby adults are annoyed.\n\nAt age 3, human babies become children. -->
@@ -35,7 +35,7 @@
 	<!--EN: A child. In general, children are slower and less skilled than adults. However, children have a natural optimism. When their mood is high, this optimism can raise the mood of adult colonists.\n\nChildren can do various types of work, depending on their age -->
 	<StatsReport_DevelopmentStageDesc_ChildPart1>Ребёнок. В целом, дети более медлительны и менее опытны, чем взрослые. Однако дети обладают природным оптимизмом. Когда их настроение высоко, этот оптимизм может поднять настроение взрослых колонистов.\n\nДети могут выполнять различные виды работ, в зависимости от их возраста</StatsReport_DevelopmentStageDesc_ChildPart1>
 	<!--EN: As a child ages, they will gain additional passions and traits.\n\nChildren have various child-specific learning needs and require special child-sized apparel.\n\nAt age 13, human children become adults. -->
-	<StatsReport_DevelopmentStageDesc_ChildPart2>Подросток. По мере взросления у ребенка появляются дополнительные увлечения и черты характера.\n\nДети имеют различные специфические потребности в обучении и нуждаются в специальной детской одежде.\n\nВ 18 лет человек становится взрослым</StatsReport_DevelopmentStageDesc_ChildPart2>
+	<StatsReport_DevelopmentStageDesc_ChildPart2>Подросток. По мере взросления у ребёнка появляются дополнительные увлечения и черты характера.\n\nДети имеют различные специфические потребности в обучении и нуждаются в специальной детской одежде.\n\nВ 18 лет человек становится взрослым</StatsReport_DevelopmentStageDesc_ChildPart2>
 	<!--EN: An adult. Human adults fully mature at the age of 18. -->
 	<StatsReport_DevelopmentStageDesc_Adult>Взрослый. Люди становятся полностью взрослыми в возрасте 18 лет.</StatsReport_DevelopmentStageDesc_Adult>
 	<!--EN: Multiplier for pollution -->

@@ -113,5 +113,5 @@
 	<!--EN: You must choose how {PAWN_nameDef} will grow now. -->
 	<MessageCannotPostponeGrowthMoment>Вы должны выбрать, как {PAWN_nameDef} Будет расти сейчас.</MessageCannotPostponeGrowthMoment>
 	<!--EN: Warning: {0_labelShort} is carrying a baby while drafted. -->
-	<MessageDraftedPawnCarryingBaby>Предупреждение: {0_labelShort} носит ребенка, пока он составил.</MessageDraftedPawnCarryingBaby>
+	<MessageDraftedPawnCarryingBaby>Предупреждение: {0_labelShort} носит ребёнка, пока он составил.</MessageDraftedPawnCarryingBaby>
 </LanguageData>

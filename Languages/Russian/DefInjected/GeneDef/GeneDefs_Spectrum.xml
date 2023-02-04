@@ -63,7 +63,7 @@
 	<!--EN: beauti -->
 <Beauty_Beautiful.symbolPack.prefixSymbols.5.symbol>красота</Beauty_Beautiful.symbolPack.prefixSymbols.5.symbol>
 	<!--EN: smooth -->
-<Beauty_Beautiful.symbolPack.prefixSymbols.6.symbol>гладкий; плавный</Beauty_Beautiful.symbolPack.prefixSymbols.6.symbol>
+<Beauty_Beautiful.symbolPack.prefixSymbols.6.symbol>гладкий</Beauty_Beautiful.symbolPack.prefixSymbols.6.symbol>
 	<!--EN: pretty -->
 <Beauty_Pretty.label>Симпатичный</Beauty_Pretty.label>
 	<!--EN: Carriers of this gene have unusually symmetrical, balanced facial features and extra-clear skin which gives them a pleasing appearance. -->
@@ -71,7 +71,7 @@
 	<!--EN: charm -->
 <Beauty_Pretty.symbolPack.prefixSymbols.0.symbol>шарм</Beauty_Pretty.symbolPack.prefixSymbols.0.symbol>
 	<!--EN: ele -->
-<Beauty_Pretty.symbolPack.prefixSymbols.1.symbol>эле</Beauty_Pretty.symbolPack.prefixSymbols.1.symbol>
+<Beauty_Pretty.symbolPack.prefixSymbols.1.symbol>эль</Beauty_Pretty.symbolPack.prefixSymbols.1.symbol>
 	<!--EN: grace -->
 <Beauty_Pretty.symbolPack.prefixSymbols.2.symbol>благодать</Beauty_Pretty.symbolPack.prefixSymbols.2.symbol>
 	<!--EN: neat -->
@@ -91,11 +91,11 @@
 	<!--EN: hideous -->
 <Beauty_VeryUgly.labelShortAdj>отвратительный</Beauty_VeryUgly.labelShortAdj>
 	<!--EN: gris -->
-<Beauty_VeryUgly.symbolPack.prefixSymbols.0.symbol>гриль</Beauty_VeryUgly.symbolPack.prefixSymbols.0.symbol>
+<Beauty_VeryUgly.symbolPack.prefixSymbols.0.symbol>серый</Beauty_VeryUgly.symbolPack.prefixSymbols.0.symbol>
 	<!--EN: hideo -->
-<Beauty_VeryUgly.symbolPack.prefixSymbols.1.symbol>хидео</Beauty_VeryUgly.symbolPack.prefixSymbols.1.symbol>
+<Beauty_VeryUgly.symbolPack.prefixSymbols.1.symbol>отвратительный</Beauty_VeryUgly.symbolPack.prefixSymbols.1.symbol>
 	<!--EN: grote -->
-<Beauty_VeryUgly.symbolPack.prefixSymbols.2.symbol>грот</Beauty_VeryUgly.symbolPack.prefixSymbols.2.symbol>
+<Beauty_VeryUgly.symbolPack.prefixSymbols.2.symbol>гром</Beauty_VeryUgly.symbolPack.prefixSymbols.2.symbol>
 	<!--EN: horri -->
 <Beauty_VeryUgly.symbolPack.prefixSymbols.3.symbol>ужас</Beauty_VeryUgly.symbolPack.prefixSymbols.3.symbol>
 	<!--EN: freak -->
@@ -117,11 +117,11 @@
 	<!--EN: snap -->
 <Delicate.symbolPack.prefixSymbols.3.symbol>щелчок</Delicate.symbolPack.prefixSymbols.3.symbol>
 	<!--EN: ail -->
-<Delicate.symbolPack.prefixSymbols.4.symbol>по-разному</Delicate.symbolPack.prefixSymbols.4.symbol>
+<Delicate.symbolPack.prefixSymbols.4.symbol>больной</Delicate.symbolPack.prefixSymbols.4.symbol>
 	<!--EN: feeb -->
-<Delicate.symbolPack.prefixSymbols.5.symbol>ограждать</Delicate.symbolPack.prefixSymbols.5.symbol>
+<Delicate.symbolPack.prefixSymbols.5.symbol>слабость</Delicate.symbolPack.prefixSymbols.5.symbol>
 	<!--EN: fragi -->
-<Delicate.symbolPack.prefixSymbols.6.symbol>фраг</Delicate.symbolPack.prefixSymbols.6.symbol>
+<Delicate.symbolPack.prefixSymbols.6.symbol>хрупкий</Delicate.symbolPack.prefixSymbols.6.symbol>
 	<!--EN: fast learner -->
 <Learning_Fast.label>Быстрая обучаемость</Learning_Fast.label>
 	<!--EN: Carriers of this gene have excellent memories and grasp new ideas quickly. They learn faster than others. -->
@@ -135,7 +135,7 @@
 	<!--EN: smart -->
 <Learning_Fast.symbolPack.prefixSymbols.2.symbol>умная</Learning_Fast.symbolPack.prefixSymbols.2.symbol>
 	<!--EN: corti -->
-<Learning_Fast.symbolPack.prefixSymbols.3.symbol>Корти</Learning_Fast.symbolPack.prefixSymbols.3.symbol>
+<Learning_Fast.symbolPack.prefixSymbols.3.symbol>корковый</Learning_Fast.symbolPack.prefixSymbols.3.symbol>
 	<!--EN: neuro -->
 <Learning_Fast.symbolPack.prefixSymbols.4.symbol>нейро</Learning_Fast.symbolPack.prefixSymbols.4.symbol>
 	<!--EN: mnemo -->
@@ -163,13 +163,13 @@
 	<!--EN: grunt -->
 <Learning_Slow.symbolPack.suffixSymbols.0.symbol>ворчать</Learning_Slow.symbolPack.suffixSymbols.0.symbol>
 	<!--EN: high libido -->
-<Libido_High.label>Романтик</Libido_High.label>
+<Libido_High.label>высокое либидо</Libido_High.label>
 	<!--EN: Carriers of this gene are more likely to engage in lovin' with their partner. -->
 <Libido_High.description>Носители этого гена более склонны к любовным отношениям со своим партнером.</Libido_High.description>
 	<!--EN: Increases the chance of lovin'. -->
 <Libido_High.customEffectDescriptions.0>Увеличивает вероятность любви.</Libido_High.customEffectDescriptions.0>
 	<!--EN: low libido -->
-<Libido_Low.label>Аромантик</Libido_Low.label>
+<Libido_Low.label>низкое либидо</Libido_Low.label>
 	<!--EN: Carriers of this gene are less likely to engage in lovin' with their partner. -->
 <Libido_Low.description>Носители этого гена менее склонны к любовным отношениям со своим партнером.</Libido_Low.description>
 	<!--EN: Decreases the chance of lovin'. -->
@@ -223,7 +223,7 @@
 	<!--EN: strong -->
 <MeleeDamage_Strong.labelShortAdj>сильный</MeleeDamage_Strong.labelShortAdj>
 	<!--EN: bash -->
-<MeleeDamage_Strong.symbolPack.prefixSymbols.0.symbol>избиение</MeleeDamage_Strong.symbolPack.prefixSymbols.0.symbol>
+<MeleeDamage_Strong.symbolPack.prefixSymbols.0.symbol>бить</MeleeDamage_Strong.symbolPack.prefixSymbols.0.symbol>
 	<!--EN: strong -->
 <MeleeDamage_Strong.symbolPack.prefixSymbols.1.symbol>сильный</MeleeDamage_Strong.symbolPack.prefixSymbols.1.symbol>
 	<!--EN: strike -->
@@ -289,7 +289,7 @@
 	<!--EN: rain -->
 <Mood_Depressive.symbolPack.prefixSymbols.2.symbol>дождь</Mood_Depressive.symbolPack.prefixSymbols.2.symbol>
 	<!--EN: lachry -->
-<Mood_Depressive.symbolPack.prefixSymbols.3.symbol>Лахри</Mood_Depressive.symbolPack.prefixSymbols.3.symbol>
+<Mood_Depressive.symbolPack.prefixSymbols.3.symbol>лахри</Mood_Depressive.symbolPack.prefixSymbols.3.symbol>
 	<!--EN: optimist -->
 <Mood_Optimist.label>Оптимист</Mood_Optimist.label>
 	<!--EN: Carriers of this gene are predisposed to optimistic feelings. They'll have higher mood than others. -->
@@ -365,7 +365,7 @@
 	<!--EN: sprinter -->
 <MoveSpeed_Quick.symbolPack.suffixSymbols.2.symbol>спринтер</MoveSpeed_Quick.symbolPack.suffixSymbols.2.symbol>
 	<!--EN: speeder -->
-<MoveSpeed_Quick.symbolPack.wholeNameSymbols.0.symbol>Спир</MoveSpeed_Quick.symbolPack.wholeNameSymbols.0.symbol>
+<MoveSpeed_Quick.symbolPack.wholeNameSymbols.0.symbol>спидер</MoveSpeed_Quick.symbolPack.wholeNameSymbols.0.symbol>
 	<!--EN: slow runner -->
 <MoveSpeed_Slow.label>Медленный бег</MoveSpeed_Slow.label>
 	<!--EN: Carriers of this gene move more slowly than normal. -->
@@ -375,7 +375,7 @@
 	<!--EN: slow -->
 <MoveSpeed_Slow.symbolPack.prefixSymbols.0.symbol>медленный</MoveSpeed_Slow.symbolPack.prefixSymbols.0.symbol>
 	<!--EN: plod -->
-<MoveSpeed_Slow.symbolPack.prefixSymbols.1.symbol>плуд</MoveSpeed_Slow.symbolPack.prefixSymbols.1.symbol>
+<MoveSpeed_Slow.symbolPack.prefixSymbols.1.symbol>трудиться</MoveSpeed_Slow.symbolPack.prefixSymbols.1.symbol>
 	<!--EN: grado -->
 <MoveSpeed_Slow.symbolPack.prefixSymbols.2.symbol>Градо</MoveSpeed_Slow.symbolPack.prefixSymbols.2.symbol>
 	<!--EN: letho -->
@@ -387,7 +387,7 @@
 	<!--EN: slug -->
 <MoveSpeed_Slow.symbolPack.suffixSymbols.0.symbol>пульт</MoveSpeed_Slow.symbolPack.suffixSymbols.0.symbol>
 	<!--EN: plodder -->
-<MoveSpeed_Slow.symbolPack.suffixSymbols.1.symbol>Плоддер</MoveSpeed_Slow.symbolPack.suffixSymbols.1.symbol>
+<MoveSpeed_Slow.symbolPack.suffixSymbols.1.symbol>трудяга</MoveSpeed_Slow.symbolPack.suffixSymbols.1.symbol>
 	<!--EN: very fast runner -->
 <MoveSpeed_VeryQuick.label>Очень быстрый бег</MoveSpeed_VeryQuick.label>
 	<!--EN: Carriers of this gene move much more quickly than normal. -->
@@ -415,9 +415,9 @@
 	<!--EN: sprinter -->
 <MoveSpeed_VeryQuick.symbolPack.suffixSymbols.2.symbol>спринтер</MoveSpeed_VeryQuick.symbolPack.suffixSymbols.2.symbol>
 	<!--EN: speeder -->
-<MoveSpeed_VeryQuick.symbolPack.wholeNameSymbols.0.symbol>Спир</MoveSpeed_VeryQuick.symbolPack.wholeNameSymbols.0.symbol>
+<MoveSpeed_VeryQuick.symbolPack.wholeNameSymbols.0.symbol>спидер</MoveSpeed_VeryQuick.symbolPack.wholeNameSymbols.0.symbol>
 	<!--EN: never sleep -->
-<Neversleep.label>Никогда не спать</Neversleep.label>
+<Neversleep.label>Никогда не спящий</Neversleep.label>
 	<!--EN: Carriers of this gene have a unique metabolic process which allows clusters of neurons to sleep while the rest of the brain stays awake. They never need to sleep. -->
 <Neversleep.description>Носители этого гена имеют уникальный метаболический процесс, который позволяет скоплениям нейронов спать, в то время как остальная часть мозга бодрствует. Им никогда не нужно спать.</Neversleep.description>
 	<!--EN: wake -->
@@ -429,13 +429,13 @@
 	<!--EN: Carriers of this gene feel more pain than others given the same injuries. Neuron activity in the brain's nociception center is amplified, so pain feels extra-intense and fiery. This can be protective, but overall it's considered a negative and makes it hard to push through difficult situations. -->
 <Pain_Extra.description>Носители этого гена чувствуют боль сильнее, чем другие люди, получившие те же травмы. Активность нейронов в мозговом центре ноцицепции усиливается, поэтому боль кажется очень интенсивной и жгучей. Это может быть защитным фактором, но в целом считается негативным и мешает преодолевать трудные ситуации.</Pain_Extra.description>
 	<!--EN: wimpy -->
-<Pain_Extra.labelShortAdj>слабая</Pain_Extra.labelShortAdj>
+<Pain_Extra.labelShortAdj>слабак</Pain_Extra.labelShortAdj>
 	<!--EN: wimpo -->
-<Pain_Extra.symbolPack.prefixSymbols.0.symbol>WIMPO</Pain_Extra.symbolPack.prefixSymbols.0.symbol>
+<Pain_Extra.symbolPack.prefixSymbols.0.symbol>слабак</Pain_Extra.symbolPack.prefixSymbols.0.symbol>
 	<!--EN: whino -->
-<Pain_Extra.symbolPack.prefixSymbols.1.symbol>Whino</Pain_Extra.symbolPack.prefixSymbols.1.symbol>
+<Pain_Extra.symbolPack.prefixSymbols.1.symbol>плаксивый</Pain_Extra.symbolPack.prefixSymbols.1.symbol>
 	<!--EN: cowar -->
-<Pain_Extra.symbolPack.prefixSymbols.2.symbol>коуэр</Pain_Extra.symbolPack.prefixSymbols.2.symbol>
+<Pain_Extra.symbolPack.prefixSymbols.2.symbol>трус</Pain_Extra.symbolPack.prefixSymbols.2.symbol>
 	<!--EN: cry -->
 <Pain_Extra.symbolPack.prefixSymbols.3.symbol>плакать</Pain_Extra.symbolPack.prefixSymbols.3.symbol>
 	<!--EN: whiner -->
@@ -465,15 +465,15 @@
 	<!--EN: blank -->
 <PsychicAbility_Deaf.symbolPack.prefixSymbols.1.symbol>пустой</PsychicAbility_Deaf.symbolPack.prefixSymbols.1.symbol>
 	<!--EN: null -->
-<PsychicAbility_Deaf.symbolPack.prefixSymbols.2.symbol>нулевой</PsychicAbility_Deaf.symbolPack.prefixSymbols.2.symbol>
+<PsychicAbility_Deaf.symbolPack.prefixSymbols.2.symbol>ноль</PsychicAbility_Deaf.symbolPack.prefixSymbols.2.symbol>
 	<!--EN: vac -->
 <PsychicAbility_Deaf.symbolPack.prefixSymbols.3.symbol>свободный</PsychicAbility_Deaf.symbolPack.prefixSymbols.3.symbol>
 	<!--EN: void -->
 <PsychicAbility_Deaf.symbolPack.prefixSymbols.4.symbol>пустота</PsychicAbility_Deaf.symbolPack.prefixSymbols.4.symbol>
 	<!--EN: nego -->
-<PsychicAbility_Deaf.symbolPack.prefixSymbols.5.symbol>неж</PsychicAbility_Deaf.symbolPack.prefixSymbols.5.symbol>
+<PsychicAbility_Deaf.symbolPack.prefixSymbols.5.symbol>отрицание</PsychicAbility_Deaf.symbolPack.prefixSymbols.5.symbol>
 	<!--EN: nullo -->
-<PsychicAbility_Deaf.symbolPack.prefixSymbols.6.symbol>нулло</PsychicAbility_Deaf.symbolPack.prefixSymbols.6.symbol>
+<PsychicAbility_Deaf.symbolPack.prefixSymbols.6.symbol>нулевой</PsychicAbility_Deaf.symbolPack.prefixSymbols.6.symbol>
 	<!--EN: psychically dull -->
 <PsychicAbility_Dull.label>Психически вялый</PsychicAbility_Dull.label>
 	<!--EN: Carriers of this gene are less psychically-sensitive than others. -->
@@ -495,7 +495,7 @@
 	<!--EN: senso -->
 <PsychicAbility_Enhanced.symbolPack.prefixSymbols.1.symbol>сенсо</PsychicAbility_Enhanced.symbolPack.prefixSymbols.1.symbol>
 	<!--EN: sensi -->
-<PsychicAbility_Enhanced.symbolPack.prefixSymbols.2.symbol>сенси</PsychicAbility_Enhanced.symbolPack.prefixSymbols.2.symbol>
+<PsychicAbility_Enhanced.symbolPack.prefixSymbols.2.symbol>чувствительный</PsychicAbility_Enhanced.symbolPack.prefixSymbols.2.symbol>
 	<!--EN: super psy-sensitive -->
 <PsychicAbility_Extreme.label>Супер Пси-чувствительный</PsychicAbility_Extreme.label>
 	<!--EN: Carriers of this gene are much more psychically-sensitive than most. -->
@@ -505,9 +505,9 @@
 	<!--EN: psy -->
 <PsychicAbility_Extreme.symbolPack.prefixSymbols.0.symbol>пси</PsychicAbility_Extreme.symbolPack.prefixSymbols.0.symbol>
 	<!--EN: senso -->
-<PsychicAbility_Extreme.symbolPack.prefixSymbols.1.symbol>сенсо</PsychicAbility_Extreme.symbolPack.prefixSymbols.1.symbol>
+<PsychicAbility_Extreme.symbolPack.prefixSymbols.1.symbol>ощущающий</PsychicAbility_Extreme.symbolPack.prefixSymbols.1.symbol>
 	<!--EN: sensi -->
-<PsychicAbility_Extreme.symbolPack.prefixSymbols.2.symbol>сенси</PsychicAbility_Extreme.symbolPack.prefixSymbols.2.symbol>
+<PsychicAbility_Extreme.symbolPack.prefixSymbols.2.symbol>ощущение</PsychicAbility_Extreme.symbolPack.prefixSymbols.2.symbol>
 	<!--EN: robust -->
 <Robust.label>Крепкий</Robust.label>
 	<!--EN: Carriers of this gene take less injuries than others from the same damage. They have thickened, densified bones, nearly-solid ribcages, and strengthened binding factors in joints and flesh. -->
@@ -527,7 +527,7 @@
 	<!--EN: hard -->
 <Robust.symbolPack.prefixSymbols.6.symbol>жесткий</Robust.symbolPack.prefixSymbols.6.symbol>
 	<!--EN: vigo -->
-<Robust.symbolPack.prefixSymbols.7.symbol>виго</Robust.symbolPack.prefixSymbols.7.symbol>
+<Robust.symbolPack.prefixSymbols.7.symbol>заставлять силой</Robust.symbolPack.prefixSymbols.7.symbol>
 	<!--EN: sleepy -->
 <Sleepy.label>Сонный</Sleepy.label>
 	<!--EN: Carriers of this gene get tired somewhat faster than others. -->
@@ -537,7 +537,7 @@
 	<!--EN: bed -->
 <Sleepy.symbolPack.prefixSymbols.1.symbol>кровать</Sleepy.symbolPack.prefixSymbols.1.symbol>
 	<!--EN: somno -->
-<Sleepy.symbolPack.prefixSymbols.2.symbol>Сомно</Sleepy.symbolPack.prefixSymbols.2.symbol>
+<Sleepy.symbolPack.prefixSymbols.2.symbol>спать</Sleepy.symbolPack.prefixSymbols.2.symbol>
 	<!--EN: loaf -->
 <Sleepy.symbolPack.suffixSymbols.0.symbol>буханка</Sleepy.symbolPack.suffixSymbols.0.symbol>
 	<!--EN: tox resistance -->
@@ -545,7 +545,7 @@
 	<!--EN: Carriers of this gene are resistant to toxic buildup from any source. This includes pollution, toxic fallout, tox gas, and direct attacks with venom or injected poison. They'll gain half the amount of toxic buildup compared to others.\n\nCellular filters in the lung and skin reduce the dose of toxins entering the bloodstream. -->
 <ToxResist_Partial.description>Носители этого гена устойчивы к накоплению токсинов из любого источника. Это включает загрязнение окружающей среды, токсичные осадки, токсичные газы, а также прямые атаки ядом или инъекции яда. Они набирают вдвое меньше токсинов, чем другие.\n\nКлеточные фильтры в легких и коже уменьшают дозу токсинов, попадающих в кровь.</ToxResist_Partial.description>
 	<!--EN: tox-resistant -->
-<ToxResist_Partial.labelShortAdj>устойчивый к токсу</ToxResist_Partial.labelShortAdj>
+<ToxResist_Partial.labelShortAdj>устойчивый к токсинам</ToxResist_Partial.labelShortAdj>
 	<!--EN: tox -->
 <ToxResist_Partial.symbolPack.prefixSymbols.0.symbol>токс</ToxResist_Partial.symbolPack.prefixSymbols.0.symbol>
 	<!--EN: tox immunity -->
@@ -593,7 +593,7 @@
 	<!--EN: cave -->
 <UVSensitivity_Mild.symbolPack.prefixSymbols.3.symbol>пещера</UVSensitivity_Mild.symbolPack.prefixSymbols.3.symbol>
 	<!--EN: crypt -->
-<UVSensitivity_Mild.symbolPack.prefixSymbols.4.symbol>крипта</UVSensitivity_Mild.symbolPack.prefixSymbols.4.symbol>
+<UVSensitivity_Mild.symbolPack.prefixSymbols.4.symbol>склеп</UVSensitivity_Mild.symbolPack.prefixSymbols.4.symbol>
 	<!--EN: dim -->
 <UVSensitivity_Mild.symbolPack.prefixSymbols.5.symbol>тусклый</UVSensitivity_Mild.symbolPack.prefixSymbols.5.symbol>
 	<!--EN: night -->
@@ -607,7 +607,7 @@
 	<!--EN: bed -->
 <VerySleepy.symbolPack.prefixSymbols.1.symbol>кровать</VerySleepy.symbolPack.prefixSymbols.1.symbol>
 	<!--EN: somno -->
-<VerySleepy.symbolPack.prefixSymbols.2.symbol>Сомно</VerySleepy.symbolPack.prefixSymbols.2.symbol>
+<VerySleepy.symbolPack.prefixSymbols.2.symbol>спать</VerySleepy.symbolPack.prefixSymbols.2.symbol>
 	<!--EN: loaf -->
 <VerySleepy.symbolPack.suffixSymbols.0.symbol>буханка</VerySleepy.symbolPack.suffixSymbols.0.symbol>
 	</LanguageData>

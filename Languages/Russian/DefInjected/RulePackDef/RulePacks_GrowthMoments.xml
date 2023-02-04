@@ -242,7 +242,7 @@
   <li>situationFun->наблюдение за ночным небом в поисках метеоритов</li>
   <li>situationFun->говорит по радио о [topicLearning]</li>
   <li>situationFun->общаться по радио с посторонними людьми</li>
-  <li>situationFun->рисует на полу фотографии [friendNamePlural]</li>
+  <li>situationFun->рисует на полу [friendNamePlural]</li>
   <li>situationFun->мечтать о [темеОбучение]</li>
   <li>situationFun->бег на природе</li>
   <li>situationFun->приключений с [friendNamePlural]</li>
@@ -301,8 +301,8 @@
   <li>friendNameSingular->друг</li>
   <li>friendNameSingular->собака</li>
   <li>friendNameSingular->[friendAdj] кот</li>
-  <li>friendNameSingular->ребенок</li>
-  <li>friendNameSingular->[friendAdj] ребенок</li>
+  <li>friendNameSingular->ребёнок</li>
+  <li>friendNameSingular->[friendAdj] ребёнок</li>
   <li>friendNameSingular->член семьи</li>
   <li>friendAdj->добрый</li>
   <li>friendAdj->полезно</li>
@@ -324,7 +324,7 @@
   <li>enemyNameSingular->[Mechanoid]</li>
   <li>enemyNameSingular->[AdjectiveBadass] расточитель</li>
   <li>enemyNameSingular->незнакомец</li>
-  <li>enemyNameSingular->sanguophage</li>
+  <li>enemyNameSingular->сангвофаг</li>
   <li>enemyNameSingular->женщина без глаз</li>
   <li>enemyNameSingular->человек с крюком в руке</li>
 </GrowthMomentFlavor.rulePack.rulesStrings>

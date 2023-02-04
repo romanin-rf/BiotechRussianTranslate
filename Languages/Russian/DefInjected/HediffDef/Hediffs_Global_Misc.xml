@@ -3,7 +3,7 @@
 	<!--EN: infant illness -->
 	<InfantIllness.label>Заболевание младенцев</InfantIllness.label>
 	<!--EN: Effects of various birth complications. If the baby can survive for 10 days, they will be strong enough to recover on their own.\n\nThe illness will wax and wane in strength over time, requiring different levels of tending and medicine to recover. -->
-	<InfantIllness.description>Последствия различных родовых осложнений. Если ребенок выживет в течение 10 дней, он будет достаточно силен, чтобы выздороветь самостоятельно.\n\nБолезнь будет усиливаться и ослабевать с течением времени, требуя разного уровня ухода и лекарств для выздоровления.</InfantIllness.description>
+	<InfantIllness.description>Последствия различных родовых осложнений. Если ребёнок выживет в течение 10 дней, он будет достаточно силен, чтобы выздороветь самостоятельно.\n\nБолезнь будет усиливаться и ослабевать с течением времени, требуя разного уровня ухода и лекарств для выздоровления.</InfantIllness.description>
 	<!--EN: {PAWN_labelShort}'s infant illness went from {1} to {2}. -->
 	<InfantIllness.comps.HediffComp_RandomizeSeverityPhases.notifyMessage> Детская болезнь {PAWN_labelShort} перешла от {1} к {2}.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.notifyMessage>
 	<!--EN: that are life threatening without exceptional medical care and glitterworld medicine. -->
@@ -19,7 +19,7 @@
 	<!--EN: common -->
 	<InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.labelPrefix>общий</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.labelPrefix>
 	<!--EN: which make the baby slightly ill but, at this rate, they will recover on their own. -->
-	<InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.descriptionExtra>в результате чего ребенок слегка заболевает, но при таком раскладе он выздоравливает самостоятельно.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.descriptionExtra>
+	<InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.descriptionExtra>в результате чего ребёнок слегка заболевает, но при таком раскладе он выздоравливает самостоятельно.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.descriptionExtra>
 	<!--EN: mild -->
 	<InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.labelPrefix>незначительный</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.labelPrefix>
 	<!--EN: Effects of various birth complications -->
@@ -35,7 +35,7 @@
 	<!--EN: lactating -->
 	<Lactating.label>лактация</Lactating.label>
 	<!--EN: The condition of being able to breastfeed a baby. The breasts are actively producing and storing milk. The lactating state begins when a mother gives birth, and continues indefinitely as long as she breastfeeds a baby at least once every 10 days. -->
-	<Lactating.description>Это состояние, когда женщина может кормить грудью ребёнка. Грудь в это время активно вырабатывает и накапливает молоко. Состояние лактации начинается, когда мать рожает, и продолжается неограниченное время до тех пор, пока она кормит ребенка грудью хотя бы раз в 10 дней.</Lactating.description>
+	<Lactating.description>Это состояние, когда женщина может кормить грудью ребёнка. Грудь в это время активно вырабатывает и накапливает молоко. Состояние лактации начинается, когда мать рожает, и продолжается неограниченное время до тех пор, пока она кормит ребёнка грудью хотя бы раз в 10 дней.</Lactating.description>
 	<!--EN: {0} is no longer lactating due to not breastfeeding for 10 days. -->
 	<Lactating.comps.HediffComp_MessageOnRemoval.message>{0} больше нет лактации из-за того, что он не кормил грудью в течение 10 дней.</Lactating.comps.HediffComp_MessageOnRemoval.message>
 	<!--EN: milk fullness {CHARGEFACTOR_percentage} -->
@@ -69,7 +69,7 @@
 	<!--EN: labor (dilation) -->
 	<PregnancyLabor.label>роды (расширение)</PregnancyLabor.label>
 	<!--EN: The condition of being about to give birth. Labor moves through multiple stages with different levels of pain and contractions. Each labor is different, and pain can rise and fall unpredictably over time. Labor ends when the baby is born. -->
-	<PregnancyLabor.description>Состояние, при котором роды вот-вот начнутся. Роды проходят через несколько стадий с различными уровнями боли и схваток. Каждая схватка проходит по-разному, и боль может нарастать и спадать непредсказуемо в течение долгого времени. Роды заканчиваются, когда рождается ребенок.</PregnancyLabor.description>
+	<PregnancyLabor.description>Состояние, при котором роды вот-вот начнутся. Роды проходят через несколько стадий с различными уровнями боли и схваток. Каждая схватка проходит по-разному, и боль может нарастать и спадать непредсказуемо в течение долгого времени. Роды заканчиваются, когда рождается ребёнок.</PregnancyLabor.description>
 	<!--EN: {PAWN_labelShort}'s labor went from {1} to {2}. -->
 	<PregnancyLabor.comps.HediffComp_RandomizeStageWithInterval.notifyMessage>Роды {PAWN_labelShort} увеличились с {1} до {2}.</PregnancyLabor.comps.HediffComp_RandomizeStageWithInterval.notifyMessage>
 	<!--EN: mild -->
@@ -81,7 +81,7 @@
 	<!--EN: labor (pushing) -->
 	<PregnancyLaborPushing.label>роды (толкание)</PregnancyLaborPushing.label>
 	<!--EN: The baby is descending the birth canal and the mother has a strong urge to push. The birth is imminent. -->
-	<PregnancyLaborPushing.description>Ребенок спускается по родовому каналу, и у матери возникает сильное желание тужиться. Роды неизбежны.</PregnancyLaborPushing.description>
+	<PregnancyLaborPushing.description>Ребёнок спускается по родовому каналу, и у матери возникает сильное желание тужиться. Роды неизбежны.</PregnancyLaborPushing.description>
 	<!--EN: pregnancy mood -->
 	<PregnancyMood.label>Беременный настрой</PregnancyMood.label>
 	<!--EN: This common side effect of pregnancy represents a rising and falling mood caused by unbalanced hormones. -->
@@ -89,7 +89,7 @@
 	<!--EN: pregnant -->
 	<PregnantHuman.label>Беременная</PregnantHuman.label>
 	<!--EN: A baby growing inside a woman, preparing to be born. In humans, pregnancy lasts for 18 days and is divided into 3 trimesters. As the pregnancy grows it will reduce the mother's mobility. For some mothers, pregnancy may induce nausea or mood swings that can be hard to deal with. -->
-	<PregnantHuman.description>Ребенок, растущий внутри женщины и готовящийся к появлению на свет. У человека беременность длится 18 дней и делится на 3 триместра. По мере роста беременности подвижность матери снижается. У некоторых матерей беременность может вызывать тошноту или перепады настроения, с которыми бывает трудно справиться.</PregnantHuman.description>
+	<PregnantHuman.description>Ребёнок, растущий внутри женщины и готовящийся к появлению на свет. У человека беременность длится 18 дней и делится на 3 триместра. По мере роста беременности подвижность матери снижается. У некоторых матерей беременность может вызывать тошноту или перепады настроения, с которыми бывает трудно справиться.</PregnantHuman.description>
 	<!--EN: {0_labelShort} pregnant -->
 	<PregnantHuman.comps.HediffComp_MessageAfterTicks.letterLabel>{0_labelShort} беременная</PregnantHuman.comps.HediffComp_MessageAfterTicks.letterLabel>
 	<!--EN: {0_labelShort} is pregnant! -->
@@ -105,7 +105,7 @@
 	<!--EN: stillborn -->
 	<Stillborn.label>Мертворожденный</Stillborn.label>
 	<!--EN: This baby died due to non-specific complications during pregnancy. -->
-	<Stillborn.description>Этот ребенок умер из-за неспецифических осложнений во время беременности.</Stillborn.description>
+	<Stillborn.description>Этот ребёнок умер из-за неспецифических осложнений во время беременности.</Stillborn.description>
 	
 	<CoveredInFirefoam.label>покрытый противопожарной пеной</CoveredInFirefoam.label>
 	<CoveredInFirefoam.description>Покрыт огнестойкой пеной.</CoveredInFirefoam.description>

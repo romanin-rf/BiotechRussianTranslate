@@ -9,9 +9,9 @@
 	<!--EN: My babies are sick. I'm terrified something bad will happen to them. -->
 <BabySick.stages.my_babies_are_sick.description>Мои дети больны. Я боюсь, что с ними случится что-то плохое.</BabySick.stages.my_babies_are_sick.description>
 	<!--EN: my child is in a growth vat -->
-<ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.label>Мой ребенок в чане роста</ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.label>
+<ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.label>Мой ребёнок в чане роста</ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.label>
 	<!--EN: I miss my child. It's hard knowing they're floating in that machine, bypassing their childhood. -->
-<ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.description>Я скучаю по своему ребенку. Трудно осознавать, что он плавает в этой машине, пропуская детство.</ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.description>
+<ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.description>Я скучаю по своему ребёнку. Трудно осознавать, что он плавает в этой машине, пропуская детство.</ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.description>
 	<!--EN: good crib -->
 <CribQuality.stages.good_crib.label>Хорошая кроватка</CribQuality.stages.good_crib.label>
 	<!--EN: This crib is comfy. -->
@@ -31,7 +31,7 @@
 	<!--EN: enslaved child -->
 <EnslavedChild.stages.enslaved_child.label>Порабощённый ребёнок</EnslavedChild.stages.enslaved_child.label>
 	<!--EN: It breaks my heart to see my child forced to serve others. -->
-<EnslavedChild.stages.enslaved_child.description>Когда я вижу, что мой ребенок вынужден служить другим, это разбивает мне сердце.</EnslavedChild.stages.enslaved_child.description>
+<EnslavedChild.stages.enslaved_child.description>Когда я вижу, что мой ребёнок вынужден служить другим, это разбивает мне сердце.</EnslavedChild.stages.enslaved_child.description>
 	<!--EN: my child {CHILD_nameDef} is happy -->
 <MyChildHappy.stages.my_child_is_happy.label>Мой ребёнок {CHILD_nameDef} счастлив</MyChildHappy.stages.my_child_is_happy.label>
 	<!--EN: Nothing makes me feel better than my kid being happy. -->
@@ -45,7 +45,7 @@
 	<!--EN: I worry about my children. If they're not happy, I'm not happy. -->
 <MyChildrenSad.stages.my_children_are_unhappy.description>Я беспокоюсь о своих детях. Если они несчастливы, то и я - тоже.</MyChildrenSad.stages.my_children_are_unhappy.description>
 	<!--EN: my child {CHILD_nameDef} is unhappy -->
-<MyChildSad.stages.my_child_is_unhappy.label>Иой ребенок {CHILD_nameDef} несчастен</MyChildSad.stages.my_child_is_unhappy.label>
+<MyChildSad.stages.my_child_is_unhappy.label>Иой ребёнок {CHILD_nameDef} несчастен</MyChildSad.stages.my_child_is_unhappy.label>
 	<!--EN: I worry about my child. If they're not happy, I'm not happy. -->
 <MyChildSad.stages.my_child_is_unhappy.description>Я беспокоюсь о своем ребёнке. Если он несчастлив, то и я тоже.</MyChildSad.stages.my_child_is_unhappy.description>
 	<!--EN: parent is happy -->
@@ -61,7 +61,7 @@
 	<!--EN: It's nice to see that the young folk are doing well. -->
 <YoungstersHappy.stages.happy_youngsters.description>Приятно видеть, что у молодых всё хорошо.</YoungstersHappy.stages.happy_youngsters.description>
 	<!--EN: sad youngsters -->
-<YoungstersSad.stages.sad_youngsters.label>Грустная молодежь</YoungstersSad.stages.sad_youngsters.label>
+<YoungstersSad.stages.sad_youngsters.label>Грустная молодёжь</YoungstersSad.stages.sad_youngsters.label>
 	<!--EN: It's sad to see that the young folk are struggling. -->
 <YoungstersSad.stages.sad_youngsters.description>Грустно видеть, что молодые люди чем-то опечалены.</YoungstersSad.stages.sad_youngsters.description>
 	</LanguageData>

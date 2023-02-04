@@ -26,7 +26,7 @@
 	<!--EN: urgent -->
 <AutofeedModeUrgent>срочно</AutofeedModeUrgent>
 	<!--EN: Nobody can feed this baby. -->
-<AutofeedNone>Никто не может накормить этого ребенка.</AutofeedNone>
+<AutofeedNone>Никто не может накормить этого ребёнка.</AutofeedNone>
 	<!--EN: {FEEDER_nameDef} will not automatically feed {BABY_nameDef}. -->
 <AutofeedModeTooltipNever> {FEEDER_nameDef} не будет автоматически кормить {BABY_nameDef} Анкет</AutofeedModeTooltipNever>
 	<!--EN: {FEEDER_nameDef} will feed {BABY_nameDef} as childcare work. -->

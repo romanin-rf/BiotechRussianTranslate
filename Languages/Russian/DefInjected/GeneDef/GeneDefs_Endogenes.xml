@@ -99,7 +99,7 @@
 	<!--EN: cat -->
 <Ears_Cat.symbolPack.prefixSymbols.0.symbol>кошка</Ears_Cat.symbolPack.prefixSymbols.0.symbol>
 	<!--EN: kitty -->
-<Ears_Cat.symbolPack.prefixSymbols.1.symbol>Китти</Ears_Cat.symbolPack.prefixSymbols.1.symbol>
+<Ears_Cat.symbolPack.prefixSymbols.1.symbol>котёнок</Ears_Cat.symbolPack.prefixSymbols.1.symbol>
 	<!--EN: kit -->
 <Ears_Cat.symbolPack.prefixSymbols.2.symbol>Комплект</Ears_Cat.symbolPack.prefixSymbols.2.symbol>
 	<!--EN: tabby -->
@@ -186,7 +186,7 @@
 	<!--EN: trotter hands -->
 <Hands_Pig.label>Свиньи руки</Hands_Pig.label>
 	<!--EN: Carriers of this gene have hands that partially resemble pig trotters. This reduces their ability to manipulate objects. -->
-<Hands_Pig.description>У носителей этого гена руки частично напоминают свиные рысаки. Это снижает их способность манипулировать предметами.</Hands_Pig.description>
+<Hands_Pig.description>У носителей этого гена руки частично напоминают конечности свиньи. Это снижает их способность манипулировать предметами.</Hands_Pig.description>
 	<!--EN: trot -->
 <Hands_Pig.symbolPack.prefixSymbols.0.symbol>рысь</Hands_Pig.symbolPack.prefixSymbols.0.symbol>
 	<!--EN: pig -->
@@ -326,7 +326,7 @@
 	<!--EN: pig voice -->
 <VoicePig.label>Поросячий голос</VoicePig.label>
 	<!--EN: Carriers have a squealing voice like that of a pig. -->
-<VoicePig.description>У носителей визгливый голос, как у свиньи.</VoicePig.description>
+<VoicePig.description>У носителей этого гена визгливый голос, как у свиньи.</VoicePig.description>
 	<!--EN: squeal -->
 <VoicePig.symbolPack.prefixSymbols.0.symbol>визг</VoicePig.symbolPack.prefixSymbols.0.symbol>
 	<!--EN: oink -->
@@ -336,19 +336,19 @@
 	<!--EN: snort -->
 <VoicePig.symbolPack.prefixSymbols.3.symbol>фырканье</VoicePig.symbolPack.prefixSymbols.3.symbol>
 	<!--EN: oinker -->
-<VoicePig.symbolPack.suffixSymbols.0.symbol>oinker</VoicePig.symbolPack.suffixSymbols.0.symbol>
+<VoicePig.symbolPack.suffixSymbols.0.symbol>хрюшка</VoicePig.symbolPack.suffixSymbols.0.symbol>
 	<!--EN: hog -->
 <VoicePig.symbolPack.suffixSymbols.1.symbol>свинья</VoicePig.symbolPack.suffixSymbols.1.symbol>
 	<!--EN: pig -->
 <VoicePig.symbolPack.suffixSymbols.2.symbol>свинья</VoicePig.symbolPack.suffixSymbols.2.symbol>
 	<!--EN: snorter -->
-<VoicePig.symbolPack.suffixSymbols.3.symbol>Снатор</VoicePig.symbolPack.suffixSymbols.3.symbol>
+<VoicePig.symbolPack.suffixSymbols.3.symbol>фырканье</VoicePig.symbolPack.suffixSymbols.3.symbol>
 	<!--EN: squealer -->
 <VoicePig.symbolPack.wholeNameSymbols.0.symbol>визг</VoicePig.symbolPack.wholeNameSymbols.0.symbol>
 	<!--EN: oinker -->
-<VoicePig.symbolPack.wholeNameSymbols.1.symbol>oinker</VoicePig.symbolPack.wholeNameSymbols.1.symbol>
+<VoicePig.symbolPack.wholeNameSymbols.1.symbol>хрюшка</VoicePig.symbolPack.wholeNameSymbols.1.symbol>
 	<!--EN: snorter -->
-<VoicePig.symbolPack.wholeNameSymbols.2.symbol>Снатор</VoicePig.symbolPack.wholeNameSymbols.2.symbol>
+<VoicePig.symbolPack.wholeNameSymbols.2.symbol>фырканье</VoicePig.symbolPack.wholeNameSymbols.2.symbol>
 	<!--EN: roar voice -->
 <VoiceRoar.label>Ревущий голос</VoiceRoar.label>
 	<!--EN: Carriers have an animal-like roaring voice. -->
@@ -366,11 +366,11 @@
 	<!--EN: growl -->
 <VoiceRoar.symbolPack.suffixSymbols.2.symbol>рычание</VoiceRoar.symbolPack.suffixSymbols.2.symbol>
 	<!--EN: roarer -->
-<VoiceRoar.symbolPack.wholeNameSymbols.0.symbol>реарец</VoiceRoar.symbolPack.wholeNameSymbols.0.symbol>
+<VoiceRoar.symbolPack.wholeNameSymbols.0.symbol>ревущий</VoiceRoar.symbolPack.wholeNameSymbols.0.symbol>
 	<!--EN: growler -->
-<VoiceRoar.symbolPack.wholeNameSymbols.1.symbol>Гроулер</VoiceRoar.symbolPack.wholeNameSymbols.1.symbol>
+<VoiceRoar.symbolPack.wholeNameSymbols.1.symbol>рычащий</VoiceRoar.symbolPack.wholeNameSymbols.1.symbol>
 	<!--EN: snarler -->
-<VoiceRoar.symbolPack.wholeNameSymbols.2.symbol>рычаг</VoiceRoar.symbolPack.wholeNameSymbols.2.symbol>
+<VoiceRoar.symbolPack.wholeNameSymbols.2.symbol>ворчун</VoiceRoar.symbolPack.wholeNameSymbols.2.symbol>
 	<!--EN: bellower -->
-<VoiceRoar.symbolPack.wholeNameSymbols.3.symbol>Беллера</VoiceRoar.symbolPack.wholeNameSymbols.3.symbol>
+<VoiceRoar.symbolPack.wholeNameSymbols.3.symbol>ревущий</VoiceRoar.symbolPack.wholeNameSymbols.3.symbol>
 	</LanguageData>

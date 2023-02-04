@@ -37,7 +37,7 @@
 <LetterMechanitorCasketFound>Вы обнаружили криптосную шкатулку механитора! \ N \ nopen It, чтобы найти их внутри.</LetterMechanitorCasketFound>
 	<!--Вы обнаружили криптосную шкатулку механитора! \ N \ nopen It, чтобы найти их внутри.-->
 	<!--EN: {0_nameDef} became a child -->
-<LetterLabelBecameChild> {0_nameDef} стал ребенком</LetterLabelBecameChild>
+<LetterLabelBecameChild> {0_nameDef} стал ребёнком</LetterLabelBecameChild>
 	<!--EN: {0_nameDef} became an adult -->
 <LetterLabelBecameAdult> {0_nameDef} стал взрослым</LetterLabelBecameAdult>
 	<!--EN: Baby {0_nameDef} has grown up and become a child! {0_pronoun} is now old enough to do the following work: -->
@@ -63,31 +63,31 @@
 	<!--EN: {0_nameDef}'s baby prep -->
 <LetterLabelThirdTrimester> {0_nameDef} Baby Prep</LetterLabelThirdTrimester>
 	<!--EN: {0_nameDef} is due to give birth in less than 6 days. You can prepare for the baby:\n\n- Build a birth room with a clean floor and good bed.\n- Get a skilled doctor ready.\n- In the work tab, assign at least one person to childcare\n- Prepare a food source for the baby. {0_nameDef} can breastfeed the baby, or you can feed them baby food, milk, or insect jelly.\n- Build a crib. High quality cribs will make a baby happy.\n\nYou can make baby food at a stove or campfire. -->
-<LetterTextThirdTrimester> {0_nameDef} должна рожать менее чем через 6 дней. Вы можете подготовиться к появлению ребёнка: \ n \ n- построить комнату для рождения с чистым полом и хорошей кроватью. Приготовьте источник пищи для ребёнка. {0_nameDef} Может кормить грудью ребенка, или вы можете кормить их детским питанием, желе насекомых или молоком. Высококачественные кроватки сделают ребенка счастливым. \ И вы можете приготовить детское питание у печи или костра.</LetterTextThirdTrimester>
+<LetterTextThirdTrimester> {0_nameDef} должна рожать менее чем через 6 дней. Вы можете подготовиться к появлению ребёнка: \n\n- построить комнату для рождения с чистым полом и хорошей кроватью. Приготовьте источник пищи для ребёнка. {0_nameDef} Может кормить грудью ребёнка, или вы можете кормить ребёнка детским питанием, желе насекомых или молоком. Высококачественные кроватки сделают ребёнка счастливым. \ И вы можете приготовить детское питание у печи или костра.</LetterTextThirdTrimester>
 	<!--EN: {0} vat birth -->
 <LetterVatBirth> {0} НДС рождение</LetterVatBirth>
 	<!--EN: The embryo of {0_nameDef} and {1_nameDef} has finished gestating in a growth vat and has become a healthy baby! -->
-<LetterVatHealthyBaby>Эмбрион {0_nameDef} а также {1_nameDef} закончил жестов в НДС роста и стал здоровым ребенком!</LetterVatHealthyBaby>
+<LetterVatHealthyBaby>Эмбрион {0_nameDef} а также {1_nameDef} закончил жестов в НДС роста и стал здоровым ребёнком!</LetterVatHealthyBaby>
 	<!--EN: An embryo has finished gestating in a growth vat and become a healthy baby! -->
-<LetterVatHealthyBabyNoParents>Эмбрион завершил, чтобы жестов в НДС роста и стал здоровым ребенком!</LetterVatHealthyBabyNoParents>
+<LetterVatHealthyBabyNoParents>Эмбрион завершил, чтобы жестов в НДС роста и стал здоровым ребёнком!</LetterVatHealthyBabyNoParents>
 	<!--EN: The embryo of {0_nameDef} and {1_nameDef} has finished gestating in a growth vat and has become a baby. Unfortunately, the baby is sick. -->
-<LetterVatInfantIllness>Эмбрион {0_nameDef} а также {1_nameDef} закончил жестов в НДС роста и стал ребенком.К сожалению, ребенок болен.</LetterVatInfantIllness>
+<LetterVatInfantIllness>Эмбрион {0_nameDef} а также {1_nameDef} закончил жестов в НДС роста и стал ребёнком.К сожалению, ребёнок болен.</LetterVatInfantIllness>
 	<!--EN: An embryo has finished gestating in a growth vat and has become a baby. Unfortunately, the baby is sick. -->
-<LetterVatInfantIllnessNoParents>Эмбрион завершил, чтобы жестов в НДС роста и стал ребенком.К сожалению, ребенок болен.</LetterVatInfantIllnessNoParents>
+<LetterVatInfantIllnessNoParents>Эмбрион завершил, чтобы жестов в НДС роста и стал ребёнком. К сожалению, ребёнок болен.</LetterVatInfantIllnessNoParents>
 	<!--EN: The baby formed in a growth vat from the embryo of {0_nameDef} and {1_nameDef} was stillborn. -->
-<LetterVatStillborn>Ребенок, образованный в НДС роста из эмбриона {0_nameDef} а также {1_nameDef} был мертворожденным.</LetterVatStillborn>
+<LetterVatStillborn>Ребёнок, образованный в НДС роста из эмбриона {0_nameDef} а также {1_nameDef} был мертворожденным.</LetterVatStillborn>
 	<!--EN: The baby formed in a growth vat was stillborn. -->
-<LetterVatSillbornNoParents>Ребенок, образованный в НДС роста, был мертворожденным.</LetterVatSillbornNoParents>
+<LetterVatSillbornNoParents>Ребёнок, образованный в НДС роста, был мертворожденным.</LetterVatSillbornNoParents>
 	<!--EN: {0_labelShort} in labor! -->
 <LetterColonistPregnancyLaborLabel> {0_labelShort} в работе!</LetterColonistPregnancyLaborLabel>
 	<!--EN: {0_labelShort} is about to give birth! She's going to have contractions for a few hours before delivering a baby. The labor may go through several stages of different levels of difficulty and danger.\n\nTo improve the baby's chances, gather a doctor and others to help with the birth. Select {0_labelShort} and press 'Gather for birth' to start the procedure. -->
-<LetterColonistPregnancyLabor> {0_labelShort} собирается родить!У нее будут сокращения в течение нескольких часов, прежде чем рожать ребенка.Труд может пройти несколько этапов различных уровней сложности и опасности. \ N \ n \ nto улучшить шансы ребенка, собрать врача и других, чтобы помочь с рождением.Выбирать {0_labelShort} и нажмите «Сбор для рождения», чтобы начать процедуру.</LetterColonistPregnancyLabor>
+<LetterColonistPregnancyLabor> {0_labelShort} собирается родить! У нее будут сокращения в течение нескольких часов, прежде чем родится ребёнок. Схватки можгут проходить несколько этапов различных уровней сложности и опасности. \n\n- Чтобы улучшить шансы ребёнка, соберите врача и других, чтобы помочь матери во время родов. Выберите {0_labelShort} и нажмите «Собраться для родов», чтобы начать процедуру.</LetterColonistPregnancyLabor>
 	<!--EN: {0_labelShort} has died due to complications after giving birth. -->
-<LetterPartColonistDiedAfterChildbirth> {0_labelShort} умер из -за осложнений после родов.</LetterPartColonistDiedAfterChildbirth>
+<LetterPartColonistDiedAfterChildbirth> {0_labelShort} умер из-за осложнений во время родов.</LetterPartColonistDiedAfterChildbirth>
 	<!--EN: The baby was created from in vitro fertilization and has the genetic makeup of {0_labelShort} and {1_labelShort}. -->
-<LetterPartSurrogacy>Ребенок был создан из оплодотворения in vitro и имеет генетический состав {0_labelShort} а также {1_labelShort} Анкет</LetterPartSurrogacy>
+<LetterPartSurrogacy>Ребёнок был создан из оплодотворения in vitro и имеет генетический состав {0_labelShort} а также {1_labelShort} Анкет</LetterPartSurrogacy>
 	<!--EN: The baby shows signs of genetic abnormalities due to inbreeding. -->
-<InbredBabyBorn>Ребенок показывает признаки генетических нарушений из-за инцеста.</InbredBabyBorn>
+<InbredBabyBorn>Ребёнок показывает признаки генетических нарушений из-за инцеста.</InbredBabyBorn>
 	<!--EN: {0_nameDef} has already been named. -->
 <BabyAlreadyNamed> {0_nameDef} уже назван.</BabyAlreadyNamed>
 	<!--EN: name baby -->
@@ -97,9 +97,9 @@
 	<!--EN: within -->
 <Within>в пределах</Within>
 	<!--EN: The baby has been given the temporary name {0_nameFull}. You can change it until {1} after birth. -->
-<LetterPartNameBaby>Ребенку дали временное имя {0_nameFull} Вы можете изменить его, пока {1} после рождения.</LetterPartNameBaby>
+<LetterPartNameBaby>Ребёнку дали временное имя {0_nameFull} Вы можете изменить его, пока {1} после рождения.</LetterPartNameBaby>
 	<!--EN: The baby was given the temporary name {0_nameFull}. You can change it as long as the baby is less than {1} old. -->
-<LetterPartNameBabyAdopt>Ребенку дали временное имя {0_nameFull} Вы можете изменить его до тех пор, пока ребенок меньше, чем {1} старый.</LetterPartNameBabyAdopt>
+<LetterPartNameBabyAdopt>Ребёнку дали временное имя {0_nameFull} Вы можете изменить его до тех пор, пока ребёнок меньше, чем {1} старый.</LetterPartNameBabyAdopt>
 	<!--EN: Growth moment for {PAWNNAME} -->
 <BirthdayGrowthMoment>Момент роста для {PAWNNAME}  </BirthdayGrowthMoment>
 	<!--EN: {0_nameFull} has reached the biological age of {1} and has experienced a growth moment! -->
@@ -113,7 +113,7 @@
 	<!--EN: Choose a trait for {0_nameDef} to gain -->
 <BirthdayPickTrait>Выберите черту для {0_nameDef} чтобы получить</BirthdayPickTrait>
 	<!--EN: When this growth moment happened, {0_nameDef} was at growth tier {1}. Children at higher growth tiers get more trait and passion options to choose from, and more passions overall. Satisfying the learning need helps the child gain growth tiers faster. Growth tiers are reset after each growth moment. -->
-<BirthdayGrowthTier>Когда произошел этот момент роста, {0_nameDef} был на уровне роста {1} АнкетДети на более высоких уровнях роста получают больше вариантов черты и страсти, и в целом больше страстей.Удовлетворение потребностей в обучении помогает ребенку быстрее получать уровни роста.Уровь роста сбрасывается после каждого момента роста.</BirthdayGrowthTier>
+<BirthdayGrowthTier>Когда произошел этот момент роста, {0_nameDef} был на уровне роста {1} АнкетДети на более высоких уровнях роста получают больше вариантов черты и страсти, и в целом больше страстей.Удовлетворение потребностей в обучении помогает ребёнку быстрее получать уровни роста.Уровь роста сбрасывается после каждого момента роста.</BirthdayGrowthTier>
 	<!--EN: Open this letter to choose how {0_nameDef} will grow. -->
 <BirthdayChooseHowPawnWillGrow>Откройте это письмо, чтобы выбрать, как {0_nameDef} будет расти.</BirthdayChooseHowPawnWillGrow>
 	<!--EN: Passion was increased for {0}. -->

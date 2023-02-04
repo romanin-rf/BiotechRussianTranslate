@@ -148,7 +148,7 @@
 	<HaulToGeneBank.verb>банк</HaulToGeneBank.verb>
 
 	<!--EN: carry to growth vat -->
-	<HaulToGrowthVat.label>carry to growth vat</HaulToGrowthVat.label>
+	<HaulToGrowthVat.label>перенести в чан для выращивания</HaulToGrowthVat.label>
 	<!--EN: filling -->
 	<HaulToGrowthVat.gerund>наполнение</HaulToGrowthVat.gerund>
 	<!--EN: fill -->

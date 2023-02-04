@@ -31,7 +31,7 @@
 	<!--EN: frail -->
 <Immunity_Weak.symbolPack.prefixSymbols.1.symbol>хрупкий</Immunity_Weak.symbolPack.prefixSymbols.1.symbol>
 	<!--EN: sterile -->
-<Sterile.label>Стерилизован</Sterile.label>
+<Sterile.label>Стерилен, бесплоден</Sterile.label>
 	<!--EN: Carriers of this gene cannot reproduce by natural means. -->
 <Sterile.description>Носители этого гена не могут размножаться естественным путем.</Sterile.description>
 	<!--EN: superclotting -->

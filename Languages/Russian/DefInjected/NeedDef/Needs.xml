@@ -11,7 +11,7 @@
 	<!--EN: learning -->
 <Learning.label>обучение</Learning.label>
 	<!--EN: Children need new lessons and experiences to grow up well, and will become unhappy without them.\n\nChildren will only do learning activities when their schedule is set to Recreation or Anything.\n\nActivities that fulfill a child's desire to learn include:\n{ACTIVITIES}\n\nA satisfied learning need helps children gain growth tiers faster, giving them more passions and choices during growth moments. -->
-<Learning.description>Дети нуждаются в новых уроках и опыте, чтобы хорошо расти, и станут несчастными без них.\n\nДети будут заниматься учебной деятельностью только тогда, когда их расписание настроено на Отдых или Что угодно.\n\nДеятельность, которая удовлетворяет желание ребенка учиться, включает:\n{ACTIVITIES}\n\nУдовлетворение потребности в обучении помогает детям быстрее набирать уровни роста, давая им больше увлечений и выбора в моменты роста.</Learning.description>
+<Learning.description>Дети нуждаются в уроках и новом опыте, чтобы расти и развиваться. Они станут несчастными без них.\n\nДети будут заниматься учебной деятельностью только тогда, когда их расписание в данный промежуток времени настроено на "Отдых" или "Что угодно".\n\nДеятельность, которая удовлетворяет желание ребенка учиться, включает:\n{ACTIVITIES}\n\nУдовлетворение потребности в обучении помогает детям быстрее набирать уровни роста, давая им больше увлечений и выбора в моменты роста.</Learning.description>
 	<!--EN: energy -->
 <MechEnergy.label>энергия</MechEnergy.label>
 	<!--EN: A reserve of bioelectric energy needed for a mechanoid to function. It can be recharged at a charging station. If it reaches zero, the mech will go into dormant self-charging mode and recharge very slowly. -->
@@ -19,5 +19,5 @@
 	<!--EN: play -->
 <Play.label>играть</Play.label>
 	<!--EN: Babies need to be played with by adults. If they aren't played with, they will become unhappy. -->
-<Play.description>Младенцы нуждаются в том, чтобы взрослые играли с ними. Если с ними не играть, они станут несчастными.</Play.description>
+<Play.description>Младенцы нуждаются в том, чтобы взрослые периодически играли с ними. Если не играть с младенцами, они будут несчастны.</Play.description>
 	</LanguageData>

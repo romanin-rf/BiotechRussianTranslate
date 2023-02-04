@@ -22,7 +22,7 @@
 	<!--EN: mechanoid transponder -->
 	<MechanoidTransponder.label>механоидный ретранслятор</MechanoidTransponder.label>
 	<!--EN: A transponder micro-organ that connects a mechanitor to a mechanoid, even over a great distance. Mechanitors are capable of controlling many mechanoids using a mix of psychic and electromagnetic signals.\n\nDecrypting the transponder will allow you to pinpoint the location of the last mechanitor who controlled the mechanoid. -->
-	<MechanoidTransponder.description>Микроорганизм-ретранслятор, который соединяет механизатора с механоидом даже на большом расстоянии. Механиторы способны управлять многими механоидами, используя смесь психических и электромагнитных сигналов.\n\nДешифровка транспондера позволит вам определить местонахождение последнего механитора, который управлял механоидом.</MechanoidTransponder.description>
+	<MechanoidTransponder.description>Микроорганизм-ретранслятор, который соединяет механитора с механоидом даже на большом расстоянии. Механиторы способны управлять многими механоидами, используя смесь психических и электромагнитных сигналов.\n\nДешифровка транспондера позволит вам определить местонахождение последнего механитора, который управлял механоидом.</MechanoidTransponder.description>
 	<!--EN: Decrypt transponder -->
 	<MechanoidTransponder.comps.CompUseableDatacore.useLabel>Дешифровка ретранслятор</MechanoidTransponder.comps.CompUseableDatacore.useLabel>
 	<!--EN: Can be decrypted at a research bench.\nSelect a colonist and right-click this to decrypt it. -->

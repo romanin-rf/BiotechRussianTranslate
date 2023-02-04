@@ -15,16 +15,16 @@
 <CentipedeGunner.jobString>Выростить мех.</CentipedeGunner.jobString>
 
 	<!--EN: gestate diabolus -->
-<Diabolus.label>выростить Диаболуса</Diabolus.label>
+<Diabolus.label>вырастить Диаболуса</Diabolus.label>
 	<!--EN: Gestate a diabolus mech. -->
 <Diabolus.description>Создайте мехи Диаболуса.</Diabolus.description>
 	<!--EN: Gestating mech. -->
-<Diabolus.jobString>Выростить мех.</Diabolus.jobString>
+<Diabolus.jobString>Вырастить мех.</Diabolus.jobString>
 
 	<!--EN: gestate tunneler -->
-<Tunneler.label>выростить проходчика</Tunneler.label>
+<Tunneler.label>вырастить проходчика</Tunneler.label>
 	<!--EN: Gestate a tunneler mechanoid. -->
 <Tunneler.description>Вырастить механоида проходчика.</Tunneler.description>
 	<!--EN: Gestating mech. -->
-<Tunneler.jobString>Выростить мех.</Tunneler.jobString>
+<Tunneler.jobString>Вырастить мех.</Tunneler.jobString>
 	</LanguageData>

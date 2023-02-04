@@ -2,7 +2,7 @@
 <LanguageData>
 	<!---->
 	<!--EN: Any mechanitor -->
-	<AnyMechanitor>Любой механизатор</AnyMechanitor>
+	<AnyMechanitor>Любой механитор</AnyMechanitor>
 	<!--EN: Summoning the {LEADERKIND_label} threat will summon the following hostile mechanoids:\n\n{PAWNS}\n\nThe mechanoids will arrive in the next few hours or days. Are you ready to fight? -->
 	<BossgroupWarningDialog>Вызов угрозы {LEADERKIND_label} вызовет следующих враждебных механоидов:\n\n{PAWNS}\n\nМеханоиды прибудут в ближайшие несколько часов или дней. Готовы ли вы сражаться?</BossgroupWarningDialog>
 	<!--EN: {PAWN_labelShort} is downed. -->
@@ -41,11 +41,11 @@
 	<!--EN: Inspect the genes inside the {0_labelShort}. -->
 	<InspectGenesDesc>Осмотрите гены внутри {0_labelShort}.</InspectGenesDesc>
 	<!--EN: Inspect the unborn baby's genes. -->
-	<InspectGenesHediffDesc>Проверьте гены еще не родившегося ребенка.</InspectGenesHediffDesc>
+	<InspectGenesHediffDesc>Проверьте гены ещё не родившегося ребенка.</InspectGenesHediffDesc>
 	<!--EN: Inspect the embryo's genes. -->
 	<InspectGenesEmbryoDesc>Проверьте гены эмбриона.</InspectGenesEmbryoDesc>
 	<!--EN: No genepacks -->
-	<NoGenePacks>Нету ген-пакетов</NoGenePacks>
+	<NoGenePacks>Нет ген-пакетов</NoGenePacks>
 	<!--EN: Start combining -->
 	<StartCombining>Начать комбинировать</StartCombining>
 	<!--EN: Selected genepacks -->
@@ -102,7 +102,7 @@
 	<!--EN: Inspect genes -->
 	<InspectGenes>Обследовать гены</InspectGenes>
 	<!--EN: Inspect baby genes -->
-	<InspectBabyGenes>Осмотр генов ребенка</InspectBabyGenes>
+	<InspectBabyGenes>Осмотр генов ребёнка</InspectBabyGenes>
 	<!--EN: no xenogerm implanted -->
 	<NoXenogermImplanted>ксеногерм не имплантирован</NoXenogermImplanted>
 	<!--EN: germline genes -->
@@ -129,7 +129,7 @@
 	<!--EN: custom -->
 	<Custom>пользовательский</Custom>
 	<!--EN: hybrid -->
-	<Hybrid>гибрид</Hybrid>
+	<Hybrid>Гибрид</Hybrid>
 	<!--EN: Genes are heritable -->
 	<GenesAreInheritable>Гены наследуются</GenesAreInheritable>
 	<!--EN: Whether or not this xenotype can be passed on to children. -->
@@ -245,9 +245,9 @@
 	<!--EN: {PAWN1_nameDef} and {PAWN2_nameDef} are the same gender. -->
 	<PawnsHaveSameGender>{PAWN1_nameDef} и {PAWN2_nameDef} одного пола.</PawnsHaveSameGender>
 	<!--EN: {PAWN1_nameDef} and {PAWN2_nameDef} are sterile. -->
-	<PawnsAreSterile>{PAWN1_nameDef} и {PAWN2_nameDef} стерильны.</PawnsAreSterile>
+	<PawnsAreSterile>{PAWN1_nameDef} и {PAWN2_nameDef} бесплодны.</PawnsAreSterile>
 	<!--EN: {PAWN_nameDef} is sterile. -->
-	<PawnIsSterile>{PAWN_nameDef} стерилен.</PawnIsSterile>
+	<PawnIsSterile>{PAWN_nameDef} бесплоден.</PawnIsSterile>
 	<!--EN: {PAWN1_nameDef} and {PAWN2_nameDef} are infertile. -->
 	<PawnsAreInfertile>{PAWN1_nameDef} и {PAWN2_nameDef} бесплодны.</PawnsAreInfertile>
 	<!--EN: {PAWN_nameDef} is infertile. -->
@@ -270,7 +270,7 @@
 	<!--EN: {0} squeals a string of curses into the microphone and disconnects. -->
 	<PigFactionGreetingHostile>{0} произносит в микрофон ряд проклятий и отключается.</PigFactionGreetingHostile>
 	<!--EN: Oinking angrily, {0} demands that you make a gesture of unity, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nSnorting an insult, {0_pronoun} disconnects. -->
-	<PigFactionGreetingHostileAppreciative>Злобно рыча, {0} требует, чтобы вы сделали жест единства, например, принесли подарки в одно из поселений {0_possessive} или отпустили пленных {0_possessive} фракции невредимыми. До тех пор, {0_pronoun} не желает разговаривать.\n\nНесмотря на оскорбление, {0_pronoun} отсоединяется.</PigFactionGreetingHostileAppreciative>
+	<PigFactionGreetingHostileAppreciative>Злобно рыча, {0} требует, чтобы вы сделали жест единства, например, принесли подарки в одно из их поселений {0_possessive} или отпустили пленных {0_possessive} фракции невредимыми. До тех пор, {0_pronoun} не желает с вами разговаривать.\n\nНесмотря на оскорбление, {0_pronoun} отсоединяется.</PigFactionGreetingHostileAppreciative>
 	<!--EN: {0} oinks a greeting and asks what business you need done. -->
 	<PigFactionGreetingWary>{0} оглашает приветствие и спрашивает, какое дело вам нужно сделать.</PigFactionGreetingWary>
 	<!--EN: Oinking enthusiastically, {0} greets {NEGOTIATOR_labelShort} and asks what {LEADER_pronoun} can do to help you. -->
@@ -280,11 +280,11 @@
 	<!--EN: {0} roars into the microphone and disconnects. -->
 	<YttakinFactionGreetingHostile>{0} рычит в микрофон и отключается.</YttakinFactionGreetingHostile>
 	<!--EN: Growling under {0_possessive} breath, {0} demands that you make a gesture of friendship, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nSnarling an insult, {0_pronoun} disconnects. -->
-	<YttakinFactionGreetingHostileAppreciative>Рыча под {0_possessive} дыханием, {0} требует, чтобы вы сделали жест дружбы, например, принесли подарки в одно из {0_possessive} поселений или отпустили пленников {0_possessive} фракции невредимыми. До тех пор, {0_pronoun} не желает разговаривать.\n\nНесмотря на оскорбление, {0_pronoun} отсоединяется.</YttakinFactionGreetingHostileAppreciative>
+	<YttakinFactionGreetingHostileAppreciative>Рыча под {0_possessive} дыханием, {0} требует, чтобы вы сделали жест дружбы, например, принесли подарки в одно из {0_possessive} поселений или отпустили пленников {0_possessive} фракции невредимыми. До тех пор, {0_pronoun} не желает разговаривать с вами.\n\nНесмотря на оскорбление, {0_pronoun} отсоединяется.</YttakinFactionGreetingHostileAppreciative>
 	<!--EN: {0} grumbles a greeting to {NEGOTIATOR_labelShort} and asks why you are calling. -->
 	<YttakinFactionGreetingWary>{0} ворчать {NEGOTIATOR_labelShort} и спрашивает, почему вы звоните.</YttakinFactionGreetingWary>
 	<!--EN: {0} bellows a friendly greeting and asks what {LEADER_pronoun} can do to help you. -->
-	<YttakinFactionGreetingWarm>{0} Бесполезное приветствие и спрашивает, что спрашивает {LEADER_pronoun} может помочь вам.</YttakinFactionGreetingWarm>
+	<YttakinFactionGreetingWarm>{0} Вас приветствуют и спрашивают, чем {LEADER_pronoun} может помочь вам.</YttakinFactionGreetingWarm>
 	<!--EN: {0} grunts angrily and disconnects. -->
 	<NeanderthalFactionGreetingHostile>{0} Грэнд сердито и отключается.</NeanderthalFactionGreetingHostile>
 	<!--EN: {0} grunts aggressively. Until you make a gesture of goodwill, {0_pronoun} will not do business with you. You can improve relations through a number of activities, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed.\n\n{0_pronoun} disconnects abruptly. -->

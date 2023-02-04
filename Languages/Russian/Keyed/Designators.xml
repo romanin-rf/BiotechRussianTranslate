@@ -3,19 +3,19 @@
 	<!--EN: Assign to group -->
 	<DesignatorMechControlGroup>Назначить в группу</DesignatorMechControlGroup>
 	<!--EN: Assign the selected mech(s) to another control group under their current mechanitor overseer. -->
-	<DesignatorMechControlGroupDesc>Назначьте выбранного(-ых) мех(ов) в другую группу управления под руководством их текущего куратора-механизатора.</DesignatorMechControlGroupDesc>
+	<DesignatorMechControlGroupDesc>Назначьте выбранного(-ых) мех(ов) в другую группу управления под руководством их текущего куратора-механитора.</DesignatorMechControlGroupDesc>
 	<!--EN: However, a {0} can build this. -->
 	<MechCanBuildThis>Однако, {0} может построить это.</MechCanBuildThis>
 	<!--EN: Adopt -->
 	<DesignatorAdopt>Усыновить</DesignatorAdopt>
 	<!--EN: Adopt this baby as a colonist. The baby will instantly become one of yours. -->
-	<DesignatorAdoptDesc>Примите этого ребенка в качестве колониста. Ребенок сразу же станет одним из ваших.</DesignatorAdoptDesc>
+	<DesignatorAdoptDesc>Примите этого ребенка в качестве колониста. Ребенок сразу же станет одним из ваших колонистов.</DesignatorAdoptDesc>
 	<!--EN: Choose mech color... -->
 	<ChooseMechColor>Выберите цвет меха...</ChooseMechColor>
 	<!--EN: Pollution removal area -->
 	<DesignatorAreaPollutionClearExpand>Зона удаления загрязнения</DesignatorAreaPollutionClearExpand>
 	<!--EN: Designate an area where colonists will manually clean polluted terrain. Cleaning the terrain removes pollution from the ground and packages it into toxic wastepacks which can be carried away. -->
-	<DesignatorAreaPollutionClearExpandDesc>Определите область, где колонисты будут вручную чистить загрязненную местность.Очистка местности удаляет загрязнение из земли и упаковывает его в токсичные пакеты отходов, которые можно унести.</DesignatorAreaPollutionClearExpandDesc>
+	<DesignatorAreaPollutionClearExpandDesc>Определите область, где колонисты будут вручную чистить загрязненную местность. Очистка местности удаляет загрязнение из земли и упаковывает его в токсичные пакеты отходов, которые можно унести.</DesignatorAreaPollutionClearExpandDesc>
 	<!--EN: Clear pollution removal area -->
 	<DesignatorAreaPollutionClearClear>Четкая зона удаления загрязнения</DesignatorAreaPollutionClearClear>
 	<!--EN: Removes the pollution removal area. Colonists will no longer manually extract pollution from the terrain in this area. -->

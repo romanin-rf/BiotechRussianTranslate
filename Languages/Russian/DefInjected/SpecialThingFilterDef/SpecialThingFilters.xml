@@ -6,8 +6,8 @@
 	<!--EN: Allow the dead bodies of enemy mechanoids. -->
 	<AllowCorpsesMechEnemy.description>разрешить трупы вражеских мехов</AllowCorpsesMechEnemy.description>
 	<!--EN: allow friendly mech corpses -->
-	<AllowCorpsesMechFriendly.label>разрешить дружественные трупы мехов</AllowCorpsesMechFriendly.label>
+	<AllowCorpsesMechFriendly.label>разрешить трупыЫ дружественных мехов</AllowCorpsesMechFriendly.label>
 	<!--EN: Allow the dead bodies of friendly mechanoids. -->
-	<AllowCorpsesMechFriendly.description>Разрешить трупы дружественных механоидов. </AllowCorpsesMechFriendly.description>
+	<AllowCorpsesMechFriendly.description>разрешить трупы дружественных механоидов. </AllowCorpsesMechFriendly.description>
 
 </LanguageData>

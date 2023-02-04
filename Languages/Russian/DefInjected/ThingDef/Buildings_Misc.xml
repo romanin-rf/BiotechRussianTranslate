@@ -56,9 +56,9 @@
 	<!--EN: A spacer-tech shuttle designed for transit between surface and orbit, or between moons of a planetary system. -->
 	<ShuttleCrashed_Exitable.description>Космический челнок, предназначенный для перемещения между поверхностью и орбитой или между лунами планетарной системы.</ShuttleCrashed_Exitable.description>
 	<!--EN: crashed mechanitor ship -->
-	<ShuttleCrashed_Exitable_Mechanitor.label>разбившийся корабль механизаторов</ShuttleCrashed_Exitable_Mechanitor.label>
+	<ShuttleCrashed_Exitable_Mechanitor.label>разбившийся корабль механиторов</ShuttleCrashed_Exitable_Mechanitor.label>
 	<!--EN: A short-range ship used by a mechanitor to transport mechs for low-orbit or planetary travel. -->
-	<ShuttleCrashed_Exitable_Mechanitor.description>Корабль малой дальности, используемый механизаторами для перевозки мехов на низкую орбиту или для планетарных путешествий.</ShuttleCrashed_Exitable_Mechanitor.description>
+	<ShuttleCrashed_Exitable_Mechanitor.description>Корабль малой дальности, используемый механиторами для перевозки мехов на низкую орбиту или для планетарных путешествий.</ShuttleCrashed_Exitable_Mechanitor.description>
 	<!--EN: toxifier generator -->
 	<ToxifierGenerator.label>генератор токсинов</ToxifierGenerator.label>
 	<!--EN: This electrical generator very slowly pollutes the terrain in a radius around it while producing energy. If all terrain in the radius is polluted, the generator will shut down. -->

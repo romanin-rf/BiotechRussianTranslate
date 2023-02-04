@@ -7,7 +7,7 @@
 	<!--EN: animal warcall -->
 <AnimalWarcall.label>Звериный вой</AnimalWarcall.label>
 	<!--EN: With a powerful bellow and psychic connection, call an animal to fight your enemies for a few hours. -->
-<AnimalWarcall.description>С помощью мощного мычания и экстрасенсорной связи вызовите животное, чтобы оно сражалось с вашими врагами в течение нескольких часов.</AnimalWarcall.description>
+<AnimalWarcall.description>С помощью громкого воя и экстрасенсорной связи вызовите животное, чтобы оно сражалось с вашими врагами в течение нескольких часов.</AnimalWarcall.description>
 	<!--EN: warcall -->
 <AnimalWarcall.verbProperties.label>призыв к войне</AnimalWarcall.verbProperties.label>
 	<!--EN: bloodfeed -->
@@ -63,7 +63,7 @@
 	<!--EN: resurrect -->
 <Resurrect.label>Воскресить</Resurrect.label>
 	<!--EN: Use archites in the bloodstream to infuse a corpse's body with new life, repairing degenerated cell structures and kickstarting vital functions. The older and worse-preserved the corpse is, the more likely it is that they will come back with memory loss or health conditions. This ability seems to exhaust the archites somehow, so it can only be used very rarely. -->
-<Resurrect.description>Используйте архиты в кровотоке, чтобы наполнить тело трупа новой жизнью, восстанавливая деградировавшие клеточные структуры и запуская жизненно важные функции. Чем старше и хуже сохранился труп, тем больше вероятность, что он вернется с потерей памяти или нарушениями здоровья. Эта способность, похоже, как-то истощает архитекторов, поэтому ее можно использовать очень редко.</Resurrect.description>
+<Resurrect.description>Используйте архиты в кровотоке, чтобы наполнить тело трупа новой жизнью, восстанавливая деградировавшие клеточные структуры и запуская жизненно важные функции. Чем старше и хуже сохранился труп, тем больше вероятность, что он вернется с потерей памяти или нарушениями здоровья. Эта способность, похоже, как-то истощает архитов, поэтому ее можно использовать очень редко.</Resurrect.description>
 	<!--EN: resurrect mech -->
 <ResurrectionMech.label>Воскресить Меха</ResurrectionMech.label>
 	<!--EN: Resurrect a recently-killed mechanoid by externally supercharging its self-repair processes. The mechanoid will come back with some but not all of its wounds healed. -->

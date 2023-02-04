@@ -3,5 +3,5 @@
 	<!--EN: ate baby food -->
 <AteBabyFood.stages.ate_baby_food.label>{PAWN_gender ? Ел : Ела } детское питание</AteBabyFood.stages.ate_baby_food.label>
 	<!--EN: I had to eat watery slop made for a child. It's not just tasteless; it's demoralizing. -->
-<AteBabyFood.stages.ate_baby_food.description>Мне пришлось съесть эту водянистую кашицу, сделанную для детей. Это не просто безвкусно, это очень грустно.</AteBabyFood.stages.ate_baby_food.description>
+<AteBabyFood.stages.ate_baby_food.description>Мне пришлось съесть эту безвкусную водянистую кашицу, сделанную для детей. Это деморализует меня.</AteBabyFood.stages.ate_baby_food.description>
 	</LanguageData>

@@ -106,7 +106,7 @@
 	<!--EN: {MOM_labelShort} cannot breastfeed right now -->
 <BreastfeedFailReason_MomInMentalState> {MOM_labelShort} Не могу сейчас кормить грудью</BreastfeedFailReason_MomInMentalState>
 	<!--EN: {BABY_labelShort} is too full to suckle -->
-<BreastfeedFailReason_BabyTooFull> {BABY_labelShort} слишком полон, чтобы сосать</BreastfeedFailReason_BabyTooFull>
+<BreastfeedFailReason_BabyTooFull> {BABY_labelShort} сытый, поэтому не будет сосать</BreastfeedFailReason_BabyTooFull>
 	<!--EN: {BABY_labelShort} is forbidden to {MOM_labelShort} -->
 <BreastfeedFailReason_BabyForbiddenToMom> {BABY_labelShort} запрещено {MOM_labelShort}  </BreastfeedFailReason_BabyForbiddenToMom>
 	<!--EN: {BABY_labelShort} is forbidden to {HAULER_labelShort} -->
@@ -142,7 +142,7 @@
 	<!--EN: Hemogen packs disabled by food restriction. -->
 <NotAllowedHemogen>Гемоген упаковывает инвалидным ограничением пищи.</NotAllowedHemogen>
 	<!--EN: Eject genepack from gene bank -->
-<EjectGenepackFromGeneBank>Изгнать генепак из Gene Bank</EjectGenepackFromGeneBank>
+<EjectGenepackFromGeneBank>Извлечь генепак из Gene Bank</EjectGenepackFromGeneBank>
 	<!--EN: Resulting metabolism would be too low -->
 <ResultingMetTooLow>Полученный метаболизм был бы слишком низким</ResultingMetTooLow>
 	</LanguageData>

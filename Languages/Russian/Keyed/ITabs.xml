@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 	<!--EN: The recipe {0} requires a mechanitor to work on it. None of your colonists are mechanitors, so nobody will do this bill. -->
-<RecipeRequiresMechanitor>Для работы над рецептом {0} требуется механизатор. Никто из ваших колонистов не является механизатором, поэтому никто не будет выполнять этот рецепт.</RecipeRequiresMechanitor>
+<RecipeRequiresMechanitor>Для работы над рецептом {0} требуется механитор. Никто из ваших колонистов не является механитором, поэтому никто не будет выполнять этот рецепт.</RecipeRequiresMechanitor>
 	<!--EN: genepacks -->
 <GenepackPlural>гены</GenepackPlural>
 	<!--EN: Traits develop later during childhood -->
@@ -24,7 +24,7 @@
 	<!--EN: childcare -->
 <AutofeedModeChildcare>уход за детьми</AutofeedModeChildcare>
 	<!--EN: urgent -->
-<AutofeedModeUrgent>срочный</AutofeedModeUrgent>
+<AutofeedModeUrgent>срочно</AutofeedModeUrgent>
 	<!--EN: Nobody can feed this baby. -->
 <AutofeedNone>Никто не может накормить этого ребенка.</AutofeedNone>
 	<!--EN: {FEEDER_nameDef} will not automatically feed {BABY_nameDef}. -->
@@ -68,7 +68,7 @@
 	<!--EN: mental break -->
 <CantRomanceTargetMentalState>умственный перерыв</CantRomanceTargetMentalState>
 	<!--EN: incestuous -->
-<CantRomanceTargetIncest>Incestound</CantRomanceTargetIncest>
+<CantRomanceTargetIncest>инцест</CantRomanceTargetIncest>
 	<!--EN: low opinion -->
 <CantRomanceTargetOpinion>низкое мнение</CantRomanceTargetOpinion>
 	<!--EN: incompatible orientation -->
@@ -82,7 +82,7 @@
 	<!--EN: {0_labelShort} cannot try to romance because {0_pronoun} is a prisoner. -->
 <CantRomanceInitiateMessagePrisoner> {0_labelShort} не могу попытаться романтику, потому что {0_pronoun} это заключенный.</CantRomanceInitiateMessagePrisoner>
 	<!--EN: {0_labelShort} cannot try to romance because {0_pronoun} is a slave. -->
-<CantRomanceInitiateMessageSlave> {0_labelShort} не могу попытаться романтику, потому что {0_pronoun} это раб.</CantRomanceInitiateMessageSlave>
+<CantRomanceInitiateMessageSlave> {0_labelShort} не могу попытаться романтику, потому что {0_pronoun} раб.</CantRomanceInitiateMessageSlave>
 	<!--EN: {0_labelShort} cannot try to romance because {0_pronoun} has the asexual trait. -->
 <CantRomanceInitiateMessageAsexual> {0_labelShort} не могу попытаться романтику, потому что {0_pronoun} имеет бесполую черту.</CantRomanceInitiateMessageAsexual>
 	<!--EN: {0_labelShort} cannot try to romance because {0_pronoun} is incapacitated. -->
@@ -90,13 +90,13 @@
 	<!--EN: {0_labelShort} cannot try to romance because {0_pronoun} is drafted. -->
 <CantRomanceInitiateMessageDrafted> {0_labelShort} не могу попытаться романтику, потому что {0_pronoun} составлен.</CantRomanceInitiateMessageDrafted>
 	<!--EN: {0_labelShort} cannot try to romance because {0_pronoun} is in an unfit mental state. -->
-<CantRomanceInitiateMessageMentalState> {0_labelShort} не могу попытаться романтику, потому что {0_pronoun} находится в непригодном психическом состоянии.</CantRomanceInitiateMessageMentalState>
+<CantRomanceInitiateMessageMentalState> {0_labelShort} не могу попытаться романтику, потому что {0_pronoun} находится в неподходящем психическом состоянии.</CantRomanceInitiateMessageMentalState>
 	<!--EN: {0_labelShort} cannot try to romance because {0_pronoun} is unable to speak. -->
 <CantRomanceInitiateMessageTalk> {0_labelShort} не могу попытаться романтику, потому что {0_pronoun} не может говорить.</CantRomanceInitiateMessageTalk>
 	<!--EN: {0_labelShort} tried romancing recently and must wait {1} until trying again. -->
 <CantRomanceInitiateMessageCooldown> {0_labelShort} недавно попробовал романсировать и должен ждать {1} Пока не попробую снова.</CantRomanceInitiateMessageCooldown>
 	<!--EN: {0_labelShort}'s attempt to romance {1_labelShort} was unsuccessful. -->
-<TryRomanceFailedMessage> {0_labelShort} Попытка романтики {1_labelShort} был неудачным.</TryRomanceFailedMessage>
+<TryRomanceFailedMessage> {0_labelShort} Попытка завести роман {1_labelShort} была неудачной.</TryRomanceFailedMessage>
 	<!--EN: Having {INITIATOR_nameDef} romance {TARGET_nameDef} could sow resentment among existing partners, lead to breakups, and cause altercations. -->
 <RomanceExistingRelationshipWarning>Имея {INITIATOR_nameDef} роман {TARGET_nameDef} Может сеять обиду среди существующих партнеров, привести к расставаниям и вызвать ссоры.</RomanceExistingRelationshipWarning>
 	<!--EN: Romance chance -->

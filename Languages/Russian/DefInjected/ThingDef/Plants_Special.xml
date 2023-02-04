@@ -4,7 +4,7 @@
 
 <LanguageData>
 	<!--EN: chopped polux stump -->
-	<ChoppedStump_Polux.label>измельчённый пень Полюкса</ChoppedStump_Polux.label>
+	<ChoppedStump_Polux.label>обрубленный пень Полюкса</ChoppedStump_Polux.label>
 	<!--EN: A stump left behind after a polux tree has been felled. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
 	<ChoppedStump_Polux.description>Пень, оставшийся после вырубки дерева породы Полюкс. Пень можно извлечь, но он дает очень мало полезной древесины. Оставленный на открытом воздухе, пень со временем разрушается.</ChoppedStump_Polux.description>
 	<!--EN: polux tree -->
@@ -12,7 +12,7 @@
 	<!--EN: After generations of exposure, these trees have evolved to metabolize pollutants. By drawing pollutants from the ground through wide root networks, they slowly clean polluted terrain in their vicinity. However, they cannot do this if buildings are constructed over their roots.\n\nUnlike most methods of cleaning polluted terrain, polux trees do not create toxic wastepacks. -->
 	<Plant_TreePolux.description>После многих поколений воздействия эти деревья эволюционировали, чтобы перерабатывать загрязняющие вещества. Вытягивая загрязняющие вещества из земли через широкую корневую сеть, они медленно очищают загрязненную местность поблизости. Однако они не могут этого сделать, если над их корнями построены здания.\n\nВ отличие от большинства методов очистки загрязненной местности, Полюкс деревьев не создает токсичных отходов.</Plant_TreePolux.description>
 	<!--EN: smashed polux stump -->
-	<SmashedStump_Polux.label>раздробленный пень Полюкса</SmashedStump_Polux.label>
+	<SmashedStump_Polux.label>поврежденный пень Полюкса</SmashedStump_Polux.label>
 	<!--EN: The remnants of a polux tree destroyed by damage. It's ugly. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
 	<SmashedStump_Polux.description>Остатки дерева Полюкс, уничтоженного в результате повреждения. Оно уродливо. Пень можно извлечь, но он дает очень мало полезной древесины. Оставленный на открытом воздухе, пень со временем разрушится.</SmashedStump_Polux.description>
 </LanguageData>

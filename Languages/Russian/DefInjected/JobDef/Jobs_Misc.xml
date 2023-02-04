@@ -17,7 +17,7 @@
 	<!--EN: taking control of TargetA. -->
 <ControlMech.reportString>взяв под контроль TargetA.</ControlMech.reportString>
 	<!--EN: creating xenogerm. -->
-<CreateXenogerm.reportString>создание ксеногерм.</CreateXenogerm.reportString>
+<CreateXenogerm.reportString>создание ксеногерма.</CreateXenogerm.reportString>
 	<!--EN: deathresting. -->
 <Deathrest.reportString>смертный покой.</Deathrest.reportString>
 	<!--EN: disassembling TargetA. -->
@@ -33,7 +33,7 @@
 	<!--EN: charging. -->
 <MechCharge.reportString>зарядка.</MechCharge.reportString>
 	<!--EN: feeding on TargetA. -->
-<PrisonerBloodfeed.reportString>питаясь от TargetA.</PrisonerBloodfeed.reportString>
+<PrisonerBloodfeed.reportString>принимает пищу от TargetA.</PrisonerBloodfeed.reportString>
 	<!--EN: decrypting TargetA. -->
 <ReadDatacore.reportString>расшифровка TargetA.</ReadDatacore.reportString>
 	<!--EN: releasing mechanoids. -->
@@ -49,7 +49,7 @@
 	<!--EN: shielding TargetA. -->
 <ShieldMech.reportString>экранирование TargetA.</ShieldMech.reportString>
 	<!--EN: romancing TargetA. -->
-<TryRomance.reportString>романизировать TargetA.</TryRomance.reportString>
+<TryRomance.reportString>завести роман с TargetA.</TryRomance.reportString>
 	<!--EN: waiting. -->
-<Wait_WithSleeping.reportString>ждать.</Wait_WithSleeping.reportString>
+<Wait_WithSleeping.reportString>ждёт.</Wait_WithSleeping.reportString>
 	</LanguageData>

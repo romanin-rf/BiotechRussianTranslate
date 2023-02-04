@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 	<!--EN: toxalope -->
-<Toxalope.label>токсикоз</Toxalope.label>
-	<Toxalope.labelPlural>токсикоз</Toxalope.labelPlural>
+<Toxalope.label>токсилопа</Toxalope.label>
+	<Toxalope.labelPlural>токсилопы</Toxalope.labelPlural>
 	<!--EN: toxalope calf -->
-<Toxalope.lifeStages.toxalope_calf.label>телёнок токсикоза</Toxalope.lifeStages.toxalope_calf.label>
+<Toxalope.lifeStages.toxalope_calf.label>телёнок токсилопы</Toxalope.lifeStages.toxalope_calf.label>
 	<!--EN: toxalope calves -->
-<Toxalope.lifeStages.toxalope_calf.labelPlural>телята токсикоза</Toxalope.lifeStages.toxalope_calf.labelPlural>
+<Toxalope.lifeStages.toxalope_calf.labelPlural>телята токсилопы</Toxalope.lifeStages.toxalope_calf.labelPlural>
 	<!--EN: waste rat -->
 <WasteRat.label>помойная крыса</WasteRat.label>
 	<WasteRat.labelPlural>помойные крысы</WasteRat.labelPlural>
 	<WasteRat.lifeStages.0.label>помойная крыса</WasteRat.lifeStages.0.label>
-	<WasteRat.lifeStages.0.labelPlural>помойная крыса</WasteRat.lifeStages.0.labelPlural>
+	<WasteRat.lifeStages.0.labelPlural>помойные крысы</WasteRat.lifeStages.0.labelPlural>
 	</LanguageData>

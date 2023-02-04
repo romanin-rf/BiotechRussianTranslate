@@ -43,7 +43,7 @@
 	<!--EN: my children are unhappy -->
 <MyChildrenSad.stages.my_children_are_unhappy.label>Мои дети несчастны</MyChildrenSad.stages.my_children_are_unhappy.label>
 	<!--EN: I worry about my children. If they're not happy, I'm not happy. -->
-<MyChildrenSad.stages.my_children_are_unhappy.description>Я беспокоюсь о своих детях. Если они несчастливы, то я - тоже.</MyChildrenSad.stages.my_children_are_unhappy.description>
+<MyChildrenSad.stages.my_children_are_unhappy.description>Я беспокоюсь о своих детях. Если они несчастливы, то и я - тоже.</MyChildrenSad.stages.my_children_are_unhappy.description>
 	<!--EN: my child {CHILD_nameDef} is unhappy -->
 <MyChildSad.stages.my_child_is_unhappy.label>Иой ребенок {CHILD_nameDef} несчастен</MyChildSad.stages.my_child_is_unhappy.label>
 	<!--EN: I worry about my child. If they're not happy, I'm not happy. -->
@@ -63,5 +63,5 @@
 	<!--EN: sad youngsters -->
 <YoungstersSad.stages.sad_youngsters.label>Грустная молодежь</YoungstersSad.stages.sad_youngsters.label>
 	<!--EN: It's sad to see that the young folk are struggling. -->
-<YoungstersSad.stages.sad_youngsters.description>Грустно видеть, что молодые люди опечалены.</YoungstersSad.stages.sad_youngsters.description>
+<YoungstersSad.stages.sad_youngsters.description>Грустно видеть, что молодые люди чем-то опечалены.</YoungstersSad.stages.sad_youngsters.description>
 	</LanguageData>

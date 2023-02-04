@@ -12,28 +12,28 @@
 	<!--EN: doctor's medicine skill -->
 <ChildBirth.comps.1.labelAbstract>врачебное мастерство</ChildBirth.comps.1.labelAbstract>
 	<!--EN: loved one present -->
-<ChildBirth.comps.2.label>подарок любимого человека</ChildBirth.comps.2.label>
+<ChildBirth.comps.2.label>присутствие любимого человека</ChildBirth.comps.2.label>
 	<!--EN: loved one absent -->
 <ChildBirth.comps.2.labelNotMet>отсутствие любимого человека</ChildBirth.comps.2.labelNotMet>
 	<!--EN: indoors -->
 <ChildBirth.comps.3.label>в помещении</ChildBirth.comps.3.label>
 	<!--EN: room cleanliness -->
-<ChildBirth.comps.4.label>чистота в номере</ChildBirth.comps.4.label>
+<ChildBirth.comps.4.label>чистота в помещении</ChildBirth.comps.4.label>
 	<!--EN: bed health effects -->
 <ChildBirth.comps.5.label>влияние кровати на здоровье</ChildBirth.comps.5.label>
 	<!--EN: Additionally, the mother will have a {0_percentage} chance to die during birth. -->
 <ChildBirth.extraOutcomeDescriptions.0.description>Кроме того, у матери будет {0_percentage} шанс умереть во время родов.</ChildBirth.extraOutcomeDescriptions.0.description>
 	<!--EN: Still -->
-<ChildBirth.outcomeChances.0.label>Все еще</ChildBirth.outcomeChances.0.label>
+<ChildBirth.outcomeChances.0.label>Мёртвый</ChildBirth.outcomeChances.0.label>
 	<!--EN: {MOTHER_labelShort}'s baby was stillborn. -->
-<ChildBirth.outcomeChances.0.description>Ребенок {MOTHER_labelShort} был мертворожденным.</ChildBirth.outcomeChances.0.description>
+<ChildBirth.outcomeChances.0.description>Ребёнок {MOTHER_labelShort} был мертворожденным.</ChildBirth.outcomeChances.0.description>
 	<!--EN: Sick -->
 <ChildBirth.outcomeChances.1.label>Больной</ChildBirth.outcomeChances.1.label>
 	<!--EN: {MOTHER_labelShort} gave birth to a baby. Unfortunately, the baby is sick. -->
-<ChildBirth.outcomeChances.1.description>{MOTHER_labelShort} родила ребенка. К сожалению, ребенок болен.</ChildBirth.outcomeChances.1.description>
+<ChildBirth.outcomeChances.1.description>{MOTHER_labelShort} родила ребёнка. К сожалению, ребёнок болен.</ChildBirth.outcomeChances.1.description>
 	<!--EN: Healthy -->
 <ChildBirth.outcomeChances.2.label>Здоровый</ChildBirth.outcomeChances.2.label>
 	<!--EN: {MOTHER_labelShort} gave birth to a healthy baby! -->
-<ChildBirth.outcomeChances.2.description>{MOTHER_labelShort} родила здорового ребенка!</ChildBirth.outcomeChances.2.description>
+<ChildBirth.outcomeChances.2.description>{MOTHER_labelShort} родила здорового ребёнка!</ChildBirth.outcomeChances.2.description>
 
 </LanguageData>

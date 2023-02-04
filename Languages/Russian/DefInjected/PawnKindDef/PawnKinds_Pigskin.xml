@@ -14,19 +14,19 @@
 	<!--EN: town councilmen -->
 <Town_Councilman_Pig.labelPlural>члены городского совета</Town_Councilman_Pig.labelPlural>
 	<!--EN: town guard -->
-<Town_Guard_Pig.label>городская стража</Town_Guard_Pig.label>
-	<Town_Guard_Pig.labelFemale>городская стража</Town_Guard_Pig.labelFemale>
+<Town_Guard_Pig.label>городской страж</Town_Guard_Pig.label>
+	<Town_Guard_Pig.labelFemale>городской страж</Town_Guard_Pig.labelFemale>
 	<Town_Guard_Pig.labelPlural>городские стражи</Town_Guard_Pig.labelPlural>
 	<!--EN: town trader -->
 <Town_Trader_Pig.label>городской торговец</Town_Trader_Pig.label>
-	<Town_Trader_Pig.labelFemale>городской торговец</Town_Trader_Pig.labelFemale>
-	<Town_Trader_Pig.labelPlural>городские торговецы</Town_Trader_Pig.labelPlural>
+	<Town_Trader_Pig.labelFemale>городская торговка</Town_Trader_Pig.labelFemale>
+	<Town_Trader_Pig.labelPlural>городские торговцы</Town_Trader_Pig.labelPlural>
 	<!--EN: villager -->
 <Villager_Child_Pig.label>сельский житель</Villager_Child_Pig.label>
-	<Villager_Child_Pig.labelFemale>сельский житель</Villager_Child_Pig.labelFemale>
+	<Villager_Child_Pig.labelFemale>сельская жительница</Villager_Child_Pig.labelFemale>
 	<Villager_Child_Pig.labelPlural>сельские жители</Villager_Child_Pig.labelPlural>
 	<!--EN: villager -->
 <Villager_Pig.label>сельский житель</Villager_Pig.label>
-	<Villager_Pig.labelFemale>сельский житель</Villager_Pig.labelFemale>
+	<Villager_Pig.labelFemale>сельская жительница</Villager_Pig.labelFemale>
 	<Villager_Pig.labelPlural>сельские жители</Villager_Pig.labelPlural>
 	</LanguageData>

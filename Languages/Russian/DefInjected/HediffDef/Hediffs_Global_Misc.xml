@@ -29,19 +29,19 @@
 	<!--EN: major -->
 	<InfantIllness.stages.major.label>умеренный</InfantIllness.stages.major.label>
 	<!--EN: extreme -->
-	<InfantIllness.stages.extreme-0.label>экстримальный</InfantIllness.stages.extreme-0.label>
+	<InfantIllness.stages.extreme-0.label>экстремальный</InfantIllness.stages.extreme-0.label>
 	<!--EN: extreme -->
-	<InfantIllness.stages.extreme-1.label>экстримальный</InfantIllness.stages.extreme-1.label>
+	<InfantIllness.stages.extreme-1.label>экстремальный</InfantIllness.stages.extreme-1.label>
 	<!--EN: lactating -->
-	<Lactating.label>кормление</Lactating.label>
+	<Lactating.label>лактация</Lactating.label>
 	<!--EN: The condition of being able to breastfeed a baby. The breasts are actively producing and storing milk. The lactating state begins when a mother gives birth, and continues indefinitely as long as she breastfeeds a baby at least once every 10 days. -->
-	<Lactating.description>состояние, когда ребенок может кормить грудью. Грудь активно вырабатывает и накапливает молоко. Состояние лактации начинается, когда мать рожает, и продолжается неограниченное время, пока она кормит ребенка грудью хотя бы раз в 10 дней.</Lactating.description>
+	<Lactating.description>Это состояние, когда женщина может кормить грудью ребёнка. Грудь в это время активно вырабатывает и накапливает молоко. Состояние лактации начинается, когда мать рожает, и продолжается неограниченное время до тех пор, пока она кормит ребенка грудью хотя бы раз в 10 дней.</Lactating.description>
 	<!--EN: {0} is no longer lactating due to not breastfeeding for 10 days. -->
 	<Lactating.comps.HediffComp_MessageOnRemoval.message>{0} больше нет лактации из-за того, что он не кормил грудью в течение 10 дней.</Lactating.comps.HediffComp_MessageOnRemoval.message>
 	<!--EN: milk fullness {CHARGEFACTOR_percentage} -->
-	<Lactating.comps.HediffComp_Lactating.labelInBrackets>полнота молока {CHARGEFACTOR_percentage}</Lactating.comps.HediffComp_Lactating.labelInBrackets>
+	<Lactating.comps.HediffComp_Lactating.labelInBrackets> заполненность молоком {CHARGEFACTOR_percentage}</Lactating.comps.HediffComp_Lactating.labelInBrackets>
 	<!--EN: {0} is no longer lactating due to malnutrition. -->
-	<Lactating.comps.HediffComp_RemoveIfOtherHediff.message>{0} больше не лактирует из-за недоедания.</Lactating.comps.HediffComp_RemoveIfOtherHediff.message>
+	<Lactating.comps.HediffComp_RemoveIfOtherHediff.message>{0} больше не может кормить грудью из-за недоедания.</Lactating.comps.HediffComp_RemoveIfOtherHediff.message>
 	<!--EN: morning sickness -->
 	<MorningSickness.label>Утреннее недомогание</MorningSickness.label>
 	<!--EN: This is a common side effect of pregnancy, and despite the name isn't limited to mornings. While this is ongoing, the person suffers from nausea, dizziness, and fuzzy thinking. -->
@@ -97,7 +97,7 @@
 	<!--EN: pregnancy -->
 	<PregnantHuman.labelNoun>Беременность</PregnantHuman.labelNoun>
 	<!--EN: first trimester -->
-	<PregnantHuman.stages.first_trimester.label>Тервый триместр</PregnantHuman.stages.first_trimester.label>
+	<PregnantHuman.stages.first_trimester.label>Первый триместр</PregnantHuman.stages.first_trimester.label>
 	<!--EN: second trimester -->
 	<PregnantHuman.stages.second_trimester.label>Второй триместр</PregnantHuman.stages.second_trimester.label>
 	<!--EN: third trimester -->

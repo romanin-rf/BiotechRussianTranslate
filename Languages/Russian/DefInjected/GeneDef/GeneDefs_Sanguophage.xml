@@ -23,13 +23,13 @@
 	<!--EN: archite metabolism -->
 <ArchiteMetabolism.label>Архи-Метаболизм</ArchiteMetabolism.label>
 	<!--EN: Carriers of this gene have special archites in their cells that facilitate and optimize metabolism. This improves overall genetic and metabolic quality. -->
-<ArchiteMetabolism.description>Носители этого гена имеют в своих клетках специальные архитектоники, которые облегчают и оптимизируют метаболизм. Это улучшает общее генетическое и метаболическое качество.</ArchiteMetabolism.description>
+<ArchiteMetabolism.description>Носители этого гена имеют в своих клетках специальные архиты, которые облегчают и оптимизируют метаболизм. Это улучшает общее генетическое и метаболическое качество.</ArchiteMetabolism.description>
 	<!--EN: archite-metabolic -->
 <ArchiteMetabolism.labelShortAdj>архи-метаболический</ArchiteMetabolism.labelShortAdj>
 	<!--EN: deathless -->
 <Deathless.label>Бессмертный</Deathless.label>
 	<!--EN: Carriers of this gene have archites in the blood which will sustain their life processes no matter what. As long as the brain remains intact, a carrier of this gene will never die. -->
-<Deathless.description>Носители этого гена имеют в крови архитектонику, которая будет поддерживать их жизненные процессы несмотря ни на что. Пока мозг остается неповрежденным, носитель этого гена никогда не умрет.</Deathless.description>
+<Deathless.description>Носители этого гена имеют в крови архиты, которая будет поддерживать их жизненные процессы несмотря ни на что. Пока мозг остается неповрежденным, носитель этого гена никогда не умрет.</Deathless.description>
 	<!--EN: Can only die from destruction of brain. -->
 <Deathless.customEffectDescriptions.0>Может умереть только от разрушения мозга.</Deathless.customEffectDescriptions.0>
 	<!--EN: god -->
@@ -103,7 +103,7 @@
 	<!--EN: perfect immunity -->
 <PerfectImmunity.label>Безупречный иммунитет</PerfectImmunity.label>
 	<!--EN: Carriers of this gene have archite-enhanced immune systems which intelligently destroy invaders. They are totally immune to most normal illnesses. -->
-<PerfectImmunity.description>Носители этого гена имеют усиленную архитектором иммунную систему, которая разумно уничтожает захватчиков. Они полностью невосприимчивы к большинству обычных болезней.</PerfectImmunity.description>
+<PerfectImmunity.description>Носители этого гена имеют усиленную архитами иммунную систему, которая разумно уничтожает захватчиков. Они полностью невосприимчивы к большинству обычных болезней.</PerfectImmunity.description>
 	<!--EN: perfect-immune -->
 <PerfectImmunity.labelShortAdj>идеальный иммунный</PerfectImmunity.labelShortAdj>
 	<!--EN: scarless -->

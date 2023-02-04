@@ -3,5 +3,5 @@
 	<!--EN: mech work speed offset -->
 <WorkSpeedGlobalOffsetMech.label>смещение рабочей скорости</WorkSpeedGlobalOffsetMech.label>
 	<!--EN: A work speed offset applied to a mechanitor's mechs. -->
-<WorkSpeedGlobalOffsetMech.description>Смещение скорости работы, применяемое к мехам механизатора.</WorkSpeedGlobalOffsetMech.description>
+<WorkSpeedGlobalOffsetMech.description>Смещение скорости работы, применяемое к мехам механитора.</WorkSpeedGlobalOffsetMech.description>
 	</LanguageData>

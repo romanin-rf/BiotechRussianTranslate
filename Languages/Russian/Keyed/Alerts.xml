@@ -3,7 +3,7 @@
 	<!--EN: Uncontrolled mechs -->
 	<AlertMechLacksOverseer>Неуправляемые мехи</AlertMechLacksOverseer>
 	<!--EN: One or more of your mechanoids is not controlled. Connect your mechanoids to a mechanitor with sufficient bandwidth to control them.\n\nIf left uncontrolled for more than a day, a mechanoid could go feral. When this happens they will join {0} and become hostile to you. If one mechanoid goes feral, it will bring other nearby mechanoids with it.\n\nFeral mechanoids cannot be resurrected at a gestator when killed. -->
-	<AlertMechLacksOverseerDesc>Один или несколько механоидов не контролируются. Подключите механоидов к механизатору с достаточной пропускной способностью, чтобы управлять ими.\n\nЕсли оставить механоида без контроля более чем на день, он может одичать. В этом случае они присоединятся к {0} и станут враждебными по отношению к вам. Если один механоид одичает, он приведет с собой других механоидов, находящихся поблизости.\n\n\nОдичавшие механоиды не могут быть воскрешены в гестаторе после смерти.</AlertMechLacksOverseerDesc>
+	<AlertMechLacksOverseerDesc>Один или несколько механоидов не контролируются. Подключите механоидов к механитору с достаточной пропускной способностью, чтобы управлять ими.\n\nЕсли оставить механоида без контроля более чем на день, он может одичать. В этом случае они присоединятся к {0} и станут враждебными по отношению к вам. Если один механоид одичает, он приведет с собой других механоидов, находящихся поблизости.\n\n\nОдичавшие механоиды не могут быть воскрешены в гестаторе после смерти.</AlertMechLacksOverseerDesc>
 	<!--EN: The following mechanoids are uncontrolled -->
 	<AlertMechLacksOverseerUncontrolled>Следующие механоиды неконтролируемы</AlertMechLacksOverseerUncontrolled>
 	<!--EN: The following mechanoids are uncontrolled and could go feral at any moment -->
@@ -37,11 +37,11 @@
 	<!--EN: {0_nameDef} is waiting to reimplant {0_possessive} xenogerm into one of your colonists. -->
 	<AlertReimplantationAvailableDesc>{0_nameDef} ждет, чтобы пересадить {0_possessive} ксеногерм одному из ваших колонистов.</AlertReimplantationAvailableDesc>
 	<!--EN: Low baby food -->
-	<AlertLowBabyFood>Низкий уровень детского питания</AlertLowBabyFood>
+	<AlertLowBabyFood>Мало детского питания</AlertLowBabyFood>
 	<!--EN: You are dangerously low on baby food.\n\n    Babies needing food: {0}\n    Days worth of baby food in storage: {1}\n\nBuy, find or make some baby-edible food. This includes {2}. -->
 	<AlertLowBabyFoodDesc>У вас опасно мало детского питания.\n\n Ребенок нуждается в питании: {0}\n Хранится детское питание на несколько дней: {1}\n\n\nКупите, найдите или сделайте детское питание. Это включает {2}.</AlertLowBabyFoodDesc>
 	<!--EN: No baby feeders -->
-	<AlertNoBabyFeeder>Нет детских кормушек</AlertNoBabyFeeder>
+	<AlertNoBabyFeeder>Нет детского питания</AlertNoBabyFeeder>
 	<!--EN: No {FACTION_pawnsPlural} are assigned to feed these babies, or they're all downed.\n\nAssign one of your {FACTION_pawnsPlural} to childcare or assign a lactating {FACTION_pawnSingular} to feed these babies with Urgent priority in the babies' feeding tab, and ensure at least one of them is not downed. -->
 	<AlertNoBabyFeederDesc>Ни один {FACTION_pawnsPlural} не назначен на кормление этих младенцев, или они все отключены.\n\nНазначьте одного из ваших {FACTION_pawnsPlural} на уход за детьми или назначьте кормящую {FACTION_pawnSingular} на кормление этих младенцев с приоритетом Срочно на вкладке кормления младенцев, и убедитесь, что хотя бы один из них не отключен.</AlertNoBabyFeederDesc>
 	<!--EN: No baby food in caravan -->
@@ -55,11 +55,11 @@
 	<!--EN: Need baby cribs -->
 	<AlertNeedBabyCribs>Нужны детские кроватки</AlertNeedBabyCribs>
 	<!--EN: You have more babies than cribs.\n\nMake more cribs or, if you have no resources to spare, place some baby sleeping spots for free. -->
-	<AlertNeedBabyCribsDesc>У вас больше детей, чем кроваток.\n\nСделайте больше кроваток или, если у вас нет свободных средств, разместите несколько детских спальных мест бесплатно.</AlertNeedBabyCribsDesc>
+	<AlertNeedBabyCribsDesc>У вас больше детей, чем кроваток.\n\nСделайте больше кроваток или, если у вас нет свободных средств, разместите несколько детских спальных мест.</AlertNeedBabyCribsDesc>
 	<!--EN: Need slave cribs -->
-	<AlertNeedSlaveCribs>Нужны кроватки для рабов</AlertNeedSlaveCribs>
+	<AlertNeedSlaveCribs>Нужны кроватки для детей-рабов</AlertNeedSlaveCribs>
 	<!--EN: You have more slave babies than you have cribs marked for slave use.\n\nEither make more cribs or change a colonist crib to a slave crib.\n\nIf you have no resources, baby sleeping spots are free and can be placed instantly. -->
-	<AlertNeedSlaveCribsDesc>У вас больше детей-рабов, чем кроваток, предназначенных для рабов.\n\nЛибо сделайте больше кроваток, либо замените кроватку колониста на кроватку раба.\n\nЕсли у вас нет ресурсов, спальные места для детей бесплатны и могут быть размещены мгновенно.</AlertNeedSlaveCribsDesc>
+	<AlertNeedSlaveCribsDesc>У вас больше детей-рабов, чем кроваток, предназначенных для них.\n\nЛибо сделайте больше кроваток, либо замените кроватку колониста на кроватку раба.\n\nЕсли у вас нет ресурсов, спальные места для детей бесплатны и могут быть размещены мгновенно.</AlertNeedSlaveCribsDesc>
 	<!--EN: Polluted terrain -->
 	<AlertPollutedTerrain>Загрязненная местность</AlertPollutedTerrain>
 	<!--EN: A person or animal is suffering toxic buildup and is on polluted terrain. Any time someone is on polluted terrain, their toxic buildup will increase over time until they die.\n\nThese people or animals are affected:\n\n{0}\n\nKeep people off polluted terrain, or find a way to protect them from its effects. Certain apparel, implants and gene modifications can protect from toxic buildup. Polluted terrain cannot be covered using a floor, but it can be cleaned by hand and other methods. -->
@@ -69,7 +69,7 @@
 	<!--EN: Mechanoids missing parts -->
 	<AlertMechsMissingBodyPart>Отсутствие частей механоида</AlertMechsMissingBodyPart>
 	<!--EN: One or more of your mechanoids are missing a body part. A mechanitor can repair lost parts.\n\nThe mechanoids with lost body parts are -->
-	<AlertMechMissingBodyPartDesc>У одного или нескольких ваших механоидов отсутствует часть тела. Механизатор может восстановить потерянные части.\n\nМеханоиды с потерянными частями тела - это</AlertMechMissingBodyPartDesc>
+	<AlertMechMissingBodyPartDesc>У одного или нескольких ваших механоидов отсутствует часть тела. Механитор может восстановить потерянные части.\n\nМеханоиды с потерянными частями тела - это</AlertMechMissingBodyPartDesc>
 	<!--EN: Mechanoid repair needed -->
 	<AlertMechNeedsRepair>Требуется ремонт механоидов</AlertMechNeedsRepair>
 	<!--EN: These mechanoids are damaged and need repair -->
@@ -83,9 +83,9 @@
 	<!--EN: Psychic bond distance -->
 	<AlertPsychicBondedPawnsSeparated>Расстояние между психическими связями</AlertPsychicBondedPawnsSeparated>
 	<!--EN: Some colonists with psychic bonds have been separated and are feeling negative effects from the distance. To avoid this, people with a psychic bond must be in the same world tile, caravan, or vehicle. Additionally, they must not be in cryptosleep or similar suspended animation.\n\nThe following people are affected -->
-	<AlertPsychicBondedPawnsSeparatedDesc>Некоторые колонисты с психической связью были разлучены и испытывают негативные последствия расстояния. Чтобы избежать этого, люди с психической связью должны находиться в одном и том же мировом тайле, караване или транспортном средстве. Кроме того, они не должны находиться в криптосне или подобном условном состоянии.\n\nПострадают следующие люди</AlertPsychicBondedPawnsSeparatedDesc>
+	<AlertPsychicBondedPawnsSeparatedDesc>Некоторые колонисты с психической связью были разлучены и испытывают негативные последствия расстояния. Чтобы избежать этого, люди с психической связью должны находиться в одном и том же караване или транспортном средстве, либо на одной карте. Кроме того, они не должны находиться в криптосне или подобном условном состоянии.\n\nПострадают следующие люди</AlertPsychicBondedPawnsSeparatedDesc>
 	<!--EN: Gene bank needs power -->
 	<AlertGenebankUnpowered>Генному банку нужна энергия</AlertGenebankUnpowered>
 	<!--EN: A gene bank is unpowered, so the genepacks inside it are slowly deteriorating. Restore power to the gene bank to prevent the genepacks from deteriorating.\n\nOnce the gene bank is powered, it will slowly reverse the deterioration of the genepacks inside it. -->
-	<AlertGenebankUnpoweredDesc>Генный банк не имеет питания, поэтому генпаки внутри него медленно разрушаются. Восстановите питание генного банка, чтобы предотвратить ухудшение состояния генпаков.\n\nПосле подачи питания на генный банк, ухудшение состояния генпаков в нем постепенно обратится вспять.</AlertGenebankUnpoweredDesc>
+	<AlertGenebankUnpoweredDesc>Генный банк не имеет питания, поэтому генпаки внутри него медленно разрушаются. Восстановите питание генного банка, чтобы предотвратить порчу генпаков.\n\nПосле подачи питания на генный банк, ухудшение состояния генпаков в нем постепенно обратится вспять.</AlertGenebankUnpoweredDesc>
 </LanguageData>

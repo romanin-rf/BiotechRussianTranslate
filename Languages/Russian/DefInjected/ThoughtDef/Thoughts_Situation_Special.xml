@@ -7,11 +7,11 @@
 	<!--EN: childlike joy -->
 <ChildlikePositivity.stages.childlike_joy.label>Детская радость</ChildlikePositivity.stages.childlike_joy.label>
 	<!--EN: New! Fun! Pretty! Oooh! -->
-<ChildlikePositivity.stages.childlike_joy.description>Подарки! Веселье! Милота! О-о-о!</ChildlikePositivity.stages.childlike_joy.description>
+<ChildlikePositivity.stages.childlike_joy.description>Всё такое новое! Весёлое! Милое! Урааа!</ChildlikePositivity.stages.childlike_joy.description>
 	<!--EN: childlike wonder -->
 <ChildlikePositivity.stages.childlike_wonder.label>Детское чудо</ChildlikePositivity.stages.childlike_wonder.label>
 	<!--EN: The world is a magical place and I can't wait to grow up! -->
-<ChildlikePositivity.stages.childlike_wonder.description>Мир - волшебное место, и я не могу дождаться, пока вырасту!</ChildlikePositivity.stages.childlike_wonder.description>
+<ChildlikePositivity.stages.childlike_wonder.description>Мир - волшебное место, и я не могу дождаться, когда уже наконец вырасту!</ChildlikePositivity.stages.childlike_wonder.description>
 	<!--EN: childlike enthusiasm -->
 <ChildlikePositivity.stages.childlike_enthusiasm.label>Детский энтузиазм</ChildlikePositivity.stages.childlike_enthusiasm.label>
 	<!--EN: The world is full of wonders. -->
@@ -63,7 +63,7 @@
 <DeathrestExhaustion.stages.deathrest_exhaustion.description>Гроб зовёт, и я еле стою на ногах, и вот уже падаю без сил. Мне срочно нужно впасть в спячку.</DeathrestExhaustion.stages.deathrest_exhaustion.description>
 
 	<!--EN: genetic chemical dependency -->
-<GeneticChemicalDependency.stages.genetic_chemical_dependency.label>Генетическая хим. зависимость</GeneticChemicalDependency.stages.genetic_chemical_dependency.label>
+<GeneticChemicalDependency.stages.genetic_chemical_dependency.label>Генетическая химическая зависимость</GeneticChemicalDependency.stages.genetic_chemical_dependency.label>
 	<!--EN: I need {CHEMICAL_label} because of my genetic deficiency. But it's been so long since I've had any. -->
 <GeneticChemicalDependency.stages.genetic_chemical_dependency.description>Из-за моего генетического дефицита мне нужен {CHEMICAL_label}. Прошло много времени с тех пор, как у меня это было.</GeneticChemicalDependency.stages.genetic_chemical_dependency.description>
 	<!--EN: apocriton hatred (intense) -->
@@ -81,15 +81,15 @@
 	<!--EN: hemogen craving -->
 <HemogenCraving.stages.hemogen_craving-0.label>Гемоген жажда</HemogenCraving.stages.hemogen_craving-0.label>
 	<!--EN: My bones ache. I really need hemogen. -->
-<HemogenCraving.stages.hemogen_craving-0.description>Мои кости болят. Мне действительно нужен гемоген.</HemogenCraving.stages.hemogen_craving-0.description>
+<HemogenCraving.stages.hemogen_craving-0.description>Мои кости болят. Мне очень нужен гемоген.</HemogenCraving.stages.hemogen_craving-0.description>
 	<!--EN: hemogen craving -->
 <HemogenCraving.stages.hemogen_craving-1.label>Гемоген жажда</HemogenCraving.stages.hemogen_craving-1.label>
 	<!--EN: This hurts bad and my head is fuzzy. I would kill for some blood. Maybe I should. -->
-<HemogenCraving.stages.hemogen_craving-1.description>Это больно, и моя меня мутит. Я бы убил за кровь. Возможно, я и должен.</HemogenCraving.stages.hemogen_craving-1.description>
+<HemogenCraving.stages.hemogen_craving-1.description>Мне больно, и меня мутит. Я бы убил за кровь. Возможно, я и должен.</HemogenCraving.stages.hemogen_craving-1.description>
 	<!--EN: hemogen craving -->
 <HemogenCraving.stages.hemogen_craving-2.label>Гемоген жажда</HemogenCraving.stages.hemogen_craving-2.label>
 	<!--EN: Can't think. Thirst. Thirst. Must. Have. Blood. -->
-<HemogenCraving.stages.hemogen_craving-2.description>Не могу думать... Жажда... Крайне важно достать кровь!..</HemogenCraving.stages.hemogen_craving-2.description>
+<HemogenCraving.stages.hemogen_craving-2.description>Не могу думать... Жажда... Мне крайне важно достать кровь!..</HemogenCraving.stages.hemogen_craving-2.description>
 	<!--EN: kill thirst -->
 <KillThirst.stages.kill_thirst.label>Жажда убийства</KillThirst.stages.kill_thirst.label>
 	<!--EN: Must kill... it has been too long since I have killed somebody up close and personal. -->
@@ -112,13 +112,13 @@
 	<!--EN: pregnancy mood collapse -->
 <PregnancyMood_Collapse.stages.pregnancy_mood_collapse.label>Беременность (нервный срыв)</PregnancyMood_Collapse.stages.pregnancy_mood_collapse.label>
 	<!--EN: This pregnancy is so hard. My body always feels awful. So exhausting! -->
-<PregnancyMood_Collapse.stages.pregnancy_mood_collapse.description>Эта беременность такая тяжелая. Мое тело всегда чувствует себя ужасно. Так утомительно!</PregnancyMood_Collapse.stages.pregnancy_mood_collapse.description>
+<PregnancyMood_Collapse.stages.pregnancy_mood_collapse.description>Эта беременность такая тяжелая. Мое тело всегда чувствует себя ужасно. Это так утомительно!</PregnancyMood_Collapse.stages.pregnancy_mood_collapse.description>
 	<!--EN: down -->
 <PregnancyMood_Down.labelInBracketsExtraForHediff>тревога</PregnancyMood_Down.labelInBracketsExtraForHediff>
 	<!--EN: pregnancy mood down -->
 <PregnancyMood_Down.stages.pregnancy_mood_down.label>Беременность (тревога)</PregnancyMood_Down.stages.pregnancy_mood_down.label>
 	<!--EN: It feels like everything is going wrong for me today. Pregnancy is tough. -->
-<PregnancyMood_Down.stages.pregnancy_mood_down.description>Такое ощущение, что сегодня для меня всё идет не так. Всё из-за беременности.</PregnancyMood_Down.stages.pregnancy_mood_down.description>
+<PregnancyMood_Down.stages.pregnancy_mood_down.description>Я чувствую, что сегодня всё идет не так. Всё из-за беременности.</PregnancyMood_Down.stages.pregnancy_mood_down.description>
 	<!--EN: high -->
 <PregnancyMood_High.labelInBracketsExtraForHediff>возбуждённость</PregnancyMood_High.labelInBracketsExtraForHediff>
 	<!--EN: pregnancy mood high -->
@@ -149,7 +149,7 @@
 	<!--EN: recluse in small group -->
 <Recluse.stages.recluse_in_small_group.label>отшельник в малой группе</Recluse.stages.recluse_in_small_group.label>
 	<!--EN: I'm happy I don't have too many people to think about. Alone would be better, but this is good too. -->
-<Recluse.stages.recluse_in_small_group.description>Я счастлив, что со мной не так много людей, о которых нужно думать. Одному было бы лучше, но так тоже нормально.</Recluse.stages.recluse_in_small_group.description>
+<Recluse.stages.recluse_in_small_group.description>Я счастлив, что со мной не так много людей, о которых нужно думать. Одному было бы лучше, но так тоже неплохо.</Recluse.stages.recluse_in_small_group.description>
 	<!--EN: recluse crowded -->
 <Recluse.stages.recluse_crowded.label>отшельник в большой компании</Recluse.stages.recluse_crowded.label>
 	<!--EN: There's too many people around here. The weight of having to think about them bears down on me. -->
@@ -166,7 +166,7 @@
 	<!--EN: sunlight sensitivity -->
 <SunlightSensitivity_Major.stages.sunlight_sensitivity.label>Уязвимость к свету от солнца</SunlightSensitivity_Major.stages.sunlight_sensitivity.label>
 	<!--EN: The sunlight burns my eyes and my skin feels like it's being scorched. -->
-<SunlightSensitivity_Major.stages.sunlight_sensitivity.description>Солнечный свет выжигает мне глаза, и моя кожа тоже сгорает.</SunlightSensitivity_Major.stages.sunlight_sensitivity.description>
+<SunlightSensitivity_Major.stages.sunlight_sensitivity.description>Солнечный свет выжигает мне глаза, и моя кожа будто сгорает.</SunlightSensitivity_Major.stages.sunlight_sensitivity.description>
 	<!--EN: sunlight sensitivity -->
 <SunlightSensitivity_Mild.stages.sunlight_sensitivity.label>Уязвимость к свету от солнца</SunlightSensitivity_Mild.stages.sunlight_sensitivity.label>
 	<!--EN: The sun hurts my eyes and my skin is tingling unpleasantly. -->

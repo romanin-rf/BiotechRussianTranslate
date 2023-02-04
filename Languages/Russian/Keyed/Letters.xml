@@ -41,7 +41,7 @@
 	<!--EN: {0_nameDef} became an adult -->
 <LetterLabelBecameAdult> {0_nameDef} стал взрослым</LetterLabelBecameAdult>
 	<!--EN: Baby {0_nameDef} has grown up and become a child! {0_pronoun} is now old enough to do the following work: -->
-<LetterBecameChild>Малыш {0_nameDef} вырос и стал ребенком! {0_pronoun} теперь достаточно взрослый, чтобы выполнять следующую работу:</LetterBecameChild>
+<LetterBecameChild>Малыш {0_nameDef} вырос и стал ребёнком! {0_pronoun} теперь достаточно взрослый, чтобы выполнять следующую работу:</LetterBecameChild>
 	<!--EN: Children can do various types of work. As they get older, they become able to do more work types.\n\nThey also do various child-specific recreational activities.\n\nChildren need to wear special child-sized apparel. -->
 <LetterBecameChildChanges>Дети могут выполнять различные виды работы.Когда они становятся старше, они становятся в состоянии выполнять больше типов работы. \ N \ nthey также выполняют различные специфичные для детей деятельность по рекреации.</LetterBecameChildChanges>
 	<!--EN: By tradition {0_nameDef}, {0_parentage}, is a {0_legalStatus}, but exceptions can be made....  Should {0_nameDef} remain a {0_legalStatus}? -->
@@ -59,11 +59,11 @@
 	<!--EN: {BABY_nameDef} adopted -->
 <LetterLabelAdopted> {BABY_nameDef} усыновленный</LetterLabelAdopted>
 	<!--EN: {BABY_nameDef}, a baby, has been adopted by your colony. You may want to assign colonists to the 'childcare' work type to take care of {BABY_objective}. -->
-<LetterTextAdopted> {BABY_nameDef} , ребенок, был усыновлен вашей колонией.Вы можете назначить колонистов на работу по уходу за детьми, чтобы позаботиться о {BABY_objective} Анкет</LetterTextAdopted>
+<LetterTextAdopted> {BABY_nameDef} , ребёнок, был усыновлен вашей колонией.Вы можете назначить колонистов на работу по уходу за детьми, чтобы позаботиться о {BABY_objective} Анкет</LetterTextAdopted>
 	<!--EN: {0_nameDef}'s baby prep -->
 <LetterLabelThirdTrimester> {0_nameDef} Baby Prep</LetterLabelThirdTrimester>
 	<!--EN: {0_nameDef} is due to give birth in less than 6 days. You can prepare for the baby:\n\n- Build a birth room with a clean floor and good bed.\n- Get a skilled doctor ready.\n- In the work tab, assign at least one person to childcare\n- Prepare a food source for the baby. {0_nameDef} can breastfeed the baby, or you can feed them baby food, milk, or insect jelly.\n- Build a crib. High quality cribs will make a baby happy.\n\nYou can make baby food at a stove or campfire. -->
-<LetterTextThirdTrimester> {0_nameDef} должен рожать менее чем за 6 дней.Вы можете подготовиться к ребенку: \ n \ n- построить комнату для рождения с чистым полом и хорошей кровати.- Приготовьте источник пищи для ребенка. {0_nameDef} Может кормить грудью ребенка, или вы можете кормить их детским питанием, молоком или желе насекомого.Высококачественные кроватки сделают ребенка счастливым. \ И вы можете приготовить детское питание у печи или костра.</LetterTextThirdTrimester>
+<LetterTextThirdTrimester> {0_nameDef} должна рожать менее чем через 6 дней. Вы можете подготовиться к появлению ребёнка: \ n \ n- построить комнату для рождения с чистым полом и хорошей кроватью. Приготовьте источник пищи для ребёнка. {0_nameDef} Может кормить грудью ребенка, или вы можете кормить их детским питанием, желе насекомых или молоком. Высококачественные кроватки сделают ребенка счастливым. \ И вы можете приготовить детское питание у печи или костра.</LetterTextThirdTrimester>
 	<!--EN: {0} vat birth -->
 <LetterVatBirth> {0} НДС рождение</LetterVatBirth>
 	<!--EN: The embryo of {0_nameDef} and {1_nameDef} has finished gestating in a growth vat and has become a healthy baby! -->
@@ -87,19 +87,19 @@
 	<!--EN: The baby was created from in vitro fertilization and has the genetic makeup of {0_labelShort} and {1_labelShort}. -->
 <LetterPartSurrogacy>Ребенок был создан из оплодотворения in vitro и имеет генетический состав {0_labelShort} а также {1_labelShort} Анкет</LetterPartSurrogacy>
 	<!--EN: The baby shows signs of genetic abnormalities due to inbreeding. -->
-<InbredBabyBorn>Ребенок показывает признаки генетических нарушений из -за инбридинга.</InbredBabyBorn>
+<InbredBabyBorn>Ребенок показывает признаки генетических нарушений из-за инцеста.</InbredBabyBorn>
 	<!--EN: {0_nameDef} has already been named. -->
 <BabyAlreadyNamed> {0_nameDef} уже назван.</BabyAlreadyNamed>
 	<!--EN: name baby -->
-<NameBaby>Название детка</NameBaby>
+<NameBaby>Имя ребёнка</NameBaby>
 	<!--EN: immediately -->
 <Immediately>немедленно</Immediately>
 	<!--EN: within -->
 <Within>в пределах</Within>
 	<!--EN: The baby has been given the temporary name {0_nameFull}. You can change it until {1} after birth. -->
-<LetterPartNameBaby>Ребенку дали временное имя {0_nameFull} АнкетВы можете изменить его, пока {1} после рождения.</LetterPartNameBaby>
+<LetterPartNameBaby>Ребенку дали временное имя {0_nameFull} Вы можете изменить его, пока {1} после рождения.</LetterPartNameBaby>
 	<!--EN: The baby was given the temporary name {0_nameFull}. You can change it as long as the baby is less than {1} old. -->
-<LetterPartNameBabyAdopt>Ребенку дали временное имя {0_nameFull} АнкетВы можете изменить его до тех пор, пока ребенок меньше, чем {1} старый.</LetterPartNameBabyAdopt>
+<LetterPartNameBabyAdopt>Ребенку дали временное имя {0_nameFull} Вы можете изменить его до тех пор, пока ребенок меньше, чем {1} старый.</LetterPartNameBabyAdopt>
 	<!--EN: Growth moment for {PAWNNAME} -->
 <BirthdayGrowthMoment>Момент роста для {PAWNNAME}  </BirthdayGrowthMoment>
 	<!--EN: {0_nameFull} has reached the biological age of {1} and has experienced a growth moment! -->
@@ -117,13 +117,13 @@
 	<!--EN: Open this letter to choose how {0_nameDef} will grow. -->
 <BirthdayChooseHowPawnWillGrow>Откройте это письмо, чтобы выбрать, как {0_nameDef} будет расти.</BirthdayChooseHowPawnWillGrow>
 	<!--EN: Passion was increased for {0}. -->
-<BirthdayPassionArchive>Страсть была увеличена для {0} Анкет</BirthdayPassionArchive>
+<BirthdayPassionArchive>Страсть была увеличена для {0} </BirthdayPassionArchive>
 	<!--EN: The trait {0} was gained. -->
 <BirthdayTraitArchive>Черта {0} был получен.</BirthdayTraitArchive>
 	<!--EN: Make choices to close -->
 <BirthdayMakeChoices>Сделать выбор, чтобы закрыть</BirthdayMakeChoices>
 	<!--EN: {0} has gained the nickname {1}. -->
-<BirthdayNickname> {0} получил прозвище {1} Анкет</BirthdayNickname>
+<BirthdayNickname> {0} получил прозвище {1} </BirthdayNickname>
 	<!--EN: Select a trait. -->
 <SelectATrait>Выберите черту.</SelectATrait>
 	<!--EN: Select a passion. -->
@@ -160,9 +160,9 @@
 	<!--EN: {CASTER_nameDef} has implanted a copy of {CASTER_possessive} xenogerm into {TARGET_nameDef}, passing all xenogenes onto {TARGET_objective}.\n\n{TARGET_nameDef} will be in a xenogermination coma for the next {COMADURATION} while {TARGET_possessive} body adjusts to the changes.\n\n{CASTER_nameDef} will suffer from gene loss shock for the next {SHOCKDURATION}. {CASTER_possessive} genes will also need to regrow. This process takes time. If {CASTER_nameDef} implants {CASTER_possessive} xenogerm again before {CASTER_possessive} genes have regrown, {CASTER_pronoun} will die. -->
 <LetterTextGenesImplanted> {CASTER_nameDef} имплантировал копию {CASTER_possessive} ксеногмер в {TARGET_nameDef} , передавая все Xenogenes на {TARGET_objective} . \ n \ n {TARGET_nameDef} будет в коме ксеногминирования для следующей {COMADURATION} пока {TARGET_possessive} тело приспосабливается к изменениям. \ n \ n {CASTER_nameDef} будет страдать от шока потери генов для следующего {SHOCKDURATION} Анкет {CASTER_possessive} Гены также должны будут отрастать.Этот процесс занимает время.Если {CASTER_nameDef} имплантаты {CASTER_possessive} Ксеногмер снова раньше {CASTER_possessive} Гены восходящими, {CASTER_pronoun} умрет.</LetterTextGenesImplanted>
 	<!--EN: A baby named {PAWN_nameDef} from {PAWN_factionName} is crashing in a transport pod nearby.\n\nYou may choose to adopt {PAWN_objective} with the 'adopt' command or ignore {PAWN_objective}. -->
-<RefugeePodCrashBaby>Ребенок назвал {PAWN_nameDef} из {PAWN_factionName} разбивается в транспортном стручке поблизости. {PAWN_objective} с командой «усыновить» или игнорировать {PAWN_objective} Анкет</RefugeePodCrashBaby>
+<RefugeePodCrashBaby>Ребёнок по имени {PAWN_nameDef} из {PAWN_factionName} разбивается в транспортном челноке поблизости. {PAWN_objective} с командой «усыновить» или игнорировать {PAWN_objective} </RefugeePodCrashBaby>
 	<!--EN: The body of {PAWN_nameDef}'s deceased parent is contained within the transport pod as well. -->
 <RefugeePodCrashBabyHasParent>Тело {PAWN_nameDef} Умерший родитель также содержится в транспортной стручке.</RefugeePodCrashBabyHasParent>
 	<!--EN: Instinctively seeking a mate, {BONDPAWN_nameDef} has formed a psychically-bonded romantic relationship with {OTHERPAWN_nameDef}. {OTHERPAWN_nameDef} will benefit psychologically from the connection to {BONDPAWN_nameDef}, but if they are separated onto different world tiles, both will suffer from psychic stress. If one dies, the other will be driven to madness. -->
-<LetterPsychicBondCreated>Инстинктивно ищет приятеля, {BONDPAWN_nameDef} сформировал психически связанные романтические отношения с {OTHERPAWN_nameDef} Анкет {OTHERPAWN_nameDef} Психологически выиграет от связи с {BONDPAWN_nameDef} , но если они разделены на разные мировые плитки, оба будут страдать от психического стресса.Если один умрет, другой будет доведен до безумия.</LetterPsychicBondCreated>
+<LetterPsychicBondCreated>Инстинктивно ищет приятеля, {BONDPAWN_nameDef} сформировал психически связанные романтические отношения с {OTHERPAWN_nameDef} Анкет {OTHERPAWN_nameDef} Психологически выиграет от связи с {BONDPAWN_nameDef} , но если они разделены на разные мировые плитки, оба будут страдать от психического стресса. Если один умрет, другой будет доведен до безумия.</LetterPsychicBondCreated>
 	</LanguageData>

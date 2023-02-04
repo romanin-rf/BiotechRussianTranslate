@@ -42,7 +42,7 @@
 	<!--EN: bandwidth -->
 	<BandwidthLower>пропускная способность</BandwidthLower>
 	<!--EN: A mechanitor can only oversee a mech if there is enough bandwidth to do so. Each mech consumes a different amount of bandwidth.\n\nGain more bandwidth by constructing band nodes and tuning the mechanitor to them, or by equipping special mechanitor apparel. -->
-	<BandwidthGizmoTip>Механизатор может контролировать мехи, только если для этого достаточно пропускной способности. Каждый мех потребляет разное количество пропускной способности.\n\nПолучите больше пропускной способности, построив узлы диапазона и настроив механизатора на них, или оснастив механизатора специальной экипировкой.</BandwidthGizmoTip>
+	<BandwidthGizmoTip>Механитор может контролировать мехи, только если для этого достаточно пропускной способности. Каждый мех потребляет разное количество пропускной способности.\n\nПолучите больше пропускной способности, построив узлы диапазона и настроив механитора на них, или оснастив механитора специальной экипировкой.</BandwidthGizmoTip>
 	<!--EN: Control group -->
 	<ControlGroup>Контрольная группа</ControlGroup>
 	<!--EN: Current mode -->
@@ -58,9 +58,9 @@
 	<!--EN: Retune -->
 	<BandNodeRetuneTo>Перенастроить</BandNodeRetuneTo>
 	<!--EN: Tune this band node to a mechanitor. Tuning will take {0} to complete. -->
-	<BandNodeTuningDesc>Настройте этот узел диапазона на механизатора. Для завершения настройки потребуется {0}.</BandNodeTuningDesc>
+	<BandNodeTuningDesc>Настройте этот узел диапазона на механитора. Для завершения настройки потребуется {0}.</BandNodeTuningDesc>
 	<!--EN: Retune this band node to another mechanitor. Retuning will take {0} to complete. -->
-	<BandNodeRetuningDesc>Перенастройте этот узел диапазона на другой механизатор. Для завершения перенастройки потребуется {0}.</BandNodeRetuningDesc>
+	<BandNodeRetuningDesc>Перенастройте этот узел диапазона на другой механитор. Для завершения перенастройки потребуется {0}.</BandNodeRetuningDesc>
 	<!--EN: Removing {0} will change {1_labelShort}'s bandwidth from {2} to {3}. This will mean the following mechs will no longer be under control -->
 	<DropThingBandwidthApparel>Удаление {0} изменит пропускную способность {1_labelShort} с {2} на {3}. Это означает, что следующие мехи больше не будут под контролем</DropThingBandwidthApparel>
 	<!--EN: no mechs -->
@@ -143,7 +143,7 @@
 	<!--EN: Safely completing deathrest takes {MINDURATION}, but {PAWN_nameDef} has only been deathresting for {CURDURATION}.\n\nWaking {PAWN_nameDef} now would interrupt {PAWN_possessive} deathrest, throwing {PAWN_possessive} metabolism out of balance and making {PAWN_objective} sick for days to come.\n\nAre you sure you wish to wake {PAWN_objective}? -->
 	<ConfirmExitDeathrestUnderMinDays>Безопасное завершение смертельного отдыха занимает {MINDURATION}, но {PAWN_nameDef} находится в смертельном отдыхе только {CURDURATION}. \Разбудив {PAWN_nameDef} сейчас, вы прервете {PAWN_possessive} deathrest, нарушите баланс метаболизма {PAWN_possessive} и сделаете {PAWN_objective} больным на несколько дней вперед.\n\nВы уверены, что хотите разбудить {PAWN_objective}?</ConfirmExitDeathrestUnderMinDays>
 	<!--EN: deathresting -->
-	<Deathresting>Смерный Покой</Deathresting>
+	<Deathresting>Смертный Покой</Deathresting>
 	<!--EN: complete -->
 	<Complete>завершено</Complete>
 	<!--EN: can wake safely now. -->
@@ -215,15 +215,15 @@
 	<!--EN: Not in labor. -->
 	<NotInLabor>Не на родах.</NotInLabor>
 	<!--EN: labor -->
-	<Labor>труд</Labor>
+	<Labor>роды</Labor>
 	<!--EN: dilation -->
 	<LaborDilation>расширение</LaborDilation>
 	<!--EN: normal -->
-	<PregnancyApproach_Normal>нормальный</PregnancyApproach_Normal>
+	<PregnancyApproach_Normal>нормальная личная жизнь</PregnancyApproach_Normal>
 	<!--EN: avoid pregnancy -->
-	<PregnancyApproach_AvoidPregnancy>избежать беременности</PregnancyApproach_AvoidPregnancy>
+	<PregnancyApproach_AvoidPregnancy>избегать беременности</PregnancyApproach_AvoidPregnancy>
 	<!--EN: try for baby -->
-	<PregnancyApproach_TryForBaby>стараться для ребёнка</PregnancyApproach_TryForBaby>
+	<PregnancyApproach_TryForBaby>постараться зачать ребёнка</PregnancyApproach_TryForBaby>
 	<!--EN: pregnancy chance -->
 	<PregnancyChance>вероятность беременности</PregnancyChance>
 	<!--EN: Pregnancy approach -->
@@ -299,7 +299,7 @@
 	<!--EN: Archite capsules -->
 	<ArchitesRequired>Архиты капсулы</ArchitesRequired>
 	<!--EN: Archites are archotech mechanites - microscopic devices which can operate directly on cells and molecules, created by superintelligent archotechs. They are capable of unexplainable feats, and some genes only function when supported by the otherworldly machinery of the archotechs. Humans cannot create archites - only find them when an archotech happens to produce some for its own unknowable reason. -->
-	<ArchitesRequiredDesc>Архитехи - это архотех-механиты, микроскопические устройства, которые могут действовать непосредственно на клетки и молекулы, созданные сверхразумными архотехами. Они способны на необъяснимые подвиги, а некоторые гены функционируют только при поддержке потусторонних механизмов архотехов. Люди не могут создавать архитехов - они обнаруживают их только тогда, когда архотех случайно производит их по своей собственной непостижимой причине.</ArchitesRequiredDesc>
+	<ArchitesRequiredDesc>Архиты - это архотех-механиты, микроскопические устройства, которые могут действовать непосредственно на клетки и молекулы, созданные сверхразумными архотехами. Они способны на необъяснимые подвиги, а некоторые гены функционируют только при поддержке потусторонних механизмов архотехов. Люди не могут создавать архитехов - они обнаруживают их только тогда, когда архотех случайно производит их по своей собственной непостижимой причине.</ArchitesRequiredDesc>
 	<!--EN: Cancel xenogerm -->
 	<CancelXenogerm>Отменить ксеногерм</CancelXenogerm>
 	<!--EN: Stop all work on the current xenogerm. -->
@@ -357,7 +357,7 @@
 	<!--EN: unique -->
 	<Unique>уникальный</Unique>
 	<!--EN: A unique human variant with a set of xenogenes that do not fall into any known xenotype. -->
-	<UniqueXenotypeDesc>Уникальный вариант человека с набором Xenogenes, который не попадает в какой -либо известный ксенотип.</UniqueXenotypeDesc>
+	<UniqueXenotypeDesc>Уникальный вариант человека с набором ксеногенов, который не попадает в какой -либо известный ксенотип.</UniqueXenotypeDesc>
 	<!--EN: Factor for genetic metabolism -->
 	<FactorForMetabolism>Фактор генетического метаболизма</FactorForMetabolism>
 	<!--EN: Progress -->
@@ -369,7 +369,7 @@
 	<!--EN: Insert person -->
 	<InsertPerson>Вставить человека</InsertPerson>
 	<!--EN: Insert a person into the gene extractor. Their genetic material will be extracted and used to create a genepack containing a random selection of their genes.\n\nGene extraction is painful and will leave the subject weak and drowsy for a number of days. The process is lethal for those whose genes are currently regrowing. -->
-	<InsertPersonGeneExtractorDesc>Вставьте человека в экстрактор гена.Их генетический материал будет извлечен и используется для создания генепака, содержащего случайный выбор их генов. \ N \ ngene Экстракция является болезненной и оставит субъект слабым и сонливый в течение нескольких дней.Процесс смертельна для тех, чьи гены в настоящее время отражаются.</InsertPersonGeneExtractorDesc>
+	<InsertPersonGeneExtractorDesc>Вставьте человека в экстрактор гена. Их генетический материал будет извлечен и используется для создания генепака, содержащего случайный выбор их генов. \ N \ ngene Экстракция является болезненной и оставит субъект слабым и сонливый в течение нескольких дней.Процесс смертельна для тех, чьи гены в настоящее время отражаются.</InsertPersonGeneExtractorDesc>
 	<!--EN: Warning: {PAWN_nameDef}'s genes are regrowing. Extracting {PAWN_possessive} genes before they are regrown will kill {PAWN_objective}.\n\nAre you sure you wish to continue? -->
 	<ConfirmExtractXenogermWillKill>Предупреждение: {PAWN_nameDef} Гены отражают.Извлечение {PAWN_possessive} гены до того, как они будут в результате пожара, убьют {PAWN_objective} . \ n \ nar вы уверены, что хотите продолжить?</ConfirmExtractXenogermWillKill>
 	<!--EN: Gene extraction complete for {PAWN_nameDef}. Extracted -->
@@ -377,7 +377,7 @@
 	<!--EN: Insert xenogerm -->
 	<InsertXenogerm>Вставьте ксеногмер</InsertXenogerm>
 	<!--EN: Insert a xenogerm to apply during growth. -->
-	<InsertXenogermDesc>Вставьте ксеногмер для применения во время роста.</InsertXenogermDesc>
+	<InsertXenogermDesc>Вставьте ксеногерм для применения во время роста.</InsertXenogermDesc>
 	<!--EN: Waiting for {PAWN_nameDef}. -->
 	<WaitingForPawn>В ожидании {PAWN_nameDef} Анкет</WaitingForPawn>
 	<!--EN: Extracting genes from {PAWN_nameDef}. -->
@@ -449,9 +449,9 @@
 	<!--EN: Consuming an extra {0} nutrition per day to produce milk (milk production speed is {1_percentage} because of the current food level). -->
 	<LactatingAddedNutritionPerDay>Потребление дополнительного {0} питание в день для производства молока (скорость производства молока - это {1_percentage} Из -за текущего уровня пищи).</LactatingAddedNutritionPerDay>
 	<!--EN: Lactation is paused because milk fullness is 100% -->
-	<LactatingStoppedBecauseFull>Лактация приостановлен, потому что полнота молока на 100%</LactatingStoppedBecauseFull>
+	<LactatingStoppedBecauseFull>Лактация приостановлена, так как заполненность молока 100%</LactatingStoppedBecauseFull>
 	<!--EN: Lactation is paused due to starvation. -->
-	<LactatingStoppedBecauseHungry>Лактация приостановлен из -за голода.</LactatingStoppedBecauseHungry>
+	<LactatingStoppedBecauseHungry>Лактация приостановлена из-за голода.</LactatingStoppedBecauseHungry>
 	<!--Лактация приостановлен из -за голода.-->
 	<!--EN: Current gestation cycle -->
 	<CurrentGestationCycle>Текущий цикл беременности</CurrentGestationCycle>
@@ -468,7 +468,7 @@
 	<!--EN: Gestation complete -->
 	<GestationComplete>Беременность завершена</GestationComplete>
 	<!--EN: Resurrecting {0} -->
-	<ResurrectingMech>Воскресение {0}  </ResurrectingMech>
+	<ResurrectingMech>Воскрешение {0}  </ResurrectingMech>
 	<!--EN: Resurrected {0} -->
 	<ResurrectedMech>Воскрес {0}  </ResurrectedMech>
 	<!--Воскрес {0}  -->
@@ -488,7 +488,7 @@
 	<!--EN: Power cell -->
 	<MechPowerCell>Силовая ячейка</MechPowerCell>
 	<!--EN: War urchins have a one-time power source. When the power cell runs out, the mechanoid dies. -->
-	<MechPowerCellTip>Военные ежа имеют единовременный источник питания.Когда силовая ячейка заканчивается, механоид умирает.</MechPowerCellTip>
+	<MechPowerCellTip>Военные ежа имеют единовременный источник питания. Когда силовая ячейка заканчивается, механоид умирает.</MechPowerCellTip>
 	<!--Военные ежа имеют единовременный источник питания.Когда силовая ячейка заканчивается, механоид умирает.-->
 	<!--EN: available in {0}. -->
 	<BossgroupAvailableIn>доступно в {0} Анкет</BossgroupAvailableIn>
@@ -580,32 +580,32 @@
 	<!--EN: Babies are not allowed -->
 	<SubcoreScannerBabyNotAllowed>Младенцы не допускаются</SubcoreScannerBabyNotAllowed>
 	<!--EN: Insert a person into the {0}. -->
-	<InsertPersonSubcoreScannerDesc>Вставить человека в {0} Анкет</InsertPersonSubcoreScannerDesc>
+	<InsertPersonSubcoreScannerDesc>Вставить человека в {0} </InsertPersonSubcoreScannerDesc>
 	<!--EN: Duration (hours) -->
 	<DurationHours>Продолжительность (часы)</DurationHours>
 	<!--Продолжительность (часы)-->
 	<!--EN: adult -->
 	<Adult>взрослый</Adult>
 	<!--EN: adults -->
-	<Adults>взрослые люди</Adults>
+	<Adults>взрослые</Adults>
 	<!--EN: child -->
-	<Child>ребенок</Child>
+	<Child>ребёнок</Child>
 	<!--EN: children -->
 	<Children>дети</Children>
 	<!--EN: baby -->
-	<Baby>малыш</Baby>
+	<Baby>младенец</Baby>
 	<!--EN: babies -->
 	<Babies>младенцы</Babies>
 	<!--EN: person -->
 	<Person>человек</Person>
 	<!--EN: feral child -->
-	<FeralChild>дикий ребенок</FeralChild>
+	<FeralChild>дикий ребёнок</FeralChild>
 	<!--EN: Wearable by -->
 	<WearableBy>Носимый</WearableBy>
 	<!--EN: Xenogerm implantation -->
-	<Reward_ReimplantXenogerm_Label>Имплантация ксеногмер</Reward_ReimplantXenogerm_Label>
+	<Reward_ReimplantXenogerm_Label>Имплантация ксеногерма</Reward_ReimplantXenogerm_Label>
 	<!--EN: One member of the group will reimplant their xenogerm into a colonist of your choice, thus turning your colonist into one of them. Your colonist will remain part of your faction and under your control. -->
-	<Reward_ReimplantXenogerm_Desc>Один из членов группы будет переосмыслить свой ксеногмер в колониста по вашему выбору, тем самым превратив ваш колонист в одного из них.Ваш колонист останется частью вашей фракции и под вашим контролем.</Reward_ReimplantXenogerm_Desc>
+	<Reward_ReimplantXenogerm_Desc>Один из членов группы будет переосмыслить свой ксеногмер в колониста по вашему выбору, тем самым превратив ваш колонист в одного из них. Ваш колонист останется частью вашей фракции и под вашим контролем.</Reward_ReimplantXenogerm_Desc>
 	<!--Один из членов группы будет переосмыслить свой ксеногмер в колониста по вашему выбору, тем самым превратив ваш колонист в одного из них.Ваш колонист останется частью вашей фракции и под вашим контролем.-->
 	<!--EN: Mech resurrection charges -->
 	<MechResurrectionCharges>Механические заряды Воскресения</MechResurrectionCharges>
@@ -663,7 +663,7 @@
 	<!--EN: Cannot fertilize -->
 	<FertilizeCannotFloatOption>Не может оплодотворить</FertilizeCannotFloatOption>
 	<!--EN: Choose a man to fertilize this ovum to create an embryo. The embryo can then be implanted in a mother to start a pregnancy, or in a growth vat. The biological parents of the resulting child will be the woman who provided the ovum and man who fertilized it. -->
-	<FertilizeGizmoDescription>Выберите человека, чтобы оплодотворить эту яйцеклетку, чтобы создать эмбрион.Затем эмбрион может быть имплантирован в мать, чтобы начать беременность или в НДС роста.Биологическими родителями полученного ребенка станут женщина, которая предоставила яйцеклетку и мужчину, которые его оплодотворяли.</FertilizeGizmoDescription>
+	<FertilizeGizmoDescription>Выберите человека, чтобы оплодотворить эту яйцеклетку, чтобы создать эмбрион.Затем эмбрион может быть имплантирован в мать, чтобы начать беременность или в НДС роста.Биологическими родителями полученного ребенка станут женщина, которая предоставила яйцеклетку и мужчина, который её оплодотворял.</FertilizeGizmoDescription>
 	<!--EN: Cancel fertilization by {0} -->
 	<FertilizeCancel>Отменить оплодотворение {0}  </FertilizeCancel>
 	<!--EN: sterile -->
@@ -716,7 +716,7 @@
 	<RemoteMechShieldTip>Удаленный щит, спроектированный механитором.Он попытается остановить входящие снаряды или шрапнель, но ничего не делает против атак ближнего боя или тепла.Это не позволяет владельцу отключаться и сразу же отключается, если он поражен EMP</RemoteMechShieldTip>
 	<!--Удаленный щит, спроектированный механитором.Он попытается остановить входящие снаряды или шрапнель, но ничего не делает против атак ближнего боя или тепла.Это не позволяет владельцу отключаться и сразу же отключается, если он поражен EMP-->
 	<!--EN: my child is happy -->
-	<MyChildIsHappy>Мой ребенок счастлив</MyChildIsHappy>
+	<MyChildIsHappy>Мой ребёнок счастлив</MyChildIsHappy>
 	<!--EN: my child is sad -->
-	<MyChildIsSad>Мой ребенок грустно</MyChildIsSad>
+	<MyChildIsSad>Мой ребёнок несчастен</MyChildIsSad>
 </LanguageData>

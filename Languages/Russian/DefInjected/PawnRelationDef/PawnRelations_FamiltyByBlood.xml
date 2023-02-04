@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 	<!--EN: birth father -->
-<ParentBirth.label>родной отец</ParentBirth.label>
+<ParentBirth.label>биологический отец</ParentBirth.label>
 	<!--EN: birth mother -->
-<ParentBirth.labelFemale>родная мать</ParentBirth.labelFemale>
+<ParentBirth.labelFemale>биологическая мать</ParentBirth.labelFemale>
 	</LanguageData>

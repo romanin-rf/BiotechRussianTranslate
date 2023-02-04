@@ -3,7 +3,7 @@
 	<!--EN: bandwidth cost -->
 	<BandwidthCost.label>стоимость пропускной способности</BandwidthCost.label>
 	<!--EN: How much bandwidth this mech consumes when under mechanitor control. -->
-	<BandwidthCost.description>Сколько пропускной способности потребляет этот мех под управлением механизатора.</BandwidthCost.description>
+	<BandwidthCost.description>Сколько пропускной способности потребляет этот мех под управлением механитора.</BandwidthCost.description>
 	<!--EN: cancer rate factor -->
 	<CancerRate.label>коэффициент заболеваемости раком</CancerRate.label>
 	<!--EN: A multiplier on how likely this person is to develop cancer in any given time frame. -->
@@ -11,7 +11,7 @@
 	<!--EN: control taking time -->
 	<ControlTakingTime.label>контроль требующий времени</ControlTakingTime.label>
 	<!--EN: How many seconds it will take for a mechanitor to take control of this mech. -->
-	<ControlTakingTime.description>Сколько секунд потребуется механизатору, чтобы взять под контроль этот мех.</ControlTakingTime.description>
+	<ControlTakingTime.description>Сколько секунд потребуется механитору, чтобы взять под контроль этот мех.</ControlTakingTime.description>
 	<!--EN: {0}s -->
 	<ControlTakingTime.formatString>{0} с</ControlTakingTime.formatString>
 	<!--EN: EMP resistance -->
@@ -21,7 +21,7 @@
 	<!--EN: fertility -->
 	<Fertility.label>рождаемость</Fertility.label>
 	<!--EN: Fertility affects the chance of a pregnancy occurring. Pregnancy chance is dependent on the fertility of both partners. This also affects the chance of successfully implanting an embryo in a surrogate. -->
-	<Fertility.description>Рождаемость влияет на вероятность наступления беременности. Вероятность наступления беременности зависит от рождаемости обоих партнеров. Это также влияет на вероятность успешной имплантации эмбриона суррогатной матери.</Fertility.description>
+	<Fertility.description>Фертильность влияет на вероятность наступления беременности. Вероятность наступления беременности зависит от фертильности обоих партнеров. Это также влияет на вероятность успешной имплантации эмбриона суррогатной матери.</Fertility.description>
 	<!--EN: hemogen gain multiplier -->
 	<HemogenGainFactor.label>множитель усиления гемогена</HemogenGainFactor.label>
 	<!--EN: A multiplier on the amount of hemogen gained. -->
@@ -29,11 +29,11 @@
 	<!--EN: mech bandwidth -->
 	<MechBandwidth.label>пропускная способность механизма</MechBandwidth.label>
 	<!--EN: How much bandwidth a mechanitor has. More bandwidth allows a mechanitor to produce and control more mechs at the same time.\n\nLosing bandwidth means losing control of mechs, leaving them without an overseer. Such mechs can eventually become feral if not re-dominated. -->
-	<MechBandwidth.description>Количество пропускной способности механизатора. Большая пропускная способность позволяет механизатору производить и контролировать больше мехов одновременно.\n\nПотеря пропускной способности означает потерю контроля над мехами, оставляя их без надсмотрщика. Такие мехи могут одичать, если их не перевоспитать.</MechBandwidth.description>
+	<MechBandwidth.description>Количество пропускной способности механитора. Большая пропускная способность позволяет механитору производить и контролировать больше мехов одновременно.\n\nПотеря пропускной способности означает потерю контроля над мехами, оставляя их без надсмотрщика. Такие мехи могут одичать, если их не перевоспитать.</MechBandwidth.description>
 	<!--EN: mech control groups -->
 	<MechControlGroups.label>группы мехконтроля</MechControlGroups.label>
 	<!--EN: How many control groups this mechanitor can direct independently. Each control group can be given its own separate orders. -->
-	<MechControlGroups.description>Сколькими группами управления может самостоятельно руководить данный механизатор. Каждой группе управления могут быть отданы отдельные приказы.</MechControlGroups.description>
+	<MechControlGroups.description>Сколькими группами управления может самостоятельно руководить данный механитор. Каждой группе управления могут быть отданы отдельные приказы.</MechControlGroups.description>
 	<!--EN: repair energy cost -->
 	<MechEnergyLossPerHP.label>pатраты энергии на ремонт</MechEnergyLossPerHP.label>
 	<!--EN: The amount of energy that this mechanoid loses for every 100 damage repaired. -->
@@ -57,11 +57,11 @@
 	<!--EN: mech remote shield energy -->
 	<MechRemoteShieldEnergy.label>энергия дистанционного щита мехов</MechRemoteShieldEnergy.label>
 	<!--EN: The energy a remote shield will have when created by a mechanitor. -->
-	<MechRemoteShieldEnergy.description>Энергия, которую будет иметь удаленный щит при создании механизатором.</MechRemoteShieldEnergy.description>
+	<MechRemoteShieldEnergy.description>Энергия, которую будет иметь удаленный щит при создании механитором.</MechRemoteShieldEnergy.description>
 	<!--EN: mech repair speed -->
 	<MechRepairSpeed.label>скорость ремонта механизмов</MechRepairSpeed.label>
 	<!--EN: A multiplier on how fast a mechanitor can repair mechanoids. -->
-	<MechRepairSpeed.description>Множитель скорости, с которой механизатор может ремонтировать механоидов.</MechRepairSpeed.description>
+	<MechRepairSpeed.description>Множитель скорости, с которой механитор может ремонтировать механоидов.</MechRepairSpeed.description>
 	<!--EN: raw nutrition multiplier -->
 	<RawNutritionFactor.label>множитель сырого питания</RawNutritionFactor.label>
 	<!--EN: A multiplier on how nutritious raw food is for this person. Note that since meals usually have more nutrition than their raw ingredients, a boost to this stat may only mean the person gets the same nutrition from raw food as if it were cooked. -->
@@ -73,7 +73,7 @@
 	<!--EN: subcore encoding speed -->
 	<SubcoreEncodingSpeed.label>скорость кодирования подпроцессоров</SubcoreEncodingSpeed.label>
 	<!--EN: A multiplier on how fast a mechanitor can create subcores. -->
-	<SubcoreEncodingSpeed.description>Множитель, определяющий, насколько быстро механизатор может создавать подпроцессоры.</SubcoreEncodingSpeed.description>
+	<SubcoreEncodingSpeed.description>Множитель, определяющий, насколько быстро механитор может создавать подпроцессоры.</SubcoreEncodingSpeed.description>
 	<!--EN: wastepacks per recharge -->
 	<WastepacksPerRecharge.label>пакетов для мусора на пополнение</WastepacksPerRecharge.label>
 	<!--EN: How many toxic wastepacks this mechanoid will generate at a mech recharger when going from 0 to 100% energy. Larger mechanoids will generally create more toxic wastepacks. -->

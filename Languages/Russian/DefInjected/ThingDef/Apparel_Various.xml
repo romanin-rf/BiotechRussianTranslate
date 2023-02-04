@@ -10,9 +10,9 @@
 	<!--EN: mechlord suit -->
 	<Apparel_MechlordSuit.label>костюм мехлорда</Apparel_MechlordSuit.label>
 	<!--EN: A power-assisted armor suit packed with mechanitor-assistance gear. The mechlord suit dramatically amplifies a mechanitor's bandwidth, but is somewhat less protective than dedicated heavy armor. -->
-	<Apparel_MechlordSuit.description>Бронекостюм с силовой поддержкой, оснащенный оборудованием для механоторговцев. Костюм мехлорда значительно усиливает пропускную способность механизатора, но имеет несколько меньшую защиту, чем специальная тяжелая броня.</Apparel_MechlordSuit.description>
+	<Apparel_MechlordSuit.description>Бронекостюм с силовой поддержкой, оснащенный оборудованием для механоторговцев. Костюм мехлорда значительно усиливает пропускную способность механитора, но имеет несколько меньшую защиту, чем специальная тяжелая броня.</Apparel_MechlordSuit.description>
 	<!--EN: sash -->
-	<Apparel_Sash.label>створка</Apparel_Sash.label>
+	<Apparel_Sash.label>перевязь</Apparel_Sash.label>
 	<!--EN: A long strip of material worn over one shoulder. It offers minimal protection from heat, cold, and attacks. Due to its minimalist nature, nudists won't complain about wearing it. -->
-	<Apparel_Sash.description>Длинная полоса материала, надеваемая через одно плечо. Она обеспечивает минимальную защиту от жары, холода и нападений. Благодаря своему минимализму нудисты не жалуются на его ношение.</Apparel_Sash.description>
+	<Apparel_Sash.description> Широкая лента из ткани или кожи, надеваемая через одно плечо. Перевязь обеспечивает минимальную защиту от жары, холода и урона. Благодаря своему минимализму нудисты не жалуются на её ношение.</Apparel_Sash.description>
 </LanguageData>

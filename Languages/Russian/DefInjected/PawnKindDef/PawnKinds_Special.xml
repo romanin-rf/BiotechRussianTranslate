@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 	<!--EN: mechanitor -->
-<Mechanitor.label>механизатор</Mechanitor.label>
-	<Mechanitor.labelFemale>механизатор</Mechanitor.labelFemale>
-	<Mechanitor.labelPlural>механизаторы</Mechanitor.labelPlural>
+<Mechanitor.label>механитор</Mechanitor.label>
+	<Mechanitor.labelFemale>механитор</Mechanitor.labelFemale>
+	<Mechanitor.labelPlural>механиторы</Mechanitor.labelPlural>
 	<!--EN: mechanitor -->
-<Mechanitor_Basic.label>механизатор</Mechanitor_Basic.label>
-	<Mechanitor_Basic.labelFemale>механизатор</Mechanitor_Basic.labelFemale>
-	<Mechanitor_Basic.labelPlural>механизаторы</Mechanitor_Basic.labelPlural>
+<Mechanitor_Basic.label>механитор</Mechanitor_Basic.label>
+	<Mechanitor_Basic.labelFemale>механитор</Mechanitor_Basic.labelFemale>
+	<Mechanitor_Basic.labelPlural>механиторы</Mechanitor_Basic.labelPlural>
 	<!--EN: sanguophage -->
 <Sanguophage.label>сангвофаг</Sanguophage.label>
 	<Sanguophage.labelFemale>сангвофаг</Sanguophage.labelFemale>
@@ -22,10 +22,10 @@
 	<SanguophageThrall.labelPlural>рабы</SanguophageThrall.labelPlural>
 	<!--EN: villager -->
 <Tribal_Child.label>сельский житель</Tribal_Child.label>
-	<Tribal_Child.labelFemale>сельский житель</Tribal_Child.labelFemale>
+	<Tribal_Child.labelFemale>сельская жительница</Tribal_Child.labelFemale>
 	<Tribal_Child.labelPlural>сельские жители</Tribal_Child.labelPlural>
 	<!--EN: villager -->
 <Villager_Child.label>сельский житель</Villager_Child.label>
-	<Villager_Child.labelFemale>сельский житель</Villager_Child.labelFemale>
+	<Villager_Child.labelFemale>сельская жительница</Villager_Child.labelFemale>
 	<Villager_Child.labelPlural>сельские жители</Villager_Child.labelPlural>
 	</LanguageData>

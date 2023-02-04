@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 	<!--EN: floordrawing. -->
-<Floordrawing.reportString>флористика.</Floordrawing.reportString>
+<Floordrawing.reportString> рисует.</Floordrawing.reportString>
 	<!--EN: teaching a lesson. -->
 <Lessongiving.reportString>преподать урок.</Lessongiving.reportString>
 	<!--EN: learning a lesson. -->
@@ -11,7 +11,7 @@
 	<!--EN: radiotalking. -->
 <Radiotalking.reportString>радиопереговоры.</Radiotalking.reportString>
 	<!--EN: skydreaming. -->
-<Skydreaming.reportString>с парашютом.</Skydreaming.reportString>
+<Skydreaming.reportString>смотрит на небо и мечтает.</Skydreaming.reportString>
 	<!--EN: watching work be performed. -->
 <Workwatching.reportString>наблюдение за выполнением работ.</Workwatching.reportString>
 	</LanguageData>

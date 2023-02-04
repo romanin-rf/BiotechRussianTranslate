@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 	<!--EN: toxalope -->
-<Toxalope.label>токсилопа</Toxalope.label>
-	<Toxalope.labelPlural>токсилопы</Toxalope.labelPlural>
+<Toxalope.label>токсалопа</Toxalope.label>
+	<Toxalope.labelPlural>токсалопы</Toxalope.labelPlural>
 	<!--EN: toxalope calf -->
-<Toxalope.lifeStages.toxalope_calf.label>телёнок токсилопы</Toxalope.lifeStages.toxalope_calf.label>
+<Toxalope.lifeStages.toxalope_calf.label>телёнок токсалопы</Toxalope.lifeStages.toxalope_calf.label>
 	<!--EN: toxalope calves -->
-<Toxalope.lifeStages.toxalope_calf.labelPlural>телята токсилопы</Toxalope.lifeStages.toxalope_calf.labelPlural>
+<Toxalope.lifeStages.toxalope_calf.labelPlural>телята токсалопы</Toxalope.lifeStages.toxalope_calf.labelPlural>
 	<!--EN: waste rat -->
 <WasteRat.label>помойная крыса</WasteRat.label>
 	<WasteRat.labelPlural>помойные крысы</WasteRat.labelPlural>
-	<WasteRat.lifeStages.0.label>помойная крыса</WasteRat.lifeStages.0.label>
-	<WasteRat.lifeStages.0.labelPlural>помойные крысы</WasteRat.lifeStages.0.labelPlural>
+	<WasteRat.lifeStages.0.label>помойный крысёнок</WasteRat.lifeStages.0.label>
+	<WasteRat.lifeStages.0.labelPlural>помойные крысята</WasteRat.lifeStages.0.labelPlural>
 	</LanguageData>

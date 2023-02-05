@@ -309,7 +309,7 @@
 	<!--EN: Whether or not colonists are allowed to automatically store any genepack into this container. Turn this off if you want to specify which specific genepacks should be stored here. -->
 	<AllowAllGenepacksDesc>Разрешено ли колонистам автоматически хранить какой -либо генепак в этот контейнер.Выключите это, если вы хотите указать, какие конкретные гены должны храниться здесь.</AllowAllGenepacksDesc>
 	<!--EN: The genepacks currently inside this container. -->
-	<ContainedGenepacksDesc>Генепаки в настоящее время внутри этого контейнера.</ContainedGenepacksDesc>
+	<ContainedGenepacksDesc>Генпаки в настоящее время внутри этого контейнера.</ContainedGenepacksDesc>
 	<!--EN: The genepacks designated to be loaded into this container. -->
 	<GenepacksToLoadDesc>Гены, обозначенные для загрузки в этот контейнер.</GenepacksToLoadDesc>
 	<!--EN: Unstored genepacks that are not designated to be loaded into this container. -->
@@ -319,7 +319,7 @@
 	<!--EN: Genepacks to ignore -->
 	<GenepacksToIgnore>Гены, чтобы игнорировать</GenepacksToIgnore>
 	<!--EN: Eject this genepack from the container. -->
-	<EjectGenepackDesc>Выбросить этот генепак из контейнера.</EjectGenepackDesc>
+	<EjectGenepackDesc>Выбросить этот генпак из контейнера.</EjectGenepackDesc>
 	<!--EN: Do you really want to eject {0}? It will be immediately ejected onto the ground nearby. -->
 	<ConfirmRemoveGenepack>Вы действительно хотите изгнать {0} ?Он будет немедленно выброшен на землю рядом.</ConfirmRemoveGenepack>
 	<!--EN: Missing required research -->
@@ -327,13 +327,13 @@
 	<!--EN: No genepacks available in nearby gene banks. -->
 	<NoGenepacksAvailable>Нет генов, не доступных в соседних генных банках.</NoGenepacksAvailable>
 	<!--EN: Allow this genepack to be loaded into this container. -->
-	<AddToLoadingListDesc>Позвольте загружать этот генепак в этот контейнер.</AddToLoadingListDesc>
+	<AddToLoadingListDesc>Позвольте загружать этот генпак в этот контейнер.</AddToLoadingListDesc>
 	<!--EN: Remove this genepack from the loading list. -->
-	<RemoveFromLoadingListDesc>Удалите этот генепак из списка загрузки.</RemoveFromLoadingListDesc>
+	<RemoveFromLoadingListDesc>Удалите этот генпак из списка загрузки.</RemoveFromLoadingListDesc>
 	<!--EN: Recombine -->
 	<Recombine>Рекомбинировать</Recombine>
 	<!--EN: Create a new implantable xenogerm using data from genepacks in your gene library. -->
-	<RecombineDesc>Создайте новый имплантируемый ксеногмер, используя данные из Genepacks в вашей библиотеке генов.</RecombineDesc>
+	<RecombineDesc>Создайте новый имплантируемый ксеногерм, используя данные из Genepacks в вашей библиотеке генов.</RecombineDesc>
 	<!--EN: Genes -->
 	<ContainedGenesDesc>Гены</ContainedGenesDesc>
 	<!--EN: Order implantation -->
@@ -341,7 +341,7 @@
 	<!--EN: Implant this into a person to partially override their genetic code.\n\nThis is a surgical operation, so it requires a doctor, medical bed and {MEDICINEAMOUNT} medicine. -->
 	<ImplantXenogermDesc>Имплантируйте это в человека, чтобы частично переопределить их генетический код. {MEDICINEAMOUNT} лекарственное средство.</ImplantXenogermDesc>
 	<!--EN: Implanting a xenogerm will put {PAWN_nameDef} in a coma as the xenogerm integrates itself. On average, this lasts for {COMADURATION}. The length of the coma is dependent on the doctor's medical skill and the quality of your medical facilities. -->
-	<ImplantXenogermWarningDesc>Имплантирование ксеногерма поставит {PAWN_nameDef} в коме, как ксеногмер, интегрируется.В среднем, это длится {COMADURATION} АнкетДлина комы зависит от медицинского навыка врача и качества ваших медицинских учреждений.</ImplantXenogermWarningDesc>
+	<ImplantXenogermWarningDesc>Имплантирование ксеногерма поставит {PAWN_nameDef} в коме, как ксеногерм, интегрируется.В среднем, это длится {COMADURATION} АнкетДлина комы зависит от медицинского навыка врача и качества ваших медицинских учреждений.</ImplantXenogermWarningDesc>
 	<!--EN: Additionally, implanting a xenogerm will overwrite existing xenogenes. {PAWN_nameDef}'s current xenotype is '{XENOTYPE}'. {PAWN_pronoun} has the following xenogenes:\n{XENOGENES} -->
 	<ImplantXenogermWarningOverwriteXenogenes>Кроме того, имплантирование ксеногерма будет перезаписать существующие ксеногены. {PAWN_nameDef} текущий ксенотип {XENOTYPE} ' {PAWN_pronoun} имеет следующие Xenogenes: \ n {XENOGENES}  </ImplantXenogermWarningOverwriteXenogenes>
 	<!--EN: After implantation, {PAWN_nameDef} will have a metabolism value of {MET} and a food consumption multiplier of {CONSUMPTION}. -->
@@ -375,7 +375,7 @@
 	<!--EN: Gene extraction complete for {PAWN_nameDef}. Extracted -->
 	<GeneExtractionComplete>Извлечение генов завершено для {PAWN_nameDef} АнкетИзвлечен</GeneExtractionComplete>
 	<!--EN: Insert xenogerm -->
-	<InsertXenogerm>Вставьте ксеногмер</InsertXenogerm>
+	<InsertXenogerm>Вставьте ксеногерм</InsertXenogerm>
 	<!--EN: Insert a xenogerm to apply during growth. -->
 	<InsertXenogermDesc>Вставьте ксеногерм для применения во время роста.</InsertXenogermDesc>
 	<!--EN: Waiting for {PAWN_nameDef}. -->
@@ -387,13 +387,13 @@
 	<!--EN: Last ingested {CHEMICAL_label} {DURATION} ago. -->
 	<LastIngestedDurationAgo>Последний проглатывал {CHEMICAL_label}   {DURATION} назад.</LastIngestedDurationAgo>
 	<!--EN: {NAME} xenogerm -->
-	<NamedXenogerm> {NAME} ксеногмер</NamedXenogerm>
+	<NamedXenogerm> {NAME} ксеногерм</NamedXenogerm>
 	<!--EN: Inserted {0} -->
 	<InsertedThing>Вставлено {0}  </InsertedThing>
 	<!--EN: Assembly paused -->
 	<AssemblyPaused>Сборка остановилась</AssemblyPaused>
 	<!--EN: Required gene bank unpowered -->
-	<GenebankUnpowered>Требуется ген -банк без заготовки</GenebankUnpowered>
+	<GenebankUnpowered>Требуемый генный банк без питания</GenebankUnpowered>
 	<!--EN: deathless -->
 	<Deathless>бессмертный</Deathless>
 	<!--EN: {PAWN_nameDef} needs to ingest {0} on a regular basis to survive. After {DEFICIENCYDURATION} without {0}, {PAWN_pronoun} will suffer from {0} deficiency. After {COMADURATION}, {PAWN_pronoun} will fall into a coma. After {DEATHDURATION}, {PAWN_pronoun} will die. -->
@@ -401,17 +401,17 @@
 	<!--EN: {CHEMICAL_label} dependency -->
 	<ChemicalDependency> {CHEMICAL_label} зависимость</ChemicalDependency>
 	<!--EN: Xenogerm -->
-	<Xenogerm>Ксеногмер</Xenogerm>
+	<Xenogerm>Ксеногерм</Xenogerm>
 	<!--EN: {PAWN_nameDef} will continue deathresting so long as {PAWN_pronoun} has lethal injuries. -->
 	<PawnWillKeepDeathrestingLethalInjuries> {PAWN_nameDef} продолжит смерть до тех пор, пока {PAWN_pronoun} имеет смертельные травмы.</PawnWillKeepDeathrestingLethalInjuries>
 	<!--EN: {PAWN_nameDef} will remain in a regeneration coma so long as {PAWN_pronoun} has lethal injuries. -->
 	<PawnWillKeepRegeneratingLethalInjuries> {PAWN_nameDef} останется в коме регенерации, пока {PAWN_pronoun} имеет смертельные травмы.</PawnWillKeepRegeneratingLethalInjuries>
 	<!--EN: Deathrest stopped -->
-	<DeathrestPaused>Deathrest остановился</DeathrestPaused>
+	<DeathrestPaused> Смертный покой остановлен</DeathrestPaused>
 	<!--EN: Lethal injuries -->
 	<LethalInjuries>Смертоносные травмы</LethalInjuries>
 	<!--EN: deathrest -->
-	<Deathrest>Смерть</Deathrest>
+	<Deathrest>Смертный покой</Deathrest>
 	<!--EN: Buildings -->
 	<Buildings>Здания</Buildings>
 	<!--EN: capacity -->
@@ -419,7 +419,7 @@
 	<!--EN: Non-{GENE} romance chance -->
 	<MissingGeneRomanceChance>Не {GENE} Романс шанс</MissingGeneRomanceChance>
 	<!--EN: Not in gene bank -->
-	<NotInGeneBank>Не в ген-банке</NotInGeneBank>
+	<NotInGeneBank>Не в генном банке</NotInGeneBank>
 	<!--EN: Gather to help a mother give birth. A doctor can help deliver the baby. -->
 	<ChildBirthAlwaysHealthy_Desc>Соберитесь, чтобы помочь матери родить. Врач может помочь ребёнку родиться.</ChildBirthAlwaysHealthy_Desc>
 	<!--EN: until the baby is born -->
@@ -429,7 +429,7 @@
 	<!--EN: {0_nameDef}'s current learning desire: -->
 	<LearningDesireTooltip_CurrentDesire> {0_nameDef} Современное желание обучения:</LearningDesireTooltip_CurrentDesire>
 	<!--EN: Development health is the average of a child's learning need since their last birthday.\n\nChildren with higher development health will have more options during growth moments and will gain more passions for skills. -->
-	<DevelopmentHealthGizmoTooltip>Здоровье развития - это среднее значение потребностям в обучении ребёнка с момента их последнего дня рождения. \ N \ nchildren с более высоким здоровьем в развитии будет иметь больше вариантов в моменты роста и приобретет больше страстей для навыков.</DevelopmentHealthGizmoTooltip>
+	<DevelopmentHealthGizmoTooltip>Здоровье развития - это среднее значение потребносте в обучении ребёнка с момента их дня рождения. \n\nДети с более высоким уровнем развития здоровья будут иметь больше возможностей в моменты роста и приобретут больше страсти к навыкам роста. </DevelopmentHealthGizmoTooltip>
 	<!--EN: Must not be placed close to another {0_label} -->
 	<MustNotBePlacedCloseToAnother>Не должно быть помещены рядом с другим {0_label}  </MustNotBePlacedCloseToAnother>
 	<!--EN: Next terrain pollution in -->
@@ -448,7 +448,7 @@
 	<!--EN: Consuming an extra {0} nutrition per day to produce milk (milk production speed is {1_percentage} because of the current food level). -->
 	<LactatingAddedNutritionPerDay>Потребление дополнительного {0} питание в день для производства молока (скорость производства молока - это {1_percentage} Из -за текущего уровня пищи).</LactatingAddedNutritionPerDay>
 	<!--EN: Lactation is paused because milk fullness is 100% -->
-	<LactatingStoppedBecauseFull>Лактация приостановлена, так как заполненность молока 100%</LactatingStoppedBecauseFull>
+	<LactatingStoppedBecauseFull>Лактация приостановлена, так как заполненность молока достигла 100%</LactatingStoppedBecauseFull>
 	<!--EN: Lactation is paused due to starvation. -->
 	<LactatingStoppedBecauseHungry>Лактация приостановлена из-за голода.</LactatingStoppedBecauseHungry>
 	<!--Лактация приостановлен из -за голода.-->
@@ -474,7 +474,7 @@
 	<!--EN: Release {0} -->
 	<MechCarrierRelease>Выпускать {0}  </MechCarrierRelease>
 	<!--EN: Release a swarm of up to {0} {1}. Each {2} costs {3} {4} to build. If the parent is destroyed then all the linked {1} will die. {1} cannot be recharged and will die once their power source runs out. -->
-	<MechCarrierDesc>Выпустить рой до {0}   {1} АнкетКаждый {2} расходы {3}   {4} строить.Если родитель уничтожен, то все связанные {1} умрет. {1} не может быть заряжен и умрет, как только их источник питания закончится.</MechCarrierDesc>
+	<MechCarrierDesc>Выпустить рой до {0}   {1} Каждый {2} расходы {3}   {4} строить.Если родитель уничтожен, то все связанные {1} умрет. {1} не может быть заряжен и умрет, как только их источник питания закончится.</MechCarrierDesc>
 	<!--EN: Not enough resources -->
 	<MechCarrierNotEnoughResources>недостаточно ресурсов</MechCarrierNotEnoughResources>
 	<!--EN: Autofill -->
@@ -487,7 +487,7 @@
 	<!--EN: Power cell -->
 	<MechPowerCell>Силовая ячейка</MechPowerCell>
 	<!--EN: War urchins have a one-time power source. When the power cell runs out, the mechanoid dies. -->
-	<MechPowerCellTip>Военные ежа имеют единовременный источник питания. Когда силовая ячейка заканчивается, механоид умирает.</MechPowerCellTip>
+	<MechPowerCellTip>У боевых ежей есть одноразовый источник энергии. Когда силовая ячейка заканчивается, механоид умирает.</MechPowerCellTip>
 	<!--Военные ежа имеют единовременный источник питания.Когда силовая ячейка заканчивается, механоид умирает.-->
 	<!--EN: available in {0}. -->
 	<BossgroupAvailableIn>доступно в {0} Анкет</BossgroupAvailableIn>
@@ -520,11 +520,11 @@
 	<!--EN: Biostarvation -->
 	<Biostarvation>Биостарвация</Biostarvation>
 	<!--EN: One or more growth vats are experiencing biostarvation from lack of nutrition or power.\n\nIf biostarvation reaches 100%, the contained people will die. -->
-	<BiostarvationExplanation>Один или несколько чанов роста испытывает биостарвацию из -за отсутствия питания или власти. Биостарвация достигает 100%, содержащиеся люди умрут.</BiostarvationExplanation>
+	<BiostarvationExplanation>Один или несколько чанов роста испытывает биостарвацию из-за отсутствия питания или энергии. Биостарвация достигает 100%, содержащиеся люди умрут.</BiostarvationExplanation>
 	<!--EN: Insert a person into the growth vat. They will age 20 times as fast as normal. -->
-	<InsertPersonGrowthVatDesc>Вставьте человека в НДС роста.Они будут в возрасте в 20 раз быстрее, чем обычно.</InsertPersonGrowthVatDesc>
+	<InsertPersonGrowthVatDesc>Вставьте человека в чан роста.Он будет стареть в 20 раз быстрее, чем обычно.</InsertPersonGrowthVatDesc>
 	<!--EN: Implant an embryo into the growth vat. After gestating for 18 days a fully formed baby will be produced by the vat, hopefully in good health. -->
-	<InsertEmbryoGrowthVatDesc>Имплантат эмбрион в НДС роста.После 18 дней в течение 18 дней у НДС появится полностью сформированный ребёнок, надеюсь, в хорошем здоровье.</InsertEmbryoGrowthVatDesc>
+	<InsertEmbryoGrowthVatDesc>Имплантация эмбриона в чан роста.После 18 дней в чане появится полностью сформированный ребёнок. Надеемся, он будет здоров.</InsertEmbryoGrowthVatDesc>
 	<!--EN: Insert embryo -->
 	<ImplantEmbryo>Вставьте эмбрион</ImplantEmbryo>
 	<!--EN: Cannot insert embryo -->
@@ -536,13 +536,13 @@
 	<!--EN: Time until birth -->
 	<EmbryoTimeUntilBirth>Время до рождения</EmbryoTimeUntilBirth>
 	<!--EN: Birth quality -->
-	<EmbryoBirthQuality>Качество рода</EmbryoBirthQuality>
+	<EmbryoBirthQuality>Качество рождения</EmbryoBirthQuality>
 	<!--EN: Embryo selected -->
 	<EmbryoSelected>Выбран эмбрион</EmbryoSelected>
 	<!--EN: Person selected -->
-	<PersonSelected>Человек выбрал</PersonSelected>
+	<PersonSelected>Человек выбран</PersonSelected>
 	<!--EN: No non-biostarving people of acceptable age. To enter the growth vat, the person must be below {0} years old and not currently biostarving. -->
-	<NoPawnsCanEnterGrowthVat>Нет небиостарнирующих людей приемлемого возраста.Чтобы войти в НДС роста, человек должен быть ниже {0} лет, и в настоящее время не биостарнируется.</NoPawnsCanEnterGrowthVat>
+	<NoPawnsCanEnterGrowthVat>Нет небиостарнирующих людей приемлемого возраста.Чтобы войти в чан роста, человек должен быть ниже {0} лет, и в настоящее время не должен быть в биостарвации.</NoPawnsCanEnterGrowthVat>
 	<!--EN: Aging speed -->
 	<AgingSpeed>Скорость старения</AgingSpeed>
 	<!--Скорость старения-->
@@ -554,7 +554,7 @@
 	<!--EN: raining -->
 	<DissolutionRain>дождь</DissolutionRain>
 	<!--EN: One wastepack dissolves every {0} -->
-	<DissolvesEvery>Один пакет отходов растворяет каждый {0}  </DissolvesEvery>
+	<DissolvesEvery>Один мусорный пакет растворяется {0}  </DissolvesEvery>
 	<!--EN: Frozen (won't dissolve). -->
 	<DissolutionFrozen>Заморожен (не растворяется).</DissolutionFrozen>
 	<!--EN: {0} cells / day -->
@@ -565,7 +565,7 @@
 	<!--EN: Start scanner -->
 	<SubcoreScannerStart>Начать сканер</SubcoreScannerStart>
 	<!--EN: Produces -->
-	<SubcoreScannerProduces>Производит</SubcoreScannerProduces>
+	<SubcoreScannerProduces>Производится</SubcoreScannerProduces>
 	<!--EN: Once the {0} is filled with the required ingredients, {1}, select a colonist and right-click on the {0} or on a downed person to start the scanner. -->
 	<SubcoreScannerStartDesc>Однажды {0} наполнен необходимыми ингредиентами, {1} Выберите колониста и щелкните правой кнопкой мыши на {0} или на сбитого человека, чтобы начать сканер.</SubcoreScannerStartDesc>
 	<!--EN: Completes in -->
@@ -604,8 +604,8 @@
 	<!--EN: Xenogerm implantation -->
 	<Reward_ReimplantXenogerm_Label>Имплантация ксеногерма</Reward_ReimplantXenogerm_Label>
 	<!--EN: One member of the group will reimplant their xenogerm into a colonist of your choice, thus turning your colonist into one of them. Your colonist will remain part of your faction and under your control. -->
-	<Reward_ReimplantXenogerm_Desc>Один из членов группы будет переосмыслить свой ксеногмер в колониста по вашему выбору, тем самым превратив ваш колонист в одного из них. Ваш колонист останется частью вашей фракции и под вашим контролем.</Reward_ReimplantXenogerm_Desc>
-	<!--Один из членов группы будет переосмыслить свой ксеногмер в колониста по вашему выбору, тем самым превратив ваш колонист в одного из них.Ваш колонист останется частью вашей фракции и под вашим контролем.-->
+	<Reward_ReimplantXenogerm_Desc>Один из членов группы будет переосмыслить свой ксеногерм в колониста по вашему выбору, тем самым превратив ваш колонист в одного из них. Ваш колонист останется частью вашей фракции и под вашим контролем.</Reward_ReimplantXenogerm_Desc>
+	<!--Один из членов группы будет переосмыслить свой ксеногерм в колониста по вашему выбору, тем самым превратив ваш колонист в одного из них.Ваш колонист останется частью вашей фракции и под вашим контролем.-->
 	<!--EN: Mech resurrection charges -->
 	<MechResurrectionCharges>Механические заряды Воскресения</MechResurrectionCharges>
 	<!--Механические заряды Воскресения-->
@@ -662,7 +662,7 @@
 	<!--EN: Cannot fertilize -->
 	<FertilizeCannotFloatOption>Не может оплодотворить</FertilizeCannotFloatOption>
 	<!--EN: Choose a man to fertilize this ovum to create an embryo. The embryo can then be implanted in a mother to start a pregnancy, or in a growth vat. The biological parents of the resulting child will be the woman who provided the ovum and man who fertilized it. -->
-	<FertilizeGizmoDescription>Выберите человека, чтобы оплодотворить эту яйцеклетку, чтобы создать эмбрион.Затем эмбрион может быть имплантирован в мать, чтобы начать беременность или в НДС роста.Биологическими родителями полученного ребёнка станут женщина, которая предоставила яйцеклетку и мужчина, который её оплодотворял.</FertilizeGizmoDescription>
+	<FertilizeGizmoDescription>Выберите человека, чтобы оплодотворить эту яйцеклетку, чтобы создать эмбрион.Затем эмбрион может быть имплантирован в мать, чтобы начать беременность или в чан роста.Биологическими родителями полученного ребёнка станут женщина, которая предоставила яйцеклетку и мужчина, который её оплодотворял.</FertilizeGizmoDescription>
 	<!--EN: Cancel fertilization by {0} -->
 	<FertilizeCancel>Отменить оплодотворение {0}  </FertilizeCancel>
 	<!--EN: sterile -->
@@ -682,7 +682,7 @@
 	<!--EN: Implant this embryo in a surrogate mother to begin a pregnancy. -->
 	<ImplantDescription>Имплантат этого эмбриона в суррогатную мать, чтобы начать беременность.</ImplantDescription>
 	<!--EN: Insert in growth vat -->
-	<InsertGrowthVatLabel>Вставить в НДС роста</InsertGrowthVatLabel>
+	<InsertGrowthVatLabel>Вставить в чан роста</InsertGrowthVatLabel>
 	<!--EN: Cannot implant -->
 	<ImplantCannotFloatOption>Невозможно имплантировать</ImplantCannotFloatOption>
 	<!--EN: No woman can be a surrogate mother. -->
@@ -694,17 +694,17 @@
 	<!--EN: The implantation success chance for the {0} in {1} is {2}.\n\nThe implantation success chance is dependent on the fertility of the surrogate mother. It will be lower if the mother is too old or too young. -->
 	<ImplantSurgeryConfirm>Шанс на успех имплантации для {0} в {1} является {2} . \ n \ n Успех имплантации зависит от фертильности суррогатной матери.Это будет ниже, если мать слишком старая или слишком молода.</ImplantSurgeryConfirm>
 	<!--EN: Ejecting the {0} from the growth vat right now will destroy it before a baby is formed.\n\nWould you like to continue? -->
-	<ImplantEmbryoCancelVat>Выбросит {0} Из НДС роста сейчас уничтожит его до того, как будет сформирован ребёнок. \ В \ Хотели бы вы продолжить?</ImplantEmbryoCancelVat>
+	<ImplantEmbryoCancelVat>Выбрасывание {0} из чана роста сейчас уничтожит его до того, как будет сформирован ребёнок. \ В \ Хотели бы вы продолжить?</ImplantEmbryoCancelVat>
 	<!--EN: Implanting the {0} in {1} was unsuccessful. -->
 	<ImplantFailedMessage>Имплантирование {0} в {1} был неудачным.</ImplantFailedMessage>
 	<!--EN: Cancel embryo insertion -->
 	<ImplantEmbryoCancel>Отменить вставку эмбриона</ImplantEmbryoCancel>
 	<!--EN: The {0} was ejected from a growth vat and destroyed. -->
-	<EmbryoEjectedFromGrowthVat>А {0} был выброшен из НДС роста и уничтожен.</EmbryoEjectedFromGrowthVat>
+	<EmbryoEjectedFromGrowthVat>А {0} был выброшен из чана роста и уничтожен.</EmbryoEjectedFromGrowthVat>
 	<!--EN: The {0} was destroyed in a growth vat due to biostarvation. -->
-	<EmbryoEjectedFromGrowthVatBiostarvation>А {0} был уничтожен в НДС роста из -за биостарвации.</EmbryoEjectedFromGrowthVatBiostarvation>
+	<EmbryoEjectedFromGrowthVatBiostarvation>А {0} был уничтожен в чане роста из-за биостарвации.</EmbryoEjectedFromGrowthVatBiostarvation>
 	<!--EN: {0} has successfully become pregnant from embryo implantation! -->
-	<IvfPregnancyLetterText> {0} успешно забеременела от имплантации эмбрионов!</IvfPregnancyLetterText>
+	<IvfPregnancyLetterText> {0} успешно забеременела от имплантации эмбриона!</IvfPregnancyLetterText>
 	<!--EN: The baby will have the genetic makeup of {0} and {1}. -->
 	<IvfPregnancyLetterParents>У ребёнка будет генетический состав {0} а также {1} Анкет</IvfPregnancyLetterParents>
 	<!--У ребёнка будет генетический состав {0} а также {1} Анкет-->
@@ -715,7 +715,7 @@
 	<RemoteMechShieldTip>Удаленный щит, спроектированный механитором.Он попытается остановить входящие снаряды или шрапнель, но ничего не делает против атак ближнего боя или тепла.Это не позволяет владельцу отключаться и сразу же отключается, если он поражен EMP</RemoteMechShieldTip>
 	<!--Удаленный щит, спроектированный механитором.Он попытается остановить входящие снаряды или шрапнель, но ничего не делает против атак ближнего боя или тепла.Это не позволяет владельцу отключаться и сразу же отключается, если он поражен EMP-->
 	<!--EN: my child is happy -->
-	<MyChildIsHappy>Мой ребёнок счастлив</MyChildIsHappy>
+	<MyChildIsHappy>Мой ребёнок счастлив!</MyChildIsHappy>
 	<!--EN: my child is sad -->
-	<MyChildIsSad>Мой ребёнок несчастен</MyChildIsSad>
+	<MyChildIsSad>Мой ребёнок несчастен.</MyChildIsSad>
 </LanguageData>

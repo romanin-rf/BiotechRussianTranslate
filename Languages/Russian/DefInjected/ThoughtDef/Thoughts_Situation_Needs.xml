@@ -3,7 +3,7 @@
 	<!--EN: learning-starved -->
 <NeedLearning.stages.learningstarved.label>Жажда знаний</NeedLearning.stages.learningstarved.label>
 	<!--EN: It's been so long since I learned anything new. I'm tired of the monotony! -->
-<NeedLearning.stages.learningstarved.description>Прошло так много с тех пор, как я узнал что-то новое. Я устал от монотонности жизни!</NeedLearning.stages.learningstarved.description>
+<NeedLearning.stages.learningstarved.description>Прошло так много времени с тех пор, как я узнал что-то новое. Я устал от монотонности жизни!</NeedLearning.stages.learningstarved.description>
 	<!--EN: learning-deprived -->
 <NeedLearning.stages.learningdeprived.label>Тоска по обучению</NeedLearning.stages.learningdeprived.label>
 	<!--EN: I want to learn more about all sorts of things. This place is boring! -->
@@ -28,7 +28,7 @@
 	<!--EN: really wants to play -->
 <NeedPlay.stages.really_wants_to_play.label>Тоска по играм</NeedPlay.stages.really_wants_to_play.label>
 	<!--EN: Why won't anybody play with me? -->
-<NeedPlay.stages.really_wants_to_play.description>Почему никто не играет со мной?</NeedPlay.stages.really_wants_to_play.description>
+<NeedPlay.stages.really_wants_to_play.description>Почему никто не играет со мной? :(</NeedPlay.stages.really_wants_to_play.description>
 	<!--EN: wants to play -->
 <NeedPlay.stages.wants_to_play.label>Скука</NeedPlay.stages.wants_to_play.label>
 	<!--EN: This place is boring. -->
@@ -36,7 +36,7 @@
 	<!--EN: entertained -->
 <NeedPlay.stages.entertained.label>Развлекается</NeedPlay.stages.entertained.label>
 	<!--EN: I'm having lots of fun. -->
-<NeedPlay.stages.entertained.description>Мне очень весело.</NeedPlay.stages.entertained.description>
+<NeedPlay.stages.entertained.description>Мне очень весело!</NeedPlay.stages.entertained.description>
 	<!--EN: very entertained -->
 <NeedPlay.stages.very_entertained.label>Счастье</NeedPlay.stages.very_entertained.label>
 	<!--EN: I'm having so much fun! -->

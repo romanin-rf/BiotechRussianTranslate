@@ -39,15 +39,15 @@
 	<!--EN: ideoligion exposure -->
 <IdeoExposureSectionHeader>Идеолигиозное воздействие</IdeoExposureSectionHeader>
 	<!--EN: {BABY_labelShort} has not been exposed to any ideoligions yet. -->
-<IdeoExposureNoExposure> {BABY_labelShort} еще не подвергался воздействию никаких идеолиций.</IdeoExposureNoExposure>
+<IdeoExposureNoExposure> {BABY_labelShort} еще не подвергался воздействию никаких идеолигий.</IdeoExposureNoExposure>
 	<!--EN: {BABY_pronoun} can be exposed to ideoligions by interacting with followers of an ideoligion. These interactions include being breastfed, carried, played with, and more. At the age of {CHILDAGE} {BABY_labelShort} will join one of the ideoligions {BABY_pronoun} has been exposed to. -->
-<IdeoExposureNoExposureDetail> {BABY_pronoun} может подвергаться воздействию идеолиций, взаимодействуя с последователями идеолигиона.Эти взаимодействия включают в себя грудную вскармливание, переносится, играют и многое другое.В возрасте {CHILDAGE}   {BABY_labelShort} присоединится к одной из идеолиг {BABY_pronoun} был подвержен.</IdeoExposureNoExposureDetail>
+<IdeoExposureNoExposureDetail> {BABY_pronoun} может подвергаться воздействию идеолигий, взаимодействуя с последователями идеолигиона.Эти взаимодействия включают в себя грудную вскармливание, переноску, игры и многое другое.В возрасте {CHILDAGE}   {BABY_labelShort} присоединится к одной из идеолигий {BABY_pronoun} был подвержен.</IdeoExposureNoExposureDetail>
 	<!--EN: {BABY_labelShort} is {PERCENT} likely to join the ideoligion {IDEO_name}. -->
-<IdeoExposurePointsTooltipJoinLikelihood> {BABY_labelShort} является {PERCENT} скорее всего присоединится к идеолиге {IDEO_name} Анкет</IdeoExposurePointsTooltipJoinLikelihood>
+<IdeoExposurePointsTooltipJoinLikelihood> {BABY_labelShort} является {PERCENT} скорее всего присоединится к идеолигии {IDEO_name} </IdeoExposurePointsTooltipJoinLikelihood>
 	<!--EN: As {BABY_labelShort} interacts with followers of an ideoligion {BABY_pronoun} becomes more likely to join that ideoligion. {BABY_labelShort} will join one of the ideoligions {BABY_pronoun} has been exposed to at the age of {CHILDAGE}. -->
-<IdeoExposurePointsTooltipJoinDescription>В качестве {BABY_labelShort} взаимодействует с последователями идеолигиона {BABY_pronoun} становится с большей вероятностью присоединиться к этой идеолигионе. {BABY_labelShort} присоединится к одной из идеолиг {BABY_pronoun} подвергался воздействию в возрасте {CHILDAGE} Анкет</IdeoExposurePointsTooltipJoinDescription>
+<IdeoExposurePointsTooltipJoinDescription>В качестве {BABY_labelShort} взаимодействует с последователями идеолигии {BABY_pronoun} с большей вероятностью присоединится к этой идеолигии. {BABY_labelShort} присоединится к одной из идеолиг {BABY_pronoun} подвергался воздействию в возрасте {CHILDAGE} Анкет</IdeoExposurePointsTooltipJoinDescription>
 	<!--EN: Ideoligion exposure is measured by exposure points. Interactions like being breastfed, carried, or played with will cause {BABY_labelShort} to gain exposure points for the ideoligions followed by those {BABY_pronoun} interacts with. -->
-<IdeoExposurePointsTooltipExposureDescription>Идеолигиозное воздействие измеряется точками воздействия.Взаимодействия, такие как грудные вскармливание, переносить или играть, вызовут {BABY_labelShort} Чтобы получить точки экспозиции для идеолиций, за которыми следуют эти {BABY_pronoun} взаимодействует с.</IdeoExposurePointsTooltipExposureDescription>
+<IdeoExposurePointsTooltipExposureDescription>Идеолигиозное воздействие измеряется точками воздействия.Взаимодействия, такие как грудное вскармливание, переноска или игры, вызовут {BABY_labelShort} Чтобы получить точки экспозиции для идеолигий, за которыми следуют эти {BABY_pronoun} взаимодействует с.</IdeoExposurePointsTooltipExposureDescription>
 	<!--EN: {IDEO_name} exposure points -->
 <IdeoExposurePointsTooltipIdeoExposure> {IDEO_name} точки экспозиции</IdeoExposurePointsTooltipIdeoExposure>
 	<!--EN: Total exposure points -->
@@ -68,7 +68,7 @@
 	<!--EN: mental break -->
 <CantRomanceTargetMentalState>умственный перерыв</CantRomanceTargetMentalState>
 	<!--EN: incestuous -->
-<CantRomanceTargetIncest>инцест</CantRomanceTargetIncest>
+<CantRomanceTargetIncest>кровосмешение, инцест</CantRomanceTargetIncest>
 	<!--EN: low opinion -->
 <CantRomanceTargetOpinion>низкое мнение</CantRomanceTargetOpinion>
 	<!--EN: incompatible orientation -->

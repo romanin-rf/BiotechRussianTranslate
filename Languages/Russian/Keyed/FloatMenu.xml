@@ -35,7 +35,7 @@
 	<!--EN: Cannot repair mech {0} -->
 <CannotRepairMech>Не может восстановить мех {0}  </CannotRepairMech>
 	<!--EN: Extract xenogerm from {PAWN_nameDef} -->
-<ExtractXenogermFrom>Извлекать ксеногмер из {PAWN_nameDef}  </ExtractXenogermFrom>
+<ExtractXenogermFrom>Извлекать ксеногерм из {PAWN_nameDef}  </ExtractXenogermFrom>
 	<!--EN: Enter {0_labelShort} -->
 <EnterBuilding>Войти {0_labelShort}  </EnterBuilding>
 	<!--EN: {PAWN_nameDef} has no genes -->
@@ -47,7 +47,7 @@
 	<!--EN: Occupied -->
 <Occupied>Занятый</Occupied>
 	<!--EN: {PAWN_nameDef} was ejected from a growth vat -->
-<OccupantEjectedFromGrowthVat> {PAWN_nameDef} был выброшен из НДС роста</OccupantEjectedFromGrowthVat>
+<OccupantEjectedFromGrowthVat> {PAWN_nameDef} был выброшен из чана роста</OccupantEjectedFromGrowthVat>
 	<!--EN: {PAWN_nameDef} must be younger than {AGEYEARS} years old. -->
 <TooOld> {PAWN_nameDef} Должно быть моложе, чем {AGEYEARS} лет.</TooOld>
 	<!--EN: {PAWN_nameDef} is too old. -->
@@ -65,13 +65,13 @@
 	<!--EN: {0_labelShort} is assigned to another person. -->
 <AssignedToOtherPawn> {0_labelShort} назначается другому человеку.</AssignedToOtherPawn>
 	<!--EN: Absorb xenogerm of {PAWN_nameDef} -->
-<AbsorbXenogerm>Поглощать ксеногмер {PAWN_nameDef}  </AbsorbXenogerm>
+<AbsorbXenogerm>Поглощать ксеногерм {PAWN_nameDef}  </AbsorbXenogerm>
 	<!--EN: Cannot absorb {PAWN_nameDef}'s xenogerm -->
 <CannotAbsorbXenogerm>Не может поглощать {PAWN_nameDef} Сеногмер</CannotAbsorbXenogerm>
 	<!--EN: {PAWN_nameDef} is already {PAWN_xenotype} -->
 <SameXenotype> {PAWN_nameDef} уже {PAWN_xenotype}  </SameXenotype>
 	<!--EN: {PAWN_nameDef} suffering from xenogerm loss shock -->
-<XenogermLossShockPresent> {PAWN_nameDef} страдая от шока потери ксеногмер</XenogermLossShockPresent>
+<XenogermLossShockPresent> {PAWN_nameDef} страдая от шока потери ксеногерм</XenogermLossShockPresent>
 	<!--EN: Carry to {0_labelShort} -->
 <CarryToSpecificThing>Носить с собой {0_labelShort}  </CarryToSpecificThing>
 	<!--EN: No reachable, un-reserved bed or deathrest casket in safe temperature. -->
@@ -126,7 +126,7 @@
 	<!--EN: Order implantation into {PAWN_nameDef} -->
 <OrderImplantationIntoPawn>Порядок имплантации в {PAWN_nameDef}  </OrderImplantationIntoPawn>
 	<!--EN: Accept {0_xenotype} xenogerm -->
-<AcceptXenogerm>Принимать {0_xenotype} ксеногмер</AcceptXenogerm>
+<AcceptXenogerm>Принимать {0_xenotype} ксеногерм</AcceptXenogerm>
 	<!--EN: Carry {PAWN_labelShort} to recharger -->
 <CarryToRechargerOrdered>Нести {PAWN_labelShort} пополнить</CarryToRechargerOrdered>
 	<!--EN: Cannot carry {PAWN_labelShort} to recharger -->

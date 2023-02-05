@@ -27,13 +27,13 @@
 	<!--EN: Toggle auto load {0} -->
 <CommandAutoLoad>Переключить автоматическую нагрузку {0}  </CommandAutoLoad>
 	<!--EN: If active, colonists will automatically load this with {0}. -->
-<CommandAutoLoadDesc>Если активно, колонисты автоматически загружат это с помощью {0} Анкет</CommandAutoLoadDesc>
+<CommandAutoLoadDesc>Если активно, колонисты автоматически загружат это с помощью {0}.</CommandAutoLoadDesc>
 	<!--EN: Eject contents -->
 <CommandEjectContents>Выбросить содержимое</CommandEjectContents>
 	<!--EN: Eject all contained {0} onto the ground. -->
 <CommandEjectContentsDesc>Изгнать все содержится {0} на землю.</CommandEjectContentsDesc>
 	<!--EN: Select all mechs -->
-<CommandSelectAllMechs>Выберите все меха</CommandSelectAllMechs>
+<CommandSelectAllMechs>Выбрать всех мехов</CommandSelectAllMechs>
 	<!--EN: Select all mechanoids controlled by this mechanitor. -->
 <CommandSelectAllMechsDesc>Выберите все механоиды, контролируемые этим механизмом.</CommandSelectAllMechsDesc>
 	<!--EN: Turret enabled -->

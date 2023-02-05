@@ -25,7 +25,7 @@
 	<!--EN: entering TargetA. -->
 <EnterBuilding.reportString>вхождение в TargetA.</EnterBuilding.reportString>
 	<!--EN: absorbing xenogerm from TargetA. -->
-<GetReimplanted.reportString>поглощающих ксеногерм из TargetA.</GetReimplanted.reportString>
+<GetReimplanted.reportString>поглощение ксеногерм из TargetA.</GetReimplanted.reportString>
 	<!--EN: hauling TargetA to charger. -->
 <HaulMechToCharger.reportString>перетаскивание TargetA к зарядному устройству.</HaulMechToCharger.reportString>
 	<!--EN: installing TargetA. -->

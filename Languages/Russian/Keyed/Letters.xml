@@ -47,7 +47,7 @@
 	<!--EN: By tradition {0_nameDef}, {0_parentage}, is a {0_legalStatus}, but exceptions can be made....  Should {0_nameDef} remain a {0_legalStatus}? -->
 <LetterChildLegalStatus>По традиции {0_nameDef} В {0_parentage} , это {0_legalStatus} , но исключения могут быть сделаны .... должны {0_nameDef} оставаться {0_legalStatus} ?</LetterChildLegalStatus>
 	<!--EN: {0_labelShort} has decided to become a follower of the ideoligion {1_name}. -->
-<LetterChildFollowIdeo> {0_labelShort} решил стать последователем идеолигиона {1_name} Анкет</LetterChildFollowIdeo>
+<LetterChildFollowIdeo> {0_labelShort} решил стать последователем идеолигии {1_name} Анкет</LetterChildFollowIdeo>
 	<!--EN: {0_nameDef}'s slave status has already changed since {0_possessive} birthday. -->
 <CannotChangeChildStatusReason> {0_nameDef} Статус раба уже изменился с момента {0_possessive} день рождения.</CannotChangeChildStatusReason>
 	<!--EN: enslave -->
@@ -63,21 +63,21 @@
 	<!--EN: {0_nameDef}'s baby prep -->
 <LetterLabelThirdTrimester> {0_nameDef} Baby Prep</LetterLabelThirdTrimester>
 	<!--EN: {0_nameDef} is due to give birth in less than 6 days. You can prepare for the baby:\n\n- Build a birth room with a clean floor and good bed.\n- Get a skilled doctor ready.\n- In the work tab, assign at least one person to childcare\n- Prepare a food source for the baby. {0_nameDef} can breastfeed the baby, or you can feed them baby food, milk, or insect jelly.\n- Build a crib. High quality cribs will make a baby happy.\n\nYou can make baby food at a stove or campfire. -->
-<LetterTextThirdTrimester> {0_nameDef} должна рожать менее чем через 6 дней. Вы можете подготовиться к появлению ребёнка: \n\n- построить комнату для рождения с чистым полом и хорошей кроватью. Приготовьте источник пищи для ребёнка. {0_nameDef} Может кормить грудью ребёнка, или вы можете кормить ребёнка детским питанием, желе насекомых или молоком. Высококачественные кроватки сделают ребёнка счастливым. \ И вы можете приготовить детское питание у печи или костра.</LetterTextThirdTrimester>
+<LetterTextThirdTrimester> {0_nameDef} должна рожать менее чем через 6 дней. Вы можете подготовиться к появлению ребёнка: \n\n- построить комнату для рождения с чистым полом и хорошей кроватью. Приготовьте источник пищи для ребёнка. {0_nameDef} Может кормить грудью ребёнка, или вы можете кормить ребёнка детским питанием, желе насекомых или молоком. Высококачественные кроватки сделают ребёнка счастливым. \n\nВы можете приготовить детское питание у печи или костра.</LetterTextThirdTrimester>
 	<!--EN: {0} vat birth -->
-<LetterVatBirth> {0} НДС рождение</LetterVatBirth>
+<LetterVatBirth> {0} чан рождения</LetterVatBirth>
 	<!--EN: The embryo of {0_nameDef} and {1_nameDef} has finished gestating in a growth vat and has become a healthy baby! -->
-<LetterVatHealthyBaby>Эмбрион {0_nameDef} а также {1_nameDef} закончил жестов в НДС роста и стал здоровым ребёнком!</LetterVatHealthyBaby>
+<LetterVatHealthyBaby>Эмбрион {0_nameDef} а также {1_nameDef} закончил жестов в чан роста и стал здоровым ребёнком!</LetterVatHealthyBaby>
 	<!--EN: An embryo has finished gestating in a growth vat and become a healthy baby! -->
-<LetterVatHealthyBabyNoParents>Эмбрион завершил, чтобы жестов в НДС роста и стал здоровым ребёнком!</LetterVatHealthyBabyNoParents>
+<LetterVatHealthyBabyNoParents>Эмбрион завершил, чтобы жестов в чане роста и стал здоровым ребёнком!</LetterVatHealthyBabyNoParents>
 	<!--EN: The embryo of {0_nameDef} and {1_nameDef} has finished gestating in a growth vat and has become a baby. Unfortunately, the baby is sick. -->
-<LetterVatInfantIllness>Эмбрион {0_nameDef} а также {1_nameDef} закончил жестов в НДС роста и стал ребёнком.К сожалению, ребёнок болен.</LetterVatInfantIllness>
+<LetterVatInfantIllness>Эмбрион {0_nameDef} а также {1_nameDef} закончил развитие в чане роста и стал ребёнком.К сожалению, ребёнок болен.</LetterVatInfantIllness>
 	<!--EN: An embryo has finished gestating in a growth vat and has become a baby. Unfortunately, the baby is sick. -->
-<LetterVatInfantIllnessNoParents>Эмбрион завершил, чтобы жестов в НДС роста и стал ребёнком. К сожалению, ребёнок болен.</LetterVatInfantIllnessNoParents>
+<LetterVatInfantIllnessNoParents>Эмбрион завершил вынашивание в чане роста и стал младенцем. К сожалению, ребёнок болен.</LetterVatInfantIllnessNoParents>
 	<!--EN: The baby formed in a growth vat from the embryo of {0_nameDef} and {1_nameDef} was stillborn. -->
-<LetterVatStillborn>Ребёнок, образованный в НДС роста из эмбриона {0_nameDef} а также {1_nameDef} был мертворожденным.</LetterVatStillborn>
+<LetterVatStillborn>Ребёнок, образованный в чане роста из эмбриона {0_nameDef} а также {1_nameDef} был мертворожденным.</LetterVatStillborn>
 	<!--EN: The baby formed in a growth vat was stillborn. -->
-<LetterVatSillbornNoParents>Ребёнок, образованный в НДС роста, был мертворожденным.</LetterVatSillbornNoParents>
+<LetterVatSillbornNoParents>Ребёнок, образованный в чане роста, был мертворожденным.</LetterVatSillbornNoParents>
 	<!--EN: {0_labelShort} in labor! -->
 <LetterColonistPregnancyLaborLabel> {0_labelShort} в работе!</LetterColonistPregnancyLaborLabel>
 	<!--EN: {0_labelShort} is about to give birth! She's going to have contractions for a few hours before delivering a baby. The labor may go through several stages of different levels of difficulty and danger.\n\nTo improve the baby's chances, gather a doctor and others to help with the birth. Select {0_labelShort} and press 'Gather for birth' to start the procedure. -->
@@ -138,13 +138,13 @@
 <LetterMechlinkAvailable>Возможность приобрести уникальный имплантат Mechlink стала доступной через квест ' {0} '. \ n \ Ninstalling A Mechlink превратит колониста в механитор.Механиоты могут создавать, управлять и манипулировать механоидами для использования в работе и в бою.</LetterMechlinkAvailable>
 	<!--Возможность приобрести уникальный имплантат Mechlink стала доступной через квест ' {0} '. \ n \ Ninstalling A Mechlink превратит колониста в механитор.Механиоты могут создавать, управлять и манипулировать механоидами для использования в работе и в бою.-->
 	<!--EN: Xenogerm implantation ordered -->
-<LetterLabelXenogermOrderedImplanted>Имплантация ксеногмер</LetterLabelXenogermOrderedImplanted>
+<LetterLabelXenogermOrderedImplanted>Имплантация ксеногерм</LetterLabelXenogermOrderedImplanted>
 	<!--EN: You have ordered a xenogerm be implanted in {PAWN_nameDef}. This procedure requires a medical bed and {MEDICINENEEDED} medicine.{BEDINFO}{MEDICINEINFO}\n\nYou can cancel this procedure by going to {PAWN_nameDef}'s health -> operations tab. -->
-<LetterXenogermOrderedImplanted>Вы заказали имплантировать ксеногмер {PAWN_nameDef} АнкетЭта процедура требует медицинской кровати и {MEDICINENEEDED} лекарственное средство. {BEDINFO}  {MEDICINEINFO} \ n \ nyou может отменить эту процедуру, отправившись {PAWN_nameDef} Здоровье -&gt; Вкладка Операции.</LetterXenogermOrderedImplanted>
+<LetterXenogermOrderedImplanted>Вы заказали имплантировать ксеногерм {PAWN_nameDef} АнкетЭта процедура требует медицинской кровати и {MEDICINENEEDED} лекарственное средство. {BEDINFO}  {MEDICINEINFO} \ n \ nyou может отменить эту процедуру, отправившись {PAWN_nameDef} Здоровье -&gt; Вкладка Операции.</LetterXenogermOrderedImplanted>
 	<!--EN: \n\nYou do not have any medical beds available for {PAWN_nameDef}. Consider marking a bed as medical. -->
 <XenogermOrderedImplantedBedNeeded>\ n \ nyou не иметь никаких медицинских кроватей {PAWN_nameDef} АнкетСчитайте маркировку кровати как медицинскую.</XenogermOrderedImplantedBedNeeded>
 	<!--EN: \n\nYou do not have enough medicine to implant the xenogerm. Implanting cannot begin until you get {MEDICINENEEDED} medicine. -->
-<XenogermOrderedImplantedMedicineNeeded>\ n \ nyou не хватает лекарства, чтобы имплантировать ксеногмер.Имплантирование не может начаться, пока не получите {MEDICINENEEDED} лекарственное средство.</XenogermOrderedImplantedMedicineNeeded>
+<XenogermOrderedImplantedMedicineNeeded>\ n \ nyou не хватает лекарства, чтобы имплантировать ксеногерм.Имплантирование не может начаться, пока не получите {MEDICINENEEDED} лекарственное средство.</XenogermOrderedImplantedMedicineNeeded>
 	<!--EN: Involuntary deathrest -->
 <LetterLabelInvoluntaryDeathrest>Принудительная смерть</LetterLabelInvoluntaryDeathrest>
 	<!--EN: {PAWN_nameDef} has fallen into deathrest. -->
@@ -152,13 +152,13 @@
 	<!--EN: Lethal damage taken. -->
 <DeathrestLethalDamage>Смертельный ущерб нанесен.</DeathrestLethalDamage>
 	<!--EN: Xenogerm implantation -->
-<LetterLabelSanguophageWaitingToReimplant>Имплантация ксеногмер</LetterLabelSanguophageWaitingToReimplant>
+<LetterLabelSanguophageWaitingToReimplant>Имплантация ксеногерм</LetterLabelSanguophageWaitingToReimplant>
 	<!--EN: As thanks for allowing {PAWN_objective} and {PAWN_possessive} fellow sanguophages meet here, {PAWN_nameDef} is willing to share a copy of {PAWN_possessive} xenogerm with one of your colonists. This will turn your colonist into a sanguophage.\n\nTo accept, select a colonist and right click on {PAWN_nameDef}.\n\nIf no colonists have claimed the reward in {DURATION}, the sanguophages will leave. -->
-<LetterTextSanguophageWaitingToReimplant>Как спасибо за разрешение {PAWN_objective} а также {PAWN_possessive} коллеги -сангуфы встречаются здесь, {PAWN_nameDef} готов поделиться копией {PAWN_possessive} Ксеногмер с одним из ваших колонистов.Это превратит вашего колониста в сангуфаг. {PAWN_nameDef} . \ n \ nif ни один колонисты не претендовал {DURATION} , сангуфаги уйдут.</LetterTextSanguophageWaitingToReimplant>
+<LetterTextSanguophageWaitingToReimplant>Как спасибо за разрешение {PAWN_objective} а также {PAWN_possessive} коллеги -сангуфы встречаются здесь, {PAWN_nameDef} готов поделиться копией {PAWN_possessive} ксеногерм с одним из ваших колонистов.Это превратит вашего колониста в сангуфаг. {PAWN_nameDef} . \ n \ nif ни один колонисты не претендовал {DURATION} , сангуфаги уйдут.</LetterTextSanguophageWaitingToReimplant>
 	<!--EN: Genes reimplanted -->
 <LetterLabelGenesImplanted>Гены возрождены</LetterLabelGenesImplanted>
 	<!--EN: {CASTER_nameDef} has implanted a copy of {CASTER_possessive} xenogerm into {TARGET_nameDef}, passing all xenogenes onto {TARGET_objective}.\n\n{TARGET_nameDef} will be in a xenogermination coma for the next {COMADURATION} while {TARGET_possessive} body adjusts to the changes.\n\n{CASTER_nameDef} will suffer from gene loss shock for the next {SHOCKDURATION}. {CASTER_possessive} genes will also need to regrow. This process takes time. If {CASTER_nameDef} implants {CASTER_possessive} xenogerm again before {CASTER_possessive} genes have regrown, {CASTER_pronoun} will die. -->
-<LetterTextGenesImplanted> {CASTER_nameDef} имплантировал копию {CASTER_possessive} ксеногмер в {TARGET_nameDef} , передавая все Xenogenes на {TARGET_objective} . \ n \ n {TARGET_nameDef} будет в коме ксеногминирования для следующей {COMADURATION} пока {TARGET_possessive} тело приспосабливается к изменениям. \ n \ n {CASTER_nameDef} будет страдать от шока потери генов для следующего {SHOCKDURATION} Анкет {CASTER_possessive} Гены также должны будут отрастать.Этот процесс занимает время.Если {CASTER_nameDef} имплантаты {CASTER_possessive} Ксеногмер снова раньше {CASTER_possessive} Гены восходящими, {CASTER_pronoun} умрет.</LetterTextGenesImplanted>
+<LetterTextGenesImplanted> {CASTER_nameDef} имплантировал копию {CASTER_possessive} ксеногерм в {TARGET_nameDef} , передавая все Xenogenes на {TARGET_objective} . \ n \ n {TARGET_nameDef} будет в коме ксеногминирования для следующей {COMADURATION} пока {TARGET_possessive} тело приспосабливается к изменениям. \ n \ n {CASTER_nameDef} будет страдать от шока потери генов для следующего {SHOCKDURATION} Анкет {CASTER_possessive} Гены также должны будут отрастать.Этот процесс занимает время.Если {CASTER_nameDef} имплантаты {CASTER_possessive} ксеногерм снова раньше {CASTER_possessive} Гены восходящими, {CASTER_pronoun} умрет.</LetterTextGenesImplanted>
 	<!--EN: A baby named {PAWN_nameDef} from {PAWN_factionName} is crashing in a transport pod nearby.\n\nYou may choose to adopt {PAWN_objective} with the 'adopt' command or ignore {PAWN_objective}. -->
 <RefugeePodCrashBaby>Ребёнок по имени {PAWN_nameDef} из {PAWN_factionName} разбивается в транспортном челноке поблизости. {PAWN_objective} с командой «усыновить» или игнорировать {PAWN_objective} </RefugeePodCrashBaby>
 	<!--EN: The body of {PAWN_nameDef}'s deceased parent is contained within the transport pod as well. -->

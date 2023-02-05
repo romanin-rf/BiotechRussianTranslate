@@ -81,7 +81,7 @@
 	<!--EN: Creating xenogerm -->
 	<CreatingXenogerm>Создание ксеногерма</CreatingXenogerm>
 	<!--EN: This genepack is contained in an unpowered genebank. If added, production on the xenogerm will be suspended until power is restored. -->
-	<GenepackUnusableGenebankUnpowered>Этот ген-пакет содержится в ген-банке без электропитания. В случае добавления производство ксеногерма будет приостановлено до восстановления питания.</GenepackUnusableGenebankUnpowered>
+	<GenepackUnusableGenebankUnpowered>Этот ген-пакет содержится в генном банке без электропитания. В случае добавления производство ксеногерма будет приостановлено до восстановления питания.</GenepackUnusableGenebankUnpowered>
 	<!--EN: This xenogerm requires more genetic complexity than the gene assembler and nearby powered gene processors can support. -->
 	<GeneProcessorUnpowered>Этот ксеногерм требует большей генетической сложности, чем может поддержать генный сборщик и близлежащие генные процессоры.</GeneProcessorUnpowered>
 	<!--EN: Estimated recombination time -->
@@ -193,7 +193,7 @@
 	<MissingGenepackForXenogerm>Отсутствует ген-пакет для шаблона {NAME}</MissingGenepackForXenogerm>
 	<!--EN: Delete this xenogerm. -->
 	<DeleteThisXenogerm>Удалить этот ксеногерм.</DeleteThisXenogerm>
-	<!--Удалить этот ксеногмер.-->
+	<!--Удалить этот ксеногерм.-->
 	<!--EN: Select at least one child or adult. -->
 	<ChooseChildOrAdult>Выберите хотя бы одного ребёнка или взрослого.</ChooseChildOrAdult>
 	<!--Выберите хотя бы одного ребёнка или взрослого.-->

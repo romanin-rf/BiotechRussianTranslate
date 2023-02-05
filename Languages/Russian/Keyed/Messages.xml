@@ -17,11 +17,11 @@
 	<!--EN: Cannot implant in temporary faction members. -->
 	<MessageCannotImplantInTempFactionMembers>Невозможно имплантировать во временных членах фракции.</MessageCannotImplantInTempFactionMembers>
 	<!--EN: A xenogerm has been completed. -->
-	<MessageXenogermCompleted>Ксеногмер был завершен.</MessageXenogermCompleted>
+	<MessageXenogermCompleted>ксеногерм был завершен.</MessageXenogermCompleted>
 	<!--EN: Work on the xenogerm at {0_labelShort} was cancelled: Missing required genepack. -->
-	<MessageXenogermCancelledMissingPack>Работать на ксеногмер {0_labelShort} был отменен: отсутствует необходимый генепак.</MessageXenogermCancelledMissingPack>
+	<MessageXenogermCancelledMissingPack>Работать на ксеногерм {0_labelShort} был отменен: отсутствует необходимый генепак.</MessageXenogermCancelledMissingPack>
 	<!--EN: Absorbing {PAWN_nameDef}'s xenogerm will anger {0}. -->
-	<MessageAbsorbingXenogermWillAngerFaction>Поглощение {PAWN_nameDef} Ксеногмер будет гневом {0} Анкет</MessageAbsorbingXenogermWillAngerFaction>
+	<MessageAbsorbingXenogermWillAngerFaction>Поглощение {PAWN_nameDef} ксеногерм будет гневом {0} Анкет</MessageAbsorbingXenogermWillAngerFaction>
 	<!--EN: {ABILITY_label} can only be used on colonists, prisoners, and slaves. -->
 	<MessageCannotUseOnOtherFactions>{ABILITY_label} Может использоваться только на колонистах, заключенных и рабах.</MessageCannotUseOnOtherFactions>
 	<!--EN: Auto-adding {MECH_nameDef} to the caravan, since it is escorting {OVERSEER_nameDef} -->
@@ -50,7 +50,7 @@
 	<!--EN: Cocoons have been disturbed and are opening! -->
 	<MessageCocoonDisturbedPlural>Коконы были нарушены и открываются!</MessageCocoonDisturbedPlural>
 	<!--EN: {PAWN_nameDef} must be downed before you can force {PAWN_objective} to reimplant {PAWN_possessive} xenogerm. -->
-	<MessageTargetMustBeDownedToForceReimplant> {PAWN_nameDef} Должен быть сбит, прежде чем вы сможете принудительно {PAWN_objective} Чтобы вернуть {PAWN_possessive} ксеногмер.</MessageTargetMustBeDownedToForceReimplant>
+	<MessageTargetMustBeDownedToForceReimplant> {PAWN_nameDef} Должен быть сбит, прежде чем вы сможете принудительно {PAWN_objective} Чтобы вернуть {PAWN_possessive} ксеногерм.</MessageTargetMustBeDownedToForceReimplant>
 	<!--EN: {0_nameDef} is only {1} years old. {2} work can only be done from age {3}. -->
 	<MessageWorkTypeDisabledAge> {0_nameDef} только {1} лет. {2} Работа может быть выполнена только из возраста {3}</MessageWorkTypeDisabledAge>
 	<!--EN: {PAWN_nameDef} can now wake from deathrest safely. -->
@@ -63,9 +63,9 @@
 	<!--EN: The total metabolism of the selected genes must be {MIN} or higher to continue, but currently it is only {AMOUNT}. -->
 	<MetabolismTooLowToCreateXenogerm>Общий метаболизм выбранных генов должен быть {MIN} или выше, чтобы продолжить, но в настоящее время это только {AMOUNT} Анкет</MetabolismTooLowToCreateXenogerm>
 	<!--EN: The total complexity of the selected genes must be {MAX} or less to create a xenogerm, but currently it is {AMOUNT}. -->
-	<ComplexityTooHighToCreateXenogerm>Общая сложность выбранных генов должна быть {MAX} или меньше, чтобы создать ксеногмер, но в настоящее время это {AMOUNT} Анкет</ComplexityTooHighToCreateXenogerm>
+	<ComplexityTooHighToCreateXenogerm>Общая сложность выбранных генов должна быть {MAX} или меньше, чтобы создать ксеногерм, но в настоящее время это {AMOUNT} Анкет</ComplexityTooHighToCreateXenogerm>
 	<!--EN: Cannot create a xenogerm with no genes. -->
-	<MessageNoSelectedGenepacks>Не может создать ксеногмер без генов.</MessageNoSelectedGenepacks>
+	<MessageNoSelectedGenepacks>Не может создать ксеногерм без генов.</MessageNoSelectedGenepacks>
 	<!--EN: Cannot create a xenotype with no genes. -->
 	<MessageNoSelectedGenes>Не может создать ксенотип без генов.</MessageNoSelectedGenes>
 	<!--EN: {0_label} can only store {1} genepacks. -->

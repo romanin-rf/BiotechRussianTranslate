@@ -64,7 +64,7 @@
 	<CleanClearPollution.verb>чистка загрязнений</CleanClearPollution.verb>
 
 	<!--EN: create xenogerm -->
-	<CreateXenogerm.label>Создайте ксеногмер</CreateXenogerm.label>
+	<CreateXenogerm.label>Создайте ксеногерм</CreateXenogerm.label>
 	<!--EN: creating xenogerm at -->
 	<CreateXenogerm.gerund>создание ксенозародышей в</CreateXenogerm.gerund>
 	<!--EN: create xenogerm -->
@@ -106,7 +106,7 @@
 	<EnterGeneExtractor.verb>войти</EnterGeneExtractor.verb>
 
 	<!--EN: enter growth vat -->
-	<EnterGrowthVat.label>ввести ват роста</EnterGrowthVat.label>
+	<EnterGrowthVat.label>ввести чан роста</EnterGrowthVat.label>
 	<!--EN: entering -->
 	<EnterGrowthVat.gerund>вход</EnterGrowthVat.gerund>
 	<!--EN: enter -->
@@ -141,7 +141,7 @@
 	<HaulToCarrier.verb>транспортировка к</HaulToCarrier.verb>
 
 	<!--EN: bank genepack -->
-	<HaulToGeneBank.label>банка генпакет</HaulToGeneBank.label>
+	<HaulToGeneBank.label>банк генпакетов</HaulToGeneBank.label>
 	<!--EN: banking -->
 	<HaulToGeneBank.gerund>банкинг</HaulToGeneBank.gerund>
 	<!--EN: bank -->
@@ -169,7 +169,7 @@
 	<HaulToWastepackAtomizer.verb>добраться до</HaulToWastepackAtomizer.verb>
 
 	<!--EN: play with babies -->
-	<PlayWithBaby.label>играйте с детьми</PlayWithBaby.label>
+	<PlayWithBaby.label>играть с детьми</PlayWithBaby.label>
 	<!--EN: playing with -->
 	<PlayWithBaby.gerund>играть с</PlayWithBaby.gerund>
 	<!--EN: play with -->
@@ -180,7 +180,7 @@
 	<!--EN: repairing -->
 	<RepairMech.gerund>восстановление</RepairMech.gerund>
 	<!--EN: repair -->
-	<RepairMech.verb>ремонтировать</RepairMech.verb>
+	<RepairMech.verb>восстанавливать</RepairMech.verb>
 	
 	<!--EN: paint buildings -->
 	<PaintBuilding.label>покраска зданий</PaintBuilding.label>

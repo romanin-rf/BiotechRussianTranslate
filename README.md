@@ -1,17 +1,6 @@
 # Biotech Russian Translate
 ## Описание
 Русский перевод для DLC RimWorld Biotech.
-## Выпуск версий
-- ~~v0.8.5 (1-2 ноября)~~
-   - ~~Надо, **но не обезательно**, закончить с [Languages/Russian/DefInjected/ThingDef](https://github.com/romanin-rf/BiotechRussianTranslate/tree/main/Languages/Russian/DefInjected/ThingDef)~~
-- v1.0.0 (скоро)
-   - Исправить все ошибки!
-   - И закончить уже с этим
-
-## Что не сделано
-1. [Languages/Russian/DefInjected/ThingDef](https://github.com/romanin-rf/BiotechRussianTranslate/tree/main/Languages/Russian/DefInjected/ThingDef) (там нужно смотреть какие конкретно файлы - не переведены)
-2. [Languages/Russian/DefInjected/ThoughtDef](https://github.com/romanin-rf/BiotechRussianTranslate/tree/main/Languages/Russian/DefInjected/ThoughtDef)
-3. [Languages/Russian/Keyed](https://github.com/romanin-rf/BiotechRussianTranslate/tree/main/Languages/Russian/Keyed)
 
 ## Объяснение комментариев
 |  Комментарий  |  Приорeтет  |            Описание          |
@@ -19,6 +8,7 @@
 | `в работе`    | Высокий     | не переведено, нужно сделать |
 | `сомнительно` | Низкий      | переведено, но нужно править |
 | `готово`      | Отсутствует | переведено, можно пропустить |
+
 ## Авторы
 - `Romanin`
    - **Должности**
@@ -27,6 +17,11 @@
    - **Ссылочки**
       - [VK](https://vk.com/romanin2)
       - [Steam](https://steamcommunity.com/profiles/76561198869178151)
+- `Badger (Тревожный сырок)`
+   - **Должности**
+      - Переводчик
+   - **Ссылочки**
+      - *если разрешат выложу*
 - `Star`
    - **Должности**
       - Переводчик

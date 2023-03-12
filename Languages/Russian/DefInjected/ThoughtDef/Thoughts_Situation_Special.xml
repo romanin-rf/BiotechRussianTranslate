@@ -9,7 +9,7 @@
 	<!--EN: New! Fun! Pretty! Oooh! -->
 <ChildlikePositivity.stages.childlike_joy.description>Всё такое новое! Весёлое! Милое! Урааа!</ChildlikePositivity.stages.childlike_joy.description>
 	<!--EN: childlike wonder -->
-<ChildlikePositivity.stages.childlike_wonder.label>Детское чудо</ChildlikePositivity.stages.childlike_wonder.label>
+<ChildlikePositivity.stages.childlike_wonder.label>Чудо детства</ChildlikePositivity.stages.childlike_wonder.label>
 	<!--EN: The world is a magical place and I can't wait to grow up! -->
 <ChildlikePositivity.stages.childlike_wonder.description>Мир - волшебное место, и я не могу дождаться, когда уже наконец вырасту!</ChildlikePositivity.stages.childlike_wonder.description>
 	<!--EN: childlike enthusiasm -->
@@ -65,7 +65,7 @@
 	<!--EN: genetic chemical dependency -->
 <GeneticChemicalDependency.stages.genetic_chemical_dependency.label>Генетическая химическая зависимость</GeneticChemicalDependency.stages.genetic_chemical_dependency.label>
 	<!--EN: I need {CHEMICAL_label} because of my genetic deficiency. But it's been so long since I've had any. -->
-<GeneticChemicalDependency.stages.genetic_chemical_dependency.description>Из-за моего генетического дефицита мне нужен {CHEMICAL_label}. Прошло много времени с тех пор, как у меня это было.</GeneticChemicalDependency.stages.genetic_chemical_dependency.description>
+<GeneticChemicalDependency.stages.genetic_chemical_dependency.description>Из-за моей генетической потребности мне нужен {CHEMICAL_label}. Прошло много времени с тех пор, как я его принимал.</GeneticChemicalDependency.stages.genetic_chemical_dependency.description>
 	<!--EN: apocriton hatred (intense) -->
 <HateAura.stages.apocriton_hatred_intense.label>Апокритон-ненависть (яростная)</HateAura.stages.apocriton_hatred_intense.label>
 	<!--EN: I feel its hatred inside me, the way I feel my own emotions. It's so close and so cold. They all deserve death. -->

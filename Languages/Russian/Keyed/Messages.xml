@@ -5,7 +5,7 @@
 	<!--EN: {PAWN_labelShort}'s pregnancy progressed from 2nd to 3rd trimester. -->
 	<MessageColonistReaching3rdTrimesterPregnancy>{PAWN_labelShort} Беременность прогрессировала с 2 -го до 3 -го триместра.</MessageColonistReaching3rdTrimesterPregnancy>
 	<!--EN: {PAWN_labelShort}'s labor has begun the final stages. -->
-	<MessageColonistInFinalStagesOfLabor>{PAWN_labelShort} Труд начал последние этапы.</MessageColonistInFinalStagesOfLabor>
+	<MessageColonistInFinalStagesOfLabor>{PAWN_labelShort} Начался последний этап родов.</MessageColonistInFinalStagesOfLabor>
 	<!--EN: A mech charger was destroyed while {PAWN_nameDef} was charging! The power disruption has scrambled its brain, and it is going berserk. -->
 	<MessageMechChargerDestroyedMechGoesBerserk>Мех зарядное устройство было уничтожено, пока {PAWN_nameDef} заряжался!Разрушение власти засорило его мозг, и он идет берсерк.</MessageMechChargerDestroyedMechGoesBerserk>
 	<!--EN: Cannot use {ABILITY_label} on anyone who would actively resist. -->
@@ -21,7 +21,7 @@
 	<!--EN: Work on the xenogerm at {0_labelShort} was cancelled: Missing required genepack. -->
 	<MessageXenogermCancelledMissingPack>Работать на ксеногерм {0_labelShort} был отменен: отсутствует необходимый генепак.</MessageXenogermCancelledMissingPack>
 	<!--EN: Absorbing {PAWN_nameDef}'s xenogerm will anger {0}. -->
-	<MessageAbsorbingXenogermWillAngerFaction>Поглощение {PAWN_nameDef} ксеногерм будет гневом {0} Анкет</MessageAbsorbingXenogermWillAngerFaction>
+	<MessageAbsorbingXenogermWillAngerFaction>Поглощение {PAWN_nameDef} ксеногерм будет гневом {0} </MessageAbsorbingXenogermWillAngerFaction>
 	<!--EN: {ABILITY_label} can only be used on colonists, prisoners, and slaves. -->
 	<MessageCannotUseOnOtherFactions>{ABILITY_label} Может использоваться только на колонистах, заключенных и рабах.</MessageCannotUseOnOtherFactions>
 	<!--EN: Auto-adding {MECH_nameDef} to the caravan, since it is escorting {OVERSEER_nameDef} -->
@@ -40,11 +40,11 @@
 	<!--EN: Need polluted terrain. -->
 	<MessageWarningNotPollutedCell>Нужна загрязненная местность.</MessageWarningNotPollutedCell>
 	<!--EN: {0} has died because of pollution. -->
-	<MessagePlantDiedOfPollution>{0} умер из -за загрязнения.</MessagePlantDiedOfPollution>
+	<MessagePlantDiedOfPollution>{0} умер из-за загрязнения.</MessagePlantDiedOfPollution>
 	<!--EN: {0} has died because of a lack of pollution. -->
-	<MessagePlantDiedOfNoPollution>{0} умер из -за отсутствия загрязнения.</MessagePlantDiedOfNoPollution>
+	<MessagePlantDiedOfNoPollution>{0} умер из-за отсутствия загрязнения.</MessagePlantDiedOfNoPollution>
 	<!--EN: Pollution has increased by {0} at {1}. -->
-	<MessageWorldTilePollutionChanged>Загрязнение увеличилось {0} в {1} Анкет</MessageWorldTilePollutionChanged>
+	<MessageWorldTilePollutionChanged>Загрязнение увеличилось {0} в {1} </MessageWorldTilePollutionChanged>
 	<!--EN: A cocoon has been disturbed and is opening! -->
 	<MessageCocoonDisturbed>Кокон был нарушен и открывается!</MessageCocoonDisturbed>
 	<!--EN: Cocoons have been disturbed and are opening! -->
@@ -61,9 +61,9 @@
 	<MessageMechanitorDisconnectedFromMech> {0_nameDef} отключился от {1_nameDef} мех</MessageMechanitorDisconnectedFromMech>
 	<!-- {0_nameDef} отключился от {1_nameDef} мех-->
 	<!--EN: The total metabolism of the selected genes must be {MIN} or higher to continue, but currently it is only {AMOUNT}. -->
-	<MetabolismTooLowToCreateXenogerm>Общий метаболизм выбранных генов должен быть {MIN} или выше, чтобы продолжить, но в настоящее время это только {AMOUNT} Анкет</MetabolismTooLowToCreateXenogerm>
+	<MetabolismTooLowToCreateXenogerm>Общий метаболизм выбранных генов должен быть {MIN} или выше, чтобы продолжить, но в настоящее время это только {AMOUNT} </MetabolismTooLowToCreateXenogerm>
 	<!--EN: The total complexity of the selected genes must be {MAX} or less to create a xenogerm, but currently it is {AMOUNT}. -->
-	<ComplexityTooHighToCreateXenogerm>Общая сложность выбранных генов должна быть {MAX} или меньше, чтобы создать ксеногерм, но в настоящее время это {AMOUNT} Анкет</ComplexityTooHighToCreateXenogerm>
+	<ComplexityTooHighToCreateXenogerm>Общая сложность выбранных генов должна быть {MAX} или меньше, чтобы создать ксеногерм, но в настоящее время это {AMOUNT} </ComplexityTooHighToCreateXenogerm>
 	<!--EN: Cannot create a xenogerm with no genes. -->
 	<MessageNoSelectedGenepacks>Не может создать ксеногерм без генов.</MessageNoSelectedGenepacks>
 	<!--EN: Cannot create a xenotype with no genes. -->
@@ -75,15 +75,15 @@
 	<!--EN: {0} lacks a prerequisite gene -->
 	<MessageGeneMissingPrerequisite> {0} не хватает обязательного гена</MessageGeneMissingPrerequisite>
 	<!--EN: {PAWN_nameDef}'s deathrest capacity has increased from {OLD} to {NEW}. -->
-	<MessageDeathrestCapacityChanged> {PAWN_nameDef} Смертельномерная способность увеличилась с {OLD} к {NEW} Анкет</MessageDeathrestCapacityChanged>
+	<MessageDeathrestCapacityChanged> {PAWN_nameDef} Смертельномерная способность увеличилась с {OLD} к {NEW} </MessageDeathrestCapacityChanged>
 	<!--EN: The sanguophages will arrive in a few hours for their meeting. -->
-	<SanguophagesArrivingSoon>Сангуфаги прибудут через несколько часов для их встречи.</SanguophagesArrivingSoon>
+	<SanguophagesArrivingSoon>сангофаги прибудут через несколько часов для их встречи.</SanguophagesArrivingSoon>
 	<!--EN: The sanguophages have begun their meeting. -->
-	<SanguophagesBegunMeeting>Сангуфаги начали свою встречу.</SanguophagesBegunMeeting>
+	<SanguophagesBegunMeeting>сангофаги начали свою встречу.</SanguophagesBegunMeeting>
 	<!--EN: The sanguophages are leaving due to life-threatening temperature. -->
 	<SanguophagesLeavingTemperature>Санггофаги уходят из-за опасной для жизни температуры.</SanguophagesLeavingTemperature>
 	<!--EN: {PAWN_nameDef} was woken from {PAWN_possessive} deathrest due to sunlight exposure. -->
-	<MessagePawnWokenFromSunlight>{PAWN_nameDef} был проснулся от {PAWN_possessive} Deathrest из -за воздействия солнечного света.</MessagePawnWokenFromSunlight>
+	<MessagePawnWokenFromSunlight>{PAWN_nameDef} был разбужен от {PAWN_possessive} Deathrest из-за воздействия солнечного света.</MessagePawnWokenFromSunlight>
 	<!--EN: The {BED_labelShort} {PAWN_nameDef} is assigned to use for deathrest has been exposed to sunlight. {PAWN_nameDef} cannot deathrest there. -->
 	<MessageBedExposedToSunlight>А {BED_labelShort} {PAWN_nameDef} назначено для использования для Deathrest, подвергается воздействию солнечного света. {PAWN_nameDef} не может там смерть.</MessageBedExposedToSunlight>
 	<!--А {BED_labelShort}   {PAWN_nameDef} назначено для использования для Deathrest, подвергается воздействию солнечного света. {PAWN_nameDef} не может там смерть.-->
@@ -92,7 +92,7 @@
 	<!--EN: Cannot resurrect dessicated corpses. -->
 	<MessageCannotResurrectDessicatedCorpse>Не может воскресить градусные трупы.</MessageCannotResurrectDessicatedCorpse>
 	<!--EN: {0} is about to explode! -->
-	<MessageAboutToExplode>{0} вот -вот взорвется!</MessageAboutToExplode>
+	<MessageAboutToExplode>{0} вот-вот взорвется!</MessageAboutToExplode>
 	<!-- {0} вот -вот взорвется!-->
 	<!--EN: {FEEDER_labelShort} cannot perform childcare tasks. -->
 	<MessageChildcareDisabled>{FEEDER_labelShort} не может выполнять задачи по уходу за детьми.</MessageChildcareDisabled>
@@ -103,7 +103,7 @@
 	<!--EN: Cannot save xenotype with multiple conflicting genes. -->
 	<MessageConflictingGenesPresent>Не может сохранить ксенотип с несколькими противоречивыми генами.</MessageConflictingGenesPresent>
 	<!--EN: {BUILDING_labelShort} has been bound to {PAWN_nameDef} ({CUR}/{MAX} deathrest capacity). -->
-	<MessageDeathrestBuildingBound>{BUILDING_labelShort} был связан {PAWN_nameDef} ( {CUR} / {MAX} Смертельная способность).</MessageDeathrestBuildingBound>
+	<MessageDeathrestBuildingBound>{BUILDING_labelShort} был связан {PAWN_nameDef} ({CUR}/{MAX} Смертельная способность.</MessageDeathrestBuildingBound>
 	<!--EN: Developmental stage selection disabled by scenario. -->
 	<MessageDevelopmentalStageSelectionDisabledByScenario>Выбор стадии развития отключен по сценарию.</MessageDevelopmentalStageSelectionDisabledByScenario>
 	<!--EN: {PAWN_nameDef} did not have enough blood to produce a hemogen pack.  -->

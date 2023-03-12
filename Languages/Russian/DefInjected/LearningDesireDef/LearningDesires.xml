@@ -3,7 +3,7 @@
 	<!--EN: floor drawing -->
 <Floordrawing.label>чертёж пола</Floordrawing.label>
 	<!--EN: Draw designs on the ground using chalk. A cleaner will eventually remove the drawings. -->
-<Floordrawing.description>Нарисуйте узоры на земле с помощью мела. Со временем чистящее средство удалит рисунки.</Floordrawing.description>
+<Floordrawing.description>Нарисуйте узоры на земле с помощью мела. Со временем, когда кто-то например будет подметать пол, рисунки исчезнут.</Floordrawing.description>
 	<!--EN: lesson taking -->
 <Lessontaking.label>проведение уроков</Lessontaking.label>
 	<!--EN: An adult assigned to childcare will teach about various topics. This gives experience in skills. Requires a school desk. -->

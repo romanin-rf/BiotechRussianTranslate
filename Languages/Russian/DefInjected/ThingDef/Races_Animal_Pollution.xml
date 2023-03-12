@@ -7,7 +7,7 @@
 	<Toxalope.label>токсалопа</Toxalope.label>
 	<!--EN: A pollution-adapted cousin of the boomalope, the toxalope grows toxic pouches on its back. When it dies, the toxic material explodes and produces a deadly toxic cloud. Unlike the boomalope, the toxalope cannot be milked. -->
 	<Toxalope.description>Адаптированный к загрязнению двоюродный брат бумалопы, токсалопа выращивает ядовитые мешочки на спине. Когда она умирает, токсичный материал взрывается, образуя смертоносное токсичное облако. В отличие от бумалопы, токсалопу нельзя доить.</Toxalope.description>
-	<Toxalope.race.meatLabel>Адаптированный к загрязнению двоюродный брат бумалопы, токсалопа выращивает ядовитые мешочки на спине. Когда она умирает, токсичный материал взрывается, образуя смертоносное токсичное облако. В отличие от бумалопы, токсалопу нельзя доить.</Toxalope.race.meatLabel>
+	<Toxalope.race.meatLabel>мясо токсалопы</Toxalope.race.meatLabel>
 	<!--EN: head -->
 	<Toxalope.tools.head.label>голова</Toxalope.tools.head.label>
 	<!--EN: left hoof -->
@@ -18,7 +18,7 @@
 	<WasteRat.label>помойная крыса</WasteRat.label>
 	<!--EN: A toxin-adapted variant of the common rat. Waste rats have evolved to be pollution-resistant, as well as larger, tougher, and more aggressive than standard rats. Their bite infects their attacker with toxic buildup. -->
 	<WasteRat.description>Адаптированный к токсинам вариант обычной крысы. Крысы-отбросы эволюционировали, чтобы быть устойчивыми к загрязнению, а также стали крупнее, выносливее и агрессивнее обычных крыс. Их укус заражает нападающего токсинами.</WasteRat.description>
-	<WasteRat.race.meatLabel>Адаптированный к токсинам вариант обычной крысы. Крысы-отбросы эволюционировали, чтобы быть устойчивыми к загрязнению, а также стали крупнее, выносливее и агрессивнее обычных крыс. Их укус заражает нападающего токсинами.</WasteRat.race.meatLabel>
+	<WasteRat.race.meatLabel>мясо помойной крысы</WasteRat.race.meatLabel>
 	<!--EN: left claw -->
 	<WasteRat.tools.left_claw.label>левая лапа</WasteRat.tools.left_claw.label>
 	<!--EN: right claw -->

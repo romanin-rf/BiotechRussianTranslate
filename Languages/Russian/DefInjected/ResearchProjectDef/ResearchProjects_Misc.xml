@@ -4,7 +4,7 @@
 	<!--EN: archogenetics -->
 <Archogenetics.label>архогенетика</Archogenetics.label>
 	<!--EN: Allows a gene assembler to use archite capsules to create seemingly-impossible genes. Archite genes and archite capsules can be obtained from traders. -->
-<Archogenetics.description>Позволяет сборщику генов использовать капсулы архитов для создания, казалось бы, невозможных генов. Гены архитекторов и капсулы архитекторов можно получить у торговцев.</Archogenetics.description>
+<Archogenetics.description>Позволяет сборщику генов использовать капсулы архитов для создания, казалось бы, невозможных генов. Гены архитов и капсулы архитов можно получить у торговцев.</Archogenetics.description>
 
 	<!--EN: deathrest -->
 <Deathrest.label>смертный покой</Deathrest.label>
@@ -12,9 +12,9 @@
 <Deathrest.description>Люди с геном Смертный покой должны периодически проходить специальную кому Смертный покой, которая длится несколько дней. Этот исследовательский проект позволяет строить здания, которые ускоряют прохождение комы смерти и дают особые бонусы смертнику. Со временем вы сможете построить грандиозный храм смерти.</Deathrest.description>
 
 	<!--EN: fertility procedures -->
-<FertilityProcedures.label>безплодная репродуктивция</FertilityProcedures.label>
+<FertilityProcedures.label>репродуктивные процедуры</FertilityProcedures.label>
 	<!--EN: Perform the surgeries necessary to create a test tube embryo from a fertile man and woman, then implant the embryo in a surrogate mother or growth vat. Also, perform sterilization surgeries on men and women. -->
-<FertilityProcedures.description>Выполнять операции, необходимые для создания эмбриона в пробирке из фертильных мужчины и женщины, затем имплантировать эмбрион в суррогатную мать или чан для выращивания. Также выполняют операции по стерилизации мужчин и женщин.</FertilityProcedures.description>
+<FertilityProcedures.description>Выполнение операций, необходимых для создания эмбриона в пробирке с помощью фертильных мужчины и женщины, затем имплантация эмбриона в суррогатную мать или чан для выращивания. Также можно выполнять операции по стерилизации мужчин и женщин.</FertilityProcedures.description>
 
 	<!--EN: gene processor -->
 <GeneProcessor.label>процессор генов</GeneProcessor.label>

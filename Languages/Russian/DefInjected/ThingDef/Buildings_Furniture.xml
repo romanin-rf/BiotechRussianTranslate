@@ -14,7 +14,7 @@
 	<!--EN: blackboard -->
 	<Blackboard.label>школьная доска</Blackboard.label>
 	<!--EN: A flat stone-like surface for writing on with chalk. Placed near a lesson desk, blackboards increase childrens' learning rate during lessons. Up to three blackboards can be used at a time. -->
-	<Blackboard.description>Плоская поверхность, похожая на камень, на которой пишут мелом. Размещенные рядом с партой для уроков, доски повышают скорость обучения детей во время уроков. Одновременно можно использовать до трех досок.</Blackboard.description>
+	<Blackboard.description>Плоская поверхность, похожая на камень, на которой пишут мелом. Доски, размещенные рядом с партой для уроков, повышают скорость обучения детей во время уроков. Одновременно можно использовать до трёх досок.</Blackboard.description>
 	<!--EN: When near a desk where a lesson is taking place, this building increases the student's learning rate. This effect can stack up to three times. -->
 	<Blackboard.comps.CompStatEntry.reportText>Находясь рядом с партой, за которой проходит урок, это здание увеличивает скорость обучения ученика. Этот эффект может складываться до трех раз.</Blackboard.comps.CompStatEntry.reportText>
 	<!--EN: Learning rate bonus -->
@@ -22,7 +22,7 @@
 	<!--EN: crib -->
 	<Crib.label>детская кроватка</Crib.label>
 	<!--EN: A cozy bed with safe latticed sides, perfect for a sleepy baby. A high quality crib will make a baby happy. Multiple cribs can be placed in a bedroom without turning it into a barracks. -->
-	<Crib.description>Уютная кроватка с безопасными решетчатыми бортиками идеально подходит для сонного малыша. Качественная кроватка сделает ребёнка счастливым. В спальне можно разместить несколько кроваток, не превращая ее .</Crib.description>
+	<Crib.description>Уютная кроватка с безопасными решетчатыми бортиками идеально подходит для сонного малыша. Качественная кроватка сделает ребёнка счастливым. В спальне можно разместить несколько кроваток, не превращая ее в казарму.</Crib.description>
 	<!--EN: school desk -->
 	<SchoolDesk.label>школьная парта</SchoolDesk.label>
 	<!--EN: A desk where adults can teach lessons to children. -->

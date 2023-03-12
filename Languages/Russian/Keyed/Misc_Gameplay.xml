@@ -27,7 +27,7 @@
 	<!-- {0} Мехи-->
 	<!--EN: removing {0}. -->
 	<ReportRemovingMechlink>убирая {0}.</ReportRemovingMechlink>
-	<!--Удаление {0} Анкет-->
+	<!--Удаление {0} -->
 	<!--EN: Pollution clear -->
 	<PollutionClear>Очистить от загрязнения</PollutionClear>
 	<!--Загрязнение ясно-->
@@ -159,7 +159,7 @@
 	<!--EN: {PAWN_nameDef} should deathrest in {DURATION} to avoid exhaustion. -->
 	<NextDeathrestNeed>{PAWN_nameDef} должен отдыхать в течение {DURATION}, чтобы избежать истощения.</NextDeathrestNeed>
 	<!--EN: {PAWN_nameDef} should deathrest soon to avoid exhaustion. -->
-	<PawnShouldDeathrestNow>{PAWN_nameDef} должен вскоре отдохнуть от Смерного Покоя, чтобы избежать истощения.</PawnShouldDeathrestNow>
+	<PawnShouldDeathrestNow>{PAWN_nameDef} должен вскоре отдохнуть от Смертного Покоя, чтобы избежать истощения.</PawnShouldDeathrestNow>
 	<!--EN: Consume hemogen below -->
 	<ConsumeHemogenBelow>Употребляйте гемоген ниже нормы</ConsumeHemogenBelow>
 	<!--EN: Never consume hemogen. -->
@@ -180,7 +180,7 @@
 	<!--EN: Minimum is {0} to apply -->
 	<MinimumNeededToApply>Минимум {0} для применения</MinimumNeededToApply>
 	<!--EN: Cannot deathrest -->
-	<CannotAssignBedCannotDeathrest>Не может впадать в состояние Смерного Покоя</CannotAssignBedCannotDeathrest>
+	<CannotAssignBedCannotDeathrest>Не может впадать в состояние Смертного Покоя</CannotAssignBedCannotDeathrest>
 	<!--EN: Already bound to {0_nameDef} -->
 	<CannotAssignAlreadyBound>Уже привязан к {0_nameDef}</CannotAssignAlreadyBound>
 	<!--EN: Cannot bind to more {BUILDING_labelPlural} -->
@@ -233,7 +233,7 @@
 	<!--EN: Pregnancy is not possible -->
 	<PregnancyNotPossible>Беременность невозможна</PregnancyNotPossible>
 	<!--EN: The chance of a healthy birth at this quality level was {0_percentage}. -->
-	<BirthRitualHealthyBabyChance>Шанс рождения здорового ребёнка при таком уровне качества составлял {0_процентов}.</BirthRitualHealthyBabyChance>
+	<BirthRitualHealthyBabyChance>Шанс рождения здорового ребёнка при таком уровне качества составлял {0_percentage}.</BirthRitualHealthyBabyChance>
 	<!--EN: Giving birth. -->
 	<GivingBirth>Роды.</GivingBirth>
 	<!--Рождение.-->
@@ -307,13 +307,13 @@
 	<!--EN: Allow all genepacks -->
 	<AllowAllGenepacks>Разрешить все гены</AllowAllGenepacks>
 	<!--EN: Whether or not colonists are allowed to automatically store any genepack into this container. Turn this off if you want to specify which specific genepacks should be stored here. -->
-	<AllowAllGenepacksDesc>Разрешено ли колонистам автоматически хранить какой -либо генепак в этот контейнер.Выключите это, если вы хотите указать, какие конкретные гены должны храниться здесь.</AllowAllGenepacksDesc>
+	<AllowAllGenepacksDesc>Разрешено ли колонистам автоматически хранить какой-либо генепак в этот контейнер. Выключите это, если вы хотите указать, какие конкретные гены должны храниться здесь.</AllowAllGenepacksDesc>
 	<!--EN: The genepacks currently inside this container. -->
 	<ContainedGenepacksDesc>Генпаки в настоящее время внутри этого контейнера.</ContainedGenepacksDesc>
 	<!--EN: The genepacks designated to be loaded into this container. -->
 	<GenepacksToLoadDesc>Гены, обозначенные для загрузки в этот контейнер.</GenepacksToLoadDesc>
 	<!--EN: Unstored genepacks that are not designated to be loaded into this container. -->
-	<GenepacksIgnoredDesc>Нестацированные гены, которые не предназначены для загрузки в этот контейнер.</GenepacksIgnoredDesc>
+	<GenepacksIgnoredDesc>Несохраненные генные пакеты, которые не предназначены для загрузки в этот контейнер.</GenepacksIgnoredDesc>
 	<!--EN: Genepacks to load -->
 	<GenepacksToLoad>Гены для загрузки</GenepacksToLoad>
 	<!--EN: Genepacks to ignore -->
@@ -341,17 +341,17 @@
 	<!--EN: Implant this into a person to partially override their genetic code.\n\nThis is a surgical operation, so it requires a doctor, medical bed and {MEDICINEAMOUNT} medicine. -->
 	<ImplantXenogermDesc>Имплантируйте это в человека, чтобы частично переопределить их генетический код. {MEDICINEAMOUNT} лекарственное средство.</ImplantXenogermDesc>
 	<!--EN: Implanting a xenogerm will put {PAWN_nameDef} in a coma as the xenogerm integrates itself. On average, this lasts for {COMADURATION}. The length of the coma is dependent on the doctor's medical skill and the quality of your medical facilities. -->
-	<ImplantXenogermWarningDesc>Имплантирование ксеногерма поставит {PAWN_nameDef} в коме, как ксеногерм, интегрируется.В среднем, это длится {COMADURATION} АнкетДлина комы зависит от медицинского навыка врача и качества ваших медицинских учреждений.</ImplantXenogermWarningDesc>
+	<ImplantXenogermWarningDesc>Имплантирование ксеногерма поставит {PAWN_nameDef} в коме, как ксеногерм, интегрируется.В среднем, это длится {COMADURATION} Длина комы зависит от медицинского навыка врача и качества ваших медицинских учреждений.</ImplantXenogermWarningDesc>
 	<!--EN: Additionally, implanting a xenogerm will overwrite existing xenogenes. {PAWN_nameDef}'s current xenotype is '{XENOTYPE}'. {PAWN_pronoun} has the following xenogenes:\n{XENOGENES} -->
 	<ImplantXenogermWarningOverwriteXenogenes>Кроме того, имплантирование ксеногерма будет перезаписать существующие ксеногены. {PAWN_nameDef} текущий ксенотип {XENOTYPE} ' {PAWN_pronoun} имеет следующие Xenogenes: \ n {XENOGENES}  </ImplantXenogermWarningOverwriteXenogenes>
 	<!--EN: After implantation, {PAWN_nameDef} will have a metabolism value of {MET} and a food consumption multiplier of {CONSUMPTION}. -->
-	<ImplantXenogermWarningNewMetabolism>После имплантации, {PAWN_nameDef} будет иметь значение метаболизма {MET} и множитель потребления пищи {CONSUMPTION} Анкет</ImplantXenogermWarningNewMetabolism>
+	<ImplantXenogermWarningNewMetabolism>После имплантации, {PAWN_nameDef} будет иметь значение метаболизма {MET} и множитель потребления пищи {CONSUMPTION} </ImplantXenogermWarningNewMetabolism>
 	<!--EN: Would you like to continue? -->
 	<WouldYouLikeToContinue>Желаете ли вы продолжить?</WouldYouLikeToContinue>
 	<!--EN: Cancel implanting -->
 	<CancelImplanting>Отменить имплантацию</CancelImplanting>
 	<!--EN: Cancel implanting this xenogerm into {PAWN_nameDef}. -->
-	<CancelImplantingDesc>Отменить имплантирование этого ксеногерма в {PAWN_nameDef} Анкет</CancelImplantingDesc>
+	<CancelImplantingDesc>Отменить имплантирование этого ксеногерма в {PAWN_nameDef} </CancelImplantingDesc>
 	<!--EN: Xenotype -->
 	<Xenotype>Ксенотип</Xenotype>
 	<!--EN: unique -->
@@ -369,23 +369,23 @@
 	<!--EN: Insert person -->
 	<InsertPerson>Вставить человека</InsertPerson>
 	<!--EN: Insert a person into the gene extractor. Their genetic material will be extracted and used to create a genepack containing a random selection of their genes.\n\nGene extraction is painful and will leave the subject weak and drowsy for a number of days. The process is lethal for those whose genes are currently regrowing. -->
-	<InsertPersonGeneExtractorDesc>Вставьте человека в экстрактор гена. Их генетический материал будет извлечен и используется для создания генепака, содержащего случайный выбор их генов. \ N \ ngene Экстракция является болезненной и оставит субъект слабым и сонливый в течение нескольких дней.Процесс смертельна для тех, чьи гены в настоящее время отражаются.</InsertPersonGeneExtractorDesc>
+	<InsertPersonGeneExtractorDesc>Вставьте человека в экстрактор генов. Их генетический материал будет извлечен и использован для создания пакета генов, содержащего случайный выбор их генов.\n\nИзвлечение генов болезненно и оставит субъекта слабым и сонным на несколько дней. Этот процесс смертелен для тех, чьи гены в настоящее время восстанавливаются.</InsertPersonGeneExtractorDesc>
 	<!--EN: Warning: {PAWN_nameDef}'s genes are regrowing. Extracting {PAWN_possessive} genes before they are regrown will kill {PAWN_objective}.\n\nAre you sure you wish to continue? -->
-	<ConfirmExtractXenogermWillKill>Предупреждение: {PAWN_nameDef} Гены отражают.Извлечение {PAWN_possessive} гены до того, как они будут в результате пожара, убьют {PAWN_objective} . \ n \ nar вы уверены, что хотите продолжить?</ConfirmExtractXenogermWillKill>
+	<ConfirmExtractXenogermWillKill>Предупреждение: гены {PAWN_nameDef} вырастают заново. Извлечение генов {PAWN_possessive} до того, как они вырастут заново, убьёт {PAWN_objective}.\n\nВы уверены, что хотите продолжить?</ConfirmExtractXenogermWillKill>
 	<!--EN: Gene extraction complete for {PAWN_nameDef}. Extracted -->
-	<GeneExtractionComplete>Извлечение генов завершено для {PAWN_nameDef} АнкетИзвлечен</GeneExtractionComplete>
+	<GeneExtractionComplete>Извлечение генов завершено для {PAWN_nameDef} извлечен</GeneExtractionComplete>
 	<!--EN: Insert xenogerm -->
 	<InsertXenogerm>Вставьте ксеногерм</InsertXenogerm>
 	<!--EN: Insert a xenogerm to apply during growth. -->
 	<InsertXenogermDesc>Вставьте ксеногерм для применения во время роста.</InsertXenogermDesc>
 	<!--EN: Waiting for {PAWN_nameDef}. -->
-	<WaitingForPawn>В ожидании {PAWN_nameDef} Анкет</WaitingForPawn>
+	<WaitingForPawn>В ожидании {PAWN_nameDef} </WaitingForPawn>
 	<!--EN: Extracting genes from {PAWN_nameDef}. -->
-	<ExtractingXenogermFrom>Извлечение генов из {PAWN_nameDef} Анкет</ExtractingXenogermFrom>
+	<ExtractingXenogermFrom>Извлечение генов из {PAWN_nameDef} </ExtractingXenogermFrom>
 	<!--EN: Extraction paused: No power -->
-	<ExtractionPausedNoPower>Извлечение приостановлено: нет власти</ExtractionPausedNoPower>
+	<ExtractionPausedNoPower>Извлечение приостановлено: нет энергии</ExtractionPausedNoPower>
 	<!--EN: Last ingested {CHEMICAL_label} {DURATION} ago. -->
-	<LastIngestedDurationAgo>Последний проглатывал {CHEMICAL_label}   {DURATION} назад.</LastIngestedDurationAgo>
+	<LastIngestedDurationAgo>Последний раз принимал {CHEMICAL_label} {DURATION} назад.</LastIngestedDurationAgo>
 	<!--EN: {NAME} xenogerm -->
 	<NamedXenogerm> {NAME} ксеногерм</NamedXenogerm>
 	<!--EN: Inserted {0} -->
@@ -397,9 +397,9 @@
 	<!--EN: deathless -->
 	<Deathless>бессмертный</Deathless>
 	<!--EN: {PAWN_nameDef} needs to ingest {0} on a regular basis to survive. After {DEFICIENCYDURATION} without {0}, {PAWN_pronoun} will suffer from {0} deficiency. After {COMADURATION}, {PAWN_pronoun} will fall into a coma. After {DEATHDURATION}, {PAWN_pronoun} will die. -->
-	<GeneDefChemicalNeedDurationDesc> {PAWN_nameDef} нужно приглашать {0} на регулярной основе, чтобы выжить.После {DEFICIENCYDURATION} без {0} В {PAWN_pronoun} будет страдать {0} дефицит.После {COMADURATION} В {PAWN_pronoun} попадет в кому.После {DEATHDURATION} В {PAWN_pronoun} умрет.</GeneDefChemicalNeedDurationDesc>
+	<GeneDefChemicalNeedDurationDesc> {PAWN_nameDef} должен регулярно принимать {0}, чтобы выжить. После {DEFICIENCYDURATION} без {0} {PAWN_pronoun} будет страдать от его недостатка {0}. После {COMADURATION} {PAWN_pronoun} впадёт в кому. После {DEATHDURATION} {PAWN_pronoun} умрёт.</GeneDefChemicalNeedDurationDesc>
 	<!--EN: {CHEMICAL_label} dependency -->
-	<ChemicalDependency> {CHEMICAL_label} зависимость</ChemicalDependency>
+	<ChemicalDependency> зависимость от {CHEMICAL_label}</ChemicalDependency>
 	<!--EN: Xenogerm -->
 	<Xenogerm>Ксеногерм</Xenogerm>
 	<!--EN: {PAWN_nameDef} will continue deathresting so long as {PAWN_pronoun} has lethal injuries. -->
@@ -445,13 +445,13 @@
 	<!--EN: Already assigned -->
 	<AssignMechAlreadyAssigned>Уже назначен</AssignMechAlreadyAssigned>
 	<!--Уже назначен-->
-	<!--EN: Consuming an extra {0} nutrition per day to produce milk (milk production speed is {1_percentage} because of the current food level). -->
-	<LactatingAddedNutritionPerDay>Потребление дополнительного {0} питание в день для производства молока (скорость производства молока - это {1_percentage} Из -за текущего уровня пищи).</LactatingAddedNutritionPerDay>
+	<!--EN: Consuming an extra {0} nutrition per day to produce milk (milk production speed is {1_percentage} because of the current food level. -->
+	<LactatingAddedNutritionPerDay>Потребление дополнительного {0} питание в день для производства молока (скорость производства молока - это {1_percentage} Из-за текущего уровня пищи).</LactatingAddedNutritionPerDay>
 	<!--EN: Lactation is paused because milk fullness is 100% -->
 	<LactatingStoppedBecauseFull>Лактация приостановлена, так как заполненность молока достигла 100%</LactatingStoppedBecauseFull>
 	<!--EN: Lactation is paused due to starvation. -->
 	<LactatingStoppedBecauseHungry>Лактация приостановлена из-за голода.</LactatingStoppedBecauseHungry>
-	<!--Лактация приостановлен из -за голода.-->
+	<!--Лактация приостановлен из-за голода.-->
 	<!--EN: Current gestation cycle -->
 	<CurrentGestationCycle>Текущий цикл беременности</CurrentGestationCycle>
 	<!--EN: Gestation cycles remaining -->
@@ -482,15 +482,15 @@
 	<!--EN: Click to set the desired autofill amount. -->
 	<MechCarrierClickToSetAutofillAmount>Нажмите, чтобы установить желаемую сумму автозаполнения.</MechCarrierClickToSetAutofillAmount>
 	<!--EN: This autofill amount determines the maximum amount of resources your colonists will automatically place in this {0}. Resources can be used to create {1}. -->
-	<MechCarrierAutofillDesc>Эта сумма автозаполнения определяет максимальную сумму ресурсов, которые ваши колонисты автоматически помещают в это {0} АнкетРесурсы можно использовать для создания {1} Анкет</MechCarrierAutofillDesc>
-	<!--Эта сумма автозаполнения определяет максимальную сумму ресурсов, которые ваши колонисты автоматически помещают в это {0} АнкетРесурсы можно использовать для создания {1} Анкет-->
+	<MechCarrierAutofillDesc>Эта сумма автозаполнения определяет максимальную сумму ресурсов, которые ваши колонисты автоматически помещают в это {0} Ресурсы можно использовать для создания {1} </MechCarrierAutofillDesc>
+	<!--Эта сумма автозаполнения определяет максимальную сумму ресурсов, которые ваши колонисты автоматически помещают в это {0} Ресурсы можно использовать для создания {1} -->
 	<!--EN: Power cell -->
 	<MechPowerCell>Силовая ячейка</MechPowerCell>
 	<!--EN: War urchins have a one-time power source. When the power cell runs out, the mechanoid dies. -->
 	<MechPowerCellTip>У боевых ежей есть одноразовый источник энергии. Когда силовая ячейка заканчивается, механоид умирает.</MechPowerCellTip>
 	<!--Военные ежа имеют единовременный источник питания.Когда силовая ячейка заканчивается, механоид умирает.-->
 	<!--EN: available in {0}. -->
-	<BossgroupAvailableIn>доступно в {0} Анкет</BossgroupAvailableIn>
+	<BossgroupAvailableIn>доступно в {0} </BossgroupAvailableIn>
 	<!--EN: requires mechanitor -->
 	<RequiresMechanitor>Требуется механитор</RequiresMechanitor>
 	<!--Требуется механитор-->
@@ -501,7 +501,7 @@
 	<!--EN: children cannot do this. -->
 	<AbilityStartRitualDisabledChild>Дети не могут этого сделать.</AbilityStartRitualDisabledChild>
 	<!--EN: need a {0}. -->
-	<AbilityStartRitualNoMembersOfIdeo>нужен {0} Анкет</AbilityStartRitualNoMembersOfIdeo>
+	<AbilityStartRitualNoMembersOfIdeo>нужен {0}</AbilityStartRitualNoMembersOfIdeo>
 	<!--EN: Hemogen cost -->
 	<AbilityHemogenCost>Стоимость гемогена</AbilityHemogenCost>
 	<!--EN: Base hemogen gain -->
@@ -511,9 +511,9 @@
 	<!--EN: Smokepop recharged in {0} -->
 	<AbilityMechSmokepopRecharging>Покрашены в дымку {0}  </AbilityMechSmokepopRecharging>
 	<!--EN: Firefoam pop charged -->
-	<AbilityMechFirefoampopCharged>Firefaam Pop заряжен</AbilityMechFirefoampopCharged>
+	<AbilityMechFirefoampopCharged>Взрыв огненной пены заряжен</AbilityMechFirefoampopCharged>
 	<!--EN: Firefoam pop recharged in {0} -->
-	<AbilityMechFirefoampopRecharging>Firefaam Pop заряжен {0}  </AbilityMechFirefoampopRecharging>
+	<AbilityMechFirefoampopRecharging>Огненная пена перезаряжается {0}  </AbilityMechFirefoampopRecharging>
 	<!--EN: Polluted {0} -->
 	<PollutedTerrain>Загрязненный {0}  </PollutedTerrain>
 	<!--Загрязненный {0}  -->
@@ -592,9 +592,9 @@
 	<!--EN: children -->
 	<Children>дети</Children>
 	<!--EN: baby -->
-	<Baby>младенец</Baby>
+	<Baby>малыш</Baby>
 	<!--EN: babies -->
-	<Babies>младенцы</Babies>
+	<Babies>малыши</Babies>
 	<!--EN: person -->
 	<Person>человек</Person>
 	<!--EN: feral child -->
@@ -615,25 +615,25 @@
 	<IsLowEnergySelfShutdown>{PAWN_nameDef} находится в самореализации от низкой энергии.</IsLowEnergySelfShutdown>
 	<!-- {PAWN_nameDef} находится в самореализации от низкой энергии.-->
 	<!--EN: Toggle pollution overlay. This displays which areas of terrain are polluted.\n\nExposure to polluted terrain causes toxic buildup which can lead to death. Most plants cannot live on polluted terrain. -->
-	<ShowPollutionOverlayToggleButton>Переключение наложения загрязнения.Это показывает, какие области местности загрязнены. \ N \ nexposure к загрязненной местности вызывает токсическое накопление, что может привести к смерти.Большинство растений не могут жить на загрязненной местности.</ShowPollutionOverlayToggleButton>
+	<ShowPollutionOverlayToggleButton>Переключить наложение загрязнения. Это показывает, какие участки местности загрязнены.\n\nВоздействие на загрязненную местность вызывает накопление токсичных веществ, что может привести к смерти. Большинство растений не могут жить на загрязненной местности.</ShowPollutionOverlayToggleButton>
 	<!--EN: None -->
-	<TilePollutionNone>Никто</TilePollutionNone>
+	<TilePollutionNone>Отсутствует</TilePollutionNone>
 	<!--EN: Light -->
 	<TilePollutionLight>Легкий</TilePollutionLight>
 	<!--EN: Moderate -->
 	<TilePollutionModerate>Умеренный</TilePollutionModerate>
 	<!--EN: Extreme -->
-	<TilePollutionExtreme>Крайний</TilePollutionExtreme>
+	<TilePollutionExtreme>Экстремальный</TilePollutionExtreme>
 	<!--EN: Pollution -->
 	<TilePollution>Загрязнение</TilePollution>
 	<!--EN: Nearby pollution -->
 	<TilePollutionNearby>Близлежащее загрязнение</TilePollutionNearby>
 	<!--EN: The sum of pollution levels of all tiles within a {0} tile radius. As the distance from this tile increases, the pollution contribution decreases:\n\n{1}\n\nThe higher the nearby pollution the greater the chance of acidic smog occurring. -->
-	<NearbyPollutionTip>Сумма уровней загрязнения всех плиток в {0} радиус плитки.По мере увеличения расстояния от этой плитки вклад загрязнения уменьшается: \ n \ n {1} \ n \ n выше, чем больше, чем больше вероятность кистного смога.</NearbyPollutionTip>
+	<NearbyPollutionTip>Сумма уровней загрязнения всех плиток в радиусе {0} плитки. По мере удаления от этой плитки вклад загрязнения уменьшается:\n\n{1}\n\nЧем выше загрязнение поблизости, тем выше вероятность возникновения кислотного смога.</NearbyPollutionTip>
 	<!--EN: This tile will have acidic smog every {0} days on average. -->
-	<NoxiousHazeInterval>Эта плитка будет иметь кислый смог каждый {0} Дни в среднем.</NoxiousHazeInterval>
+	<NoxiousHazeInterval>На этой плитке будет кислотный смог каждые {0} дней в среднем.</NoxiousHazeInterval>
 	<!--EN: This tile will never have acidic smog. -->
-	<NoxiousHazeNeverOccurring>Эта плитка никогда не будет иметь кислый смог.</NoxiousHazeNeverOccurring>
+	<NoxiousHazeNeverOccurring>На этой плитке никогда не будет кислотный смог.</NoxiousHazeNeverOccurring>
 	<!--EN: tiles away -->
 	<NearbyPollutionTilesAway>плитка подальше</NearbyPollutionTilesAway>
 	<!--EN: pollution -->
@@ -668,7 +668,7 @@
 	<!--EN: sterile -->
 	<CannotSterile>стерильный</CannotSterile>
 	<!--EN: pregnant -->
-	<CannotPregnant>беременная</CannotPregnant>
+	<CannotPregnant>беременность</CannotPregnant>
 	<!--EN: must be {0} -->
 	<CannotMustBeAge>должно быть {0}  </CannotMustBeAge>
 	<!--EN: already having embryo implanted -->
@@ -678,9 +678,9 @@
 	<!--EN: No men can fertilize this ovum. -->
 	<FertilizeDisabledNoMales>Ни один мужчина не может оплодотворить эту яйцеклетку.</FertilizeDisabledNoMales>
 	<!--EN: Implant embryo -->
-	<ImplantLabel>Имплантат эмбрион</ImplantLabel>
+	<ImplantLabel>имплант эмбрион</ImplantLabel>
 	<!--EN: Implant this embryo in a surrogate mother to begin a pregnancy. -->
-	<ImplantDescription>Имплантат этого эмбриона в суррогатную мать, чтобы начать беременность.</ImplantDescription>
+	<ImplantDescription>имплант этого эмбриона в суррогатную мать, чтобы начать беременность.</ImplantDescription>
 	<!--EN: Insert in growth vat -->
 	<InsertGrowthVatLabel>Вставить в чан роста</InsertGrowthVatLabel>
 	<!--EN: Cannot implant -->
@@ -690,9 +690,9 @@
 	<!--EN: No available growth vats. -->
 	<ImplantDisabledNoVats>Нет доступных корпусов роста.</ImplantDisabledNoVats>
 	<!--EN: Implant {0} -->
-	<ImplantSurgeryLabel>Имплантат {0}  </ImplantSurgeryLabel>
+	<ImplantSurgeryLabel>имплант {0}  </ImplantSurgeryLabel>
 	<!--EN: The implantation success chance for the {0} in {1} is {2}.\n\nThe implantation success chance is dependent on the fertility of the surrogate mother. It will be lower if the mother is too old or too young. -->
-	<ImplantSurgeryConfirm>Шанс на успех имплантации для {0} в {1} является {2} . \ n \ n Успех имплантации зависит от фертильности суррогатной матери.Это будет ниже, если мать слишком старая или слишком молода.</ImplantSurgeryConfirm>
+	<ImplantSurgeryConfirm>Вероятность успешной имплантации для {0} в {1} равна {2}.\n\nШанс успешной имплантации зависит от фертильности суррогатной матери. Он будет ниже, если мать слишком стара или слишком молода.</ImplantSurgeryConfirm>
 	<!--EN: Ejecting the {0} from the growth vat right now will destroy it before a baby is formed.\n\nWould you like to continue? -->
 	<ImplantEmbryoCancelVat>Выбрасывание {0} из чана роста сейчас уничтожит его до того, как будет сформирован ребёнок. \ В \ Хотели бы вы продолжить?</ImplantEmbryoCancelVat>
 	<!--EN: Implanting the {0} in {1} was unsuccessful. -->
@@ -706,8 +706,8 @@
 	<!--EN: {0} has successfully become pregnant from embryo implantation! -->
 	<IvfPregnancyLetterText> {0} успешно забеременела от имплантации эмбриона!</IvfPregnancyLetterText>
 	<!--EN: The baby will have the genetic makeup of {0} and {1}. -->
-	<IvfPregnancyLetterParents>У ребёнка будет генетический состав {0} а также {1} Анкет</IvfPregnancyLetterParents>
-	<!--У ребёнка будет генетический состав {0} а также {1} Анкет-->
+	<IvfPregnancyLetterParents>У ребёнка будет генетический состав {0} а также {1} </IvfPregnancyLetterParents>
+	<!--У ребёнка будет генетический состав {0} а также {1} -->
 	<!--EN: A low-angle projected shield that will attempt to stop incoming projectiles or shrapnel. It shuts down instantly if hit by an EMP. -->
 	<ProjectileInterceptorTip>Проецируемый щит с низким углом, который попытается остановить входящие снаряды или шрапнель.Он мгновенно отключается, если его поразил EMP.</ProjectileInterceptorTip>
 	<!--Проецируемый щит с низким углом, который попытается остановить входящие снаряды или шрапнель.Он мгновенно отключается, если его поразил EMP.-->

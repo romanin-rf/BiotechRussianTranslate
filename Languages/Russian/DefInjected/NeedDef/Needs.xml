@@ -17,7 +17,7 @@
 	<!--EN: A reserve of bioelectric energy needed for a mechanoid to function. It can be recharged at a charging station. If it reaches zero, the mech will go into dormant self-charging mode and recharge very slowly. -->
 <MechEnergy.description>Запас биоэлектрической энергии, необходимой для функционирования механоида. Его можно подзарядить на зарядной станции. Если он достигнет нуля, механоид перейдет в спящий режим самозарядки и будет заряжаться очень медленно.</MechEnergy.description>
 	<!--EN: play -->
-<Play.label>играть</Play.label>
+<Play.label>игры</Play.label>
 	<!--EN: Babies need to be played with by adults. If they aren't played with, they will become unhappy. -->
 <Play.description>Младенцы нуждаются в том, чтобы взрослые периодически играли с ними. Если не играть с младенцами, они будут несчастны.</Play.description>
 	</LanguageData>

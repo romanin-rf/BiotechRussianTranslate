@@ -45,17 +45,17 @@
 	<!--EN: I worry about my children. If they're not happy, I'm not happy. -->
 <MyChildrenSad.stages.my_children_are_unhappy.description>Я беспокоюсь о своих детях. Если они несчастливы, то и я - тоже.</MyChildrenSad.stages.my_children_are_unhappy.description>
 	<!--EN: my child {CHILD_nameDef} is unhappy -->
-<MyChildSad.stages.my_child_is_unhappy.label>Иой ребёнок {CHILD_nameDef} несчастен</MyChildSad.stages.my_child_is_unhappy.label>
+<MyChildSad.stages.my_child_is_unhappy.label>Мой ребёнок {CHILD_nameDef} несчастен</MyChildSad.stages.my_child_is_unhappy.label>
 	<!--EN: I worry about my child. If they're not happy, I'm not happy. -->
 <MyChildSad.stages.my_child_is_unhappy.description>Я беспокоюсь о своем ребёнке. Если он несчастлив, то и я тоже.</MyChildSad.stages.my_child_is_unhappy.description>
 	<!--EN: parent is happy -->
 <MyParentHappy.stages.parent_is_happy.label>Родитель счастлив</MyParentHappy.stages.parent_is_happy.label>
 	<!--EN: I'm happy when my parents are happy. -->
-<MyParentHappy.stages.parent_is_happy.description>Я {PAWN_gender : счастлив : счастлива }, когда мои родители счастливы.</MyParentHappy.stages.parent_is_happy.description>
+<MyParentHappy.stages.parent_is_happy.description>Для меня счастье, когда мои родители счастливы.</MyParentHappy.stages.parent_is_happy.description>
 	<!--EN: parents are happy -->
 <MyParentsHappy.stages.parents_are_happy.label>Родители счастливы</MyParentsHappy.stages.parents_are_happy.label>
 	<!--EN: I'm happy when my parents are happy. -->
-<MyParentsHappy.stages.parents_are_happy.description>Я {PAWN_gender : счастлив : счастлива }, когда мои родители счастливы.</MyParentsHappy.stages.parents_are_happy.description>
+<MyParentsHappy.stages.parents_are_happy.description>Для меня счастье, когда мои родители счастливы.</MyParentsHappy.stages.parents_are_happy.description>
 	<!--EN: happy youngsters -->
 <YoungstersHappy.stages.happy_youngsters.label>Счастливые молодые</YoungstersHappy.stages.happy_youngsters.label>
 	<!--EN: It's nice to see that the young folk are doing well. -->

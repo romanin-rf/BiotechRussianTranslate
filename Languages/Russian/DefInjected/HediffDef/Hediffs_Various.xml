@@ -15,7 +15,7 @@
 	<!--EN: chemical dependency -->
 	<GeneticDrugNeed.label>химическая зависимость</GeneticDrugNeed.label>
 	<!--EN: This person has a genetically-induced biochemical dependency on a specific drug. Without regular doses of the drug, their body cannot maintain itself in a healthy state and they will suffer degrading health and mood until they die.\n\nTakes effect after age: 13. -->
-	<GeneticDrugNeed.description>Этот человек имеет генетически обусловленную биохимическую зависимость от определенного наркотика. Без регулярного приема препарата организм не может поддерживать себя в здоровом состоянии, и его здоровье и настроение ухудшаются до самой смерти.\n\nВступает в силу после 13 лет.</GeneticDrugNeed.description>
+	<GeneticDrugNeed.description>Этот человек имеет генетически обусловленную биохимическую зависимость от определенного наркотика. Без регулярного приема этого препарата организм не может поддерживать себя в здоровом состоянии, и его здоровье и настроение будет ухудшаться до тех пор, пока человек не умрёт.\n\nВступает в силу после 13 лет.</GeneticDrugNeed.description>
 	<!--EN: deficiency -->
 	<GeneticDrugNeed.stages.deficiency.label>недостаток</GeneticDrugNeed.stages.deficiency.label>
 	<!--EN: deficiency coma -->

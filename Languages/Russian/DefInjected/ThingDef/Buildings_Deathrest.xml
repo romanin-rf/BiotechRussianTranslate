@@ -4,17 +4,17 @@
 
 <LanguageData>
 	<!--EN: deathrest accelerator -->
-	<DeathrestAccelerator.label>ускоритель Смерного Покоя</DeathrestAccelerator.label>
+	<DeathrestAccelerator.label>ускоритель Смертного Покоя</DeathrestAccelerator.label>
 	<!--EN: This device connects with a deathresting person and makes deathrest complete quicker. It enhances the effect of the deathrest casket using finer blood analysis and more powerful chemicals. It must be connected to a deathrest casket to function. -->
-	<DeathrestAccelerator.description>Это устройство соединяется с человеком, находящимся в состоянии Смерного Покоя ("смертника"), и ускоряет процесс Смерного Покоя. Оно усиливает действие гроба для усмирения, используя более тонкий анализ крови и более мощные химические вещества. Для работы устройства оно должно быть подключено к гробу смерти.</DeathrestAccelerator.description>
+	<DeathrestAccelerator.description>Это устройство соединяется с человеком, находящимся в состоянии Смертного Покоя ("смертника"), и ускоряет процесс Смертного Покоя. Оно усиливает действие гроба для усмирения, используя более тонкий анализ крови и более мощные химические вещества. Для работы устройства оно должно быть подключено к гробу смерти.</DeathrestAccelerator.description>
 	<!--EN: deathrest casket -->
 	<DeathrestCasket.label>гроб смертника</DeathrestCasket.label>
 	<!--EN: An enclosed med-casket that accelerates the process of deathrest. It can connect to other devices which confer additional bonuses on the deathrester. The number of devices that can connect depends on the person's deathrest capacity, which can be seen by selecting them.\n\nOnly those with the deathrest gene can use the deathrest casket. -->
-	<DeathrestCasket.description>Закрытый медицинский гроб, ускоряющий процесс избавления от Смерного Покоя ("смертника"). Он может подключаться к другим устройствам, которые дают дополнительные бонусы. Количество устройств, которые можно подключить, зависит от способности Смерного Покоя, которую можно узнать, выбрав его.\n\nИспользовать гроб смертника могут только те, у кого есть ген Смерного Покоя.</DeathrestCasket.description>
+	<DeathrestCasket.description>Закрытый медицинский гроб, ускоряющий процесс избавления от Смертного Покоя ("смертника"). Он может подключаться к другим устройствам, которые дают дополнительные бонусы. Количество устройств, которые можно подключить, зависит от способности Смертного Покоя, которую можно узнать, выбрав его.\n\nИспользовать гроб смертника могут только те, у кого есть ген Смертного Покоя.</DeathrestCasket.description>
 	<!--EN: glucosoid pump -->
 	<GlucosoidPump.label>глюкозоидный насос</GlucosoidPump.label>
 	<!--EN: This device allows a deathrester to move faster after deathrest is complete. It pumps the body with extra muscle-signaling factors while cleaning waste products from muscle tissue. The effect lasts until the individual deathrests again. It must be connected to a deathrest casket to function.\n\nThis building must consume hemogen to function. -->
-	<GlucosoidPump.description>Это устройство позволяет "смертнику" двигаться быстрее после завершения Смерного Покоя ("смертника"). Оно накачивает организм дополнительными факторами, стимулирующими мышцы, и одновременно очищает мышечную ткань от продуктов жизнедеятельности. Эффект длится до тех пор, пока человек снова не погрузится в Смерный Покой. Для работы устройство должно быть подключено к гробу смертника.\n\nДля работы устройство должно потреблять гемоген.</GlucosoidPump.description>
+	<GlucosoidPump.description>Это устройство позволяет "смертнику" двигаться быстрее после завершения Смертного Покоя ("смертника"). Оно накачивает организм дополнительными факторами, стимулирующими мышцы, и одновременно очищает мышечную ткань от продуктов жизнедеятельности. Эффект длится до тех пор, пока человек снова не погрузится в Смерный Покой. Для работы устройство должно быть подключено к гробу смертника.\n\nДля работы устройство должно потреблять гемоген.</GlucosoidPump.description>
 	<!--EN: Hemogen -->
 	<GlucosoidPump.comps.CompRefuelable.fuelLabel>Гемоген</GlucosoidPump.comps.CompRefuelable.fuelLabel>
 	<!--EN: hemogen amplifier -->
@@ -32,7 +32,7 @@
 	<!--EN: psychofluid pump -->
 	<PsychofluidPump.label>психожидкостный насос</PsychofluidPump.label>
 	<!--EN: This device enhances the psychic sensitivity of a deathresting person by rhythmically stimulating neural tissues. It must be connected to a deathrest casket to function.\n\nThis building needs to consume hemogen to function. -->
-	<PsychofluidPump.description>Это устройство повышает психическую чувствительность человека, находящегося в состоянии Смерного Покоя ("смертника"), путем ритмической стимуляции нервных тканей. Для работы устройства оно должно быть подключено к шкатулке для "смертников".\n\nДля работы устройства необходимо потребление гемогена.</PsychofluidPump.description>
+	<PsychofluidPump.description>Это устройство повышает психическую чувствительность человека, находящегося в состоянии Смертного Покоя ("смертника"), путем ритмической стимуляции нервных тканей. Для работы устройства оно должно быть подключено к шкатулке для "смертников".\n\nДля работы устройства необходимо потребление гемогена.</PsychofluidPump.description>
 	<!--EN: Hemogen -->
 	<PsychofluidPump.comps.CompRefuelable.fuelLabel>Гемоген</PsychofluidPump.comps.CompRefuelable.fuelLabel>
 </LanguageData>

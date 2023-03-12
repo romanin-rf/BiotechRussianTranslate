@@ -40,6 +40,6 @@
 	<!--EN: vasectomy -->
 <Vasectomy.label>Вазэктомия</Vasectomy.label>
 	<!--EN: This creature's reproductive parts have been disabled by cutting and sealing the vas deferens, a tube which carries sperm to the urethra. This can be surgically reversed in most cases, but there is a chance of permanent sterilization. -->
-<Vasectomy.description>Репродуктивные органы этого существа были отключены путем перерезания и запечатывания vas deferens, трубки, по которой сперматозоиды попадают в уретру. В большинстве случаев это можно исправить хирургическим путем, но существует вероятность постоянной стерилизации.</Vasectomy.description>
+<Vasectomy.description>Репродуктивные органы этого существа были отключены путем перерезания и запечатывания трубки, по которой сперматозоиды попадают в уретру. В большинстве случаев это можно исправить хирургическим путем, но существует вероятность того, что это существо навсегда останется бесплодным.</Vasectomy.description>
 
 </LanguageData>

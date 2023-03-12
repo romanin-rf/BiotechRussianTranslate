@@ -24,7 +24,7 @@
 	<!--EN: gene extractor -->
 	<GeneExtractor.label>экстрактор генов</GeneExtractor.label>
 	<!--EN: An automated surgery machine that can extract a person's genes and create a genepack from them. The extracted genes will be randomly selected from the person's xenogenes and germline genes. You can force someone into the machine, but they won't like it.\n\nExtracting a person's genes while their genes are currently regrowing will kill them. Otherwise, gene extraction causes no lasting harm.\n\nGenes that require archite capsules are too complex to be extracted. -->
-	<GeneExtractor.description>Автоматическая хирургическая машина, которая может извлечь гены человека и создать из них ген-пакеты. Извлеченные гены будут случайным образом выбраны из ксеногенов и зародышевых генов человека. Вы можете насильно поместить человека в машину, но ему это не понравится.\n\nИзвлечение генов человека в период восстановления его генов приведет к его смерти. В остальном извлечение генов не причиняет долговременного вреда.\n\n\nГены, требующие капсул архитекторов, слишком сложны для извлечения.</GeneExtractor.description>
+	<GeneExtractor.description>Автоматическая хирургическая машина, которая может извлечь гены человека и создать из них ген-пакеты. Извлеченные гены будут случайным образом выбраны из ксеногенов и зародышевых генов человека. Вы можете насильно поместить человека в машину, но ему это не понравится.\n\nИзвлечение генов человека в период восстановления его генов приведет к его смерти. В остальном извлечение генов не причиняет долговременного вреда.\n\n\nГены, требующие капсулы архитов, слишком сложны для извлечения.</GeneExtractor.description>
 	<!--EN: gene processor -->
 	<GeneProcessor.label>генетический процессор</GeneProcessor.label>
 	<!--EN: A genetic analysis and processing system. Placed near a gene assembler, it increases the maximum genetic complexity of the xenogerms you can assemble. Building multiple gene processors will increase the genetic complexity limit further. -->
@@ -66,9 +66,9 @@
 	<!--EN: IED tox trap -->
 	<TrapIED_ToxGas.label>Токсичная ловушка СВУ</TrapIED_ToxGas.label>
 	<!--EN: A pair of tox gas shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-	<TrapIED_ToxGas.description>Пара снарядов с токсичным газом, соединенных с пусковым механизмом, который взрывается при прикосновении или попадании пули. Поскольку она скрыта в окружающей местности, ее нельзя ставить рядом с другими ловушками. Животные могут почувствовать их в спокойном состоянии.</TrapIED_ToxGas.description>
+	<TrapIED_ToxGas.description>Пара снарядов с токсичным газом, соединенных с пусковым механизмом, который взрывается при прикосновении или попадании пули. Поскольку она скрыта в окружающей местности, ее нельзя ставить рядом с другими ловушками. Животные замечают эти ловушки, когда они в спокойном состоянии.</TrapIED_ToxGas.description>
 	<!--EN: wastepack atomizer -->
 	<WastepackAtomizer.label>распылитель отходов</WastepackAtomizer.label>
 	<!--EN: A glittertech device that deconstructs toxic wastepacks into inert gases using advanced molecular processes. The process requires considerable amounts of power. -->
-	<WastepackAtomizer.description>Блестящее технологическое устройство, которое разлагает токсичные отходы на инертные газы с помощью передовых молекулярных процессов. Процесс требует значительного количества энергии.</WastepackAtomizer.description>
+	<WastepackAtomizer.description>Продвинутое технологическое устройство, которое разлагает токсичные отходы на инертные газы с помощью передовых молекулярных процессов. Процесс требует значительного количества энергии.</WastepackAtomizer.description>
 </LanguageData>

@@ -11,7 +11,7 @@
 	<!--EN: Child aging rate -->
 <Difficulty_ChildAgingRate_Label>Уровень старения детей</Difficulty_ChildAgingRate_Label>
 	<!--EN: Adjust the rate at which babies and children will age. -->
-<Difficulty_ChildAgingRate_Info>Определите скорость, с которой дети и дети будут стареться.</Difficulty_ChildAgingRate_Info>
+<Difficulty_ChildAgingRate_Info>Определите скорость, с которой младенцы и дети будут стареть.</Difficulty_ChildAgingRate_Info>
 	<!--EN: Adult aging rate -->
 <Difficulty_AdultAgingRate_Label>Уровень старения взрослых</Difficulty_AdultAgingRate_Label>
 	<!--EN: Adjust the rate at which adults will age. -->

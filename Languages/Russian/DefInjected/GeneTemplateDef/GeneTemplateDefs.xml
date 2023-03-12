@@ -29,7 +29,7 @@
 	<!--EN: The carrier's aptitude in {0} is reduced by 8. Aptitude acts like an offset on skill level. Additionally, all passion is removed from {0}. -->
 <AptitudeTerrible.description>Способности носителя в {0} уменьшаются на 8. Способности действуют как скидка на уровень мастерства. Кроме того, с {0} снимается вся страсть.</AptitudeTerrible.description>
 	<!--EN: {0} dependency -->
-<ChemicalDependency.label>{0} зависимость</ChemicalDependency.label>
+<ChemicalDependency.label>постоянная зависимость от {0} </ChemicalDependency.label>
 	<!--EN: Carriers of this gene need to ingest {0} on a regular basis to survive. After {DEFICIENCYDURATION} without {0}, carriers will suffer from {0} deficiency. After {COMADURATION}, they will fall into a coma. After {DEATHDURATION}, they will die. -->
 <ChemicalDependency.description>Носителям этого гена для выживания необходимо регулярно принимать {0}. После {DEFICIENCYDURATION} без {0} носители будут страдать от дефицита {0}. После {COMADURATION} они впадут в кому. После {DEATHDURATION} они умрут.</ChemicalDependency.description>
 	<!--EN: {0}-dependent -->

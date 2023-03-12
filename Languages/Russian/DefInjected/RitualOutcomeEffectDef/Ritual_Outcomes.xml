@@ -8,7 +8,7 @@
 	<!--EN: mother's age -->
 <ChildBirth.comps.0.labelAbstract>возраст матери</ChildBirth.comps.0.labelAbstract>
 	<!--EN: {PAWN_labelShort}'s medicine skill -->
-<ChildBirth.comps.1.label>навык медицины {PAWN_labelShort}</ChildBirth.comps.1.label>
+<ChildBirth.comps.1.label>Медицинский навык доктора {PAWN_labelShort}</ChildBirth.comps.1.label>
 	<!--EN: doctor's medicine skill -->
 <ChildBirth.comps.1.labelAbstract>врачебное мастерство</ChildBirth.comps.1.labelAbstract>
 	<!--EN: loved one present -->

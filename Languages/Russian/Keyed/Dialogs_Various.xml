@@ -29,7 +29,7 @@
 	<!--Собраны ингредиенты-->
 	<!--EN: Ripscanning {PAWN_nameDef} will kill {PAWN_objective}. Are you sure you want to continue? -->
 	<ConfirmRipscanPawn>Сканирование разрыва {PAWN_nameDef} убьет {PAWN_possessive}. Вы уверены, что хотите продолжить?</ConfirmRipscanPawn>
-	<!--Ripscanning {PAWN_nameDef} убьет {PAWN_objective} АнкетВы уверены что хотите продолжить?-->
+	<!--Ripscanning {PAWN_nameDef} убьет {PAWN_objective} Вы уверены что хотите продолжить?-->
 	<!--EN: Assemble genes -->
 	<AssembleGenes>Соберите гены</AssembleGenes>
 	<!--EN: Create xenotype -->
@@ -63,7 +63,7 @@
 	<!--EN: Warning: {PAWN_nameDef}'s genes are currently regrowing. If {PAWN_pronoun} implants {PAWN_possessive} xenogerm before {PAWN_possessive} genes are fully regrown, it will kill {PAWN_objective}.\n\nAre you sure you wish to continue? -->
 	<WarningPawnWillDieFromReimplanting>Предупреждение: Гены {PAWN_nameDef} в настоящее время перерождаются. Если {PAWN_pronoun} имплантирует {PAWN_possessive} ксеногерм до того, как {PAWN_possessive} гены полностью перерастут, это убьет {PAWN_objective}.\n\nВы уверены, что хотите продолжить?</WarningPawnWillDieFromReimplanting>
 	<!--EN: Not enough archite capsules. -->
-	<NotEnoughArchites>Недостаточное количество капсул архитекторов.</NotEnoughArchites>
+	<NotEnoughArchites>Недостаточное количество капсул архитов.</NotEnoughArchites>
 	<!--EN: Xenogenes are genes derived from an implanted xenogerm. If the xenogerm is removed or replaced, the xenogenes go with it. Since xenogenes are not part of the organism's own germline DNA, they are not passed to children. -->
 	<XenogenesDesc>Ксеногены - это гены, полученные из имплантированного ксенозародыша. Если ксенозародыш удаляется или заменяется, ксеногены уходят вместе с ним. Поскольку ксеногены не являются частью собственной зародышевой ДНК организма, они не передаются детям.</XenogenesDesc>
 	<!--EN: Germline genes are naturally-inherited genes which are in every cell in an organism's body and don't require any external support. They are passed from parent to child. -->
@@ -89,9 +89,9 @@
 	<!--EN: How long it would take for an average worker to combine the selected genes into a xenogerm. Recombination time increases with the total complexity of the genes in the xenogerm. -->
 	<RecombineDurationDesc>Сколько времени потребуется среднему работнику, чтобы объединить выбранные гены в ксеногерм. Время рекомбинации увеличивается с ростом общей сложности генов в ксеногерме.</RecombineDurationDesc>
 	<!--EN: You must research {0_label} before you can assemble a xenogerm that requires archite capsules. -->
-	<MustResearchProject>Вы должны исследовать {0_label}, прежде чем сможете собрать ксеногерм, для которого требуются капсулы архитекторов.</MustResearchProject>
+	<MustResearchProject>Вы должны исследовать {0_label}, прежде чем сможете собрать ксеногерм, для которого требуются капсулы архитов.</MustResearchProject>
 	<!--EN: Assembling xenogerms with archite genes requires {0_label} research. -->
-	<AssemblingRequiresResearch>Сборка ксеногермов с генами архитекторов требует {0_label} исследований.</AssemblingRequiresResearch>
+	<AssemblingRequiresResearch>Сборка ксеногермов с генами архитов требует {0_label} исследований.</AssemblingRequiresResearch>
 	<!--EN: You are currently combining a {XENOGERMNAME} xenogerm. If you start combining a new xenogerm, it will cancel your current xenogerm.\n\nAre you sure you want to continue? -->
 	<ConfirmStartNewXenogerm>В настоящее время вы объединяете ксеногерм {XENOGERMNAME}. Если вы начнете объединять новый ксеногерм, это отменит ваш текущий ксеногерм.\n\nВы уверены, что хотите продолжить?</ConfirmStartNewXenogerm>
 	<!--EN: Select at least one gene to randomize a name for this xenotype. -->
@@ -151,11 +151,11 @@
 	<!--EN: Ignore restrictions -->
 	<IgnoreRestrictions>Игнорировать ограничения</IgnoreRestrictions>
 	<!--EN: Created xenotypes have no biostat limits. Genes requiring archite capsules can be added. -->
-	<IgnoreRestrictionsDesc>Созданные ксенотипы не имеют ограничений по био-статистике. Гены, требующие капсулы архитекторов, могут быть добавлены.</IgnoreRestrictionsDesc>
+	<IgnoreRestrictionsDesc>Созданные ксенотипы не имеют ограничений по био-статистике. Гены, требующие капсулы архитов, могут быть добавлены.</IgnoreRestrictionsDesc>
 	<!--EN: This xenotype breaks normal gameplay limits -->
 	<XenotypeBreaksLimits>Этот ксенотип нарушает обычные игровые рамки</XenotypeBreaksLimits>
 	<!--EN: It contains archite genes and is inheritable, but archite genes are usually never inheritable. -->
-	<XenotypeBreaksLimits_Archites>Он содержит гены архитекторов и наследуется, но гены архитекторов обычно не наследуются.</XenotypeBreaksLimits_Archites>
+	<XenotypeBreaksLimits_Archites>Он содержит гены архитов и наследуется, но гены архитов обычно не наследуются.</XenotypeBreaksLimits_Archites>
 	<!--EN: {STAT} is {VALUE}, which exceeds the normal limit of {MAX}. -->
 	<XenotypeBreaksLimits_Exceeds>{STAT} - {VALUE}, что превышает нормальный предел {MAX}.</XenotypeBreaksLimits_Exceeds>
 	<!--EN: {STAT} is {VALUE}, which is below the normal limit of {MIN}. -->
@@ -163,7 +163,7 @@
 	<!--EN: Save anyway? -->
 	<SaveAnyway>Сохранить?</SaveAnyway>
 	<!--EN: Ignoring restrictions allows you to create impossible gene combinations by exceeding biostat limits. It also gives you access to powerful archite genes, which can make the game very easy.\n\nAre you sure you want to ignore restrictions? -->
-	<IgnoreRestrictionsConfirmation>Игнорирование ограничений позволяет вам создавать невозможные комбинации генов, превышая лимиты био-статистики. Это также дает вам доступ к мощным генам архитекторов, которые могут сильно облегчить игру.\n\nВы уверены, что хотите игнорировать ограничения?</IgnoreRestrictionsConfirmation>
+	<IgnoreRestrictionsConfirmation>Игнорирование ограничений позволяет вам создавать невозможные комбинации генов, превышая лимиты био-статистики. Это также дает вам доступ к мощным генам архитов, которые могут сильно облегчить игру.\n\nВы уверены, что хотите игнорировать ограничения?</IgnoreRestrictionsConfirmation>
 	<!--EN: Colonists will always be within this developmental stage's age range when generated. -->
 	<DevelopmentalAgeSelectionDesc>При создании колонисты всегда будут находиться в пределах возрастного диапазона этой стадии развития.</DevelopmentalAgeSelectionDesc>
 	<!--EN: Colonists will always carry the genes defined by this xenotype. -->
@@ -198,7 +198,7 @@
 	<ChooseChildOrAdult>Выберите хотя бы одного ребёнка или взрослого.</ChooseChildOrAdult>
 	<!--Выберите хотя бы одного ребёнка или взрослого.-->
 	<!--EN: Waking {PAWN_nameDef} before {MINDURATION} has passed will interrupt {PAWN_possessive} deathrest, leaving {PAWN_objective} sick for days while {PAWN_pronoun} recovers. Waking early means {PAWN_nameDef} will not benefit from any deathrest buildings. {PAWN_pronoun} has been deathresting for {CURDURATION}.\n\nAre you sure you wish to wake {PAWN_nameDef}? -->
-	<WarningWakingInterruptsDeathrest>Пробуждение {PAWN_nameDef} до истечения {MINDURATION} прервет {PAWN_possessive} смертного покоя, оставив {PAWN_objective} больным на несколько дней, пока {PAWN_pronoun} восстанавливается. Раннее пробуждение означает, что {PAWN_nameDef} не получит преимущества от любых зданий смертного покоя. {PAWN_pronoun} был в состоянии смертного покоя в течение {CURDURATION}.\n\nВы уверены, что хотите разбудить {PAWN_nameDef}?</WarningWakingInterruptsDeathrest>
+	<WarningWakingInterruptsDeathrest>Пробуждение {PAWN_nameDef} до того, как пройдет {MINDURATION}, прервет предсмертный покой {PAWN_possessive}, оставив {PAWN_objective} больным на несколько дней, пока {PAWN_pronoun} выздоравливает. Раннее пробуждение означает, что {PAWN_nameDef} не получит преимуществ от построек смерти. {PAWN_pronoun} находится в состоянии покоя {CURDURATION}.\n\nВы уверены, что хотите разбудить {PAWN_nameDef}?</WarningWakingInterruptsDeathrest>
 	<!--Пробуждение {PAWN_nameDef} до {MINDURATION} Прошел, прерывает {PAWN_possessive} Смерть, уходя {PAWN_objective} больной в течение нескольких дней {PAWN_pronoun} восстанавливается.Пробуждение ранним средствами {PAWN_nameDef} не выиграет от каких -либо зданий Deathrest. {PAWN_pronoun} был смертью для {CURDURATION} . \ n \ nar, вы уверены, что хотите проснуться {PAWN_nameDef} ?-->
 	<!--EN: {0} wounds tended -->
 	<NumWoundsTended>{0} раны обработаны</NumWoundsTended>
@@ -238,7 +238,7 @@
 	<ConfirmationPawnPregnancyTerminated>{PAWN_nameDef} беременна. Имплантация внутриматочной спирали, пока {PAWN_pronoun} находится в {PAWN_possessive} первом триместре беременности, прервет беременность.\n\nВы уверены, что хотите продолжить?</ConfirmationPawnPregnancyTerminated>
 	<!-- {PAWN_nameDef} беременна.Имплантирование ВМС, пока {PAWN_pronoun} в {PAWN_possessive} Первый триместр беременности прекратит беременность. \ N \ nar, вы уверены, что хотите продолжить?-->
 	<!--EN: This tile is near polluted tiles, so there will be an acidic smog here roughly every {0} days. Acidic smog slows plant growth, deteriorates exposed items, and makes people unhappy. -->
-	<ConfirmSettleNearPollution>Эта плитка находится рядом с загрязненными плитками, поэтому примерно каждые {0} дней здесь будет появляться кислотный смог. Кислотный смог замедляет рост растений, портит открытые предметы и делает людей несчастными.</ConfirmSettleNearPollution>
+	<ConfirmSettleNearPollution>Эта плитка находится рядом с загрязненными плитками, поэтому примерно каждые {0} дней здесь будет появляться кислотный смог. Кислотный смог замедляет рост растений, портит открыто лежащие предметы и понижает людям настроение.</ConfirmSettleNearPollution>
 	<!--Эта плитка находится рядом с загрязненной плитой, поэтому здесь будет кислотный смог примерно каждый {0} дниКислотный смог замедляет рост растений, ухудшает открытые предметы и делает людей несчастными.-->
 	<!--EN: {PAWN_nameDef} is away. -->
 	<PawnIsAway>{PAWN_nameDef} отсутствует.</PawnIsAway>

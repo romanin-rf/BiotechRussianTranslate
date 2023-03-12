@@ -742,7 +742,7 @@
     <li>subject->генетика</li>
     <li>subject->гены</li>
     <li>subject->ксенотипы</li>
-    <li>subject->сангвофаги</li>
+    <li>subject->сангофаги</li>
     <li>subject->гусары</li>
     <li>subject->импиды</li>
     <li>subject->земляные кроты</li>
@@ -760,7 +760,7 @@
     <li>planType->освоение технологии</li>
     <li>planType->распространение на другие миры</li>
     <li>planType->влияние на людей</li>
-    <li>planType->уничтожение охотников за сангвофагами</li>
+    <li>planType->уничтожение охотников за сангофагами</li>
     <li>planType->наслаждаться бесконечной жизнью</li>
   </SanguophageChat.logRulesInitiator.rulesStrings>
 </LanguageData>
